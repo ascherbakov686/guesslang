@@ -47,6 +47,7 @@ def main():
     nb_keywords = args.nbkeywords
 
     languages = config_dict('languages.json')
+
     exts = {ext: lang for lang, exts in languages.items() for ext in exts}
 
     term_count = Counter()
@@ -54,8 +55,10 @@ def main():
     pos = 0
     LOGGER.info("Reading files form %s", learn_path)
     for pos, path in enumerate(Path(learn_path).glob('**/*'), 1):
+        print(pos)
+        print(path)
         if pos % STEP == 0:
-            LOGGER.debug("Processed %d", pos)
+            LOGGER.info("Processed %d", pos)
             gc.collect()  # Cleanup dirt
 
         if not path.is_file() or not exts.get(path.suffix.lstrip('.')):
