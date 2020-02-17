@@ -22,7 +22,7 @@ $ python3 -W ignore make_keywords.py /home/shcherbakov_al/guesslang/datasets/lea
 
 # learn attempt
 
-shcherbakov_al@ascherbakov:~/guesslang$ ~/.local/bin/guesslang --learn datasets/learn --model guesslang/data/model/
+$ ~/.local/bin/guesslang --learn datasets/learn --model guesslang/data/model/
 
 18:09:21 guesslang.guesser INFO Extract training data
 
