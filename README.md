@@ -17,3 +17,9 @@ $ python3 -W ignore make_keywords.py /home/shcherbakov_al/guesslang/datasets/lea
 17:07:58 __main__ INFO 9 unique terms found
 
 17:07:58 __main__ INFO 11 keywords written into keywords.json
+
+
+
+# learn attempt
+
+shcherbakov_al@ascherbakov:~/guesslang$ ~/.local/bin/guesslang -W ignore --learn datasets/learn --model ./
