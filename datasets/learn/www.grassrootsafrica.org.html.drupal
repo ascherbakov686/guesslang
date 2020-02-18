@@ -1,0 +1,608 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="shortcut icon" href="http://www.grassrootsafrica.org/sites/default/files/GRfavi.jpg" type="image/jpeg" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="MobileOptimized" content="width" />
+<link rel="alternate" type="application/rss+xml" title="Grassroots Africa RSS" href="http://www.grassrootsafrica.org/rss.xml" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://www.grassrootsafrica.org/" />
+<link rel="shortlink" href="http://www.grassrootsafrica.org/" />
+  <title>Grassroots Africa | The Information Network for African Farmers</title>  
+  <style type="text/css" media="all">
+@import url("http://www.grassrootsafrica.org/modules/system/system.base.css?oakcfw");
+@import url("http://www.grassrootsafrica.org/modules/system/system.menus.css?oakcfw");
+@import url("http://www.grassrootsafrica.org/modules/system/system.messages.css?oakcfw");
+@import url("http://www.grassrootsafrica.org/modules/system/system.theme.css?oakcfw");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.grassrootsafrica.org/modules/aggregator/aggregator.css?oakcfw");
+@import url("http://www.grassrootsafrica.org/modules/book/book.css?oakcfw");
+@import url("http://www.grassrootsafrica.org/modules/comment/comment.css?oakcfw");
+@import url("http://www.grassrootsafrica.org/modules/field/theme/field.css?oakcfw");
+@import url("http://www.grassrootsafrica.org/sites/all/modules/mollom/mollom.css?oakcfw");
+@import url("http://www.grassrootsafrica.org/modules/node/node.css?oakcfw");
+@import url("http://www.grassrootsafrica.org/modules/poll/poll.css?oakcfw");
+@import url("http://www.grassrootsafrica.org/modules/search/search.css?oakcfw");
+@import url("http://www.grassrootsafrica.org/modules/user/user.css?oakcfw");
+@import url("http://www.grassrootsafrica.org/modules/forum/forum.css?oakcfw");
+@import url("http://www.grassrootsafrica.org/sites/all/modules/views/css/views.css?oakcfw");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.grassrootsafrica.org/sites/all/modules/ctools/css/ctools.css?oakcfw");
+@import url("http://www.grassrootsafrica.org/sites/all/modules/tagclouds/tagclouds.css?oakcfw");
+@import url("http://www.grassrootsafrica.org/sites/default/files/fairlot/feed_me.css?oakcfw");
+</style>
+<style type="text/css" media="all and (min-width: 980px)">
+@import url("http://www.grassrootsafrica.org/sites/all/themes/GRAclean/css/960.css?oakcfw");
+</style>
+<style type="text/css" media="all and (min-width: 760px) and (max-width: 980px)">
+@import url("http://www.grassrootsafrica.org/sites/all/themes/GRAclean/css/720.css?oakcfw");
+</style>
+<style type="text/css" media="all and (max-width: 760px)">
+@import url("http://www.grassrootsafrica.org/sites/all/themes/GRAclean/css/mobile.css?oakcfw");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.grassrootsafrica.org/sites/all/themes/GRAclean/style.css?oakcfw");
+@import url("http://www.grassrootsafrica.org/sites/all/themes/GRAclean/color/colors.css?oakcfw");
+</style>
+
+<!--[if (lte IE 8)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="http://www.grassrootsafrica.org/sites/all/themes/corporateclean/css/basic-layout.css?oakcfw" media="all" />
+<![endif]-->
+
+<!--[if (lte IE 8)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="http://www.grassrootsafrica.org/sites/all/themes/corporateclean/css/ie.css?oakcfw" media="all" />
+<![endif]-->
+  
+    
+  <script type="text/javascript" src="http://www.grassrootsafrica.org/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.grassrootsafrica.org/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.grassrootsafrica.org/misc/drupal.js?oakcfw"></script>
+<script type="text/javascript" src="http://www.grassrootsafrica.org/sites/all/modules/admin_menu/admin_devel/admin_devel.js?oakcfw"></script>
+<script type="text/javascript" src="http://www.grassrootsafrica.org/sites/all/themes/corporateclean/js/jquery.cycle.all.js?oakcfw"></script>
+<script type="text/javascript" src="http://www.grassrootsafrica.org/sites/all/modules/google_analytics/googleanalytics.js?oakcfw"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-44090706-1", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"GRAclean","theme_token":"x_8si5UteDkUsRECvIGiVU2oLz_GFMvFKAtOQY0PrfI","js":{"0":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/themes\/corporateclean\/js\/jquery.cycle.all.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"public:\/\/fairlot\/feed_me.css":1,"sites\/all\/themes\/GRAclean\/css\/960.css":1,"sites\/all\/themes\/GRAclean\/css\/720.css":1,"sites\/all\/themes\/GRAclean\/css\/mobile.css":1,"sites\/all\/themes\/GRAclean\/style.css":1,"sites\/all\/themes\/GRAclean\/color\/colors.css":1,"sites\/all\/themes\/corporateclean\/css\/basic-layout.css":1,"sites\/all\/themes\/corporateclean\/css\/ie.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/node?destination=node":true}});
+//--><!]]>
+</script>
+
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <!-- #header -->
+<div id="header">
+	<!-- #header-inside -->
+    <div id="header-inside" class="container_12 clearfix">
+    	<!-- #header-inside-left -->
+        <div id="header-inside-left" class="grid_8">
+            
+                        <span id="logo"><a href="/" title="Home"><img src="http://www.grassrootsafrica.org/sites/default/files/GRLogopic60.jpg" alt="Home" /></a></ span> 
+                 
+                <!--         <div class="clearfix">  -->
+                        <span id="site-name"><a href="/" title="Home">Grassroots Africa</a></span>
+                        			<br />
+            <span id="slogan">The Information Network for African Farmers</span>
+                <!--        </div> -->
+                        
+        </div><!-- EOF: #header-inside-left -->
+        
+        <!-- #header-inside-right -->    
+        <div id="header-inside-right" class="grid_4">
+
+			
+        </div><!-- EOF: #header-inside-right -->
+    
+    </div><!-- EOF: #header-inside -->
+
+</div><!-- EOF: #header -->
+
+<!-- #header-menu -->
+<div id="header-menu">
+	<!-- #header-menu-inside -->
+    <div id="header-menu-inside" class="container_12 clearfix">
+    
+    	<div class="grid_12">
+            <div id="navigation" class="clearfix">
+                          <div class="region region-navigation">
+    <div id="block-system-main-menu" class="block block-system block-menu">
+
+
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/" class="active">Home</a></li>
+<li class="leaf"><a href="/content/about-us">About Us</a></li>
+<li class="leaf"><a href="/forums/farmer-questions" title="">Farmer Questions</a></li>
+<li class="leaf"><a href="http://grassrootsafrica.org/newsletters-page" title="Newsletters">Newsletters</a></li>
+<li class="leaf"><a href="/content/contact-us">Contact Us</a></li>
+<li class="last leaf"><a href="http://grassrootsafrica.org/blog" title="">Blog</a></li>
+</ul></div>
+</div>  </div>
+                        </div>
+        </div>
+        
+    </div><!-- EOF: #header-menu-inside -->
+
+</div><!-- EOF: #header-menu -->
+
+<!-- #banner -->
+<div id="banner">
+
+		
+        
+        
+    <!-- #slideshow -->
+    <div id="slideshow">
+    
+        <!--slider-item-->
+        <div class="slider-item">
+            <div class="content container_12">
+            	<div class="grid_12">
+                
+                <!--slider-item content-->
+                <div style="float:right; padding:0  0 0 30px;">
+                <img class="masked" src="/sites/all/themes/GRAclean/images/slide-image-1.jpg"/>
+                </div>
+                <h2>Getting Answers</h2>
+                <em>Farming in Africa</em><br/>
+                <br/>
+                Grassroots Africa is an advisory service for farmers in Africa. It aims to deliver answers to everyday questions from farmers:
+				<ul>
+					<li>My tomatoes have blight, how do I cure it?</li>
+					<li>How do I preserve my seeds for the next season?</li>
+					<li>How do I prevent rats from eating my plants?</li>
+				</ul>
+                <div style="display:block; padding:30px 0 10px 0;"><a class="more" href="content/about-us">Tell me more</a></div>
+                <!--EOF:slider-item content-->
+                
+                </div>
+            </div>
+        </div>
+        <!--EOF:slider-item-->
+        
+        <!--slider-item-->
+        <div class="slider-item">
+            <div class="content container_12">
+            	<div class="grid_12">
+                
+                <!--slider-item content-->
+                <div style="float:right; padding:0 0 0 30px;">
+                <img class="masked" src="/sites/all/themes/GRAclean/images/slide-image-2.jpg"/>
+                </div>
+                <h2>Our Questions Forum</h2>
+                <em>See our questions and answers</em><br/>
+                <br/>
+				All farming questions sent to us are stored in our Questions Forum, along with answers and other comments.
+                <div style="display:block; padding:30px 0 10px 0;"><a class="more" href="forums/farmer-questions">See our questions</a></div>
+                <!--EOF:slider-item content-->
+                
+				</div>
+            </div>
+        </div>
+        <!--EOF:slider-item-->
+        
+        <!--slider-item-->
+        <div class="slider-item">
+            <div class="content container_12">
+            	<div class="grid_12">
+                
+                <!--slider-item content-->
+				<div style="float:right; padding:0 0 0 30px;">
+                <img class="masked" src="/sites/all/themes/GRAclean/images/slide-image-3.jpg"/>
+                </div>
+                <h2>Join Us</h2>
+                <em>Become a registered user to ask and answer questions</em><br/>
+                <br/>
+				Only registered users can ask or answer questions on our forum.
+				Currently we are focussing on Malawi, Uganda, and Tanzania. Anyone who has an interest in farming in Africa, and who shares our aims and values, is welcome to joins us. 
+                <div style="display:block; padding:30px 0 10px 0;"><a class="more" href="user/register">Join us</a></div>
+                <!--EOF:slider-item content-->
+                
+				</div>
+            </div>
+        </div>
+        <!--EOF:slider-item-->
+        
+        <!--slider-item-->
+    </div>
+    <!-- EOF: #slideshow -->
+    
+    <!-- #slider-controls-wrapper -->
+    <div id="slider-controls-wrapper">
+        <div id="slider-controls" class="container_12">
+            <ul id="slider-navigation">
+                <li><a href="#"></a></li>
+                <li><a href="#"></a></li>
+                <li><a href="#"></a></li>
+            </ul>
+        </div>
+    </div>
+    <!-- EOF: #slider-controls-wrapper -->
+    
+        
+	  
+
+	
+</div><!-- EOF: #banner -->
+
+
+<!-- #content -->
+<div id="content">
+	<!-- #content-inside -->
+    <div id="content-inside" class="container_12 clearfix">
+    
+                <!-- #sidebar-first -->
+        <div id="sidebar-first" class="grid_4">
+        	  <div class="region region-sidebar-first">
+    <div id="block-user-login" class="block block-user">
+
+<h2>User login</h2>
+
+<div class="content">
+<form action="/node?destination=node" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-cnV5V1VWg0WjADcsRdRQczyFM7oA3_t6EhU6i0P7VuE" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-feed-me-wrapper"><div class="form-item form-type-textfield form-item-feed-me">
+  <label for="edit-feed-me">feed me </label>
+ <input type="text" id="edit-feed-me" name="feed_me" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form></div>
+</div>  </div>
+        </div><!-- EOF: #sidebar-first -->
+                
+                <div id="main" class="grid_8">
+		            
+                        
+                   
+                 
+                        
+                        
+			                                    
+                        
+              <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+
+<div class="content">
+<div id="node-551" class="node node-blog node-promoted node-teaser" about="/node/551" typeof="sioc:Post sioct:BlogPost">
+
+    <div class="user-picture">
+    <img typeof="foaf:Image" src="http://www.grassrootsafrica.org/sites/default/files/styles/thumbnail/public/pictures/picture-178-1474988392.jpg?itok=OQ20Ew4M" alt="Benny Dembitzer&#039;s picture" title="Benny Dembitzer&#039;s picture" />  </div>
+
+        <h2><a href="/node/551">THE META CHALLENGE OF ECONOMIC DEVELOPMENT</a></h2>
+    <span property="dc:title" content="THE META CHALLENGE OF ECONOMIC DEVELOPMENT" class="rdf-meta element-hidden"></span>
+      <div class="submitted"><span property="dc:date dc:created" content="2019-09-13T10:18:29+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/benny-dembitzer" typeof="sioc:UserAccount" property="foaf:name" datatype="">Benny Dembitzer</span> on 13 September 2019 - 10:18am</span></div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong>About one and a half trillion dollars has gone into Aid to Africa in the last 50 years.</strong> (It is difficult to define aid; the US, for example, include supplies of arms to both Israel and Egypt, amounting to about $7 billion a year.)</p></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first"><a href="/node/551" rel="tag" title="THE META CHALLENGE OF ECONOMIC DEVELOPMENT">Read more<span class="element-invisible"> about THE META CHALLENGE OF ECONOMIC DEVELOPMENT</span></a></li>
+<li class="blog_usernames_blog"><a href="/blogs/benny-dembitzer" title="Read Benny Dembitzer&#039;s latest blog entries.">Benny Dembitzer&#039;s blog</a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/551%23comment-form">Log in</a> or <a href="/user/register?destination=node/551%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+    
+      </div>
+
+</div><div id="node-550" class="node node-forum node-promoted node-teaser" about="/node/550" typeof="sioc:Post sioct:BoardPost">
+
+  
+        <h2><a href="/node/550">Does Dry sticks of Moringa Oleifera are good as fuel for biochar stoves?</a></h2>
+    <span property="dc:title" content="Does Dry sticks of Moringa Oleifera are good as fuel for biochar stoves?" class="rdf-meta element-hidden"></span>
+      <div class="submitted"><span property="dc:date dc:created" content="2017-09-03T11:02:31+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/luka" typeof="sioc:UserAccount" property="foaf:name" datatype="">Luka</span> on 3 September 2017 - 11:02am</span></div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-taxonomy-forums field-type-taxonomy-term-reference field-label-above"><div class="field-label">Forums:&nbsp;</div><div class="field-items"><div class="field-item even" rel="sioc:has_container"><a href="/forums/farmer-questions" typeof="sioc:Container sioc:Forum" property="rdfs:label skos:prefLabel" datatype="">Farmer Questions</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Does Dry sticks of moringa Oleifera are good as fuel for biochar stoves?</p>
+<p>Note from editor: Moringa Oleifera is also known as drumstick tree, horseradish tree, ben oil tree, or benzoil tree.</p>
+<p> </p>
+</div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first"><a href="/node/550" rel="tag" title="Does Dry sticks of Moringa Oleifera are good as fuel for biochar stoves?">Read more<span class="element-invisible"> about Does Dry sticks of Moringa Oleifera are good as fuel for biochar stoves?</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=comment/reply/550%23comment-form">Log in</a> or <a href="/user/register?destination=comment/reply/550%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+    
+      </div>
+
+</div><div id="node-549" class="node node-forum node-promoted node-teaser" about="/node/549" typeof="sioc:Post sioct:BoardPost">
+
+  
+        <h2><a href="/node/549">Mosaic Viruses of Cassava</a></h2>
+    <span property="dc:title" content="Mosaic Viruses of Cassava" class="rdf-meta element-hidden"></span>
+      <div class="submitted"><span property="dc:date dc:created" content="2017-07-18T11:12:29+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/promsophonn" typeof="sioc:UserAccount" property="foaf:name" datatype="">Promsophonn</span> on 18 July 2017 - 11:12am</span></div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-taxonomy-forums field-type-taxonomy-term-reference field-label-above"><div class="field-label">Forums:&nbsp;</div><div class="field-items"><div class="field-item even" rel="sioc:has_container"><a href="/forums/farmer-questions" typeof="sioc:Container sioc:Forum" property="rdfs:label skos:prefLabel" datatype="">Farmer Questions</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Dear All,</p>
+<p>I would like to ask  that </p>
+<p>1. Have my photos of Cassava in attached get Mosaic or not?</p>
+<p>2. If it Mosaic viruses how can I control and protect it?</p>
+<p>3. What kind or formula of Chemical that can protect it?</p>
+<p> </p>
+<p>I hope I will get advises from all of you,</p>
+<p> </p>
+<p>With my best regards,</p>
+<p>Sophonn</p>
+<p> </p>
+<p> </p>
+</div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first"><a href="/node/549" rel="tag" title="Mosaic Viruses of Cassava">Read more<span class="element-invisible"> about Mosaic Viruses of Cassava</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=comment/reply/549%23comment-form">Log in</a> or <a href="/user/register?destination=comment/reply/549%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+    
+      </div>
+
+</div><div id="node-545" class="node node-forum node-promoted node-teaser" about="/node/545" typeof="sioc:Post sioct:BoardPost">
+
+  
+        <h2><a href="/node/545">Groundnut yellow ants: name and control</a></h2>
+    <span property="dc:title" content="Groundnut yellow ants: name and control" class="rdf-meta element-hidden"></span>
+      <div class="submitted"><span property="dc:date dc:created" content="2016-09-22T11:34:54+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/pamella-kamwendo" typeof="sioc:UserAccount" property="foaf:name" datatype="">Pamella Kamwendo</span> on 22 September 2016 - 11:34am</span></div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-taxonomy-forums field-type-taxonomy-term-reference field-label-above"><div class="field-label">Forums:&nbsp;</div><div class="field-items"><div class="field-item even" rel="sioc:has_container"><a href="/forums/farmer-questions" typeof="sioc:Container sioc:Forum" property="rdfs:label skos:prefLabel" datatype="">Farmer Questions</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p> </p>
+<p>what is thename given to yellow ants that burrow groundnut pods in the soil? How can one control it?</p>
+<p> </p>
+</div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first"><a href="/node/545" rel="tag" title="Groundnut yellow ants: name and control">Read more<span class="element-invisible"> about Groundnut yellow ants: name and control</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=comment/reply/545%23comment-form">Log in</a> or <a href="/user/register?destination=comment/reply/545%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+    
+      </div>
+
+</div><div id="node-542" class="node node-forum node-promoted node-teaser" about="/node/542" typeof="sioc:Post sioct:BoardPost">
+
+    <div class="user-picture">
+    <img typeof="foaf:Image" src="http://www.grassrootsafrica.org/sites/default/files/styles/thumbnail/public/pictures/picture-18267-1467724653.jpg?itok=XXwN1iKC" alt="Joyce Kaliwo&#039;s picture" title="Joyce Kaliwo&#039;s picture" />  </div>
+
+        <h2><a href="/node/542">Maize: which are high yielding during irrigation / winter cropping?</a></h2>
+    <span property="dc:title" content="Maize: which are high yielding during irrigation / winter cropping?" class="rdf-meta element-hidden"></span>
+      <div class="submitted"><span property="dc:date dc:created" content="2016-07-05T14:27:18+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/joyce-kaliwo" typeof="sioc:UserAccount" property="foaf:name" datatype="">Joyce Kaliwo</span> on 5 July 2016 - 2:27pm</span></div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-taxonomy-forums field-type-taxonomy-term-reference field-label-above"><div class="field-label">Forums:&nbsp;</div><div class="field-items"><div class="field-item even" rel="sioc:has_container"><a href="/forums/farmer-questions" typeof="sioc:Container sioc:Forum" property="rdfs:label skos:prefLabel" datatype="">Farmer Questions</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p> </p>
+<p> </p>
+<p>Which Maize variety is high yielding during irrigation/winter cropping?</p>
+</div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first"><a href="/node/542" rel="tag" title="Maize: which are high yielding during irrigation / winter cropping?">Read more<span class="element-invisible"> about Maize: which are high yielding during irrigation / winter cropping?</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=comment/reply/542%23comment-form">Log in</a> or <a href="/user/register?destination=comment/reply/542%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+    
+      </div>
+
+</div><div id="node-539" class="node node-forum node-promoted node-teaser" about="/node/539" typeof="sioc:Post sioct:BoardPost">
+
+  
+        <h2><a href="/node/539">Agroforestry and Soil Management</a></h2>
+    <span property="dc:title" content="Agroforestry and Soil Management" class="rdf-meta element-hidden"></span>
+      <div class="submitted"><span property="dc:date dc:created" content="2016-05-27T15:37:46+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/alastair-taylor" typeof="sioc:UserAccount" property="foaf:name" datatype="">Alastair Taylor</span> on 27 May 2016 - 3:37pm</span></div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-taxonomy-forums field-type-taxonomy-term-reference field-label-above"><div class="field-label">Forums:&nbsp;</div><div class="field-items"><div class="field-item even" rel="sioc:has_container"><a href="/forums/farmer-questions" typeof="sioc:Container sioc:Forum" property="rdfs:label skos:prefLabel" datatype="">Farmer Questions</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>From Ngingini Charles from Nwoya District Uganda - How can I best use agroforestry practices to improve soil management on my farm?</p>
+<p> </p>
+<p> </p>
+</div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first"><a href="/node/539" rel="tag" title="Agroforestry and Soil Management">Read more<span class="element-invisible"> about Agroforestry and Soil Management</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=comment/reply/539%23comment-form">Log in</a> or <a href="/user/register?destination=comment/reply/539%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+    
+      </div>
+
+</div><h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/node?page=1">2</a></li>
+<li class="pager-item"><a title="Go to page 3" href="/node?page=2">3</a></li>
+<li class="pager-next"><a title="Go to next page" href="/node?page=1">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/node?page=2">last »</a></li>
+</ul></div></div>
+</div>  </div>
+            
+            <a href="/rss.xml" class="feed-icon" title="Subscribe to Grassroots Africa RSS"><img typeof="foaf:Image" src="http://www.grassrootsafrica.org/misc/feed.png" width="16" height="16" alt="Subscribe to Grassroots Africa RSS" /></a>            
+        </div><!-- EOF: #main -->
+        
+          
+
+    </div><!-- EOF: #content-inside -->
+
+</div><!-- EOF: #content -->
+
+<!-- #footer -->    
+<div id="footer">
+	<!-- #footer-inside -->
+    <div id="footer-inside" class="container_12 clearfix">
+    
+        <div class="footer-area grid_4">
+                </div><!-- EOF: .footer-area -->
+        
+        <div class="footer-area grid_4">
+          <div class="region region-footer-second">
+    <div id="block-tagclouds-1" class="block block-tagclouds">
+
+<h2>Tags</h2>
+
+<div class="content">
+<span class='tagclouds-term'><a href="/tags/agriculture" class="tagclouds" title="">agriculture</a> (3)</span>
+<span class='tagclouds-term'><a href="/tags/bananas" class="tagclouds" title="">bananas</a> (4)</span>
+<span class='tagclouds-term'><a href="/tags/beans" class="tagclouds" title="">beans</a> (3)</span>
+<span class='tagclouds-term'><a href="/tags/bees" class="tagclouds" title="">bees</a> (12)</span>
+<span class='tagclouds-term'><a href="/tags/cassava" class="tagclouds" title="">Cassava</a> (6)</span>
+<span class='tagclouds-term'><a href="/tags/chicken" class="tagclouds" title="">Chicken</a> (7)</span>
+<span class='tagclouds-term'><a href="/tags/chickens" class="tagclouds" title="">chickens</a> (3)</span>
+<span class='tagclouds-term'><a href="/tags/compost" class="tagclouds" title="">compost</a> (7)</span>
+<span class='tagclouds-term'><a href="/tags/disease" class="tagclouds" title="">disease</a> (4)</span>
+<span class='tagclouds-term'><a href="/tags/ducks" class="tagclouds" title="">ducks</a> (4)</span>
+<span class='tagclouds-term'><a href="/tags/fertilisers" class="tagclouds" title="">Fertilisers</a> (4)</span>
+<span class='tagclouds-term'><a href="/tags/fertilizer" class="tagclouds" title="">fertilizer</a> (4)</span>
+<span class='tagclouds-term'><a href="/tags/goats" class="tagclouds" title="">goats</a> (7)</span>
+<span class='tagclouds-term'><a href="/tags/green-peppers" class="tagclouds" title="">green peppers</a> (5)</span>
+<span class='tagclouds-term'><a href="/tags/groundnuts" class="tagclouds" title="">groundnuts</a> (6)</span>
+<span class='tagclouds-term'><a href="/tags/honey" class="tagclouds" title="">Honey</a> (6)</span>
+<span class='tagclouds-term'><a href="/tags/maize" class="tagclouds" title="">Maize</a> (24)</span>
+<span class='tagclouds-term'><a href="/tags/maize-agroforestry" class="tagclouds" title="">Maize Agroforestry</a> (13)</span>
+<span class='tagclouds-term'><a href="/tags/milk" class="tagclouds" title="">Milk</a> (4)</span>
+<span class='tagclouds-term'><a href="/tags/pigeon-peas" class="tagclouds" title="">pigeon peas</a> (5)</span>
+<span class='tagclouds-term'><a href="/tags/pigs" class="tagclouds" title="">Pigs</a> (15)</span>
+<span class='tagclouds-term'><a href="/tags/pineapple" class="tagclouds" title="">Pineapple</a> (11)</span>
+<span class='tagclouds-term'><a href="/tags/potatoes" class="tagclouds" title="">Potatoes</a> (5)</span>
+<span class='tagclouds-term'><a href="/tags/pumpkins" class="tagclouds" title="">Pumpkins</a> (5)</span>
+<span class='tagclouds-term'><a href="/tags/seeds" class="tagclouds" title="">Seeds</a> (4)</span>
+<span class='tagclouds-term'><a href="/tags/soya-beans" class="tagclouds" title="">Soya beans</a> (6)</span>
+<span class='tagclouds-term'><a href="/tags/sweet-potatoes" class="tagclouds" title="">sweet potatoes</a> (5)</span>
+<span class='tagclouds-term'><a href="/tags/tangawizi" class="tagclouds" title="">Tangawizi</a> (8)</span>
+<span class='tagclouds-term'><a href="/tags/tomatoes" class="tagclouds" title="">Tomatoes</a> (4)</span>
+<span class='tagclouds-term'><a href="/tags/water" class="tagclouds" title="">Water</a> (4)</span>
+<div class="more-link"><a href="/tagclouds/chunk/1" title="more tags">More</a></div></div>
+</div>  </div>
+        </div><!-- EOF: .footer-area -->
+        
+        <div class="footer-area grid_4">
+                </div><!-- EOF: .footer-area -->
+       
+    </div><!-- EOF: #footer-inside -->
+
+</div><!-- EOF: #footer -->
+
+<!-- #footer-bottom -->    
+<div id="footer-bottom">
+
+	<!-- #footer-bottom-inside --> 
+    <div id="footer-bottom-inside" class="container_12 clearfix">
+    	<!-- #footer-bottom-left --> 
+    	<div id="footer-bottom-left" class="grid_8">
+        
+                        
+              <div class="region region-footer">
+    <div id="block-block-3" class="block block-block">
+
+<h2>Organisation</h2>
+
+<div class="content">
+<p><strong>ETHICAL-EVENTS LTD </strong>was set up in 2000 to promote a greater understanding of the challenges confronting the peoples and nations of the global South. We organise events and courses, and publish material in support of these aims.</p>
+<p><a href="http://www.ethical-events.org">www.ethical-events.org</a></p>
+</div>
+</div><div id="block-copyright-block-copyright-block" class="block block-copyright-block">
+
+<h2>Copyright statement</h2>
+
+<div class="content">
+Copyright &copy; Ethical-Events Ltd, 2013-2020.</div>
+</div><div id="block-block-1" class="block block-block">
+
+<h2>Website </h2>
+
+<div class="content">
+<p>Created by <a href="http://www.baldwinsweb.co.uk/">Baldwins Web Services</a></p><p><span>Powered by <a href="http://drupal.org/"><font color="#0066cc">Drupal</font></a></span></p></div>
+</div><div id="block-block-2" class="block block-block">
+
+<h2>Terms and Conditions</h2>
+
+<div class="content">
+<p><a href="http://www.grassrootsafrica.org/content/terms-and-conditions-use">Terms and Conditions of Use</a></p><p>&nbsp;</p></div>
+</div>  </div>
+            
+        </div>
+    	<!-- #footer-bottom-right --> 
+        <div id="footer-bottom-right" class="grid_4">
+        
+        	        
+        </div><!-- EOF: #footer-bottom-right -->
+       
+    </div><!-- EOF: #footer-bottom-inside -->
+    
+        <!-- #credits -->   
+    <div id="credits" class="container_12 clearfix">
+        <div class="grid_12">
+        <p>Ported to Drupal by <a href="http://www.drupalizing.com">Drupalizing</a>, a Project of <a href="http://www.morethanthemes.com">More than (just) Themes</a>. Designed by <a href="http://www.kaolti.com/">Zsolt Kacso</a></p>
+        </div>
+    </div>
+    <!-- EOF: #credits -->
+    
+</div><!-- EOF: #footer -->  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) {
+	
+	$(window).load(function() {
+	
+		$("#slideshow img").show();
+		$("#slideshow").fadeIn("slow");
+		$("#slider-controls-wrapper").fadeIn("slow");
+	
+		$("#slideshow").cycle({
+			fx:    "scrollHorz",
+			speed:  "slow",
+			timeout: "10000",
+			random: 0,
+			nowrap: 0,
+			pause: 0,
+			pager:  "#slider-navigation",
+			pagerAnchorBuilder: function(idx, slide) {
+				return "#slider-navigation li:eq(" + (idx) + ") a";
+			},
+			slideResize: true,
+			containerResize: false,
+			height: "auto",
+			fit: 1,
+			before: function(){
+				$(this).parent().find(".slider-item.current").removeClass("current");
+			},
+			after: onAfter
+		});
+	});
+	
+	function onAfter(curr, next, opts, fwd) {
+		var $ht = $(this).height();
+		$(this).parent().height($ht);
+		$(this).addClass("current");
+	}
+	
+	$(window).load(function() {
+		var $ht = $(".slider-item.current").height();
+		$("#slideshow").height($ht);
+	});
+	
+	$(window).resize(function() {
+		var $ht = $(".slider-item.current").height();
+		$("#slideshow").height($ht);
+	});
+	
+	});
+//--><!]]>
+</script>
+</body>
+</html>

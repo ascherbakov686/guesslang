@@ -1,0 +1,337 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"62b676d2c6",applicationID:"34863386"};window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var i=n[t]={exports:{}};e[t][0].call(i.exports,function(n){var i=e[t][1][n];return r(i||n)},i,i.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(e,n,t){function r(){}function i(e,n,t){return function(){return o(e,[u.now()].concat(f(arguments)),n?null:this,t),n?void 0:this}}var o=e("handle"),a=e(4),f=e(5),c=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",d=l+"ixn-";a(p,function(e,n){s[n]=i(l+n,!0,"api")}),s.addPageAction=i(l+"addPageAction",!0),s.setCurrentRouteName=i(l+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,i="function"==typeof n;return o(d+"tracer",[u.now(),e,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return n.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],t),e}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=i(d+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){var t=e.getEntries();t.forEach(function(e){"first-paint"===e.name?c("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&c("timing",["fcp",Math.floor(e.startTime)])})}function i(e,n){var t=e.getEntries();t.length>0&&c("lcp",[t[t.length-1]])}function o(e){if(e instanceof s&&!l){var n,t=Math.round(e.timeStamp);n=t>1e12?Date.now()-t:u.now()-t,l=!0,c("timing",["fi",t,{type:e.type,fid:n}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var a,f,c=e("handle"),u=e("loader"),s=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){a=new PerformanceObserver(r),f=new PerformanceObserver(i);try{a.observe({entryTypes:["paint"]}),f.observe({entryTypes:["largest-contentful-paint"]})}catch(p){}}if("addEventListener"in document){var l=!1,d=["click","keydown","mousedown","pointerdown","touchstart"];d.forEach(function(e){document.addEventListener(e,o,!1)})}}},{}],3:[function(e,n,t){function r(e,n){if(!i)return!1;if(e!==i)return!1;if(!n)return!0;if(!o)return!1;for(var t=o.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}n.exports={agent:i,version:o,match:r}},{}],4:[function(e,n,t){function r(e,n){var t=[],r="",o=0;for(r in e)i.call(e,r)&&(t[o]=n(r,e[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;n.exports=r},{}],5:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,i=t-n||0,o=Array(i<0?0:i);++r<i;)o[r]=e[n+r];return o}n.exports=r},{}],6:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function i(e){function n(e){return e&&e instanceof r?e:e?c(e,f,o):o()}function t(t,r,i,o){if(!l.aborted||o){e&&e(t,r,i);for(var a=n(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function d(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||i(t)}function w(e,n){u(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:d,addEventListener:d,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(l.aborted=!0,s=l.backlog={})}var f="nr@context",c=e("gos"),u=e(4),s={},p={},l=n.exports=i();l.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(i.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[n]=r,r}var i=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){i.buffer([e],r),i.emit(e,n,t)}var i=e("ee").get("handle");n.exports=r,r.ee=i},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=E.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();u(y,function(n,t){e[n]||(e[n]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function i(){"complete"===d.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=e("handle"),u=e(4),s=e("ee"),p=e(3),l=window,d=l.document,m="addEventListener",v="attachEvent",g=l.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:g,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1167.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=n.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),e(2),d[m]?(d[m]("DOMContentLoaded",o,!1),l[m]("load",r,!1)):(d[v]("onreadystatechange",i),l[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=e(6)},{}],"wrap-function":[function(e,n,t){function r(e){return!(e&&e instanceof Function&&e.apply&&!e[a])}var i=e("ee"),o=e(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;n.exports=function(e,n){function t(e,n,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){l([u,"",[r,a,i],f])}s(n+"start",[r,a,i],f);try{return c=e.apply(a,r)}catch(p){throw s(n+"err",[r,a,p],f),p}finally{s(n+"end",[r,a,c],f)}}return r(e)?e:(n||(n=""),nrWrapper[a]=e,p(e,nrWrapper),nrWrapper)}function u(e,n,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<n.length;c++)f=n[c],a=e[f],r(a)||(e[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||n){var o=c;c=!0;try{e.emit(t,r,i,n)}catch(a){l([a,t,r,i])}c=o}}function p(e,n){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(e);return t.forEach(function(t){Object.defineProperty(n,t,{get:function(){return e[t]},set:function(n){return e[t]=n,n}})}),n}catch(r){l([r])}for(var i in e)f.call(e,i)&&(n[i]=e[i]);return n}function l(n){try{e.emit("internal-error",n)}catch(t){}}return e||(e=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script>
+<link rel="shortcut icon" href="https://coreservices.win/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="Ari RSS" href="https://coreservices.win/rss.xml" />
+  <title>Ari</title>
+  <link type="text/css" rel="stylesheet" href="https://coreservices.win/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://coreservices.win/sites/default/files/css/css_Vn_p7xhZmS8yWWx26P0Cc7Tm0GG2K1gLWEoVrhw5xxg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://coreservices.win/sites/default/files/css/css_NRg0AX3iY_x0OX3_WzcWp90JnwurHRvZn6i75GL0rRI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://coreservices.win/sites/default/files/css/css_2THG1eGiBIizsWFeexsNe1iDifJ00QRS9uSd03rY9co.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="https://coreservices.win/themes/bartik/css/ie.css?q07ahj" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="https://coreservices.win/themes/bartik/css/ie6.css?q07ahj" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="https://coreservices.win/sites/default/files/js/js_qikmINIYTWe4jcTUn8cKiMr8bmSDiZB9LQqvceZ6wlM.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bartik","theme_token":"ye0TD5erAPo-hXG_qpDn_GrEbpkh_QDRa-VTdUMQPoU","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"themes\/bartik\/css\/colors.css":1,"themes\/bartik\/css\/print.css":1,"themes\/bartik\/css\/ie.css":1,"themes\/bartik\/css\/ie6.css":1}},"urlIsAjaxTrusted":{"\/node?destination=node":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper"><div id="page">
+
+  <div id="header" class="without-secondary-menu"><div class="section clearfix">
+
+          <a href="/" title="Home" rel="home" id="logo">
+        <img src="https://coreservices.win/themes/bartik/logo.png" alt="Home" />
+      </a>
+    
+          <div id="name-and-slogan">
+
+                              <h1 id="site-name">
+              <a href="/" title="Home" rel="home"><span>Ari</span></a>
+            </h1>
+                  
+        
+      </div> <!-- /#name-and-slogan -->
+    
+    
+          <div id="main-menu" class="navigation">
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-218 first last active"><a href="/" class="active">Home</a></li>
+</ul>      </div> <!-- /#main-menu -->
+    
+    
+  </div></div> <!-- /.section, /#header -->
+
+  
+  
+  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
+
+    
+          <div id="sidebar-first" class="column sidebar"><div class="section">
+          <div class="region region-sidebar-first">
+    <div id="block-user-login" class="block block-user">
+
+    <h2>User login</h2>
+  
+  <div class="content">
+    <form action="/node?destination=node" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-LpFPzK6ixOVosGwX-FZAd_-dKyXXQqIDHt1fQDaXJ-U" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+      </div></div> <!-- /.section, /#sidebar-first -->
+    
+    <div id="content" class="column"><div class="section">
+            <a id="main-content"></a>
+                                <div class="tabs">
+                  </div>
+                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-279" class="node node-page node-promoted node-teaser clearfix" about="/node/279" typeof="foaf:Document">
+
+        <h2>
+      <a href="/node/279">Abdo Commoveo Nutus</a>
+    </h2>
+    <span property="dc:title" content="Abdo Commoveo Nutus" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Hos natu neo populus quidem sudo suscipit typicus ulciscor. Imputo rusticus ulciscor. Consectetuer elit facilisi facilisis ibidem neque odio populus refero tincidunt. Jumentum probo suscipit. Antehabeo appellatio genitus gilvus illum nutus populus.</p>
+<p>Acsi elit eum vereor zelus. Antehabeo bene dolus importunus iriure luptatum meus utrum zelus. Esca nisl os pneum. Dignissim ea humo jugis minim. Abico aliquam antehabeo esca feugiat neo valetudo vulpes. Accumsan lobortis lucidus nobis secundum zelus. Abigo aliquam commoveo. Aliquam distineo eligo et ex quadrum quae valetudo.</p></div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first last"><a href="/node/279" rel="tag" title="Abdo Commoveo Nutus">Read more<span class="element-invisible"> about Abdo Commoveo Nutus</span></a></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-241" class="node node-article node-promoted node-teaser clearfix" about="/node/241" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/241">Laoreet Ludus Ratis Valde</a>
+    </h2>
+    <span property="dc:title" content="Laoreet Ludus Ratis Valde" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2019-03-29T09:37:27-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/25" typeof="sioc:UserAccount" property="foaf:name" datatype="">xagsjtbxon1996</span> on Fri, 03/29/2019 - 09:37</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="og:image rdfs:seeAlso" resource="https://coreservices.win/sites/default/files/styles/medium/public/field/image/imagefield_JzkW38.gif?itok=zk97WiK9"><a href="/node/241"><img typeof="foaf:Image" src="https://coreservices.win/sites/default/files/styles/medium/public/field/image/imagefield_JzkW38.gif?itok=zk97WiK9" width="143" height="220" alt="Autem esca lobortis macto modo nibh refero sino turpis vulpes." title="Autem incassum os. Facilisi meus ulciscor verto volutpat." /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Gemino importunus iusto macto modo quibus saluto tamen turpis. Accumsan acsi at minim pagus quis veniam.</p>
+<p>Diam dolore humo jus nisl ratis. Ea incassum loquor metuo singularis. Amet gemino gravis immitto loquor usitas. Abluo commoveo elit esca ibidem melior occuro populus zelus. Comis commodo plaga quia vero zelus. Adipiscing camur commodo damnum dolus inhibeo sudo uxor velit. Aliquam appellatio aptent esca esse jugis neque olim os si.</p></div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/241" rel="tag" title="Laoreet Ludus Ratis Valde">Read more<span class="element-invisible"> about Laoreet Ludus Ratis Valde</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/241%23comment-form">Log in</a> or <a href="/user/register?destination=node/241%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-301" class="node node-article node-promoted node-teaser clearfix" about="/node/301" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/301">Jumentum Nibh</a>
+    </h2>
+    <span property="dc:title" content="Jumentum Nibh" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2019-03-29T07:42:11-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/46" typeof="sioc:UserAccount" property="foaf:name" datatype="">qsqcvfbfnna2002</span> on Fri, 03/29/2019 - 07:42</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="og:image rdfs:seeAlso" resource="https://coreservices.win/sites/default/files/styles/medium/public/field/image/imagefield_JyM5U3.gif?itok=BU1T9lLq"><a href="/node/301"><img typeof="foaf:Image" src="https://coreservices.win/sites/default/files/styles/medium/public/field/image/imagefield_JyM5U3.gif?itok=BU1T9lLq" width="220" height="166" alt="Abbas adipiscing caecus si." title="Dignissim olim pagus quibus." /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Comis dolore lobortis nostrud nulla oppeto sed. Capto duis hendrerit imputo minim modo nulla similis valetudo.</p>
+<p>Aliquam aptent ea gravis humo iusto magna mos sudo utinam. Aliquip ea illum luctus pagus ullamcorper utinam. Importunus te typicus vicis vulpes. Defui imputo iusto. Dolor dolore duis humo ibidem persto quia velit wisi.</p>
+<p>Damnum obruo plaga praemitto vicis wisi. Abico diam neque odio ulciscor ymo. Bene immitto iriure melior neo quis refoveo tum zelus.</p></div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/301" rel="tag" title="Jumentum Nibh">Read more<span class="element-invisible"> about Jumentum Nibh</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/301%23comment-form">Log in</a> or <a href="/user/register?destination=node/301%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-276" class="node node-article node-promoted node-teaser clearfix" about="/node/276" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/276">Magna</a>
+    </h2>
+    <span property="dc:title" content="Magna" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2019-03-29T06:16:09-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/10" typeof="sioc:UserAccount" property="foaf:name" datatype="">kcimijofca1988</span> on Fri, 03/29/2019 - 06:16</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="og:image rdfs:seeAlso" resource="https://coreservices.win/sites/default/files/styles/medium/public/field/image/imagefield_bjj9w9.gif?itok=fWEsZdKO"><a href="/node/276"><img typeof="foaf:Image" src="https://coreservices.win/sites/default/files/styles/medium/public/field/image/imagefield_bjj9w9.gif?itok=fWEsZdKO" width="81" height="220" alt="Blandit brevitas facilisis praesent." title="Abdo antehabeo damnum duis erat exerci olim paulatim populus ut." /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Fere haero oppeto pecus premo vel venio. Amet facilisis immitto nimis ullamcorper vel. Capto ille lenis nunc torqueo ut uxor. Causa hendrerit verto. Gilvus luptatum modo nisl olim probo sino suscipit tum.</p>
+<p>Adipiscing iaceo minim quae. Adipiscing lobortis loquor quia ut. Aptent augue eros facilisis gilvus hos luptatum os scisco utrum. Aliquip illum importunus macto premo sed suscipit typicus vicis. Facilisis fere jumentum patria valetudo ymo. Accumsan caecus distineo ea praesent quibus vel vicis. Distineo erat facilisi loquor neque premo roto suscipere.</p></div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/276" rel="tag" title="Magna">Read more<span class="element-invisible"> about Magna</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/276%23comment-form">Log in</a> or <a href="/user/register?destination=node/276%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-404" class="node node-page node-promoted node-teaser clearfix" about="/node/404" typeof="foaf:Document">
+
+        <h2>
+      <a href="/node/404">Neo Nimis Vindico</a>
+    </h2>
+    <span property="dc:title" content="Neo Nimis Vindico" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Lenis ludus metuo minim nobis persto si tincidunt utrum verto. Inhibeo ullamcorper utinam. Imputo singularis turpis vicis. Abdo macto nutus olim plaga si turpis. Interdico mauris sed tincidunt.</p>
+</div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first last"><a href="/node/404" rel="tag" title="Neo Nimis Vindico">Read more<span class="element-invisible"> about Neo Nimis Vindico</span></a></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-489" class="node node-article node-promoted node-teaser clearfix" about="/node/489" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/489">Iriure Pagus</a>
+    </h2>
+    <span property="dc:title" content="Iriure Pagus" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2019-03-29T05:53:47-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/4" typeof="sioc:UserAccount" property="foaf:name" datatype="">hvfupzguu1989</span> on Fri, 03/29/2019 - 05:53</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="og:image rdfs:seeAlso" resource="https://coreservices.win/sites/default/files/styles/medium/public/field/image/imagefield_9BeaIu.jpg?itok=Ja1prJmx"><a href="/node/489"><img typeof="foaf:Image" src="https://coreservices.win/sites/default/files/styles/medium/public/field/image/imagefield_9BeaIu.jpg?itok=Ja1prJmx" width="182" height="220" alt="Fere ludus metuo praesent probo saepius sit tamen." title="Aliquam aliquip eros facilisis melior ulciscor." /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Capto esca humo iusto lobortis natu quibus. Dignissim dolus erat ideo illum imputo luctus odio proprius roto. Abico ad amet hos inhibeo iriure premo. Antehabeo patria refoveo vel vulputate. Commodo macto minim modo nobis vereor vulpes.</p>
+<p>Dolore haero persto ratis. Capto eu iusto probo refoveo validus venio. Consectetuer conventio immitto in mauris sagaciter suscipit. Augue cui immitto letalis neque patria ut vindico voco. Pecus usitas virtus volutpat.</p></div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/489" rel="tag" title="Iriure Pagus">Read more<span class="element-invisible"> about Iriure Pagus</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/489%23comment-form">Log in</a> or <a href="/user/register?destination=node/489%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-305" class="node node-article node-promoted node-teaser clearfix" about="/node/305" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/305">Ad Nunc</a>
+    </h2>
+    <span property="dc:title" content="Ad Nunc" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2019-03-29T05:48:46-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/17" typeof="sioc:UserAccount" property="foaf:name" datatype="">bkyrzmzwk2000</span> on Fri, 03/29/2019 - 05:48</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="og:image rdfs:seeAlso" resource="https://coreservices.win/sites/default/files/styles/medium/public/field/image/imagefield_NaA3Xl.png?itok=nu9cWG-N"><a href="/node/305"><img typeof="foaf:Image" src="https://coreservices.win/sites/default/files/styles/medium/public/field/image/imagefield_NaA3Xl.png?itok=nu9cWG-N" width="124" height="220" alt="Camur ex iaceo nibh nimis patria tum." title="Commoveo diam eum ulciscor." /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Antehabeo consectetuer genitus nunc obruo pagus praesent refoveo saepius vindico. Abigo inhibeo scisco zelus.</p>
+<p>Ea eu nibh occuro si suscipit tincidunt. Abico feugiat genitus hos. Abbas dolus metuo nisl pala probo quae sino vereor. Acsi illum pneum quae quidne.</p>
+<p>Abbas eligo facilisis minim utrum zelus. Dolore erat ullamcorper. Ex iriure melior probo. Capto facilisis hos illum. Conventio eros mauris plaga quibus saepius tum vereor. Abluo commoveo consequat elit inhibeo laoreet oppeto quidem sudo. Blandit euismod iaceo inhibeo mauris odio praesent torqueo.</p></div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/305" rel="tag" title="Ad Nunc">Read more<span class="element-invisible"> about Ad Nunc</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/305%23comment-form">Log in</a> or <a href="/user/register?destination=node/305%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-153" class="node node-article node-promoted node-teaser clearfix" about="/node/153" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/153">Adipiscing Neo Pneum</a>
+    </h2>
+    <span property="dc:title" content="Adipiscing Neo Pneum" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2019-03-29T05:14:43-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/4" typeof="sioc:UserAccount" property="foaf:name" datatype="">hvfupzguu1989</span> on Fri, 03/29/2019 - 05:14</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="og:image rdfs:seeAlso" resource="https://coreservices.win/sites/default/files/styles/medium/public/field/image/imagefield_sMp76p.jpeg?itok=LYhRpIem"><a href="/node/153"><img typeof="foaf:Image" src="https://coreservices.win/sites/default/files/styles/medium/public/field/image/imagefield_sMp76p.jpeg?itok=LYhRpIem" width="104" height="220" alt="Antehabeo ideo imputo jugis jus letalis vereor ymo." title="Acsi autem pecus pertineo." /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Autem ea scisco tego. Amet cui premo qui quibus. Aptent consequat ymo. Gilvus interdico luctus pecus secundum valetudo. At quis vindico. Enim saepius ulciscor. Blandit loquor pala plaga qui similis suscipere. Acsi ex incassum praemitto vulpes. Acsi appellatio defui plaga usitas valde. Gilvus interdico lenis lucidus populus utrum uxor. Ad defui distineo melior odio vicis. Genitus suscipere vulpes zelus.</p></div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/153" rel="tag" title="Adipiscing Neo Pneum">Read more<span class="element-invisible"> about Adipiscing Neo Pneum</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/153%23comment-form">Log in</a> or <a href="/user/register?destination=node/153%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-390" class="node node-article node-promoted node-teaser clearfix" about="/node/390" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/390">Ad Cogo Luctus</a>
+    </h2>
+    <span property="dc:title" content="Ad Cogo Luctus" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2019-03-29T04:55:47-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/40" typeof="sioc:UserAccount" property="foaf:name" datatype="">xruwcjmgdt1978</span> on Fri, 03/29/2019 - 04:55</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="og:image rdfs:seeAlso" resource="https://coreservices.win/sites/default/files/styles/medium/public/field/image/imagefield_2hdCn8.png?itok=a1BTOk9V"><a href="/node/390"><img typeof="foaf:Image" src="https://coreservices.win/sites/default/files/styles/medium/public/field/image/imagefield_2hdCn8.png?itok=a1BTOk9V" width="220" height="174" alt="Cogo eum facilisis modo veniam vicis." title="Damnum eu exputo natu suscipit venio wisi." /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Augue dolor iustum lenis rusticus vel voco. Capto erat gemino obruo praemitto quidem quis si valde. Adipiscing genitus gravis jugis natu nutus sit tego vulputate. Bene enim et hendrerit in macto quia quis scisco secundum. Consectetuer consequat esca quadrum. Decet dignissim ut utrum wisi.</p></div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/390" rel="tag" title="Ad Cogo Luctus">Read more<span class="element-invisible"> about Ad Cogo Luctus</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/390%23comment-form">Log in</a> or <a href="/user/register?destination=node/390%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-228" class="node node-page node-promoted node-teaser clearfix" about="/node/228" typeof="foaf:Document">
+
+        <h2>
+      <a href="/node/228">Abdo Quae</a>
+    </h2>
+    <span property="dc:title" content="Abdo Quae" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Camur duis eu sed velit. Exputo ratis sudo tamen. Acsi illum neque valde. Abdo meus praesent venio. Abluo elit enim gilvus premo vel.</p>
+<p>Abico bene causa cui exputo pagus probo vereor. Erat interdico praesent ratis rusticus te. Inhibeo mos utinam velit. Diam dignissim distineo importunus melior roto tego vicis. Metuo os pertineo. Adipiscing aliquam commodo consequat ea facilisis quae veniam vindico.</p></div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first last"><a href="/node/228" rel="tag" title="Abdo Quae">Read more<span class="element-invisible"> about Abdo Quae</span></a></li>
+</ul>    </div>
+  
+  
+</div>
+<h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/node?page=1">2</a></li>
+<li class="pager-item"><a title="Go to page 3" href="/node?page=2">3</a></li>
+<li class="pager-item"><a title="Go to page 4" href="/node?page=3">4</a></li>
+<li class="pager-item"><a title="Go to page 5" href="/node?page=4">5</a></li>
+<li class="pager-item"><a title="Go to page 6" href="/node?page=5">6</a></li>
+<li class="pager-item"><a title="Go to page 7" href="/node?page=6">7</a></li>
+<li class="pager-item"><a title="Go to page 8" href="/node?page=7">8</a></li>
+<li class="pager-item"><a title="Go to page 9" href="/node?page=8">9</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-next"><a title="Go to next page" href="/node?page=1">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/node?page=24">last »</a></li>
+</ul></div>  </div>
+</div>
+  </div>
+      <a href="/rss.xml" class="feed-icon" title="Subscribe to Ari RSS"><img typeof="foaf:Image" src="https://coreservices.win/misc/feed.png" width="16" height="16" alt="Subscribe to Ari RSS" /></a>
+    </div></div> <!-- /.section, /#content -->
+
+    
+  </div></div> <!-- /#main, /#main-wrapper -->
+
+  
+  <div id="footer-wrapper"><div class="section">
+
+    
+          <div id="footer" class="clearfix">
+          <div class="region region-footer">
+    <div id="block-system-powered-by" class="block block-system">
+
+    
+  <div class="content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+</div>
+  </div>
+      </div> <!-- /#footer -->
+    
+  </div></div> <!-- /.section, /#footer-wrapper -->
+
+</div></div> <!-- /#page, /#page-wrapper -->
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"62b676d2c6","applicationID":"34863386","transactionName":"YwEGNhQFXkIEWhVZV1pLJQESDV9fSlcOVF1rFAUFAztUVANYFFxM","queueTime":0,"applicationTime":80,"atts":"T0YFQFwfTUw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="shortcut icon" href="https://ecologicaldata.org/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="HandheldFriendly" content="true" />
+<link rel="shortlink" href="/node/1" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/home" />
+<meta name="MobileOptimized" content="width" />
+  <title>Welcome to the Ecological Data Wiki | Ecological Data Wiki</title>
+  <link type="text/css" rel="stylesheet" href="https://ecologicaldata.org/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://ecologicaldata.org/sites/default/files/css/css_W1fUVsEFw1berI8IVulBcf2HS0KRnZc-eXdpXS3fD1I.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://ecologicaldata.org/sites/default/files/css/css_r5MFSC9r4Wj8mMQoHm4P-CCgiJYU8vFq9RbUGMmHn00.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://ecologicaldata.org/sites/default/files/css/css_zaOco2G8k_Y9ZPkHcPipwrYE0eu9i_I-umrYSytTB3U.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://ecologicaldata.org/sites/default/files/css/css_PxDfCREqxDBsQ4FBad7K2RaGUts3Qea2WJTGvx4y9DE.css" media="all" />
+
+<!--[if (lt IE 9)]>
+<link type="text/css" rel="stylesheet" href="https://ecologicaldata.org/sites/all/themes/datawiki/css/ie8.css?pcpml5" media="all" />
+<![endif]-->
+
+    
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="https://ecologicaldata.org/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script type="text/javascript" src="https://ecologicaldata.org/sites/default/files/js/js_CC-zfeuQHcDhFtVRuKW53h30TL7j_105J32Nz8b8R38.js"></script>
+<script type="text/javascript" src="https://ecologicaldata.org/sites/default/files/js/js_oAfqXa2DIpUo7OsSlNsm_nI5oFs7NL4fMl1iZhnW5K8.js"></script>
+<script type="text/javascript" src="https://ecologicaldata.org/sites/default/files/js/js_gPqjYq7fqdMzw8-29XWQIVoDSWTmZCGy9OqaHppNxuQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-13038799-4", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) { 
+		$(window).scroll(function() {
+			if($(this).scrollTop() != 0) {
+				$("#toTop").fadeIn();	
+			} else {
+				$("#toTop").fadeOut();
+			}
+		});
+		
+		$("#toTop").click(function() {
+			$("body,html").animate({scrollTop:0},800);
+		});	
+		
+		});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) {
+		$(window).scroll(function() {
+			if($(this).scrollTop() != 0) {
+				$("#toTop").fadeIn();
+			} else {
+				$("#toTop").fadeOut();
+			}
+		});
+
+		$("#toTop").click(function() {
+			$("body,html").animate({scrollTop:0},800);
+		});
+
+		});
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://ecologicaldata.org/sites/default/files/js/js_RlK8NXOxi34gEQ93Akm867JOY8TT_gJqUBMKIQ-zSQY.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"datawiki","theme_token":"4q1O94pPNZcc3MtDNJnP4t8dGyK-NIQgG8pzOJ0Ga40","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"sites\/all\/modules\/collapsiblock\/collapsiblock.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"1":1,"2":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/collapsiblock\/collapsiblock.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/content_type_extras\/css\/content_type_extras.css":1,"\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.2.0\/css\/bootstrap.min.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-smallscreen.css":1,"sites\/all\/themes\/bootstrap_business\/css\/style.css":1,"sites\/all\/themes\/datawiki\/color\/colors.css":1,"sites\/all\/themes\/bootstrap_business\/css\/local.css":1,"sites\/all\/themes\/datawiki\/css\/dwcustom.css":1,"sites\/all\/themes\/datawiki\/css\/ie8.css":1}},"collapsiblock":{"blocks":{"block-facetapi-lfqs1z26afrulcjtowcycks0fytwnli7":"2","block-facetapi-rklm4m5nhlwan0dis47kj0qu6cgmhmip":"2","block-facetapi-1xe7bsg2sc1zgnsq45w0zoz9fjoic1fu":"2","block-facetapi-kvthphkkonfkyi9g0bbk9ibyahsiskby":"2","block-facetapi-tm68v38af2z8hargnuqevpricesmdczv":"2","block-facetapi-wymb1sddnptue14w891evblot0gd1zdo":"2","block-block-8":"1"},"default_state":1,"slide_type":1,"slide_speed":200,"block_title":":header:first","block":"div.block","block_content":"div.content"},"better_exposed_filters":{"views":{"recent_revisions":{"displays":{"block":{"filters":[]}}}}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|deb|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show"},"speed":"fast","autoArrows":false},"plugins":{"smallscreen":{"mode":"window_width","breakpointUnit":"px","title":"\u0026#x2261;"},"supposition":true,"supersubs":true}}},"urlIsAjaxTrusted":{"\/":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-1 node-type-page" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="toTop"><span class="glyphicon glyphicon-chevron-up"></span></div>
+
+
+
+
+<!-- header -->
+<header id="header" role="banner" class="clearfix">
+    <div class="container">
+
+        <!-- #header-inside -->
+        <div id="header-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+
+                
+                                <div id="site-name">
+                <a href="/" title="Home">Ecological Data Wiki</a>
+                </div>
+                
+                
+                
+
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #header-inside -->
+
+    </div>
+</header>
+<!-- EOF: #header -->
+
+<!-- #main-navigation -->
+<div id="main-navigation" class="clearfix">
+    <div class="container">
+
+        <!-- #main-navigation-inside -->
+        <div id="main-navigation-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                    <nav role="navigation">
+                                                  <div class="region region-navigation">
+    <div id="block-block-8" class="block block-block clearfix clearfix">
+
+    <h2>Welcome back, data wiki users</h2>
+  
+  <div class="content">
+    <p>The Ecological Data Wiki has been updated to a newer version of Drupal.  If you are a returning user, you may need to <a href="/user/password">request a new password</a> to log in.</p>  </div>
+</div>
+<div id="block-superfish-1" class="block block-superfish clearfix clearfix">
+
+    
+  <div class="content">
+    <ul  id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-5 sf-parent-items-2 sf-single-items-3"><li id="menu-928-1" class="active-trail first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/home" title="Main page for Ecological Data" class="sf-depth-1 active">Home</a></li><li id="menu-718-1" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="/find-data" title="Find datasets that fit your needs" class="sf-depth-1">Find Data</a></li><li id="menu-2535-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="/getting-started" title="Tutorials on using EcologicalData.org" class="sf-depth-1 menuparent">Getting Started</a><ul><li id="menu-2791-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/getting-started" title="" class="sf-depth-2">Tutorials</a></li><li id="menu-2852-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/user/register" title="Create an account" class="sf-depth-2">Sign up</a></li><li id="menu-2850-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="/frequently-asked-questions" title="Frequently asked questions" class="sf-depth-2">FAQ</a></li></ul></li><li id="menu-2792-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/help" title="" class="sf-depth-1 menuparent">Help</a><ul><li id="menu-2795-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="mailto:ecodatawiki@weecology.org" title="" class="sf-depth-2">Email support</a></li><li id="menu-2851-1" class="last even sf-item-2 sf-depth-2 sf-no-children"><a href="/about-ecologicaldataorg" title="About ecologicaldata.org" class="sf-depth-2">About</a></li></ul></li><li id="menu-8316-1" class="last odd sf-item-5 sf-depth-1 sf-no-children"><a href="/user/login" title="Login for registered users" class="sf-depth-1">Login</a></li></ul>  </div>
+</div>
+  </div>
+                                            </nav>
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #main-navigation-inside -->
+
+    </div>
+</div>
+<!-- EOF: #main-navigation -->
+
+
+<!-- #page -->
+<div id="page" class="clearfix">
+
+<!-- Remove top-content div for ecologicaldata.org
+ -->
+
+    <!-- #main-content -->
+    <div id="main-content">
+        <div class="container">
+
+            <!-- #messages-console -->
+                        <!-- EOF: #messages-console -->
+
+            <div class="row">
+
+                
+
+                <section class="col-md-8">
+
+                    <!-- #main -->
+                    <div id="main" class="clearfix">
+
+                        
+                        
+                        <!-- EOF:#content-wrapper -->
+                        <div id="content-wrapper">
+
+                                                                                    <h1 class="page-title">Welcome to the Ecological Data Wiki</h1>
+                                                        
+                            
+                            <!-- #tabs -->
+                                                            <div class="tabs">
+                                <h2 class="element-invisible">Primary tabs</h2><ul class="tabs primary"><li class="active"><a href="/home" class="active">View<span class="element-invisible">(active tab)</span></a></li>
+<li><a href="/node/1/revisions">Revisions</a></li>
+</ul>                                </div>
+                                                        <!-- EOF: #tabs -->
+
+                            <!-- #action links -->
+                                                        <!-- EOF: #action links -->
+
+                              <div class="region region-content">
+    <div id="block-system-main" class="block block-system clearfix clearfix">
+
+    
+  <div class="content">
+    <article id="node-1" class="node node-page clearfix">
+
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h4><span style="color: #af0000;">Ecological data is everywhere, but how do you find what you need and learn how to use it?</span></h4>
+<h4><span style="color: #af0000;">The Data Wiki helps scientists collaborate on gathering information about data and how to use it.</span></h4>
+<p>The site is a source for finding ecological datasets and quickly figuring out the best ways to use them. The idea is to use the collaborative knowledge and effort of the entire ecological community to compile this information rather than relying on each scientist to contribute information for their own studies. Just think of it as the Wikipedia of ecology data.</p>
+<h4><span style="color: #af0000;">How is the Ecological Data Wiki different?</span></h4>
+<p>There are lots of great efforts to help organize ecology’s data. We think there are three things that set us apart:</p>
+<ol><li><strong>Crowdsourced and open.</strong> We want to leverage the combined knowledge and effort of the entire ecological community. You don’t need your own data, or a fancy computing node, just an interest in helping out.</li>
+<li><strong>A focus on how to work with the data once you have it.</strong> Metadata that computers can work with is great, but ecological datasets are so diverse that working with them well requires expert knowledge and experience that a computer just can’t give you. We let the pros tell you what to do, and what traps to avoid.</li>
+<li><strong>Simplicity.</strong> The site is designed to be as simple and intuitive as possible. No advanced training needed.</li>
+</ol><p>Take a look around and if you think you can be of help please <strong><a href="/user/register">sign up</a></strong>, learn how to <strong><a href="getting-started">get started</a></strong>, and contribute.</p>
+</div></div></div>  </div>
+    
+     
+
+  
+</article>  </div>
+</div>
+  </div>
+                            
+                        </div>
+                        <!-- EOF:#content-wrapper -->
+
+                    </div>
+                    <!-- EOF:#main -->
+
+                </section>
+
+                                <aside class="col-md-4">
+                    <!--#sidebar-second-->
+                    <section id="sidebar-second" class="sidebar clearfix">
+                      <div class="region region-sidebar-second">
+    <div id="block-search-form" class="block block-search clearfix clearfix">
+
+    
+  <div class="content">
+    <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+<input onblur="if (this.value == &#039;&#039;) {this.value = &#039;Search datasets&#039;;}" onfocus="if (this.value == &#039;Search datasets&#039;) {this.value = &#039;&#039;;}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search datasets" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input value=" " type="submit" id="edit-submit" name="op" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-7DU0d78NT_f4UOybWJqLyHy2O7PMIMHPecDFjo7sHY0" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-comment-recent" class="block block-comment clearfix clearfix">
+
+    <h2>Recent comments</h2>
+  
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="/comment/215#comment-215">Dan - yes, you&#039;re right about</a>&nbsp;<span>2 years 8 months ago</span></li>
+<li><a href="/comment/214#comment-214">I noticed that using the</a>&nbsp;<span>2 years 9 months ago</span></li>
+<li class="last"><a href="/comment/213#comment-213">Thanks for the report! This</a>&nbsp;<span>3 years 2 months ago</span></li>
+</ul></div>  </div>
+</div>
+<div id="block-views-recent-revisions-block" class="block block-views clearfix clearfix">
+
+    <h2>Recent dataset updates</h2>
+  
+  <div class="content">
+    <div class="view view-recent-revisions view-id-recent_revisions view-display-id-block view-dom-id-ad052d38b3b1e9d29cf9c6f1b4c46c86">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-title">        <span class="field-content">Breeding Bird Survey of North America</span>  </div>  
+  <div class="views-field views-field-link-to-revision">        <span class="field-content"><a href="/wiki/breeding-bird-survey-north-america?destination=node/1">Updated the "raw data" link to go to the page that provides both FTP and Retriever options. Previous link went to a BBS main page</a></span>  </div>  
+  <div class="views-field views-field-timestamp">        <span class="field-content"><em class="placeholder">9 months 2 weeks</em> ago</span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content">A global database of ant species abundances</span>  </div>  
+  <div class="views-field views-field-link-to-revision">        <span class="field-content"><a href="/node/609?destination=node/1">[no log message]</a></span>  </div>  
+  <div class="views-field views-field-timestamp">        <span class="field-content"><em class="placeholder">2 years 6 months</em> ago</span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">  
+  <div class="views-field views-field-title">        <span class="field-content"> Global Plant Biodiversity in the Anthropocene </span>  </div>  
+  <div class="views-field views-field-link-to-revision">        <span class="field-content"><a href="/node/608?destination=node/1">formatting
+</a></span>  </div>  
+  <div class="views-field views-field-timestamp">        <span class="field-content"><em class="placeholder">3 years 4 months</em> ago</span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-menu-menu-links" class="block block-menu clearfix clearfix">
+
+    <h2>Links</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="http://data-retriever.org" title="Quickly download and install many of the datasets described on the Ecological Data Wiki">Data Retriever</a></li>
+<li class="leaf"><a href="/new-datasets/feed" title="">RSS Feed - New Datasets</a></li>
+<li class="leaf"><a href="/recent-updates/feed" title="">RSS Feed - Updated Datasets</a></li>
+<li class="last leaf"><a href="/recent-comments/feed" title="">RSS Feed - Commented on Datasets</a></li>
+</ul>  </div>
+</div>
+  </div>
+                    </section>
+                    <!--EOF:#sidebar-second-->
+                </aside>
+                
+            </div>
+
+        </div>
+    </div>
+    <!-- EOF:#main-content -->
+
+    
+</div>
+<!-- EOF:#page -->
+
+
+<footer id="subfooter" class="clearfix">
+    <div class="container">
+
+        <!-- #subfooter-inside -->
+        <div id="subfooter-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                    <!-- #subfooter-left -->
+                    <div class="subfooter-area">
+
+                                          <div class="region region-footer">
+    <div id="block-block-7" class="block block-block clearfix clearfix">
+
+    
+  <div class="content">
+    <div class="row">
+<div class="col-md-4">
+<h3><a href="/infrastructure">Infrastructure</a></h3>
+<li style="list-style-type: none;"><a href="http://www.drupal.org">Powered by Drupal</a>
+</li>
+<li style="list-style-type: none;"><a href="https://pantheon.io">Hosted by Pantheon</a>
+</li>
+</div>
+<div class="col-md-4">
+<p><a href="http://creativecommons.org/licenses/by/3.0/"><img src="/sites/default/files/by.svg" style="display: block; margin: 1em auto 0;" /></a>This work is licensed under a <br /><a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0<br />Unported License.</a>
+</p></div>
+<div class="col-md-4">
+<h3><a href="/sponsors">Sponsors</a></h3>
+<li style="list-style-type: none;"><a href="http://www.nsf.gov">National Science Foundation</a>
+</li>
+<li style="list-style-type: none;"><a href="http://weecology.org">A Weecology Production</a>
+</li>
+</div>
+</div>
+  </div>
+</div>
+  </div>
+                    
+                    </div>
+                    <!-- EOF: #subfooter-left -->
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #subfooter-inside -->
+
+    </div>
+</footer>
+<!-- EOF:#subfooter -->
+  </body>
+</html>

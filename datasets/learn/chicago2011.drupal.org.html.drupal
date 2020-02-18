@@ -1,0 +1,582 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>DrupalCon Chicago March 7-10 2011 | Drupal is Everywhere!</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="sites/all/themes/conchicago/favicon.ico" type="image/x-icon" />
+  <link type="text/css" rel="stylesheet" media="all" href="sites/default/files/css/css_9743f5eeb0c86907a2a05d3b5f767d9e.css" />
+<link type="text/css" rel="stylesheet" media="print" href="sites/default/files/css/css_e472d248c82f7c964b16b86b3cf22d58.css" />
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/conchicago/css/ie.css?r" />
+<![endif]-->
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/conchicago/css/ie7.css?r" />
+<![endif]-->
+  
+  
+  
+
+</head>
+<body class="page front not-logged-in node-type-page no-sidebars">
+
+  <div id="skip-link">
+    <a href="index.html#main-content">Skip to main content</a>
+  </div>
+
+  <div id="page-wrapper"><div id="page">
+
+    <div id="header"><div class="section clearfix">
+
+              <a href="index.html" title="Home" rel="home" id="logo"><img src="sites/all/themes/conchicago/logo.png" alt="Home" /></a>
+      
+              <div id="name-and-slogan" class="element-invisible">
+                                    <div id="site-name"><strong>
+                <a href="index.html" title="Home" rel="home"><span>DrupalCon Chicago March 7-10 2011</span></a>
+              </strong></div>
+                      
+                      <div id="site-slogan">Drupal is Everywhere!</div>
+                  </div> <!-- /#name-and-slogan -->
+      
+      <div class="region region-header">
+  <div id="block-views-chicago_news-block_2" class="block title-element-invisible block-views region-odd odd region-count-1 count-5">
+      <h2 class="block-title">Important news</h2>
+  
+  <div class="content">
+    <div class="view view view-chicago-news view-id-chicago_news view-display-id-block_2 view-dom-id-2 view-chicago-news view-id-chicago_news view-display-id-block_2 view-dom-id-2">
+  
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field-field-lede-announcement-value">
+                <span class="field-content"></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> <!-- /.view -->
+  </div>
+
+  </div> <!-- /.block -->
+<div id="block-menu_block-chicago-secondary" class="block title-element-invisible block-menu_block region-even even region-count-2 count-6">
+      <h2 class="block-title">Secondary (twitter/contact) menu</h2>
+  
+  <div class="content">
+    <div class="menu_block_wrapper menu-block-chicago-secondary menu-name-secondary-links parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="leaf first last menu-mlid-4099"><a href="http://twitter.com/drupalcon" title="">Follow Us</a></li>
+</ul></div>
+  </div>
+
+  </div> <!-- /.block -->
+</div> <!-- /.region -->
+
+    </div></div> <!-- /.section, /#header -->
+
+    <div id="main-wrapper"><div id="main"><div id="main-inner" class="clearfix">
+      <div id="content" class="column"><div class="section">
+        <div class="content-header">
+          
+            
+                              <a name="main-content" id="main-content"></a>
+                      <h1 class="title">Drupal is Everywhere!</h1>
+                                                </div>
+        
+                
+        <div class="content-inner">
+  
+            
+          <div id="content-area">
+            <div id="node-174" class="node node-type-page clearfix">
+  
+  
+  
+  
+  <div class="content">
+    <p>In March of 2011, thousands of Drupal users, developers, designers, evaluators and businesspeople will descend on Chicago's Sheraton Hotel and Towers for sessions, talks, code sprints, and more at DrupalCon Chicago.  Whether you're already using Drupal or considering it for your company or organization, you won't want to miss out on this one-of-a-kind event.</p>
+  </div>
+
+  
+</div> <!-- /.node -->
+          </div>
+  
+            
+                  
+        </div><!-- /.content-inner -->
+
+      </div></div> <!-- /.section, /#content -->
+
+              <div id="navigation"><div class="section clearfix">
+
+          <div class="region region-navigation">
+  <div id="block-menu_block-chicago-main" class="block title-element-invisible block-menu_block region-odd odd region-count-1 count-7">
+      <h2 class="block-title">Main menu</h2>
+  
+  <div class="content">
+    <div class="menu_block_wrapper menu-block-chicago-main menu-name-primary-links parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="expanded first menu-mlid-11814"><span title="" class="menu-item-container" tabindex="0"><span class="element-invisible">Conference</span></span><ul><li><ul class="menu"><li class="leaf first menu-mlid-1299"><a href="about-drupalcon" title="Overview">About DrupalCon</a></li>
+<li class="leaf menu-mlid-3754"><a href="training.1" title="">Pre-Conference Training</a></li>
+<li class="leaf menu-mlid-16554"><a href="schedule.1" title="">Session Schedule</a></li>
+<li class="leaf menu-mlid-12354 has-children"><a href="sessions/index.html" title="">Session List</a></li>
+<li class="leaf menu-mlid-11854"><a href="keynotes" title="Keynotes">Keynotes</a></li>
+<li class="leaf menu-mlid-11884 has-children"><a href="schedule/core" title="Core Conversations"><span class="tab">Core Conversations</span></a></li>
+<li class="leaf menu-mlid-12659"><a href="schedule/day-stage" title="Day Stage"><span class="tab">Day Stage</span></a></li></ul></li><li><ul class="menu">
+<li class="leaf menu-mlid-12889"><a href="drupal-means-business" title="Drupal Means Business">Drupal Means Business</a></li>
+<li class="leaf menu-mlid-18069"><a href="conference/bofs.1" title="">Birds of a Feather</a></li>
+<li class="leaf menu-mlid-17469"><a href="sprints" title="Sprints">Sprints and Coder Lounges</a></li>
+<li class="leaf menu-mlid-11909"><a href="conference/schedule" title="Event Schedule">Event Schedule</a></li>
+<li class="leaf menu-mlid-12634"><a href="tickets-and-registration" title="Tickets and Registration">Tickets and Registration</a></li>
+<li class="leaf last menu-mlid-1079 has-children"><a href="sponsors.1">Sponsors</a></li>
+</ul></li></ul></li>
+<li class="expanded menu-mlid-11819"><span title="" class="menu-item-container" tabindex="0"><span class="element-invisible">Community</span></span><ul><li><ul class="menu"><li class="leaf first menu-mlid-1294"><a href="about-drupal-community" title="Overview">About the Drupal Community</a></li>
+<li class="leaf menu-mlid-1089"><a href="news.1" title="Updates and news about the event">News</a></li>
+<li class="leaf menu-mlid-1304"><a href="forum.1" title="">Forum</a></li>
+<li class="leaf menu-mlid-2099 has-children"><a href="scholarships.1" title="Scholarships">Scholarships</a></li></ul></li><li><ul class="menu">
+<li class="leaf menu-mlid-16149"><a href="attendees" title="">Attendees</a></li>
+<li class="leaf menu-mlid-13034"><a href="put-badge-your-site" title="Put a Badge on Your Site">Put a Badge on Your Site</a></li>
+<li class="leaf last menu-mlid-12599"><a href="volunteer" title="Volunteer">Volunteer</a></li>
+</ul></li></ul></li>
+<li class="expanded last menu-mlid-11824"><span title="" class="menu-item-container" tabindex="0"><span class="element-invisible">Chicago</span></span><ul><li><ul class="menu"><li class="leaf first menu-mlid-4154"><a href="chicago.1" title="Overview">DrupalCon and Chicago</a></li>
+<li class="leaf menu-mlid-10394"><a href="chicago/entertainment" title="">Parties and Entertainment</a></li>
+<li class="leaf menu-mlid-12134"><a href="chicago/drupal-tower" title="Accomodations">Accomodations</a></li></ul></li><li><ul class="menu">
+<li class="leaf menu-mlid-12119"><a href="chicago/drupalgangers" title="Activities for Significant Others and Companions">Activities for Companions</a></li>
+<li class="leaf last menu-mlid-12144"><a href="chicago/travel" title="Travel Arrangements and Directions">Travel Arrangements and Directions</a></li>
+</ul></li></ul></li>
+</ul></div>
+  </div>
+
+  </div> <!-- /.block -->
+</div> <!-- /.region -->
+
+        </div></div> <!-- /.section, /#navigation -->
+            
+      <div class="region region-sub-header">
+        <div id="block-chicago-buy-tickets" class="block title-element-invisible block-chicago region-odd odd region-count-1 count-13">
+  
+  <div class="content">
+    <!-- -->  </div>
+
+  </div> <!-- /.block -->
+        <div id="block-views-sponsors-block_1" class="block block-views region-even even region-count-2 count-14">
+      <h2 class="block-title">Diamond Sponsors</h2>
+  
+  <div class="content">
+    <div class="view view view-sponsors view-id-sponsors view-display-id-block_1 columns-3 view-dom-id-6 view-sponsors view-id-sponsors view-display-id-block_1 view-dom-id-6">
+  
+      <div class="view-header">
+      <div class="become-a-sponsor">&nbsp;</div>
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <table class="views-view-grid">
+  <tbody>
+                <tr class="row-1 row-first row-last">
+                  <td class="col-1">
+              
+  <div class="views-field-field-logo-fid">
+                <span class="field-content"><a href="sponsors/acquia" title="Acquia"><img src="sites/default/files/imagecache/columns-3--region-sidebar_first/sponsors/acquia-logo-med_0.gif" alt="" title=""  class="imagecache imagecache-columns-3--region-sidebar_first imagecache-default imagecache-columns-3--region-sidebar_first_default" width="70" height="22" /></a></span>
+  </div>
+          </td>
+                  <td class="col-2">
+              
+  <div class="views-field-field-logo-fid">
+                <span class="field-content"><a href="sponsors/vps-net" title="VPS.net"><img src="sites/default/files/imagecache/columns-3--region-sidebar_first/sponsors/vpsnet.gif" alt="VPS NET" title=""  class="imagecache imagecache-columns-3--region-sidebar_first imagecache-default imagecache-columns-3--region-sidebar_first_default" width="70" height="19" /></a></span>
+  </div>
+          </td>
+                  <td class="col-3">
+              
+  <div class="views-field-field-logo-fid">
+                <span class="field-content"><a href="sponsors/palantir-net" title="Palantir.net"><img src="sites/default/files/imagecache/columns-3--region-sidebar_first/sponsors/palantir_0.png" alt="Palantir.net" title=""  class="imagecache imagecache-columns-3--region-sidebar_first imagecache-default imagecache-columns-3--region-sidebar_first_default" width="53" height="53" /></a></span>
+  </div>
+          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> <!-- /.view -->
+  </div>
+
+  </div> <!-- /.block -->
+      </div>
+
+      
+    </div></div></div> <!-- /#main-inner, /#main, /#main-wrapper -->
+
+    <div class="region region-sponsors"><div class="section">
+  <div id="block-views-sponsors-block_2" class="block block-views region-odd even region-count-1 count-8">
+      <h2 class="block-title">Platinum sponsors</h2>
+  
+  <div class="content">
+    <div class="view view view-sponsors view-id-sponsors view-display-id-block_2 columns-6 view-dom-id-3 view-sponsors view-id-sponsors view-display-id-block_2 view-dom-id-3">
+  
+      <div class="view-header">
+      <div class="become-a-sponsor">&nbsp;</div>
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <table class="views-view-grid">
+  <tbody>
+                <tr class="row-1 row-first row-last">
+                  <td class="col-1">
+              
+  <div class="views-field-field-logo-fid">
+                <span class="field-content"><a href="sponsors/phase2-technology" title="Phase2 Technology"><img src="sites/default/files/imagecache/columns-6--region-footer/sponsors/phase2_logo_stacked.png" alt="" title=""  class="imagecache imagecache-columns-6--region-footer imagecache-default imagecache-columns-6--region-footer_default" width="119" height="52" /></a></span>
+  </div>
+          </td>
+                  <td class="col-2">
+              
+  <div class="views-field-field-logo-fid">
+                <span class="field-content"><a href="sponsors/pantheon" title="Pantheon"><img src="sites/default/files/imagecache/columns-6--region-footer/sponsors/PantheonLogoWhite_01.png" alt="" title=""  class="imagecache imagecache-columns-6--region-footer imagecache-default imagecache-columns-6--region-footer_default" width="119" height="28" /></a></span>
+  </div>
+          </td>
+                  <td class="col-3">
+              
+  <div class="views-field-field-logo-fid">
+                <span class="field-content"><a href="sponsors/trellon" title="Trellon"><img src="sites/default/files/imagecache/columns-6--region-footer/sponsors/trellon_logo.png" alt="Trellon" title=""  class="imagecache imagecache-columns-6--region-footer imagecache-default imagecache-columns-6--region-footer_default" width="119" height="64" /></a></span>
+  </div>
+          </td>
+                  <td class="col-4">
+              
+  <div class="views-field-field-logo-fid">
+                <span class="field-content"><a href="sponsors/workhabit" title="workhabit"><img src="sites/default/files/imagecache/columns-6--region-footer/sponsors/workhabit-logo.png" alt="workhabit" title=""  class="imagecache imagecache-columns-6--region-footer imagecache-default imagecache-columns-6--region-footer_default" width="119" height="34" /></a></span>
+  </div>
+          </td>
+                  <td class="col-5">
+                      </td>
+                  <td class="col-6">
+                      </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> <!-- /.view -->
+  </div>
+
+  </div> <!-- /.block -->
+</div></div> <!-- /.section, /.region -->
+
+          <div id="lower-wrapper"><div id="lower"><div id="lower-inner" class="clearfix">
+
+        <div class="region region-content-lower">
+  <div id="block-views-chicago_news-block_1" class="block block-views region-odd even region-count-1 count-10">
+      <h2 class="block-title">Fresh news</h2>
+  
+  <div class="content">
+    <div class="view view view-chicago-news view-id-chicago_news view-display-id-block_1 view-dom-id-5 view-chicago-news view-id-chicago_news view-display-id-block_1 view-dom-id-5">
+  
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div id="node-4819" class="node node-type-news node-promoted node-teaser clearfix">
+  
+      <h2 class="title"><a href="live">DrupalCon Chicago Live Streaming Video: Jared Spool</a></h2>
+  
+  
+      <div class="meta">
+              <span class="submitted">
+          Posted by <a href="user/gdemet" title="View user profile.">George DeMet</a> on March 10, 2011        </span>
+      
+          </div>
+  
+  <div class="content">
+    <!-- Start of Brightcove Player --><!-- Start of Brightcove Player --><div style="display:none">
+</div>
+<!--
+By use of this code snippet, I agree to the Brightcove Publisher T and C 
+found at <a href="https://accounts.brightcove.com/en/terms-and-conditions/" title="https://accounts.brightcove.com/en/terms-and-conditions/">https://accounts.brightcove.com/en/terms-and-conditions/</a>. 
+--><!--
+By use of this code snippet, I agree to the Brightcove Publisher T and C 
+found at <a href="https://accounts.brightcove.com/en/terms-and-conditions/" title="https://accounts.brightcove.com/en/terms-and-conditions/">https://accounts.brightcove.com/en/terms-and-conditions/</a>. 
+--><object id="myExperience" class="BrightcoveExperience">
+  <param name="bgcolor" value="#FFFFFF" />
+  <param name="width" value="520" />
+  <param name="height" value="550" />
+  <param name="playerID" value="815526850001" />
+  <param name="playerKey" value="AQ~~,AAAAuFIGwck~,XYSambmH7yQy5qsqKiB8LMW_4ai17Hq6" />
+  <param name="isVid" value="true" />
+  <param name="isUI" value="true" />
+  <param name="dynamicStreaming" value="true" />
+  
+</object><!-- 
+This script tag will cause the Brightcove Players defined above it to be created as soon
+as the line is read by the browser. If you wish to have the player instantiated only after
+the rest of the HTML is processed and the page load is complete, remove the line.
+--><!-- 
+This script tag will cause the Brightcove Players defined above it to be created as soon
+as the line is read by the browser. If you wish to have the player instantiated only after
+the rest of the HTML is processed and the page load is complete, remove the line.
+--><!-- End of Brightcove Player --><!-- End of Brightcove Player -->  </div>
+
+      <div class="node-links">
+      <ul class="links inline"><li class="comment_comments first"><a href="live#comments" title="Jump to the first comment of this posting.">13 comments</a></li>
+<li class="node_read_more last"><a href="live" title="Read the rest of DrupalCon Chicago Live Streaming Video: Jared Spool.">Read more</a></li>
+</ul>    </div>
+  
+</div> <!-- /.node -->
+  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+    <div id="node-10639" class="node node-type-news node-promoted node-teaser clearfix">
+  
+      <h2 class="title"><a href="news/looking-taste-drupal-come-drupal-means-business">Looking for a Taste of Drupal? Come to Drupal Means Business!</a></h2>
+  
+  
+      <div class="meta">
+              <span class="submitted">
+          Posted by <a href="user/gdemet" title="View user profile.">George DeMet</a> on March 9, 2011        </span>
+      
+          </div>
+  
+  <div class="content">
+    <p>If you're not attending DrupalCon Chicago, but live in the Chicago area and are curious to find out what it's all about, we have a great opportunity for you!  </p>
+<p>Tickets are on sale now for Drupal Means Business, a special DrupalCon event on March 10 that's designed to help you learn more about Drupal and how it can help your company or organization.  Think of it as a way to get a taste for DrupalCon without making the full conference commitment.  </p>
+<p>If you're considering Drupal for your next project, it's also a great way to meet some of the leading firms in the Drupal business ecosystem and find out how Drupal is used to solve real-world business problems every day.</p>
+<p>Attendees will get full access to the DrupalCon Chicago Exhibit Hall and the opportunity to hear from Drupal project founder Dries Buytaert, in addition to a full program of business-oriented Drupal content and a live simulcast of Thursday's keynote presentation by Jared Spool.</p>
+<p>Tickets for Drupal Means Business are only $50 and include lunch.  You can purchase yours on-site at the Chicago Sheraton Hotel and Towers on March 10.  Just look for the DrupalCon Registration Desk.</p>
+  </div>
+
+      <div class="node-links">
+      <ul class="links inline"><li class="comment_comments first"><a href="news/looking-taste-drupal-come-drupal-means-business#comments" title="Jump to the first comment of this posting.">3 comments</a></li>
+<li class="node_read_more last"><a href="news/looking-taste-drupal-come-drupal-means-business" title="Read the rest of Looking for a Taste of Drupal? Come to Drupal Means Business!.">Read more</a></li>
+</ul>    </div>
+  
+</div> <!-- /.node -->
+  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="news.1">
+    News Archive  </a>
+</div>
+  
+  
+  
+</div> <!-- /.view -->
+  </div>
+
+  </div> <!-- /.block -->
+</div> <!-- /.region -->
+
+        <div class="region region-sidebar-lower column sidebar">
+  <div id="block-block-49" class="block block-block region-odd odd region-count-3 count-3">
+      <h2 class="block-title">Download the Mobile App</h2>
+  
+  <div class="content">
+    <p><img src="sites/default/files/attachment/iphone-icon.png" style="float:left;padding-right: 4px;padding-bottom: 2px;" />View maps, schedule information, speaker bios and more all from the palm of your hand with the DrupalCon mobile app for <a href="http://itunes.apple.com/us/app/drupalcon/id421074805">iPhone</a> and <a href="https://market.android.com/details?id=net.palantir.drupalcon">Android</a>.</p>
+  </div>
+
+  </div> <!-- /.block -->
+ <div id="block-block-44" class="block block-block region-even even region-count-4 count-4">
+      <h2 class="block-title">What&#039;s Happening</h2>
+  
+  <div class="content">
+    <p><strong>Sunday, March 6</strong></p>
+<ul>
+<li>Badge Pickup and On-Site Registration</li>
+</ul>
+<p><strong>Monday, March 7</strong></p>
+<ul>
+<li>Pre-Conference Training</li>
+<li>Exhibit Hall Opening Reception</li>
+<li>Badge Pickup and On-Site Registration</li>
+</ul>
+<p><strong>Tuesday, March 8</strong></p>
+<ul>
+<li>Dries Buytaert Keynote</li>
+<li>Sessions, Core Conversations, Birds of a Feather, and Day Stage</li>
+<li>Opening Night Party at the Field Museum</li>
+</ul>
+<p><strong>Wednesday, March 9</strong></p>
+<ul>
+<li>Clay Shirky Keynote</li>
+<li>Sessions, Core Conversations, Birds of a Feather, and Day Stage</li>
+</ul>
+<p><strong>Thursday, March 10</strong></p>
+<ul>
+<li>Jared Spool Keynote</li>
+<li>Drupal Means Business</li>
+<li>Sessions, Core Conversations, Birds of a Feather, and Day Stage</li>
+<li>Drupal Trivia Night</li>
+</ul>
+<p><strong>Friday, March 11</strong></p>
+<ul>
+<li>Sprints</li>
+</ul>
+  </div>
+
+  </div> <!-- /.block -->
+</div> <!-- /.region -->
+
+      </div></div></div> <!-- /#lower-inner, /#lower, /#lower-wrapper -->
+
+      <div class="region region-sponsors-lower"><div class="section">
+  <div id="block-views-sponsors-block_3" class="block block-views region-even odd region-count-2 count-9">
+      <h2 class="block-title">Gold Sponsors</h2>
+  
+  <div class="content">
+    <div class="view view view-sponsors view-id-sponsors view-display-id-block_3 columns-11 view-dom-id-4 view-sponsors view-id-sponsors view-display-id-block_3 view-dom-id-4">
+  
+      <div class="view-header">
+      <div class="become-a-sponsor">&nbsp;</div>
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <table class="views-view-grid">
+  <tbody>
+                <tr class="row-1 row-first row-last">
+                  <td class="col-1">
+              
+  <div class="views-field-field-logo-fid">
+                <span class="field-content"><a href="sponsors/four-kitchens" title="Four Kitchens"><img src="sites/default/files/imagecache/columns-11--region-footer/sponsors/four-kitchens-300px.png" alt="" title=""  class="imagecache imagecache-columns-11--region-footer imagecache-default imagecache-columns-11--region-footer_default" width="64" height="35" /></a></span>
+  </div>
+          </td>
+                  <td class="col-2">
+              
+  <div class="views-field-field-logo-fid">
+                <span class="field-content"><a href="sponsors/lullabot" title="Lullabot"><img src="sites/default/files/imagecache/columns-11--region-footer/sponsors/lullalogo_vertical.png" alt="" title=""  class="imagecache imagecache-columns-11--region-footer imagecache-default imagecache-columns-11--region-footer_default" width="45" height="48" /></a></span>
+  </div>
+          </td>
+                  <td class="col-3">
+              
+  <div class="views-field-field-logo-fid">
+                <span class="field-content"><a href="sponsors/hot-drupal" title="Hot Drupal"><img src="sites/default/files/imagecache/columns-11--region-footer/sponsors/hotdupal.png" alt="HotDrupal.com" title=""  class="imagecache imagecache-columns-11--region-footer imagecache-default imagecache-columns-11--region-footer_default" width="64" height="47" /></a></span>
+  </div>
+          </td>
+                  <td class="col-4">
+              
+  <div class="views-field-field-logo-fid">
+                <span class="field-content"><a href="sponsors/chapter-three" title="Chapter Three"><img src="sites/default/files/imagecache/columns-11--region-footer/sponsors/Chapter3Logo-Transparent-Big.png" alt="Chapter Three" title=""  class="imagecache imagecache-columns-11--region-footer imagecache-default imagecache-columns-11--region-footer_default" width="64" height="19" /></a></span>
+  </div>
+          </td>
+                  <td class="col-5">
+              
+  <div class="views-field-field-logo-fid">
+                <span class="field-content"><a href="sponsors/microsoft" title="Microsoft"><img src="sites/default/files/imagecache/columns-11--region-footer/sponsors/ms-logo_bL.png" alt="Microsoft" title=""  class="imagecache imagecache-columns-11--region-footer imagecache-default imagecache-columns-11--region-footer_default" width="64" height="10" /></a></span>
+  </div>
+          </td>
+                  <td class="col-6">
+              
+  <div class="views-field-field-logo-fid">
+                <span class="field-content"><a href="sponsors/treehouse-agency" title="Treehouse Agency"><img src="sites/default/files/imagecache/columns-11--region-footer/sponsors/TreeHouse-Logo-Orange-RGB-screen-primary-V.png" alt="Treehouse Agency" title=""  class="imagecache imagecache-columns-11--region-footer imagecache-default imagecache-columns-11--region-footer_default" width="60" height="48" /></a></span>
+  </div>
+          </td>
+                  <td class="col-7">
+              
+  <div class="views-field-field-logo-fid">
+                <span class="field-content"><a href="sponsors/drupal-connect" title="Drupal Connect"><img src="sites/default/files/imagecache/columns-11--region-footer/sponsors/drupalconnect[1].jpg" alt="Drupal Connect" title=""  class="imagecache imagecache-columns-11--region-footer imagecache-default imagecache-columns-11--region-footer_default" width="64" height="18" /></a></span>
+  </div>
+          </td>
+                  <td class="col-8">
+              
+  <div class="views-field-field-logo-fid">
+                <span class="field-content"><a href="sponsors/blackmesh" title="Blackmesh"><img src="sites/default/files/imagecache/columns-11--region-footer/sponsors/blackmesh_logo.jpg" alt="" title=""  class="imagecache imagecache-columns-11--region-footer imagecache-default imagecache-columns-11--region-footer_default" width="64" height="17" /></a></span>
+  </div>
+          </td>
+                  <td class="col-9">
+              
+  <div class="views-field-field-logo-fid">
+                <span class="field-content"><a href="sponsors/northpoint" title="NorthPoint"><img src="sites/default/files/imagecache/columns-11--region-footer/sponsors/NorthPoint_Logotype_cmyk_registered_large_200ppi.jpg" alt="NorthPoint" title=""  class="imagecache imagecache-columns-11--region-footer imagecache-default imagecache-columns-11--region-footer_default" width="64" height="9" /></a></span>
+  </div>
+          </td>
+                  <td class="col-10">
+              
+  <div class="views-field-field-logo-fid">
+                <span class="field-content"><a href="sponsors/duo-consulting" title="Duo Consulting"><img src="sites/default/files/imagecache/columns-11--region-footer/sponsors/duo-signage-big-final.png" alt="Duo" title=""  class="imagecache imagecache-columns-11--region-footer imagecache-default imagecache-columns-11--region-footer_default" width="64" height="20" /></a></span>
+  </div>
+          </td>
+                  <td class="col-11">
+              
+  <div class="views-field-field-logo-fid">
+                <span class="field-content"><a href="sponsors/promet-solutions" title="Promet Solutions"><img src="sites/default/files/imagecache/columns-11--region-footer/sponsors/prometsource_osd_hires.jpg" alt="" title=""  class="imagecache imagecache-columns-11--region-footer imagecache-default imagecache-columns-11--region-footer_default" width="64" height="14" /></a></span>
+  </div>
+          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> <!-- /.view -->
+  </div>
+
+  </div> <!-- /.block -->
+</div></div> <!-- /.section, /.region -->
+    
+  </div></div> <!-- /#page, /#page-wrapper -->
+
+  <div id="footer"><div class="section">
+
+    <div class="region region-footer">
+  <div id="block-menu_block-chicago-footer" class="block block-menu_block region-odd odd region-count-1 count-11"><div class="block-inner">
+      <h2 class="title"><img src="sites/all/themes/conchicago/images/concierge-title.png" alt="Drupalcon Concierge Desk" title="" width="940" height="50" /></h2>
+  
+  <div class="content clearfix">
+    <div class="menu_block_wrapper menu-block-chicago-footer menu-name-menu-footer-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="expanded first menu-mlid-12299"><span title="" class="menu-item-container" tabindex="0">Where to Stay</span><ul class="menu"><li class="leaf first menu-mlid-10384"><a href="chicago/drupal-tower" title="">The Drupal Tower</a></li>
+<li class="leaf last menu-mlid-12154"><a href="chicago/travel" title="">Book Your Travel</a></li>
+</ul></li>
+<li class="expanded menu-mlid-12304"><span title="" class="menu-item-container" tabindex="0">What to Do</span><ul class="menu"><li class="leaf first menu-mlid-12419"><a href="chicago/entertainment" title="">Parties and Entertainment</a></li>
+<li class="leaf last menu-mlid-12124"><a href="chicago/drupalgangers" title="">Companion Activities</a></li>
+</ul></li>
+<li class="expanded menu-mlid-12309"><span title="" class="menu-item-container" tabindex="0">How to Participate</span><ul class="menu"><li class="leaf first menu-mlid-12879"><a href="be-part-drupal-everywhere" title="Be a Part of Drupal is Everywhere!">Drupal is Everywhere</a></li>
+<li class="leaf menu-mlid-13039"><a href="put-badge-your-site" title="">Put a Badge on Your Site</a></li>
+<li class="leaf last menu-mlid-12179"><a href="volunteer" title="">Volunteer</a></li>
+</ul></li>
+<li class="expanded last menu-mlid-12314"><span title="" class="menu-item-container" tabindex="0">Keep Connected</span><ul class="menu"><li class="leaf first menu-mlid-10354"><a href="news.1" title="">Read the Latest News</a></li>
+<li class="leaf last menu-mlid-10339"><a href="http://twitter.com/drupalcon" title="">Follow us on Twitter</a></li>
+</ul></li>
+</ul></div>
+  </div>
+
+  </div></div> <!-- /.block -->
+<div id="block-chicago-ten-years-drupal" class="block block-chicago region-even even region-count-2 count-12">
+  
+  <div class="content">
+    <img src="sites/all/modules/custom/chicago/ten-years-drupal.png" alt="2001-2011, Ten years of Drupal" title="" width="219" height="113" />  </div>
+
+  </div> <!-- /.block -->
+</div> <!-- /.region -->
+
+          <div id="footer-message">DrupalCon Chicago is copyright 2010. Powered by <a href="http://drupal.org/">Drupal</a>.<br />Drupal is a <a href="http://drupal.com/trademark">registered trademark</a> of <a href="http://buytaert.net/">Dries Buytaert</a>. <a href="site-credits">Site credits</a>.</div>
+    
+  </div></div> <!-- /.section, /#footer -->
+
+  
+  
+
+</body>
+</html>

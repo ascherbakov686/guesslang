@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="ANDERSEN ADVISORY GROUP A/S RSS" href="http://www.aag.dk/?q=rss.xml" />
+  <title>ANDERSEN ADVISORY GROUP A/S</title>  
+  <link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?u" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?u" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?u" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?u" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?u" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/aag/style.css?u" />
+  <script type="text/javascript" src="/misc/jquery.js?u"></script>
+<script type="text/javascript" src="/misc/drupal.js?u"></script>
+<script type="text/javascript" src="/themes/aag/script.js?u"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/" });
+//--><!]]>
+</script>
+  <!--[if IE 6]><link rel="stylesheet" href="/themes/aag/style.ie6.css" type="text/css" /><![endif]-->  
+  <!--[if IE 7]><link rel="stylesheet" href="/themes/aag/style.ie7.css" type="text/css" media="screen" /><![endif]-->
+  <script type="text/javascript"> </script>
+</head>
+
+<body>
+<div id="art-main">
+<div class="art-sheet">
+    <div class="art-sheet-tl"></div>
+    <div class="art-sheet-tr"></div>
+    <div class="art-sheet-bl"></div>
+    <div class="art-sheet-br"></div>
+    <div class="art-sheet-tc"></div>
+    <div class="art-sheet-bc"></div>
+    <div class="art-sheet-cl"></div>
+    <div class="art-sheet-cr"></div>
+    <div class="art-sheet-cc"></div>
+    <div class="art-sheet-body">
+<div class="art-header">
+    <div class="art-header-jpeg"></div>
+
+</div>
+<div class="art-nav">
+    <div class="l"></div>
+    <div class="r"></div>
+    
+<div id="art-menu-id"><ul class="art-menu"><li class="leaf first"><a href="/?q=node/2" title="Profile"><span class="l">&nbsp;</span><span class="r">&nbsp;</span><span class="t">Profile</span></a></li>
+<li class="leaf"><a href="/?q=node/3" title="Activities"><span class="l">&nbsp;</span><span class="r">&nbsp;</span><span class="t">Activities</span></a></li>
+<li class="leaf"><a href="/?q=node/4" title="Portfolio"><span class="l">&nbsp;</span><span class="r">&nbsp;</span><span class="t">Portfolio</span></a></li>
+<li class="leaf last"><a href="/?q=node/5" title="Brochures"><span class="l">&nbsp;</span><span class="r">&nbsp;</span><span class="t">Brochures</span></a></li>
+</ul></div>
+</div>
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+<div class="art-layout-cell art-content">              
+<div id="node-1" class="node promote">
+<div class="art-post">
+    <div class="art-post-body">
+<div class="art-post-inner">
+<h2 class="art-postheader"> <a href="/?q=node/1" title="The Company">The Company</a></h2>
+<div class="art-postcontent">
+    <!-- article-content -->
+<div class="art-article"><p>Welcome to Andersen Advisory Group A/S' website.</p>
+<p>We are an independent development and venture capital company. </p>
+<p>We offer both management support and equity capital to IT and telecommunications companies. </p>
+<p>We possess an AAA credit ranking.</p>
+</div>
+    <!-- /article-content -->
+</div>
+<div class="cleared"></div>
+
+</div>
+
+    </div>
+</div>
+
+</div></div>
+<div class="art-layout-cell art-sidebar1"><div class="art-block clear-block block block-user" id="block-user-0">
+    <div class="art-block-body">
+
+	<div class="art-blockheader">
+		    <div class="l"></div>
+		    <div class="r"></div>
+		     <div class="t">	
+			<h2 class="subject">User login</h2>
+</div>
+		</div>
+		    
+	<div class="art-blockcontent content">
+	    <div class="art-blockcontent-body">
+	<!-- block-content -->
+	
+		<form action="/?q=node&amp;destination=node"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<span class="art-button-wrapper"><span class="l"></span><span class="r"></span><input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit art-button"/></span><div class="item-list"><ul><li class="first"><a href="/?q=user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/?q=user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-e376a08e22462d97e6cf42257135aeb4" value="form-e376a08e22462d97e6cf42257135aeb4"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+
+	<!-- /block-content -->
+	
+	    </div>
+	</div>
+	
+
+    </div>
+</div>
+</div>
+    </div>
+</div>
+<div class="cleared"></div>
+<div class="art-footer">
+    <div class="art-footer-t"></div>
+    <div class="art-footer-l"></div>
+    <div class="art-footer-b"></div>
+    <div class="art-footer-r"></div>
+    <div class="art-footer-body">
+        <div class="art-footer-text">
+        <p><a href="#">Contact Us</a>&nbsp;|&nbsp;<a href="#">Terms of Use</a>&nbsp;|&nbsp;<a href="#">Trademarks</a>&nbsp;|&nbsp;<a href="#">Privacy Statement</a><br />Copyright &copy; 2010&nbsp;ANDERSEN ADVISORY GROUP A/S.&nbsp;All Rights Reserved.</p>                </div>
+		<div class="cleared"></div>
+    </div>
+</div>
+
+    </div>
+</div>
+<div class="cleared"></div>
+<p class="art-page-footer">Powered by <a href="http://drupal.org/">Drupal</a> and <a href="http://www.artisteer.com/?p=drupal_themes">Drupal Theme</a> created with Artisteer.</p>
+
+</div>
+
+
+
+</body>
+</html>

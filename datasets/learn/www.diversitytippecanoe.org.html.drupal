@@ -1,0 +1,565 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>DiversityTippecanoe.org | Diversity Roundtable and Human Relations Commissions of Lafayette, West Lafayette, and Tippecanoe County, Indiana</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="DiversityTippecanoe.org RSS" href="https://www.diversitytippecanoe.org/rss.xml" />
+<link rel="shortcut icon" href="/sites/default/files/simply_modern_favicon_2.ico" type="image/x-icon" />
+  <link type="text/css" rel="stylesheet" media="all" href="/modules/book/book.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/poll/poll.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/theme/content-module.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views_slideshow/thickbox/thickbox.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views_slideshow/thickbox/thickbox_ie.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views/css/views.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/simply_modern/style.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/simply_modern/css/green.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/simply_modern/css/suckerfish_green.css?n" />
+  <script type="text/javascript" src="/misc/jquery.js?n"></script>
+<script type="text/javascript" src="/misc/drupal.js?n"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js?n"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js?n"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.js?n"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/thickbox/thickbox.js?n"></script>
+<script type="text/javascript" src="/sites/all/themes/simply_modern/js/jquery.pngFix.js?n"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "thickbox": { "close": "Close", "next": "Next \x3e", "prev": "\x3c Prev", "esc_key": "or Esc Key", "next_close": "Next / Close on last", "image_count": "Image !current of !total" } });
+//--><!]]>
+</script>
+  <script type="text/javascript"> </script>
+  <!--
+  // this block of JS is supposed to extend the suckerfish rollovers, but it
+  // seems to have no effect that I can perceive except to change the background
+  // color and keep it hard encoded: not css dependant
+  <script type="text/javascript">
+  $(document).ready(function(){
+    // Code for extending suckerfish rollovers
+    $("#suckerfishmenu .content ul.menu:first > li").hover(function(event){
+      $(this).children("> a").css("background",$("#footer a").css("color"));
+    },function(event){
+      $(this).children("> a").css("background","#3f3f3f");
+    });
+  });  
+  </script>
+  -->
+      <style type="text/css">
+    #page, #top-center {
+      width: 95%;
+    }
+
+    </style>
+        <style type="text/css">
+    body.sidebar-left #main {
+      margin-left: -210px;
+    }
+    body.sidebars #main {
+      margin-left: -210px;
+    }
+    body.sidebar-left #squeeze {
+      margin-left: 210px;
+    }
+    body.sidebars #squeeze {
+      margin-left: 210px;
+    }
+    #sidebar-left {
+      width: 210px;
+    }
+    </style>
+        <style type="text/css">
+    body.sidebar-right #main {
+      margin-right: -210px;
+    }
+    body.sidebars #main {
+      margin-right: -210px;
+    }
+    body.sidebar-right #squeeze {
+      margin-right: 210px;
+    }
+    body.sidebars #squeeze {
+      margin-right: 210px;
+    }
+    #sidebar-right {
+      width: 210px;
+    }
+    </style>
+        <style type="text/css">
+    body {
+      font-family : Arial, Verdana, sans-serif;
+    }
+    </style>
+      <!--[if lte IE 6]>
+<script type="text/javascript"> 
+    $(document).ready(function(){ 
+        $(document).pngFix(); 
+    }); 
+</script> 
+<![endif]-->
+        <style type="text/css">
+    img#logo {
+      width : 285px;
+      height: 135px;
+    }
+    </style>
+    <style type="text/css">
+  body {
+      }
+  </style>
+  
+ 
+  <style type="text/css">
+  #header {
+            }
+  </style>
+<!--[if IE]>
+<style type="text/css" media="all">@import "/sites/all/themes/simply_modern/css/ie.css";</style>
+<![endif]-->
+      <!--[if lte IE 6]>
+<script type="text/javascript" src="https://www.diversitytippecanoe.org/sites/all/themes/simply_modern/js/suckerfish.js"></script>
+<![endif]-->
+            <!-- <script type="text/javascript" src="https://www.diversitytippecanoe.org/sites/all/themes/simply_modern/js/pickstyle.js"></script> -->
+</head>
+<body class="sidebars">
+  <div id="simplemenu_container"></div>
+  <div id="simplemenu_closing-div" style="clear:both;"></div>
+        <div id="banner">
+      <div class="block block-block" id="block-block-13">
+    <div class="content"><div style="margin: 6px auto 0 auto;padding: 0 12px">
+<div style="background-color: white; width: 95%; margin: 0 auto"><a href="/diversity/"><img alt="Diversity Strengthens logo of the Diversity Rountable" src="/diversity/sites/default/files/banner_0.png" /></a></div>
+</div>
+</div></div>
+    </div>
+        <style type="text/css">
+      #banner {background-color:transparent;}
+    </style>
+    <div id="page" class="node"><div id="shadow-right"><div id="page-bg">
+      <div id="header" class="clear-block">
+      <div id="name-and-slogan">
+                  <h1 class='site-name'> <a href="/" title="Home"> DiversityTippecanoe.org </a> </h1>
+                          <div class='site-slogan'> Diversity Roundtable and Human Relations Commissions of Lafayette, West Lafayette, and Tippecanoe County, Indiana </div>
+              </div><!-- /name-and-slogan -->
+      
+        </div><!-- /header -->
+                <div style="clear:both"></div>
+        <div id="suckerfishmenu" class="clear-block"> <div class="block block-menu" id="block-menu-menu-menubar">
+    <div class="content"><ul class="menu"><li class="leaf first"><a href="/" title="Return to the homepage." class="active">Home</a></li>
+<li class="leaf"><a href="/user/login" title="Log into an existing site account">Sign In</a></li>
+<li class="leaf last"><a href="/user/register" title="Register for a new account">Register</a></li>
+</ul></div></div>
+ </div>
+                <div id="middlecontainer">
+                        <div id="sidebar-left"><div class="block block-block" id="block-block-15">
+  <h2 class="title">Willingness to Serve</h2>  <div class="content"><p><a href = "/diversity/willingness"><img height="100" width="100" alt="serve" title="Enter your personal information" src="/diversity/sites/default/files/Willingness_0.jpg" /></a><br />
+Many local organizations hope to diversify their boards and committees, but sometimes don't know where to find members from under-represented groups. If you would like to become involved, please <a href = "/diversity/willingness">enter your name</a> in our Willingness to Serve database.</p>
+<hr />
+Local organizations refer to this list when seeking leaders. If your organization is not signed up, you can <a href="/diversity/content/apply-access-willingness-serve-database">request access</a>.
+<hr />Do you know there is another place you can go to learn all of the other ways you can be active in the community?<br /><a href="http://uwlafayettevolunteer.galaxydigital.com/">Volunteer Center</a>.
+</div></div>
+<div class="block block-block" id="block-block-17">
+  <h2 class="title">Diversity Roundtable Timeline</h2>  <div class="content"><p>The Diversity Roundtable started from a Vision 2020 idea proposed in 2000, which led to the first Diversity Summit in 2003 and the first roundtable meeting two months later in June 2003. Since then, there have been regular monthly meetings and four more Diversity Summits. Here's the timeline from 2000 to 2018. <a href="sites/default/files/Combined History 2000 to 2018.pdf" target="_blank">PDF document</a>,</p>
+</div></div>
+<div class="block block-block" id="block-block-16">
+  <h2 class="title">New Brochure</h2>  <div class="content"><p><a href="http://diversitytippecanoe.org/sites/default/files/2014 Diversity Roundtable brochure.pdf" target="_blank"><img src="/diversity/sites/default/files/BROCHURE.jpg" alt="brochure picture" title="Spread the news" /></a><br />
+The 2014 Diversity Roundtable brochure is available as a <a href="http://diversitytippecanoe.org/sites/default/files/2014 Diversity Roundtable brochure.pdf" target="_blank">PDF</a> (opens in a new window or tab) to download, print, fold in thirds and distribute. </p>
+</div></div>
+<div class="block block-block" id="block-block-12">
+  <h2 class="title">Community Diversity Climate Study</h2>  <div class="content"><p><a href="/diversity/sites/default/files/FinalDiversitySurveyReportWithCover10Feb_0.pdf" target="_blank"><img width="100" height="100" alt="flag waver" title="What's our diversity climate?" src="/diversity/sites/default/files/flag.jpg" /></a><br />
+In 2009 Greater Lafayette Commerce and the Diversity Roundtable commissioned a survey to determine the climate for diversity in the community.  The results are available in a <a href="/diversity/sites/default/files/FinalDiversitySurveyReportWithCover10Feb_0.pdf" target="_blank">PDF</a> (opens in a new window or tab) that you can print or you can read it <a href="http://www.digitalparlor.org/diversity/content/aspiring-culture-values-diversity">on line</a>.</p>
+</div></div>
+ </div>
+                          <div id="main">
+        <div id="squeeze">
+                                                      <div id="mission"><img src="/diversity/sites/default/files/diversityStrengthens.png" align="right" alt="People holding hands" title="Diversity Strengthens" />
+<p><b>Mission:</b> The Diversity Roundtable of Greater Lafayette works toward inclusion by encouraging access, equity and respect for all.</p><p>The Diversity Roundtable is committed to addressing multiple dimensions of human diversity, specifically those that are linked to conditions in our community that result from prejudice and discrimination.</p><p>The Diversity Roundtable provides leadership and promotes strategies to achieve a culture that values diversity as evidenced by attitudes, policies and practices within Lafayette, West Lafayette and Tippecanoe County, Indiana.</p><hr /><strong>Diversity Glossary:</strong> <a href="/diversity/content/diversity-glossary">Text</a> / <a href="/diversity/content/click-term-see-its-definition">Interactive</a><hr /><b>Meetings:</b> First Thursday each month, 11:30 a.m., YWCA, 605 N. 6th St., Lafayette (<a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=605+N.+6th+St.,+Lafayette,+IN&amp;sll=37.0625,-95.677068&amp;sspn=58.685917,135.263672&amp;ie=UTF8&amp;hq=&amp;hnear=605+N+6th+St,+Lafayette,+Tippecanoe,+Indiana+47901&amp;z=17&amp;iwloc=A">map</a>); open to the public.<br />
+<strong>Email:</strong> <a href="mailto:diversitytippecanoe@gmail.com?subject=Sent via the DiversityTippecanoe.org Web site">DiversityTippecanoe@gmail.com</a><br /> The Diversity Roundtable is a commmittee of <a href="http://www.lafayettechamber.com/">Greater Lafayette Commerce</a>. The <a href="http://www.ywca.org/site/pp.asp?c=brJJKUNLG&amp;b=61662">YWCA</a> works in collaboration with the Diversity Roundtable.</div>
+                    <div id="squeeze-content">
+                        <div id="inner-content"  class="node" >
+                           <h1 class="title"></h1>
+              <div class="tabs"></div>
+                                          <div class="node">
+  
+            <h2 class="title"><a href="/node/118">The Compassionate Pledge</a></h2>
+          
+  <div class="content"><p>I pledge to be Open-. Open to new ideas; Open to the future; Open to talent in all its shapes, sizes, and colors; Open to people from around the world; Open to the contributions that businesses and nonprofits and the arts and wacky entrepreneurs make to our community; Open to the Future. </p>
+<p>By signing this pledge, I commit to Open myself to learning about other cultures. I commit to speak up when others talk down about cultural or minority groups. I commit to giving a part of my time, energy, or treasure to burnishing Greater Lafayette's reputation as a place that's great for all people. </p>
+<p>lf l serve in a leadership role, I recommit to our unwritten vows of cooperation and collaboration, knowing that Greater Lafayette's strength is working together, across the Wabash, shoulder to shoulder. </p>
+<p>We are collecting signatures. To add you name please send an email to <a href="mailto:DiversityTippecanoe@gmail.com">DiversityTippecanoe@gmail.com</a></p>
+</div>
+  <div class="clear-block clear"></div>
+
+      <div class="links"><ul class="links inline"><li class="node_read_more first"><a href="/node/118" title="Read the rest of The Compassionate Pledge.">Read more</a></li>
+<li class="statistics_counter last"><span>9286 reads</span></li>
+</ul></div>
+  
+</div>
+<div class="node">
+  
+            <h2 class="title"><a href="/node/117">Greater Lafayette Diversity Groups and Political Action Groups</a></h2>
+          
+  <div class="content"><p>Note: for email replace the (at] with the @ character<br />
+<strong>Diversity Groups</strong></p>
+<p><strong>Citizens for Civil Rights</strong><br />
+	Facebook<br />
+Mary Finnegan</p>
+<p><strong>Diversity Round Table</strong><br />
+	Barbara Clark, barbclark(at]purdue.edu </p>
+<p><strong>Greater Lafayette Immigrant Allies</strong><br />
+	Facebook; <a href="http://www.standingforgood.com" title="www.standingforgood.com">www.standingforgood.com</a><br />
+	Kirsten Serrano, smallwonder(at]tds.net </p>
+<p><strong>Greater Lafayette Indiana Black Expo</strong><br />
+	Jesse Moore, jmoore621(at]hotmail.com<br />
+	Pamela Walker-Stokes, youth chair, pawstokes(at]purdue.edu </p>
+<p><strong>Indian Women’s Association</strong></p>
+</div>
+  <div class="clear-block clear"></div>
+
+      <div class="links"><ul class="links inline"><li class="node_read_more first"><a href="/node/117" title="Read the rest of Greater Lafayette Diversity Groups and Political Action Groups.">Read more</a></li>
+<li class="statistics_counter last"><span>11641 reads</span></li>
+</ul></div>
+  
+</div>
+<div class="node">
+  
+            <h2 class="title"><a href="/node/116">Three selected as winners for GLC Diversity Roundtable&#039;s Diversity Best Practices Awards</a></h2>
+          
+  <div class="content"><p>LAFAYETTE – The Lafayette Police Department, the YWCA Greater Lafayette and Renee Thomas, of the Purdue University Black Cultural Center have been selected winners of diversity awards from the Greater Lafayette Commerce's Diversity Roundtable, the committee announced.</p>
+<p>The Lafayette Police Department will be given the 2017 Workforce Diversity Best Practices Award for its outstanding community outreach initiatives and recruiting efforts. The YWCA Greater Lafayette will receive the roundtable's 2017 DRT Diversity Leader Awards for nonprofits for its continued outstanding service in addressing diversity issues in the community. For the individual DRT Diversity Leader Award, Thomas, the longtime director of the Black Cultural Center, was recognized for her consistent dedication to the students at Purdue, bringing events of the BCC to Greater Lafayette and her community involvement at-large.</p>
+<p>"The winners have all made a commitment to making Greater Lafayette a welcoming community for everyone," said Clyde Hughes, the DRT awards committee chair and outgoing co-facilitator. "Greater Lafayette is a better place in terms of diversity and inclusion because of their great work and dedication."</p>
+<p>The awards will be presented at the Greater Lafayette Commerce's annual gala at Purdue University Ross-Ade Stadium on September 20.</p>
+</div>
+  <div class="clear-block clear"></div>
+
+      <div class="links"><ul class="links inline"><li class="node_read_more first"><a href="/node/116" title="Read the rest of Three selected as winners for GLC Diversity Roundtable&#039;s Diversity Best Practices Awards.">Read more</a></li>
+<li class="statistics_counter last"><span>14849 reads</span></li>
+</ul></div>
+  
+</div>
+<div class="node">
+  
+            <h2 class="title"><a href="/node/115">New Diversity Links</a></h2>
+            <span class="submitted">Submitted by Wally Hubbard on Mon, 08/24/2015 - 22:51</span> 
+    
+  <div class="content"><p>We have updated the diversity links that run along the right side of this page, and added some new ones!<br />
+The list is also available in the "Read More" section of this announcement. Click to see...</p>
+</div>
+  <div class="clear-block clear"></div>
+
+      <div class="links"><ul class="links inline"><li class="comment_forbidden first"></li>
+<li class="node_read_more"><a href="/node/115" title="Read the rest of New Diversity Links.">Read more</a></li>
+<li class="statistics_counter last"><span>15816 reads</span></li>
+</ul></div>
+  
+</div>
+<div class="node">
+  
+            <h2 class="title"><a href="/node/114">Diversity Summit 2019</a></h2>
+          
+  <div class="content"><p>Save the Date for the 2019 Diversity Summit.  It will be April 24, 2019 from 8:30 – 3:30 at Ivy Tech.  The keynote speaker will be Mr. Bryant Smith.</p>
+</div>
+  <div class="clear-block clear"></div>
+
+      <div class="links"><ul class="links inline"><li class="statistics_counter first last"><span>12640 reads</span></li>
+</ul></div>
+  
+</div>
+<div class="node">
+  
+            <h2 class="title"><a href="/node/113">Cultural Communication Training for Law Enforcement Officers</a></h2>
+          
+  <div class="content"><p>Module 1 (Group of 12 or less in attendance)<br /><br />
+Training: 2 hours (could run longer if participants need more time)</p>
+<h2>Introduction</h2>
+<ol>
+<li>Define effective communication</li>
+<li>Discuss why differences are important</li>
+<li>Talk about the commonalities</li>
+<li>What is the positive outcome of learning to communicate with different cultures</li>
+</ol>
+<h2>Conversations</h2>
+<ol>
+<li>"Cultural Hearing"...what does this mean?</li>
+<li>What did you say? What was actually heard? (role play)</li>
+<li>How different cultures analyze words</li>
+</ol></div>
+  <div class="clear-block clear"></div>
+
+      <div class="links"><ul class="links inline"><li class="node_read_more first"><a href="/node/113" title="Read the rest of Cultural Communication Training for Law Enforcement Officers.">Read more</a></li>
+<li class="statistics_counter last"><span>11953 reads</span></li>
+</ul></div>
+  
+</div>
+<div class="node">
+  
+            <h2 class="title"><a href="/node/112">4 police agencies on their diversity efforts</a></h2>
+          
+  <div class="content"><p><i>A Diversity Roundtable subcommittee asked police agencies in Lafayette, Purdue, West Lafayette and Tippecanoe County about their diveristy efforts, and here's what they found:</i><br />
+<b>What agency or individual offers diversity training to your officers?</b></p>
+<ul>
+<li>LPD:  The training officer at LAPD has a background in cultural anthropology and conducts diversity training for the department.  In addition, James Foster, diversity consultant from the community, also did training in 2009.</li>
+<li>PUPD: In the past, training has been provided by the Indiana Law Enforcement Association consultants, also a consultant from Dr. Taylor’s office (Division of Diversity and Inclusion at Purdue).   Currently the department is using PoliceOne Academy (on line videos) for training re: diversity, using a train-the-trainer approach.</li>
+<li>TCSD:  Training has been conducted by local diversity consultants James Foster and Willie Cruz.</li>
+<li>WLPD:  Sana Booker, local diversity consultant, recently offered cultural communication training to officers.  A training on student diversity will be offered by a consultant from the Office of International Students and Scholars later this year.</li>
+</ul>
+<p><b>What diverse populations are covered in the training?</b></p>
+</div>
+  <div class="clear-block clear"></div>
+
+      <div class="links"><ul class="links inline"><li class="node_read_more first"><a href="/node/112" title="Read the rest of 4 police agencies on their diversity efforts.">Read more</a></li>
+<li class="statistics_counter last"><span>10487 reads</span></li>
+</ul></div>
+  
+</div>
+<div class="node">
+  
+            <h2 class="title"><a href="/node/111">Calendar</a></h2>
+          
+  <div class="content"><p><iframe src="https://www.google.com/calendar/embed?src=tippecanoediversity%40gmail.com&amp;ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe></p>
+</div>
+  <div class="clear-block clear"></div>
+
+      <div class="links"><ul class="links inline"><li class="statistics_counter first last"><span>9922 reads</span></li>
+</ul></div>
+  
+</div>
+<div class="node">
+  
+            <h2 class="title"><a href="/node/110">Diversity Roundtable Summit April 23 at IV Tech Lafayette</a></h2>
+          
+  <div class="content"><p>Join us for the 2015 Diversity Summit featuring keynote speaker Dr. Derald Wing Sue from Columbia University. Dr. Sue will be presenting on Microaggressions. The summit will be Thursday, April 23 starting at 11 a.m., at Ivy Tech Community College 3101 S. Creasy Lane, Lafayette, IN 47903-6299</p>
+<p>Register at <a href="http://www.greaterlafayettecommerce.com/events/2015/01/12/diversity-summit" title="http://www.greaterlafayettecommerce.com/events/2015/01/12/diversity-summit">http://www.greaterlafayettecommerce.com/events/2015/01/12/diversity-summit</a>.</p>
+</div>
+  <div class="clear-block clear"></div>
+
+      <div class="links"><ul class="links inline"><li class="statistics_counter first last"><span>10598 reads</span></li>
+</ul></div>
+  
+</div>
+<div class="node">
+  
+            <h2 class="title"><a href="/node/109">Upcoming 2015 Events</a></h2>
+          
+  <div class="content"><ul>
+<li>Martin Luther King Jr. Day Celebration
+<ul>
+<li>11 a.m. Jan. 19, Tippecanoe County Public Library, 627 South St.</li>
+<li>Local resident Tom Brown will explore King’s 1967 speech, &ldquo;Beyond Vietnam,&rdquo; which denounced America&apos;s war in Vietnam.</li>
+</ul>
+</li>
+<li>Conversation Circles
+<ul>
+<li>The community-building arm of the Diversity Roundtable is holding its January call-out from 6 to 8 p.m. Jan. 27 at the downtown library branch.</li>
+<li>The call-out is open to anyone who is interested in learning more about the circles, which aim to foster a better sense of community through respectful listening and sharing of diverse experiences.</li>
+<li>A training session on Conversation Circle facilitation also will be offered Jan. 18. For more information on this session, email drtconversationcircles (at) gmail.com.</li>
+</ul>
+</li>
+<li>Congress Street United Methodist Church programs
+<ul>
+<li>Last fall, the church organized a communitywide discussion series based on the book, “The New Jim Crow: Mass Incarceration in the Age of Colorblindness.”</li>
+<li>It plans on having another discussion series on race at the end of February.</li>
+<li>Organizers are considering books that explore the concept of &rdquo;white privilege.&ldquo;</li>
+</ul>
+</li>
+<li>1 in 4 Campaign
+<ul>
+<li>Michael Oxenrider, director of education and marketing for Mental Health America of Tippecanoe, is recruiting community members for a photography project that shows 1 in 4 people is affected by mental illness.</li>
+<li>If interested, call Oxenrider at 765-742-1800.</li>
+</ul>
+</li>
+</ul>
+</div>
+  <div class="clear-block clear"></div>
+
+      <div class="links"><ul class="links inline"><li class="node_read_more first"><a href="/node/109" title="Read the rest of Upcoming 2015 Events.">Read more</a></li>
+<li class="statistics_counter last"><span>10704 reads</span></li>
+</ul></div>
+  
+</div>
+<div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a href="/node?page=1" title="Go to page 2" class="active">2</a></li>
+<li class="pager-item"><a href="/node?page=2" title="Go to page 3" class="active">3</a></li>
+<li class="pager-next"><a href="/node?page=1" title="Go to next page" class="active">next ›</a></li>
+<li class="pager-last last"><a href="/node?page=2" title="Go to last page" class="active">last »</a></li>
+</ul></div> 
+              <a href="https://www.diversitytippecanoe.org/rss.xml" class="feed-icon"><img src="/misc/feed.png" alt="Syndicate content" title="DiversityTippecanoe.org RSS" width="16" height="16" /></a>                              <div id="content-bottom"><div class="block block-block" id="block-block-9">
+  <h2 class="title">About the Diversity Roundtable</h2>  <div class="content"><img alt="Greater Lafayette Commerce new logo" src="/diversity/sites/default/files/GLClogo.jpg" style="height:40;width:200;" /><br />
+337 Columbia Street<br />
+Lafayette, IN 47902-0348<br />
+<a href="http://www.GreaterLafayetteCommerce.com">www.GreaterLafayetteCommerce.com</a><br />
+Phone: (765) 742-4044<br />
+Fax: (765) 742-6276<br />
+Email: <script type="text/javascript"> 
+<!--
+var g="rhodnett"; h="odnett"; var i="Resa H"; var z=':@lto@mai'; document.write('<a href="'+z.substring(6,9)+z.substring(2,5)+z.substring(0,1)+g+h+z.substring(1,2)+'greaterlafayettecommerce.com'+'">'+i+h+'</a>');
+//-->
+</script><noscript>Resa Hodnett</noscript>, Program Manager of Membership 
+<div style="display:block;vertical-align:middle;min-height:110px"><img alt="kite" height="104px" width="100px" src="/diversity/sites/default/files/kite.jpg" style="float:left;margin:0 15px 0 0" /><br /><strong>Listening, Learning, and Acting. Open to All</strong><br />Meetings are the first Thursday of each month, 11:30 a.m.-1:00 p.m., YWCA, 605 N. Sixth St., Lafayette (<a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=605+N.+6th+St.,+Lafayette,+IN&amp;sll=37.0625,-95.677068&amp;sspn=58.685917,135.263672&amp;ie=UTF8&amp;hq=&amp;hnear=605+N+6th+St,+Lafayette,+Tippecanoe,+Indiana+47901&amp;z=17&amp;iwloc=A">map</a>). Everyone interested is welcome and encouraged to attend.</div>
+Meetings include:
+<ul><li>A short structured program</li>
+<li>Sub-committee reports</li>
+<li>General discussion</li>
+<li>Hot topics</li>
+<li>Announcements</li></ul><p><a href="/diversity/content/diversity-roundtable-goals">Read more</a></p></div></div>
+</div>
+                          </div><!-- /inner-content -->
+          </div><!-- /squeeze-content -->
+        </div><!-- /squeeze -->
+      </div><!-- /main -->
+                              <div id="sidebar-right"><div class="block block-block" id="block-block-14">
+  <h2 class="title">3 Human Relations Commissions</h2>  <div class="content"><p><img height="100" width="100" src="/diversity/sites/default/files/GIS%20city%20outlines%20small.jpg" alt="map" usemap="#cities" /><map name="cities" id="a1111"><area shape="poly" coords="14,17, 14,18, 16,18, 16,23, 12,24, 12,37, 15,37, 15,30, 18,31, 21,39, 24,43, 23,45, 23,48, 24,48, 24,46, 27,47, 27,49, 26,49, 26,51, 21,51, 21,52, 28,52, 29,53, 31,53, 32,52, 32,37, 31,26, 31,22, 34,17, 37,17, 36,9, 27,9, 27,12, 29,12, 29,15, 25,15, 25,17, 14,17" alt="West Lafayette" href="http://www.city.west-lafayette.in.us/department/board.php?fDD=12-19" title="West Lafayette" /><area shape="poly" coords="21,66, 21,79, 30,79, 30,84, 37,84, 36,90, 48,90, 48,84, 56,84, 56,79, 83,79, 83,71, 63,71, 60,68, 65,68, 65,64, 61,64, 60,61, 73,61, 72,64, 79,65, 71,50, 68,52, 60,40, 55,37, 52,38, 52,35, 48,37, 40,29, 38,32, 35,32, 32,54, 21,66" alt="Lafayette" href="http://www.lafayette.in.gov/department/board.php?fDD=2-24" title="Lafayette" /><area shape="rect" coords="0,0, 100,100" alt="Tippecanoe County" href="http://www.tippecanoe.in.gov/egov/docs/11109853824.htm" title="Tippecanoe County" /></map><br />
+There are three human relations commissions in Tippecanoe County with three different jurisdictions. Where you file a complaint depends on where the problem occurs: <a href="http://www.city.west-lafayette.in.us/department/board.php?fDD=12-19" style="color: #720f0c">West Lafayette</a>, <a href="http://www.lafayette.in.gov/department/board.php?fDD=2-24" style="color: #4a7983">Lafayette</a>, or <a href = "http://www.tippecanoe.in.gov/egov/docs/11109853824.htm" style="color: #6f6620">Tippecanoe County</a>. </p>
+</div></div>
+<div class="block block-block" id="block-block-8">
+  <h2 class="title">Links</h2>  <div class="content">  <ul>
+    <li>Disablity
+      <ul>
+        <li><a href="http://www.wabashcenter.com/">Wabash Center</a></li>
+        <li><a href="http://www.arcoftippecanoe.org/wp/">The Arc of Tippecanoe County</a></li>
+      </ul>
+    </li>
+    <li>Gender
+      <ul>
+        <li><a href="http://greaterlafayette.in.lwvnet.org/">League of Women Voters</a></li>
+        <li><a href="http://www.ywcalafayette.org">YWCA of Greater Lafayette</a></li>
+        <li><a href="http://www.indianavoicesofwomen.org/">Indiana Voices of Women</a><br />
+        <small> &nbsp; World Trust Film Series</small></li>
+	  </ul>
+    </li>
+    <li>General Diversity
+	  <ul>    
+	    <li><a href="http://aclu-in.org/">American Civil Liberties Union of Indiana</a></li>
+	    <li><a href="http://diversitytippecanoe.org/">Diversity Roundtable</a><br />
+	    <small> &nbsp; Conversation Circles</small></li>
+	    <li><a href="http://www.indianaequality.org/">Indiana Equality</a></li>
+	    <li><a href="http://www.intlctr.org/">International Center</a></li>
+      </ul>
+    </li>
+    <li>Governmental Commissions
+      <ul>
+    	<li><a href="http://www.in.gov/icrc/">IN Civil Rights Commission</a></li>
+    	<li><a href="http://www.in.gov/ichla/">IN Commission on Hispanic / Latino Affairs</a></li>
+    	<li><a href="http://www.in.gov/icssbm/">IN Commission on the Social Status of Black Males</a></li>
+    	<li><a href="http://www.in.gov/icw/">IN Commission for Women</a></li>
+    	<li><a href="http://www.lafayette.in.gov/611/Human-Relations-Commission">City of Lafayette Human Relations Commission</a></li>
+    	<li><a href="http://www.tippecanoe.in.gov/517/Human-Relations-Commission-HRC">Tippecanoe County Human Relations Commission</a></li>        
+    	<li><a href="http://www.westlafayette.in.gov/department/board.php?structureid=54">City of W Lafayette Human Relations Commission</a></li>
+        </ul>
+      </li>
+      <li>Race
+        <ul>
+        <li><a href="http://www.indianablackexpo.com/chapter-greater-lafayette.asp">Greater  Lafayette Chapter of Indiana Black Expo</a></li>
+        <li><a href="http://www.naacp.org/">National Assoc for the Advancement of Colored People</a></li>
+        <li>Latino Center for Wellness &amp; Education</li>
+        <li><a href="http://www.cosumc.org/">Congress Street United Methodist Church</a></li>
+        <li><a href="http://www.lumserve.org/">Lafayette Urban Ministry</a></li>
+        </ul>
+      </li>
+      <li>Sexual Orientation
+      	<ul>
+          <li>Citizens for Civil Rights</li>
+          <li><a href="http://www.pridelafayette.org/">Pride Lafayette</a></li>
+          <li><a href="http://freedomindiana.org/">Freedom Indiana</a></li>
+        </ul>
+      </li>
+      <li>Purdue University
+        <ul>
+          <li><a href="http://www.purdue.edu/diversity-inclusion/about-us/departments.html">Cultural Centers and Departmental Links</a></li>
+          <li><a href="http://www.purdue.edu/aaarcc/">Asian American and Asian Resource and Cultural Center</a></li>
+          <li><a href="http://www.purdue.edu/bcc">Black Cultural Center</a></li>
+          <li><a href="http://www.purdue.edu/lcc/">Latino Cultural Center</a></li>
+          <li><a href="http://www.purdue.edu/lgbtq/">Lesbian, Gay, Bisexual, Transgender, and Queer Center</a></li>
+      	  <li><a href="http://www.purdue.edu/naecc/">Native American Educational and Cultural Center</a></li>
+          <li><a href="http://www.purdue.edu/dro/">Diversity Resource Center</a></li>
+          <li><a href="http://www.purdue.edu/discoverypark/lsamp/">Louis Stokes Alliance for Minority Participation</a></li>
+          <li><a href="http://www.purdue.edu/sciencebound/">Science Bound</a></li>
+          <li><a href="http://www.purdue.edu/diversity-inclusion/initiatives/college-programs.html">College and School Programs</a></li>
+          <li><a href="http://www.purdue.edu/diversity-inclusion/resources/student-orgs.html">Student Organizations by Race</a></li>
+          <li><a href="http://www.purdue.edu/bcfs/">Purdue Black Caucus of Faculty and Staff</a></li>
+          <li><a href="http://www.purdue.edu/lcc/Leadership/LCCPrograms/LaFaSA.html">Purdue Latino Faculty and Staff Association</a></li>
+          </ul>
+      </li>
+    </ul></div></div>
+ </div>
+                  </div><!-- /middle-container -->
+    <div style="clear:both"></div>
+                    <div class="clear-block clr" id="section2">
+        <div class="sections">
+                      <div class="section width33"><div class="block block-block" id="block-block-1">
+  <h2 class="title">Lafayette</h2>  <div class="content"><p><a href="http://www.lafayette.in.gov/611/Human-Relations-Commission"><font color="#E1FFE1">Contact Information</font></a><br />
+Lafayette Human Relations Commission<br />
+Lafayette City Hall<br />
+20 N. Sixth St.<br />
+Lafayette, IN  47901</p>
+
+<p>Please contact Aimee Jacobsen (<script type="text/javascript"> 
+<!--
+var g="aj"; h="acobsen"; var z=':@lto@mai'; document.write('<a href="'+z.substring(6,9)+z.substring(2,5)+z.substring(0,1)+g+h+z.substring(1,2)+'lafayette.in.gov'+'"><font color="#E1FFE1">'+g+h+z.substring(1,2)+'lafayette.in.gov'+'</font></a>');
+//-->
+</script>) with the Lafayette Community Development Department at (765) 807-1090 if you have any questions or concerns about the complaint process.</p>
+<p>Note: If you click on one of these PDF or DOC files they will open in a new window or tab:<br />
+<a href="http://www.lafayette.in.gov/egov/docs/1195232080_183166.pdf" target="_blank"><font color="#E1FFE1">Brochure in English (PDF)</font></a><br />
+<a href="http://www.lafayette.in.gov/egov/docs/1195231883_455657.pdf" target="_blank"><font color="#E1FFE1">Brochure in Spanish (PDF)</font></a><br />
+<a href="http://www.lafayette.in.gov/egov/docs/1191263507_674072.pdf" target="_blank"><font color="#E1FFE1">Complaint form in English (PDF)</font></a> <a href="/diversity/sites/default/files/LHRC%20Complaint%20Form_0.doc" target="_blank"><font color="#E1FFE1">(DOC)</font></a><br />
+<a href="http://www.lafayette.in.gov/egov/docs/1201204387_483917.pdf" target="_blank"><font color="#E1FFE1">Complaint form in Spanish (PDF)</font></a><a href="/diversity/sites/default/files/LHRC%20Complaint%20form%20(Spanish)%201.2.08_1.doc" target="_blank"><font color="#E1FFE1">(DOC)</font></a></p><p><a href="http://www.lafayette.in.gov/611/Human-Relations-Commission"><font color="#E1FFE1">Web site</font></a></p></div></div>
+</div>
+                                <div class="section width33"><div class="block block-block" id="block-block-2">
+  <h2 class="title">West Lafayette</h2>  <div class="content"><p><a href="http://www.city.west-lafayette.in.us/department/board.php?fDD=12-19"><font color="#E1FFE1">Contact Information</font></a><br />
+West Lafayette Human Relations Commission<br />
+West Lafayette City Hall<br />
+609 W. Navajo St.<br />
+West Lafayette, IN  47906</p>
+<p>(765) 775-5100</p>
+<p>
+Note: If you click on one of these PDF files they will open in a new window or tab:<br />
+<a href="http://www.westlafayette.in.gov/egov/docs/1250107910_668853.pdf" target="_blank"><font color="#E1FFE1">Brochure in English (PDF)</font></a><br />
+<a href="http://www.westlafayette.in.gov/egov/docs/1231696442_746917.pdf" target="_blank"><font color="#E1FFE1">Brochure in Spanish (PDF)</font></a><br />
+<a href="http://www.westlafayette.in.gov/egov/docs/1250107858_307250.pdf" target="_blank"><font color="#E1FFE1">Brochure in Japanese (PDF)</font></a><br />
+<a href="http://www.westlafayette.in.gov/egov/docs/1242233293_833007.pdf" target="_blank"><font color="#E1FFE1">Complaint Form in English (PDF)</font></a><br />
+<a href="http://www.westlafayette.in.gov/egov/docs/1242233502_24169.pdf" target="_blank"><font color="#E1FFE1">Complaint Form in Spanish (PDF)</font></a><br />
+<a href="http://www.westlafayette.in.gov/egov/docs/1249994712_243225.pdf" target="_blank"><font color="#E1FFE1">Complaint Form in Japanese (PDF)</font></a></p>
+<p><a href="http://www.westlafayette.in.gov/department/board.php?structureid=54"><font color="#E1FFE1">Web site</font></a></p>
+</div></div>
+</div>
+                                <div class="section width33"><div class="block block-block" id="block-block-3">
+  <h2 class="title">Tippecanoe County</h2>  <div class="content"><p>
+<a href="contact_tchrc"><font color="#E1FFE1">Contact Information</font></a><br />
+Tippecanoe Co. Human Relations Commission<br />
+Tippecanoe County Office Building<br />
+20 N. Third St.<br />
+Lafayette, IN 47901-1214</p>
+<p>Chair: (765) 423-9215 <br />
+<a href="/diversity/membership_tchrc"><font color="#E1FFE1">Membership</font></a></p>
+<p>
+Note: If you click on one of these PDF files they will open in a new window or tab: <br />
+<a href="http://www.tippecanoe.in.gov/egov/docs/1235573349_983306.pdf" target="_blank"><font color="#E1FFE1">Brochure (PDF)</font></a><br />
+<a href="/diversity/sites/default/files/complaint_form.pdf" target="_blank"><font color="#E1FFE1">Complaint form (fill-in PDF)</font></a>
+</p><p><a href="http://www.tippecanoe.in.gov/517/Human-Relations-Commission-HRC"><font color="#E1FFE1">Web site</font></a>
+</p>
+</div></div>
+</div>
+                  </div>
+        <div style="clear:both"></div>
+      </div><!-- /section2 -->
+              <div id="secondary-links">
+         
+        <div style="clear:both"></div>
+      </div>
+        <div id="footer">
+              <div id="footer-region"><div class="block block-system" id="block-system-0">
+    <div class="content"><a href="http://drupal.org"><img src="/misc/powered-blue-80x15.png" alt="Powered by Drupal, an open source content management system" title="Powered by Drupal, an open source content management system" width="80" height="15" /></a></div></div>
+</div>
+                    <div id="footer-message">The cartoon figures are based on Screen Beans Art © <a href="http://www.bitbetter.com/">A Bit Better Corporation</a></div>
+          <div style="color:gray"><strong>THEME DESIGN</strong> Copyright &#169; 2009 under <a href="http://www.gnu.org/licenses/gpl.html" target="_blank">GPL</a> by <a href="http://www.tributemedia.com" title="High Performing, Industry Specific Websites" target="_blank">Tribute Media</a>. Site Powered by <a href="http://drupal.org/">Drupal</a>.</div>
+    </div><!-- /footer -->
+  <div style="clear:both"></div>
+  </div></div>
+  </div> <!-- /page -->
+</body>
+</html>

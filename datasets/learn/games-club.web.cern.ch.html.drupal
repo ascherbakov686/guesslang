@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<script>var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "https://piwik.web.cern.ch/" : "http://piwik.web.cern.ch/");_paq.push(["setSiteId", "5688"]);_paq.push(["setTrackerUrl", u+"piwik.php"]);_paq.push(["setDoNotTrack", 1]);_paq.push(["trackPageView"]);_paq.push(["setIgnoreClasses", ["no-tracking","colorbox"]]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"piwik.js";s.parentNode.insertBefore(g,s);})();</script>
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/themes/custom/cernclean/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" type="application/rss+xml" title="" href="https://games-club.web.cern.ch/rss.xml" />
+
+    <title>Home | CERN Games Club</title>
+    <link rel="stylesheet" media="all" href="/sites/games-club.web.cern.ch/files/css/css_JHtcmir6XYdTXINFECGvoLx4MmnhMWgZFyWTvK79ddw.css" />
+<link rel="stylesheet" media="all" href="/sites/games-club.web.cern.ch/files/css/css_nYi37BAlGtVNWCJHBFlJFcP8v5ToR48QTv6QNmV3pWo.css" />
+<link rel="stylesheet" media="all" href="//framework.web.cern.ch/framework/3.0/js/prism/prism.css" />
+<link rel="stylesheet" media="all" href="/sites/games-club.web.cern.ch/files/css/css_b3-LwRkKMky5E2bw3FgJqtOrVWPLIcXmwmGkEvXWvCY.css" />
+<link rel="stylesheet" media="all" href="//framework.web.cern.ch/framework/3.0/js/colorbox/colorbox.css" />
+<link rel="stylesheet" media="all" href="/sites/games-club.web.cern.ch/files/css/css_CtByK1L4qxbbN98u3uFWKL2_I5Xn539ilNzLCi7sWUE.css" />
+
+    
+<!--[if lte IE 8]>
+<script src="/sites/games-club.web.cern.ch/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+
+          <link rel="preload" href="//framework.web.cern.ch/framework/3.0/images/loader.gif" as="image">
+      </head>
+  <body class="cern-theme-on path-frontpage has-glyphicons">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    <div  id="cern-toolbar" role="group" aria-label="CERN Toolbar" class="user-not-authenticated">
+    <h1>
+        <a href="//home.cern" title="CERN">
+            CERN
+            <span>Accelerating science</span>
+        </a>
+    </h1>
+    <ul>
+        <li class="signin"> 
+                                                     
+                                        <div class="item-list item-list-length-1">
+                <ul class="cern-signedin toolbar-submenu"><li class="cern-account-links"><a href="/user/login" class="cern-account cern-signin cern-single-mobile-signin">Sign in</a></li></ul>
+            </div>
+        </li>
+        <li><a href="//cern.ch/directory" class="cern-directory" title="Search CERN resources and browse the directory">Directory</a></li>
+    </ul>
+</div>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+    
+
+
+    
+
+<header role="banner">
+
+  <div class="header-wrapper">
+
+    
+			      	<div class="site-info col-sm-12 col-md-12 col-lg-3">
+			
+                  <div class="site-info__logo col-lg-3 col-md-2 col-sm-3">
+            <a href="/" title="Home" rel="home">
+              <img src="/sites/games-club.web.cern.ch/files/logo/logo2a.png" alt="home"/>
+            </a>
+          </div>
+        
+        <div class="site-info__text col-lg-9 col-md-10 col-sm-9">
+
+                      <div class="site-info__text__name">
+              <a href="/" title="Home" rel="home">
+                CERN Games Club
+              </a>
+            </div>
+          
+          
+        </div>
+
+      </div>
+
+    
+    
+								<div class="site-nav col-sm-12 col-md-12 col-lg-9 ">
+			
+          <div class="region region-header">
+    <nav role="navigation" aria-labelledby="block-cernclean-main-menu-menu" id="block-cernclean-main-menu">
+            <h2 class="sr-only" id="block-cernclean-main-menu-menu">Main navigation</h2>
+
+      <nav class="navbar navbar-default main-menu">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+      
+                                                  <ul class="nav navbar-nav">
+                                                              <li>
+                      <a href="/" data-drupal-link-system-path="&lt;front&gt;" class="is-active">Home</a>
+                                                          </li>
+
+                  
+                                                    <li>
+                      <a href="/games" title="The games we play" data-drupal-link-system-path="games">Games</a>
+                                                          </li>
+
+                  
+                                                    <li>
+                      <a href="/galleries" title="Photo Galleries" data-drupal-link-system-path="galleries">Gallery</a>
+                                                          </li>
+
+                  
+                                                    <li>
+                      <a href="/information" title="Club Committee, Statutes and Minutes from AGMs" data-drupal-link-system-path="information">Official</a>
+                                                          </li>
+
+                  
+                                                    <li>
+                      <a href="/contact" title="How to get in touch" data-drupal-link-system-path="contact">Contact</a>
+                                                          </li>
+
+                                                          <li class="search-item">
+                      <a href="/search" class="search-link">search</a>
+                    </li>
+                  
+                              </ul>
+                      
+
+      
+        </div>
+        <!-- /.navbar-collapse -->
+      </div>
+      <!-- /.container-fluid -->
+    </nav>
+    
+  </nav>
+
+  </div>
+
+      </div>
+    
+  </div>
+
+</div>
+
+</header>
+
+<main role="main">
+	<a id="main-content" tabindex="-1"></a>
+					<div class="container">
+				<div class="wrapper-center col-md-9 col-sm-12 col-xs-12">
+			  <div class="region region-content">
+        <h1 class="page-header"></h1>
+
+<section id="block-frontpage" class="block block-block-content block-block-content56d7bce9-00b3-449d-81ce-b9fcfbcd8e58 clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><img alt="CERN Games Club" data-entity-type="file" data-entity-uuid="443f1cda-0aa6-4ba1-b1fc-d9046309ce8e" src="/sites/games-club.web.cern.ch/files/inline-images/logo_0.png" class="align-center" /><h3>Welcome to the official website of the CERN Games Club!</h3>
+
+<p>We are students, fellows and staff members from CERN and a bunch of external people from Geneva who enjoy coming together to play tabletop games. Every Sunday we meet in Restaurant 1 at CERN from 2pm to late to play board games. You can pass by at any time to join us. From time to time we do other activities (weekday gaming, movies, participating in regional events, <em>etc.</em>). To keep informed, please join our <a href="/contact">mailing list</a>.</p>
+
+<p>Additionally to our main event on Sundays, there are group meetings during the week to play cards, board games, RPGs, Chess or Go in multiple locations. You can use the <a href="https://clubs-community.web.cern.ch/c/games-club">discussion forum</a> to search for players for your specific gaming interests.</p>
+</div>
+      
+  </section>
+
+<div class="views-element-container form-group">
+
+<div class="view view-frontpage view-id-frontpage view-display-id-page_1 js-view-dom-id-fe92d6a034a3fb3ebc11cec7fb37e8354296d1f73fe9932d43e7ffbd5597d450 cern-view-display-page cern-view-display-page_1 clearfix">
+  
+      
+
+  
+    
+      <div class="view-content clearfix">
+      
+
+  
+    
+    
+    
+  
+    
+    
+    
+  
+  
+                <div class="views-row">
+        <article data-history-node-id="25" role="article" about="/node/25" typeof="schema:Article" class="article is-promoted teaser clearfix">
+
+  
+      <h2>
+      <a href="/node/25" rel="bookmark"><span property="schema:name">Games club AGM Feb 16th 19:00</span>
+</a>
+    </h2>
+      <span property="schema:name" content="Games club AGM Feb 16th 19:00" class="hidden"></span>
+  <span property="schema:interactionCount" content="UserComments:0" class="hidden"></span>
+
+
+  
+  <div class="content">
+    
+            <div property="schema:text" class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>Dear Gamers,</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
+
+<p><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p></div>
+      <ul class="links inline list-inline"><li class="node-readmore"><a href="/node/25" rel="tag" title="Games club AGM Feb 16th 19:00" hreflang="en">Read more<span class="visually-hidden"> about Games club AGM Feb 16th 19:00</span></a></li><li class="comment-forbidden"><a href="/user/login?destination=/node/25%23comment-form">Log in</a> or <a href="/user/register?destination=/node/25%23comment-form">register</a> to post comments</li></ul>
+  </div>
+
+</article>
+
+      </div>
+                <div class="views-row">
+        <article data-history-node-id="24" role="article" about="/node/24" typeof="schema:Article" class="article is-promoted teaser clearfix">
+
+  
+      <h2>
+      <a href="/node/24" rel="bookmark"><span property="schema:name">Club Outing to Maison D&#039;Ailleurs</span>
+</a>
+    </h2>
+      <span property="schema:name" content="Club Outing to Maison D&#039;Ailleurs" class="hidden"></span>
+  <span property="schema:interactionCount" content="UserComments:0" class="hidden"></span>
+
+
+  
+  <div class="content">
+    
+            <div property="schema:text" class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><a href="http://www.ailleurs.ch/">Maison d'Ailleurs</a> (the sci-fi museum in Yverdon) has an exhibition about gaming in all its forms. The Games Club proposes to make an outing to see the exhibition on Saturday 13 July 2019. If you want to join in, please fill in the <a href="https://doodle.com/poll/4vz5yyzr3znc7fhf">Doodle Poll</a>.</p></div>
+      <ul class="links inline list-inline"><li class="node-readmore"><a href="/node/24" rel="tag" title="Club Outing to Maison D&#039;Ailleurs" hreflang="en">Read more<span class="visually-hidden"> about Club Outing to Maison D&#039;Ailleurs</span></a></li><li class="comment-forbidden"><a href="/user/login?destination=/node/24%23comment-form">Log in</a> or <a href="/user/register?destination=/node/24%23comment-form">register</a> to post comments</li></ul>
+  </div>
+
+</article>
+
+      </div>
+    
+  
+    </div>
+  
+      
+              <div class="feed-icons">
+      <a href="https://games-club.web.cern.ch/rss.xml" class="feed-icon">
+  Subscribe to 
+</a>
+
+    </div>
+  </div>
+</div>
+
+  </div>
+
+		</div>
+					<div class="sidebar-right col-md-3 col-sm-12 col-xs-12">
+				  <div class="region region-right">
+    <div class="search-block-form block block-search block-search-form-block" data-drupal-selector="search-block-form" id="block-cernclean-search" role="search">
+  
+      <h2 class="visually-hidden">Search</h2>
+    
+      <form action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+  <div class="form-item js-form-item form-type-search js-form-type-search form-item-keys js-form-item-keys form-no-label form-group">
+      <label for="edit-keys" class="control-label sr-only">Search</label>
+  
+  
+  <div class="input-group"><input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" class="form-search form-control" placeholder="Search" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" data-toggle="tooltip" /><span class="input-group-btn"><button type="submit" value="Search" class="button js-form-submit form-submit btn-primary btn icon-only" name=""><span class="sr-only">Search</span><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span></button></span></div>
+
+  
+  
+  </div>
+<div class="form-actions form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions"></div>
+
+</form>
+
+  </div>
+<section id="block-contactsidebar" class="block block-block-content block-block-contenta9776825-333c-4de3-80bd-9b6d70e7728e clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><a href="https://www.facebook.com/groups/cerngames/"><img alt="Follow on Facebook" data-entity-type="file" data-entity-uuid="96db0eda-7c37-4c57-8f8f-524982b45a2c" src="/sites/games-club.web.cern.ch/files/inline-images/facebook_0.png" style="float:left;margin:5px;" /></a><a href="https://clubs-community.web.cern.ch/c/games-club"><img alt="Discuss on Discourse" data-entity-type="file" data-entity-uuid="7b3c7bff-6a00-424d-8e6a-c7c78d3c6681" src="/sites/games-club.web.cern.ch/files/inline-images/discourse_0.png" style="float:left;margin:5px;" /></a><a href="/contact"><img alt="Contact Us" data-entity-type="file" data-entity-uuid="0803a36b-14e6-4485-b695-2d6e692f461a" src="/sites/games-club.web.cern.ch/files/inline-images/email_0.png" style="float:left;margin:5px;" /></a></p>
+</div>
+      
+  </section>
+
+
+  </div>
+
+			</div>
+			</div>
+	</main>
+
+<footer role="contentinfo">
+<div class="row cern-footer">
+				<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 footer-first-col">
+				  <div class="region region-footercolumn1">
+      <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>
+
+  </div>
+
+	  </div>
+  <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8 footer-second-col">
+    <div class="row">
+      <!-- CONTACT US -->
+      <div class="col-sm-5 col-md-4 col-md-offset-0 col-lg-4 col-lg-offset-0">
+                    <div class="region region-footercolumn2">
+    <section id="block-footerinfo" class="block block-block-content block-block-content06724917-63f1-49d4-b16d-6f57788d6487 clearfix">
+  
+    
+
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><h4>Visit us</h4>
+
+<p><a href="http://binged.it/1odxzaF">CERN Restaurant 1<br />
+Esplanade des Particules 1<br />
+1217 Meyrin<br />
+TPG Tram 18 (CERN)</a></p>
+</div>
+      
+  </section>
+
+
+  </div>
+
+              </div>
+      <!-- general info -->
+      <div class="col-sm-6 col-sm-offset-1 col-md-4 col-md-offset-0 col-lg-4">
+        <div class=" mb-4">
+                  </div>
+      </div>
+      <!-- cern and you -->
+      <div class="col-sm-6 col-sm-offset-6 col-md-4 col-md-offset-0 col-lg-4  col-lg-offset-0">
+        <div class=" mb-4">
+                  </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1 footer-last-logo">
+
+          <a href="https://home.cern/" title="CERN" target="_blank"><img src="/themes/custom/cernclean/logo.svg" alt="CERN"/></a>
+    
+  </div>
+</div>
+
+  <div class="copy-wrapper light">
+  <a href="https://copyright.web.cern.ch/">
+    Copyright
+  </a>
+  &nbsp;&copy;
+  2020
+  CERN</div>
+</footer>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"matomo":{"trackMailto":true,"trackColorbox":true},"data":{"extlink":{"extTarget":true,"extTargetNoOverride":false,"extNofollow":false,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"clubs-community.web.cern.ch","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto","mailtoLabel":"(link sends email)"}},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"ajaxTrustedUrl":{"\/search\/node":true},"user":{"uid":0,"permissionsHash":"3d5b0de02881bbbd2b7441be8982482db331c7a345e54a7a7c925dc468633cf2"}}</script>
+<script src="/sites/games-club.web.cern.ch/files/js/js_Sd9wqfPAJGYy2nh5IM2s-0nW9VNo-wmp31buJpHVGHo.js"></script>
+<script src="//framework.web.cern.ch/framework/3.0/js/prism/prism.js"></script>
+<script src="/sites/games-club.web.cern.ch/files/js/js_9W5Lqd9AvF7px_IiQAq57EUa-5_icitGkuDGRUXNI38.js"></script>
+<script src="//framework.web.cern.ch/framework/3.0/js/colorbox/jquery.colorbox-min.js"></script>
+<script src="//framework.web.cern.ch/framework/3.0/js/scroll-magic/ScrollMagic.min.js"></script>
+<script src="//framework.web.cern.ch/framework/3.0/js/scroll-magic/text-effects.js"></script>
+<script src="/sites/games-club.web.cern.ch/files/js/js_sjaHnZ0rTt7xG4qFMC9SVTk-1DFQf38RJQKAD2kvjUU.js"></script>
+
+  </body>
+</html>

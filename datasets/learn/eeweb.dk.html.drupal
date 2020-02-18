@@ -1,0 +1,119 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 ie7" lang="da"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7" lang="da"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8" lang="da"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie9" lang="da"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js" lang="da"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <script>document.documentElement.className=document.documentElement.className.replace('no-js','js');</script>
+  <title>Sikkerhedsstyrelsen</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <meta name="viewport" content="user-scalable=yes, width=1024, maximum-scale=1">
+  <link rel="stylesheet" href="/sik/css/style.css?v=1.5.5">
+  <link rel="stylesheet" href="/sik/css/autocomplete.css?v=1.5.5">
+  <link rel="stylesheet" type="text/css" media="only screen and (min-device-width: 768px) and (max-device-width: 1024px)" href="/sik/css/mobile.css?v=1.5.5" />
+  <link rel="stylesheet" type="text/css" media="media only screen and (max-device-width: 480px)" href="/sik/css/mobile.css?v=1.5.5" />
+</head>
+<body>
+<div id="container">
+    <div id="header">
+      <div class="container">
+        <h2><a href="/sik/" class="ir" id="logo">Sikkerhedsstyrelsen</a></h2>
+
+                        <ul id="tabs">
+          <li>
+                                        </ul>
+        <p id="logout">Sikkerhedsstyrelsen(27403123)<a href="/sik/logout">Log ud</a></p>
+              </div>
+    </div>
+                <div id="main" class="group">
+  <div id="content">
+    <div class="browserMsg message" >
+      <p>Vigtigt: Du bruger en gammel version af Internet Explorer, som EE web ikke underst&oslash;tter. Knapper m.m. vil derfor ofte ikke vises. Opdater din browser til Internet Explorer 8 eller 9
+      <a href="http://windows.microsoft.com/da-DK/internet-explorer/downloads/ie">her</a>. Eller Eller brug Mozilla Firefox 10 eller 11, Chrome 16 eller 17 eller Safari 5.</p>
+    </div>
+            <h1>
+      <strong>Log ind</strong>
+    </h1>
+        <form method="post" action="#" class="form">
+      <fieldset>
+        <ul>
+          <li>
+            <label for="username">Brugernavn</label>
+            <input type="text" class="text" name="username" id="username" value="" />
+          </li>
+                      <li>
+              <label for="password">Adgangskode</label>
+              <input type="password" class="text" name="password" id="password" autocomplete="off" />
+            </li>
+                    <li>
+             <button type="submit" class="inline fleft"><span>Log ind</span></button>
+                            <a class="reset_password" href="/sik/password">Glemt adgangskode?</a>
+                       </li>
+        </ul>
+      </fieldset>
+    </form>
+      </div>
+
+  <div id="sidebar">
+        <h3 class="first"><span>Tilmeld virksomhed</span></h3>
+    <p><p>For at tilmelde dig Eleftersynsordningen skal du klikke på ”Tilmeld virksomhed”.</p>
+<p>Er du allerede tilmeldt ordningen, skal du indtaste brugernavn og adgangskode for at logge på systemet.</p>
+<p>Hvis du vil logge ind som virksomhed er dit brugernavn virksomhedens CVR nummer. Hvis du vil logge ind som administrator eller medarbejder er dit brugernavn din mailadresse.</p>
+<p>Adgangskode: Der skelnes mellem store og små bogstaver.</p>
+</p>
+          <a href="/sik/register" class="button"><span>Tilmeld virksomhed</span></a>
+     
+ <h3><span>Eeweb er optimeret til at bruge de nyeste versioner af f&oslash;lgende Browsere:</span></h3>
+    <p>
+      <strong>Browsere</strong><br />
+      Internet Explorer (<a href="http://windows.microsoft.com/da-DK/internet-explorer/downloads/ie">Hent nyeste her</a>)<br />
+      Firefox (<a href="http://firefox.com">Hent nyeste her</a>)<br />
+      Chrome (<a href="http://google.com/chrome?hl=da" >Hent nyeste her</a>)<br />
+      Safari (<a href="http://apple.com/safari/download" >Hent nyeste her</a>)
+    </p>
+    <p>
+      <strong>Opløsning</strong><br />
+      Minimum 1024px i bredden
+    </p>
+    <p>
+      <strong>Cookies</strong><br />
+      Cookies skal være slået til
+    </p>
+    <p>
+      <strong>iPad</strong><br />
+									     Safari p&aring; nyeste iOS
+    </p>
+    <h3><span>Information</span></h3>
+    <p>Oplever du tekniske problemer, kan du følge driftsstatus på <a href="http://www.eleftersynsinfo.dk">www.eleftersynsinfo.dk</a></p>
+    <p>Her kan du også finde aktuelle informationer om eleftersyn og se FAQ’en og Håndbogen.</p>
+  </div>
+</div>
+  </div>
+  <div id="band"></div>
+
+  <script src="/js/libs/jquery.1.7.1.min.js"></script>
+  <script defer src="/js/libs/jquery.validate-1.15.0.min.js"></script>
+  <script defer src="/js/libs/jquery-ui-1.10.0.custom.min.js"></script>
+  <script defer src="/js/libs/sorttable.js"></script>
+  <script defer src="/js/libs/jquery.generateFile.js"></script>
+  <script defer src="/js/libs/exporttable.js"></script>
+  <script defer src="/js/plugins.js?v=1.5.5"></script>
+  <script defer src="/js/script.js?v=1.5.5"></script>
+
+  <script>
+    window._gaq=[['_setAccount','UA-6298150-6'],['_trackPageview'],['_trackPageLoadTime']];
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;
+    g.src=("https:"==location.protocol?"//ssl":"//www")+".google-analytics.com/ga.js";
+    s.parentNode.insertBefore(g,s)}(document,"script"));
+  </script>
+
+  <!--[if lt IE 7 ]>
+    <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+    <script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+  <![endif]-->
+
+</body>
+</html>

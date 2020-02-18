@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.dogbrochures.com/sites/all/themes/dog/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Dog Brochures | The best web-database brochures concerning dogs and their wellbeing.</title>
+  <style>
+@import url("http://www.dogbrochures.com/modules/system/system.base.css?q2qagk");
+</style>
+<style>
+@import url("http://www.dogbrochures.com/sites/all/libraries/ms-Dropdown/css/msdropdown/dd.css?q2qagk");
+</style>
+<style>
+@import url("http://www.dogbrochures.com/modules/field/theme/field.css?q2qagk");
+@import url("http://www.dogbrochures.com/modules/node/node.css?q2qagk");
+@import url("http://www.dogbrochures.com/sites/all/modules/contrib/views/css/views.css?q2qagk");
+@import url("http://www.dogbrochures.com/sites/all/modules/contrib/ckeditor/css/ckeditor.css?q2qagk");
+</style>
+<style>
+@import url("http://www.dogbrochures.com/sites/all/modules/contrib/ctools/css/ctools.css?q2qagk");
+@import url("http://www.dogbrochures.com/sites/all/modules/contrib/lang_dropdown/msdropdown/css/msdropdown/ldsDark.css?q2qagk");
+@import url("http://www.dogbrochures.com/sites/all/libraries/selectize/dist/css/selectize.default.css?q2qagk");
+@import url("http://www.dogbrochures.com/sites/all/modules/contrib/selectize/css/selectize.drupal.css?q2qagk");
+@import url("http://www.dogbrochures.com/sites/all/modules/contrib/addtoany/addtoany.css?q2qagk");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.5/dist/css/bootstrap.css" media="all" />
+<style>
+@import url("http://www.dogbrochures.com/sites/all/themes/bootstrap/css/3.3.5/overrides.min.css?q2qagk");
+@import url("http://www.dogbrochures.com/sites/all/themes/dog/css/style.css?q2qagk");
+@import url("http://www.dogbrochures.com/sites/all/themes/dog/css/dogsymposium.css?q2qagk");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <script src="http://www.dogbrochures.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script src="http://www.dogbrochures.com/misc/jquery-extend-3.4.0.js?v=1.10.2"></script>
+<script src="http://www.dogbrochures.com/misc/jquery.once.js?v=1.2"></script>
+<script src="http://www.dogbrochures.com/misc/drupal.js?q2qagk"></script>
+<script src="http://www.dogbrochures.com/sites/all/modules/contrib/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script src="http://www.dogbrochures.com/sites/all/modules/contrib/jquery_update/replace/misc/jquery.form.min.js?v=2.69"></script>
+<script src="http://www.dogbrochures.com/misc/ajax.js?v=7.69"></script>
+<script src="http://www.dogbrochures.com/sites/all/modules/contrib/jquery_update/js/jquery_update.js?v=0.0.1"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.5/dist/js/bootstrap.js"></script>
+<script src="http://www.dogbrochures.com/sites/all/libraries/ms-Dropdown/js/msdropdown/jquery.dd.min.js?v=3.5.2"></script>
+<script src="http://www.dogbrochures.com/sites/all/modules/contrib/views/js/base.js?q2qagk"></script>
+<script src="http://www.dogbrochures.com/sites/all/themes/bootstrap/js/misc/_progress.js?v=7.69"></script>
+<script src="http://www.dogbrochures.com/sites/all/modules/contrib/views/js/ajax_view.js?q2qagk"></script>
+<script src="http://www.dogbrochures.com/sites/all/modules/contrib/google_analytics/googleanalytics.js?q2qagk"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-91746340-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script src="http://www.dogbrochures.com/sites/all/modules/contrib/lang_dropdown/lang_dropdown.js?q2qagk"></script>
+<script src="http://www.dogbrochures.com/sites/all/libraries/selectize/dist/js/standalone/selectize.min.js?q2qagk"></script>
+<script src="http://www.dogbrochures.com/sites/all/modules/contrib/selectize/js/selectize.drupal.js?q2qagk"></script>
+<script>window.a2a_config=window.a2a_config||{};window.da2a={done:false,html_done:false,script_ready:false,script_load:function(){var a=document.createElement('script'),s=document.getElementsByTagName('script')[0];a.type='text/javascript';a.async=true;a.src='https://static.addtoany.com/menu/page.js';s.parentNode.insertBefore(a,s);da2a.script_load=function(){};},script_onready:function(){da2a.script_ready=true;if(da2a.html_done)da2a.init();},init:function(){for(var i=0,el,target,targets=da2a.targets,length=targets.length;i<length;i++){el=document.getElementById('da2a_'+(i+1));target=targets[i];a2a_config.linkname=target.title;a2a_config.linkurl=target.url;if(el){a2a.init('page',{target:el});el.id='';}da2a.done=true;}da2a.targets=[];}};(function ($){Drupal.behaviors.addToAny = {attach: function (context, settings) {if (context !== document && window.da2a) {if(da2a.script_ready)a2a.init_all('page');da2a.script_load();}}}})(jQuery);a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.callbacks.push({ready:da2a.script_onready});a2a_config.overlays=a2a_config.overlays||[];a2a_config.templates=a2a_config.templates||{};</script>
+<script src="http://www.dogbrochures.com/sites/all/themes/bootstrap/js/misc/ajax.js?q2qagk"></script>
+<script src="http://www.dogbrochures.com/sites/all/themes/bootstrap/js/modules/views/js/ajax_view.js?q2qagk"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dog","theme_token":"pYHUMMykMZiMMub0-2ObGmK1bpQ6_xeL3HmmdnRBP3g","jquery_version":"1.10","js":{"0":1,"":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"https:\/\/cdn.jsdelivr.net\/npm\/bootstrap@3.3.5\/dist\/js\/bootstrap.js":1,"sites\/all\/libraries\/ms-Dropdown\/js\/msdropdown\/jquery.dd.min.js":1,"sites\/all\/modules\/contrib\/views\/js\/base.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/modules\/contrib\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/modules\/contrib\/lang_dropdown\/lang_dropdown.js":1,"sites\/all\/libraries\/selectize\/dist\/js\/standalone\/selectize.min.js":1,"sites\/all\/modules\/contrib\/selectize\/js\/selectize.drupal.js":1,"2":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1,"sites\/all\/themes\/bootstrap\/js\/modules\/views\/js\/ajax_view.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/libraries\/ms-Dropdown\/css\/msdropdown\/dd.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/lang_dropdown\/msdropdown\/css\/msdropdown\/ldsDark.css":1,"sites\/all\/libraries\/selectize\/dist\/css\/selectize.default.css":1,"sites\/all\/modules\/contrib\/selectize\/css\/selectize.drupal.css":1,"sites\/all\/modules\/contrib\/addtoany\/addtoany.css":1,"https:\/\/cdn.jsdelivr.net\/npm\/bootstrap@3.3.5\/dist\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.5\/overrides.min.css":1,"sites\/all\/themes\/dog\/css\/style.css":1,"sites\/all\/themes\/dog\/css\/dogsymposium.css":1}},"lang_dropdown":{"language":{"jsWidget":{"widget":"msdropdown","visibleRows":"5","roundedCorner":1,"animStyle":"fadeIn","event":"click","mainCSS":"ldsDark"}}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:1fa8ded7ad6d7df70f0d857bf724c27e":{"view_name":"brochures","view_display_id":"block_1","view_args":"","view_path":"node","view_base_path":"brochures","view_dom_id":"1fa8ded7ad6d7df70f0d857bf724c27e","pager_element":0},"views_dom_id:37bf00d1231f90596c11ab9c0d32b5be":{"view_name":"brochures","view_display_id":"block_2","view_args":"","view_path":"node","view_base_path":"brochures","view_dom_id":"37bf00d1231f90596c11ab9c0d32b5be","pager_element":0}}},"urlIsAjaxTrusted":{"\/views\/ajax":true,"\/":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html front not-logged-in no-sidebars page-node i18n-en">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <header id="navbar" role="banner" class="navbar container-fluid navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+              <a class="logo navbar-btn pull-left" href="/" title="Home">
+          <img src="http://www.dogbrochures.com/sites/default/files/logo_DogBrochures2sd_0.png" alt="Home" />
+        </a>
+      
+      
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+          </div>
+
+          <div class="navbar-collapse collapse" id="navbar-collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first leaf active"><a href="/" class="active"><i class="fa fa-home" aria-hidden="true"></i>Home</a></li>
+<li class="leaf"><a href="/brochures">Brochures</a></li>
+<li class="leaf"><a href="/content/submit-your-brochure">Submit your brochure</a></li>
+<li class="last leaf"><a href="/content/contact-us"><i class="fa fa-paper-plane" aria-hidden="true"></i>Contact us</a></li>
+</ul>                                      </nav>
+      </div>
+      </div>
+</header>
+
+<div class="main-container container-fluid">
+
+  <header role="banner" id="page-header">
+          <p class="lead">The best web-database brochures concerning dogs and their wellbeing.</p>
+    
+      <div class="region region-header">
+    <section id="block-block-3" class="block block-block clearfix">
+
+      
+  <blockquote><p>Sharing, networking and cooperating is  the true spirit of good dog trainers of the future. The brochure web site shows exactly what it is about, and gets a gold star from me !</p>
+<p>     <small>by <cite>Turid Rugaas</cite></small>
+</p></blockquote>
+
+</section>
+<section id="block-lang-dropdown-language" class="block block-lang-dropdown clearfix">
+
+      
+  <form class="lang_dropdown_form language" id="lang_dropdown_form_language" action="/" method="post" accept-charset="UTF-8"><div><div class="form-item form-item-lang-dropdown-select form-type-select form-group"><select class="lang-dropdown-select-element form-control form-select" id="lang-dropdown-select-language" style="width:130px" name="lang_dropdown_select"><option value="en" selected="selected">English</option><option value="fr">Français</option><option value="nb">Bokmål</option></select></div><input type="hidden" name="en" value="/" />
+<input type="hidden" name="fr" value="/fr" />
+<input type="hidden" name="nb" value="/nb" />
+<noscript><div>
+<button type="submit" id="edit-submit" name="op" value="Go" class="btn btn-default form-submit">Go</button>
+
+</div></noscript><input type="hidden" name="form_build_id" value="form-6G-D8_dptKA47UPwdEIectfQ6CXuw9QZu0ZnPmaphbA" />
+<input type="hidden" name="form_id" value="lang_dropdown_form" />
+</div></form>
+</section>
+  </div>
+  </header> <!-- /#page-header -->
+
+  <div class="row">
+
+    
+    <section class="col-sm-12">
+                  <a id="main-content"></a>
+                                                                <div class="region region-content">
+    <section id="block-views-brochures-block-1" class="block block-views clearfix">
+
+        <h2 class="block-title">Latest brochures</h2>
+    
+  <div class="view view-brochures view-id-brochures view-display-id-block_1 view-dom-id-1fa8ded7ad6d7df70f0d857bf724c27e">
+        
+  
+  
+      <div class="view-content">
+      
+
+<div id="views-bootstrap-grid-1" class="views-bootstrap-grid-plugin-style">
+  
+          <div class="row">
+                  <div class=" col-xs-12 col-sm-6 col-md-4 col-lg-3">
+              
+  <div class="views-field views-field-field-brochure-preview">        <div class="field-content"><a href="/brochures/140/improving-life-arthritic-dog"><img typeof="foaf:Image" class="img-responsive" src="http://www.dogbrochures.com/sites/default/files/styles/brochure_view/public/brochure_preview/improvingthelifeofthearthriticdog.jpg?itok=-PZfICam" width="180" height="338" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/brochures/140/improving-life-arthritic-dog">Improving the life of the arthritic dog</a></span>  </div>  
+  <div class="views-field views-field-field-brochures-files">        <div class="field-content"><ul><li><div class="field-collection-view clearfix view-mode-brochure-language field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-brochures-files clearfix" about="/field-collection/field-brochures-files/152" typeof="">
+  <div class="content">
+      </div>
+</div>
+</div></li>
+</ul></div>  </div>          </div>
+
+                                      <div class=" col-xs-12 col-sm-6 col-md-4 col-lg-3">
+              
+  <div class="views-field views-field-field-brochure-preview">        <div class="field-content"><a href="/brochures/138/welcome-sensory-garden"><img typeof="foaf:Image" class="img-responsive" src="http://www.dogbrochures.com/sites/default/files/styles/brochure_view/public/brochure_preview/welcome_sensory_garden.jpg?itok=b_cFCLaM" width="180" height="338" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/brochures/138/welcome-sensory-garden">Welcome to the sensory garden!</a></span>  </div>  
+  <div class="views-field views-field-field-brochures-files">        <div class="field-content"><ul><li><div class="field-collection-view clearfix view-mode-brochure-language"><div class="entity entity-field-collection-item field-collection-item-field-brochures-files clearfix" about="/field-collection/field-brochures-files/151" typeof="">
+  <div class="content">
+    <div class="field field-name-field-brochure-language field-type-language-field field-label-hidden"><div class="field-items"><div class="field-item even"><img class="language-icon img-responsive" typeof="foaf:Image" src="http://www.dogbrochures.com/sites/all/modules/contrib/languageicons/flags/nl.png" width="16" height="12" alt="Dutch" title="Dutch" /></div></div></div>  </div>
+</div>
+</div></li>
+<li><div class="field-collection-view clearfix view-mode-brochure-language field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-brochures-files clearfix" about="/field-collection/field-brochures-files/153" typeof="">
+  <div class="content">
+    <div class="field field-name-field-brochure-language field-type-language-field field-label-hidden"><div class="field-items"><div class="field-item even"><img class="language-icon img-responsive" typeof="foaf:Image" src="http://www.dogbrochures.com/sites/all/modules/contrib/languageicons/flags/en.png" width="16" height="12" alt="English" title="English" /></div></div></div>  </div>
+</div>
+</div></li>
+</ul></div>  </div>          </div>
+
+                                                              <div class="clearfix visible-sm-block"></div>
+                                                                                                          <div class=" col-xs-12 col-sm-6 col-md-4 col-lg-3">
+              
+  <div class="views-field views-field-field-brochure-preview">        <div class="field-content"><a href="/brochures/137/meet-greet-unknown-dog"><img typeof="foaf:Image" class="img-responsive" src="http://www.dogbrochures.com/sites/default/files/styles/brochure_view/public/brochure_preview/meetand_greet.jpg?itok=qzSwzHwk" width="180" height="338" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/brochures/137/meet-greet-unknown-dog">Meet &amp; Greet an unknown dog</a></span>  </div>  
+  <div class="views-field views-field-field-brochures-files">        <div class="field-content"><ul><li><div class="field-collection-view clearfix view-mode-brochure-language field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-brochures-files clearfix" about="/field-collection/field-brochures-files/148" typeof="">
+  <div class="content">
+    <div class="field field-name-field-brochure-language field-type-language-field field-label-hidden"><div class="field-items"><div class="field-item even"><img class="language-icon img-responsive" typeof="foaf:Image" src="http://www.dogbrochures.com/sites/all/modules/contrib/languageicons/flags/en.png" width="16" height="12" alt="English" title="English" /></div></div></div>  </div>
+</div>
+</div></li>
+</ul></div>  </div>          </div>
+
+                                                                                        <div class="clearfix visible-md-block"></div>
+                                                                                <div class=" col-xs-12 col-sm-6 col-md-4 col-lg-3">
+              
+  <div class="views-field views-field-field-brochure-preview">        <div class="field-content"><a href="/brochures/135/why-do-dogs-pee"><img typeof="foaf:Image" class="img-responsive" src="http://www.dogbrochures.com/sites/default/files/styles/brochure_view/public/brochure_preview/whydodogspee.jpg?itok=0OEhGhI5" width="180" height="338" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/brochures/135/why-do-dogs-pee">Why do dogs pee?</a></span>  </div>  
+  <div class="views-field views-field-field-brochures-files">        <div class="field-content"><ul><li><div class="field-collection-view clearfix view-mode-brochure-language field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-brochures-files clearfix" about="/field-collection/field-brochures-files/147" typeof="">
+  <div class="content">
+    <div class="field field-name-field-brochure-language field-type-language-field field-label-hidden"><div class="field-items"><div class="field-item even"><img class="language-icon img-responsive" typeof="foaf:Image" src="http://www.dogbrochures.com/sites/all/modules/contrib/languageicons/flags/en.png" width="16" height="12" alt="English" title="English" /></div></div></div>  </div>
+</div>
+</div></li>
+</ul></div>  </div>          </div>
+
+                                                              <div class="clearfix visible-sm-block"></div>
+                                                                                  <div class="clearfix visible-lg-block"></div>
+                                                  </div>
+    
+  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/brochures">
+    <i class="fa fa-plus-square"></i> more  </a>
+</div>
+  
+  
+  
+</div>
+</section>
+<section id="block-views-brochures-block-2" class="block block-views clearfix">
+
+        <h2 class="block-title">Some random brochures ...</h2>
+    
+  <div class="view view-brochures view-id-brochures view-display-id-block_2 view-dom-id-37bf00d1231f90596c11ab9c0d32b5be">
+        
+  
+  
+      <div class="view-content">
+      
+
+<div id="views-bootstrap-grid-2" class="views-bootstrap-grid-plugin-style">
+  
+          <div class="row">
+                  <div class=" col-xs-12 col-sm-6 col-md-4 col-lg-3">
+              
+  <div class="views-field views-field-field-brochure-preview">        <div class="field-content"><a href="/brochures/50/un-chiot-bien-dans-ses-pattes-bien-dans-sa-tete"><img typeof="foaf:Image" class="img-responsive" src="http://www.dogbrochures.com/sites/default/files/styles/brochure_view/public/brochure_preview/UnChiotBienDansSesPattes.jpg?itok=qw3OXzXj" width="180" height="338" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/brochures/50/un-chiot-bien-dans-ses-pattes-bien-dans-sa-tete">Un chiot bien dans ses pattes, bien dans sa tête</a></span>  </div>  
+  <div class="views-field views-field-field-brochures-files">        <div class="field-content"><ul><li><div class="field-collection-view clearfix view-mode-brochure-language"><div class="entity entity-field-collection-item field-collection-item-field-brochures-files clearfix" about="/field-collection/field-brochures-files/37" typeof="">
+  <div class="content">
+    <div class="field field-name-field-brochure-language field-type-language-field field-label-hidden"><div class="field-items"><div class="field-item even"><img class="language-icon img-responsive" typeof="foaf:Image" src="http://www.dogbrochures.com/sites/all/modules/contrib/languageicons/flags/fr.png" width="16" height="12" alt="French" title="French" /></div></div></div>  </div>
+</div>
+</div></li>
+<li><div class="field-collection-view clearfix view-mode-brochure-language field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-brochures-files clearfix" about="/field-collection/field-brochures-files/85" typeof="">
+  <div class="content">
+    <div class="field field-name-field-brochure-language field-type-language-field field-label-hidden"><div class="field-items"><div class="field-item even"><img class="language-icon img-responsive" typeof="foaf:Image" src="http://www.dogbrochures.com/sites/all/modules/contrib/languageicons/flags/pt-pt.png" width="16" height="12" alt="Portuguese, Portugal" title="Portuguese, Portugal" /></div></div></div>  </div>
+</div>
+</div></li>
+</ul></div>  </div>          </div>
+
+                                      <div class=" col-xs-12 col-sm-6 col-md-4 col-lg-3">
+              
+  <div class="views-field views-field-field-brochure-preview">        <div class="field-content"><a href="/brochures/110/join-prongchoke-free-movement"><img typeof="foaf:Image" class="img-responsive" src="http://www.dogbrochures.com/sites/default/files/styles/brochure_view/public/brochure_preview/jointheprongfreemovement.jpg?itok=qZQ2W9Yh" width="180" height="338" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/brochures/110/join-prongchoke-free-movement">Join the Prong/Choke Free Movement</a></span>  </div>  
+  <div class="views-field views-field-field-brochures-files">        <div class="field-content"><ul><li><div class="field-collection-view clearfix view-mode-brochure-language field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-brochures-files clearfix" about="/field-collection/field-brochures-files/125" typeof="">
+  <div class="content">
+    <div class="field field-name-field-brochure-language field-type-language-field field-label-hidden"><div class="field-items"><div class="field-item even"><img class="language-icon img-responsive" typeof="foaf:Image" src="http://www.dogbrochures.com/sites/all/modules/contrib/languageicons/flags/en.png" width="16" height="12" alt="English" title="English" /></div></div></div>  </div>
+</div>
+</div></li>
+</ul></div>  </div>          </div>
+
+                                                              <div class="clearfix visible-sm-block"></div>
+                                                                                                          <div class=" col-xs-12 col-sm-6 col-md-4 col-lg-3">
+              
+  <div class="views-field views-field-field-brochure-preview">        <div class="field-content"><a href="/brochures/95/happy-dogs-official-guidebook-useful-guide-dog-adoption"><img typeof="foaf:Image" class="img-responsive" src="http://www.dogbrochures.com/sites/default/files/styles/brochure_view/public/brochure_preview/ahappydogsofficialguidebook.jpg?itok=ru76R4Ua" width="180" height="338" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/brochures/95/happy-dogs-official-guidebook-useful-guide-dog-adoption">A happy dog&#039;s official guidebook -The useful guide to dog adoption</a></span>  </div>  
+  <div class="views-field views-field-field-brochures-files">        <div class="field-content"><ul><li><div class="field-collection-view clearfix view-mode-brochure-language field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-brochures-files clearfix" about="/field-collection/field-brochures-files/103" typeof="">
+  <div class="content">
+    <div class="field field-name-field-brochure-language field-type-language-field field-label-hidden"><div class="field-items"><div class="field-item even"><img class="language-icon img-responsive" typeof="foaf:Image" src="http://www.dogbrochures.com/sites/all/modules/contrib/languageicons/flags/en.png" width="16" height="12" alt="English" title="English" /></div></div></div>  </div>
+</div>
+</div></li>
+</ul></div>  </div>          </div>
+
+                                                                                        <div class="clearfix visible-md-block"></div>
+                                                                                <div class=" col-xs-12 col-sm-6 col-md-4 col-lg-3">
+              
+  <div class="views-field views-field-field-brochure-preview">        <div class="field-content"><a href="/brochures/62/collar-halty-o-arnes"><img typeof="foaf:Image" class="img-responsive" src="http://www.dogbrochures.com/sites/default/files/styles/brochure_view/public/brochure_preview/collarhaltioharnes.jpg?itok=RWjDzpfE" width="180" height="338" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/brochures/62/collar-halty-o-arnes">Collar, Halty o Arnès?</a></span>  </div>  
+  <div class="views-field views-field-field-brochures-files">        <div class="field-content"><ul><li><div class="field-collection-view clearfix view-mode-brochure-language field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-brochures-files clearfix" about="/field-collection/field-brochures-files/59" typeof="">
+  <div class="content">
+    <div class="field field-name-field-brochure-language field-type-language-field field-label-hidden"><div class="field-items"><div class="field-item even"><img class="language-icon img-responsive" typeof="foaf:Image" src="http://www.dogbrochures.com/sites/all/modules/contrib/languageicons/flags/es.png" width="16" height="12" alt="Spanish" title="Spanish" /></div></div></div>  </div>
+</div>
+</div></li>
+</ul></div>  </div>          </div>
+
+                                                              <div class="clearfix visible-sm-block"></div>
+                                                                                  <div class="clearfix visible-lg-block"></div>
+                                                  </div>
+    
+  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/brochures">
+    <i class="fa fa-plus-square"></i> more  </a>
+</div>
+  
+  
+  
+</div>
+</section>
+<section id="block-block-2" class="block block-block col-lg-3 col-xs-12 col-md-3 home-block clearfix">
+
+      
+  <div class="submit-my-brochure"> <a href="/node/15"><i class="fa fa-2x fa-pencil"></i> Submit my brochure</a></div>
+
+</section>
+<section id="block-addtoany-addtoany-button" class="block block-addtoany col-lg-6 col-xs-12 col-md-6 home-block share-block clearfix">
+
+      
+  <span class="a2a_kit a2a_kit_size_32 a2a_target addtoany_list" id="da2a_1">
+      <div class="sharing">
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_twitter"></a>
+<a class="a2a_button_google_plus"></a>
+<a class="a2a_button_pinterest"></a>
+</div>
+      
+      
+    </span>
+    <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+if(window.da2a)da2a.script_load();
+//--><!]]>
+</script>
+</section>
+<section id="block-dog-account-dog-account" class="block block-dog-account col-lg-3 col-xs-12 col-md-3 home-block user-block clearfix">
+
+      
+  <a href="/user/register"><i class="fa fa-2x fa-user"></i> Create an account</a>
+</section>
+  </div>
+    </section>
+
+    
+  </div>
+</div>
+
+  <footer class="footer container-fluid">
+      <div class="region region-footer">
+    <section id="block-block-1" class="block block-block clearfix">
+
+      
+  <p>Created by <a target="_blank" href="http://www.toutpourmonchien.fr">ToutPourMonChien.fr</a></p>
+
+</section>
+<section id="block-system-powered-by" class="block block-system clearfix">
+
+      
+  <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>
+</section>
+  </div>
+  </footer>
+  <script>da2a.targets=[
+{title:"Dog Brochures",url:"http:\/\/www.dogbrochures.com\/"}];
+da2a.html_done=true;if(da2a.script_ready&&!da2a.done)da2a.init();da2a.script_load();</script>
+<script src=""></script>
+<script src="http://www.dogbrochures.com/sites/all/themes/bootstrap/js/bootstrap.js?q2qagk"></script>
+</body>
+</html>

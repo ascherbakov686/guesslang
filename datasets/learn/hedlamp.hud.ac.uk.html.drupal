@@ -1,0 +1,196 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/drupal/?q=node/37" />
+<link rel="shortlink" href="/drupal/?q=node/37" />
+<link rel="shortcut icon" href="https://hedlamp.hud.ac.uk/drupal/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title> Welcome to HEdLAMP  | HEdLAMP @ Huddersfield</title>
+  <style type="text/css" media="all">
+@import url("https://hedlamp.hud.ac.uk/drupal/modules/system/system.base.css?o68kb8");
+@import url("https://hedlamp.hud.ac.uk/drupal/modules/system/system.menus.css?o68kb8");
+@import url("https://hedlamp.hud.ac.uk/drupal/modules/system/system.messages.css?o68kb8");
+@import url("https://hedlamp.hud.ac.uk/drupal/modules/system/system.theme.css?o68kb8");
+</style>
+<style type="text/css" media="all">
+@import url("https://hedlamp.hud.ac.uk/drupal/modules/comment/comment.css?o68kb8");
+@import url("https://hedlamp.hud.ac.uk/drupal/modules/field/theme/field.css?o68kb8");
+@import url("https://hedlamp.hud.ac.uk/drupal/modules/node/node.css?o68kb8");
+@import url("https://hedlamp.hud.ac.uk/drupal/modules/search/search.css?o68kb8");
+@import url("https://hedlamp.hud.ac.uk/drupal/modules/user/user.css?o68kb8");
+</style>
+<style type="text/css" media="all">
+@import url("https://hedlamp.hud.ac.uk/drupal/themes/bartik/css/layout.css?o68kb8");
+@import url("https://hedlamp.hud.ac.uk/drupal/themes/bartik/css/style.css?o68kb8");
+@import url("https://hedlamp.hud.ac.uk/drupal/themes/bartik/css/colors.css?o68kb8");
+</style>
+<style type="text/css" media="print">
+@import url("https://hedlamp.hud.ac.uk/drupal/themes/bartik/css/print.css?o68kb8");
+</style>
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="https://hedlamp.hud.ac.uk/drupal/themes/bartik/css/ie.css?o68kb8" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="https://hedlamp.hud.ac.uk/drupal/themes/bartik/css/ie6.css?o68kb8" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="https://hedlamp.hud.ac.uk/drupal/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://hedlamp.hud.ac.uk/drupal/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://hedlamp.hud.ac.uk/drupal/misc/drupal.js?o68kb8"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/drupal\/","pathPrefix":"","ajaxPageState":{"theme":"bartik","theme_token":"NpInvQ7w-a3J5fC_8WSg6j1amLjTQr5XZ3gyOhCoqEY","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"themes\/bartik\/css\/colors.css":1,"themes\/bartik\/css\/print.css":1,"themes\/bartik\/css\/ie.css":1,"themes\/bartik\/css\/ie6.css":1}}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-37 node-type-page" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper"><div id="page">
+
+  <div id="header" class="without-secondary-menu"><div class="section clearfix">
+
+          <a href="/drupal/" title="Home" rel="home" id="logo">
+        <img src="https://hedlamp.hud.ac.uk/drupal/sites/default/files/lamp_grey_96w.png" alt="Home" />
+      </a>
+    
+          <div id="name-and-slogan">
+
+                              <div id="site-name">
+              <strong>
+                <a href="/drupal/" title="Home" rel="home"><span>HEdLAMP @ Huddersfield</span></a>
+              </strong>
+            </div>
+                  
+                  <div id="site-slogan">
+            Huddersfield + Edinburgh: Learning and Adaptation of Models for Planning          </div>
+        
+      </div> <!-- /#name-and-slogan -->
+    
+    
+          <div id="main-menu" class="navigation">
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-218 active-trail first active"><a href="/drupal/?q=node/37" class="active-trail active">Home</a></li>
+<li class="menu-308"><a href="/drupal/?q=node/1">KEWI Representation</a></li>
+<li class="menu-448"><a href="/drupal/?q=node/6">Project Team</a></li>
+<li class="menu-451 last"><a href="/drupal/?q=node/36">Download</a></li>
+</ul>      </div> <!-- /#main-menu -->
+    
+    
+  </div></div> <!-- /.section, /#header -->
+
+  
+  
+  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
+
+    
+          <div id="sidebar-first" class="column sidebar"><div class="section">
+          <div class="region region-sidebar-first">
+    <div id="block-block-1" class="block block-block">
+
+    
+  <div class="content">
+    <script language="javascript" src="https://siteseal.quovadisglobal.com/scripts/script.js"></script><script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+  function popUp() {
+    window.open('https://siteseal.quovadisglobal.com/default.aspx?cn=hedlamp.hud.ac.uk','popUp','toolbar=no,resizable=yes,scrollbars=yes,location=yes,dependent=yes,status=0,alwaysRaised=yes,left=300,top=200,width=655,height=610');
+    return false;
+  }
+  try {
+    document.write('<a href=""><img src="https://siteseal.quovadisglobal.com/images/quovadis_130x54.gif" border="0" alt="QuoVadis Secured Site - Click for details" onclick="return popUp();">');
+  }
+  catch (e) {}
+
+//--><!]]>
+</script>  </div>
+</div>
+<div id="block-user-login" class="block block-user">
+
+    <h2>User login</h2>
+  
+  <div class="content">
+    <form action="/drupal/?q=node/37&amp;destination=node/37" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/drupal/?q=user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/drupal/?q=user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-bL15MPU4m01rUHAsf9rIJnXcd0QRrnxsIPKnte9Ycg4" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+      </div></div> <!-- /.section, /#sidebar-first -->
+    
+    <div id="content" class="column"><div class="section">
+            <a id="main-content"></a>
+                    <h1 class="title" id="page-title">
+           Welcome to HEdLAMP         </h1>
+                          <div class="tabs">
+                  </div>
+                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-37" class="node node-page node-full clearfix" about="/drupal/?q=node/37" typeof="foaf:Document">
+
+      <span property="dc:title" content=" Welcome to HEdLAMP " class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>For an autonomous system to produce plans and decisions rationally using symbolic reasoning, it has to have explicit knowledge of its domain’s actions, resources, goals, objects, states and environment. A representation of such knowledge is called a domain model, and separation of the concerns of creating a domain model, and the creation of a planning algorithm, is the basis of what is termed domain independent planning.</p>
+<p>Experience has shown that eliciting and validating domain models involves a great deal of expert time and eﬀort. In fact acquiring, validating and maintaining a domain model for the purposes of automated reasoning is a key research challenge, and has long been a limiting factor in the exploitation of domain independent planning.</p>
+<p>The aim of the HEdLAMP project is to work towards overcoming this research challenge, expressed in the research hypothesis:</p>
+<blockquote><p><em>Automatically learning and adapting an accurate and adequate domain model for the purposes of symbolic reasoning, in particular for the processes of automated planning, enables eﬀective, sustained goal-directed behaviour for real time dynamic autonomous systems.</em></p></blockquote>
+</div></div></div>  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+      
+    </div></div> <!-- /.section, /#content -->
+
+    
+  </div></div> <!-- /#main, /#main-wrapper -->
+
+  
+  <div id="footer-wrapper"><div class="section">
+
+    
+          <div id="footer" class="clearfix">
+          <div class="region region-footer">
+    <div id="block-system-powered-by" class="block block-system">
+
+    
+  <div class="content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+</div>
+  </div>
+      </div> <!-- /#footer -->
+    
+  </div></div> <!-- /.section, /#footer-wrapper -->
+
+</div></div> <!-- /#page, /#page-wrapper -->
+  </body>
+</html>

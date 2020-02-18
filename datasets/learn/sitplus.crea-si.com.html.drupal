@@ -1,0 +1,378 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+  
+<!-- Mirrored from sitplus.crea-si.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 24 Aug 2015 12:29:11 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="SITPLUS RSS" href="../rss/index.xml" />
+<link rel="shortcut icon" href="../sites/default/files/garland_favicon/index.ico" type="image/x-icon" />
+    <title>SITPLUS</title>
+    <link type="text/css" rel="stylesheet" media="all" href="../modules/book/book/index.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/node/node/index.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/defaults/index.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system/index.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/system/system-menus/index.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/user/user/index.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/cck/theme/content-module/index.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/dhtml_menu/dhtml_menu/index.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/filefield/filefield/index.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../modules/forum/forum/index.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/all/modules/views/css/views/index.css?y" />
+<link type="text/css" rel="stylesheet" media="all" href="../sites/default/files/color/garland-c0a7e028/style/index.css?y" />
+<link type="text/css" rel="stylesheet" media="print" href="../themes/garland/print/index.css?y" />
+    <script type="text/javascript" src="../misc/jquery/index.js?y"></script>
+<script type="text/javascript" src="../misc/drupal/index.js?y"></script>
+<script type="text/javascript" src="../sites/all/modules/dhtml_menu/dhtml_menu/index.js?y"></script>
+<script type="text/javascript" src="../sites/all/modules/google_analytics/googleanalytics/index.js?y"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "dhtmlMenu": { "nav": "open", "animation": { "effects": { "height": "height", "opacity": "opacity", "width": 0 }, "speed": "100" }, "effects": { "siblings": "close-same-tree", "children": "none", "remember": "0" }, "filter": { "type": "blacklist", "list": { "admin_menu": 0, "navigation": 0, "primary-links": 0, "secondary-links": 0 } } }, "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip" } });
+//--><!]]>
+</script>
+    <!--[if lt IE 7]>
+      <link type="text/css" rel="stylesheet" media="all" href="/themes/garland/fix-ie.css" />    <![endif]-->
+  </head>
+  <body class="sidebar-left">
+
+<!-- Layout -->
+  <div id="header-region" class="clear-block"></div>
+
+    <div id="wrapper">
+    <div id="container" class="clear-block">
+
+      <div id="header">
+        <div id="logo-floater">
+        <h1><a href="index.html" title=""><img src="../sites/default/files/garland_logo/index.png" alt="" id="logo" /></a></h1>        </div>
+
+                                                    
+      </div> <!-- /header -->
+
+              <div id="sidebar-left" class="sidebar">
+                    <div id="block-user-1" class="clear-block block block-user">
+
+  <h2>Navigation</h2>
+
+  <div class="content"><ul class="menu"><li class="leaf first dhtml-menu "><a href="index.html" title="" id="dhtml_menu-1226-1" class="active">Home</a></li>
+<li class="leaf  dhtml-menu "><a href="../blog/index.html" title="" id="dhtml_menu-742-1">Blogs</a></li>
+<li class="leaf  dhtml-menu "><a href="../node/118/index.html" title="" id="dhtml_menu-1229-1">SITPLUS</a></li>
+<li class="leaf  dhtml-menu "><a href="../downloads/index.html" title="" id="dhtml_menu-349-1">Downloads</a></li>
+<li class="leaf last dhtml-menu "><a href="../forum/index.html" title="" id="dhtml_menu-115-1">Forums</a></li>
+</ul></div>
+</div>
+<div id="block-locale-0" class="clear-block block block-locale">
+
+  <h2>Languages</h2>
+
+  <div class="content"><ul><li class="ca first"><a href="../ca/index.html" class="language-link">Català</a></li>
+<li class="en active"><a href="index.html" class="language-link active">English</a></li>
+<li class="es last"><a href="../es/index.html" class="language-link">Español</a></li>
+</ul></div>
+</div>
+<div id="block-user-0" class="clear-block block block-user">
+
+<!--
+  <h2>User login</h2>
+
+  <div class="content"><form action="http://sitplus.crea-si.com/node?destination=node"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
+<div class="item-list"><ul><li class="first last"><a href="../user/password/index.html" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-56690402a3e8f9b279c2cbe19766ade9" value="form-56690402a3e8f9b279c2cbe19766ade9"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+</div>
+-->
+</div>
+        </div>
+      
+      <div id="center"><div id="squeeze"><div class="right-corner"><div class="left-corner">
+                                                                                          <div class="clear-block">
+            <div id="node-118" class="node sticky">
+
+
+  <h2><a href="../node/118/index.html" title="SITPLUS project">SITPLUS project</a></h2>
+
+  
+  <div class="content clear-block">
+    <p>SITPLUS is a free software (GNU GPL) framework whose main goal is to provide ludic-therapeutic activities for people with disabilities. It offers new forms of interaction based on computer vision, voice and other peripherals to produce a result in the form of image and sound. Inspired by the cause and effect applications, SITPLUS provides a tool for continuous and remote interaction, attainable to the majority of people with cognitive, sensory and physical disabilities.</p>
+<p> <img src="../system/files/pictures/screenshots/cam_guitar_shot_small/index.png" alt="SITPLUS screenshot" title="SITPLUS screenshot" /> </p>
+<p></p>  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="node_read_more first last"><a href="../node/118/index.html" title="Read the rest of SITPLUS project.">Read more</a></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-163" class="node">
+
+
+  <h2><a href="../node/163/index.html" title="Announce: SITPLUS 1.1.0">Announce: SITPLUS 1.1.0</a></h2>
+
+      <span class="submitted">Tue, 04/23/2013 - 17:53 — admin</span>
+  
+  <div class="content clear-block">
+    <p>The SITPLUS version 1.1.0 has been released. Go to <a href="../downloads/index.html">downloads section</a>.</p>
+<p>Changes:<br />     - Add camera Duo mode<br />     - Add more instruments and scores<br />     - Add support for newer pd-extended version (0.43.4)<br />     - Fix crash which only happened with specific CPUs<br />     - Add Spanish translation of the manual (thanks to Manuel Borras)<br />     - Other minor fixes<br />     - Translations updated<br />     &nbsp;&nbsp;&nbsp; Castellano<br />     &nbsp;&nbsp;&nbsp; Català&nbsp;&nbsp;&nbsp; <br />     &nbsp;&nbsp;&nbsp; Galego (thanks to Miguel Bouzada)<br />     <br />     With the support of:</p>
+<p><a href="http://www.fundacionrepsol.com/" target="_blank"><img src="../system/files/pictures/fundacion-repsol/index.png" alt="logo fundacion repsol" width="200" height="73" /></a></p>
+<p></p>  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="node_read_more first last"><a href="../node/163/index.html" title="Read the rest of Announce: SITPLUS 1.1.0.">Read more</a></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-158" class="node">
+
+
+  <h2><a href="../node/158/index.html" title="Announce: eViacam 1.6.0">Announce: eViacam 1.6.0</a></h2>
+
+      <span class="submitted">Fri, 11/16/2012 - 19:14 — admin</span>
+  
+  <div class="content clear-block">
+    <h2>What is eViacam ?</h2>
+<p>Enable Viacam (eViacam ) is a mouse replacement software that moves the pointer as you move your head. It works on standard PCs equipped with a web camera.</p>
+<h2>What's new for eViacam v1.6.0 ?</h2>
+<p>Enable Viacam has been awarded a second prize in VI Premio Vodafone a la Innovación en Telecomunicaciones 2012</p>
+<ul>
+<li>New features:
+<ul>
+<li>Integrated checking for updates feature</li>
+<li>New drag&amp;drop sound feedback</li>
+<li>Added -d command line flag</li>
+</ul>
+</li>
+<li>Improved "About" dialog aesthetics</li>
+<li>Fixed bug [ID:3548107]: allow higher smoothing values</li>
+<li>Fixed: Russian help not available on linux</li>
+<li>Translations updated: ca, es, de, fr, gl, he, pt_BR &amp; ru. Thanks to:
+<ul>
+<li>Christian Bieder (de)</li>
+<li>Sébastien Lecointre (fr)</li>
+<li>Miguel Bouzada (gl)</li>
+<li>Yaron Shahrabani (he)</li>
+<li>Wellyngton de Oliveira (pt_BR)</li>
+<li>Sergey Shkurat (ru)</li>
+</ul>
+</li>
+</ul>
+<h2>Where can I get it ?</h2>
+<p>Sources and Win32 binaries can be downloaded from:<br /><a href="http://viacam.org/">http://viacam.org</a><br /><br />To install on <strong>Ubuntu</strong> open a terminal and run:<br />sudo add-apt-repository ppa:cesar-crea-si/eviacam<br />sudo apt-get update<br />sudo apt-get install eviacam<br /><br />Git repository:<br />git://eviacam.git.sourceforge.net/gitroot/eviacam/eviacam</p>
+<p></p>  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="node_read_more first last"><a href="../node/158/index.html" title="Read the rest of Announce: eViacam 1.6.0.">Read more</a></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-155" class="node">
+
+
+  <h2><a href="../node/155/index.html" title="eViacam awarded by Fundacion Vodafone">eViacam awarded by Fundacion Vodafone</a></h2>
+
+      <span class="submitted">Fri, 07/06/2012 - 09:53 — admin</span>
+  
+  <div class="content clear-block">
+    <p><img src="../system/files/news/20120706/logo_fve/index.png" width="201" height="81" alt="" /></p>
+<p><a href="http://viacam.org/">Enable Viacam (eviacam)</a>, webcam based mouse emulator, has been awarded a second prize in <a href="http://fundacion.vodafone.es/fundacion/es/conocenos/difusion/v-premio-vodafone-a-la-innovacion-en/">VI Premio Vodafone a la Innovación en Telecomunicaciones</a>.</p>
+<p>The winners of this prize were:</p>
+  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="node_read_more first last"><a href="../node/155/index.html" title="Read the rest of eViacam awarded by Fundacion Vodafone.">Read more</a></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-152" class="node">
+
+
+  <h2><a href="../node/152/index.html" title="Switch Viacam, new free software for accessibility">Switch Viacam, new free software for accessibility</a></h2>
+
+      <span class="submitted">Tue, 07/03/2012 - 10:36 — admin</span>
+  
+  <div class="content clear-block">
+    <h1><img src="../system/files/sviacam/switch_viacam_last_48x48/index.png" alt="Switch Viacam" width="48" height="48" align="left" /></h1>
+<p>Switch Viacam (sViacam) is a webcam based switch emulator.</p>
+<p>It's completely <strong>free</strong>, <strong>open source</strong>&nbsp;and <strong>easy to use</strong>.</p>
+<p>Using a web camera, you can configure a particular spot in which motion is detected to trigger a mouse click or a keystroke.&nbsp;</p>
+<p><iframe width="640" height="360" src="http://www.youtube.com/embed/u5J5WIo5Hyc?rel=0" frameborder="0" allowfullscreen=""></iframe></p>
+<h1>
+</h1>  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="node_read_more first last"><a href="../node/152/index.html" title="Read the rest of Switch Viacam, new free software for accessibility.">Read more</a></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-149" class="node">
+
+
+  <h2><a href="../node/149/index.html" title="Announce: eViacam 1.5.4">Announce: eViacam 1.5.4</a></h2>
+
+      <span class="submitted">Wed, 06/06/2012 - 18:15 — admin</span>
+  
+  <div class="content clear-block">
+    <h2>What is eViacam ?</h2>
+<p>Enable Viacam (aka eViacam ) is a mouse replacement software that moves the pointer as you move your head. It works on standard PCs equipped with a web camera.</p>
+<h2>What's new for eViacam v1.5.4 ?</h2>
+<p>This release adds new translations (Russian and Portuguese) and fixes minor issues. See file NEWS for details.</p>
+<h2>Where can I get it ?</h2>
+<p>Sources and Win32 binaries can be downloaded from:<br /><a href="http://viacam.org/">http://viacam.org</a><br /><br />To install on <strong>Ubuntu</strong> open a terminal and run:<br />sudo add-apt-repository ppa:cesar-crea-si/eviacam<br />sudo apt-get update<br />sudo apt-get install eviacam<br /><br />Git repository:<br />git://eviacam.git.sourceforge.net/gitroot/eviacam/eviacam</p>
+<h2>Follow us on Twitter (<a href="http://twitter.com/creasoftware">@creasoftware</a>)<br /><a href="http://twitter.com/creasoftware"><img src="https://si1.twimg.com/help/1307050984_4277" alt="twitter follow us" /></a><br />
+</h2>  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="node_read_more first last"><a href="../node/149/index.html" title="Read the rest of Announce: eViacam 1.5.4.">Read more</a></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-148" class="node">
+
+
+  <h2><a href="../node/148/index.html" title="SITPLUS featured in Software Informer">SITPLUS featured in Software Informer</a></h2>
+
+      <span class="submitted">Mon, 04/16/2012 - 11:23 — admin</span>
+  
+  <div class="content clear-block">
+    <p><a href="http://sitplus-project.software.informer.com/"><img src="../system/files/120x90/index.png" alt="Software Informer banner" height="90" width="120" /></a></p>
+<p><a href="http://sitplus-project.software.informer.com/">Software Informer</a></p>
+<p>Software Informer is a service for sharing information about programs installed on your PC</p>
+  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+        </div>
+
+      </div>
+
+</div>
+<div id="node-145" class="node">
+
+
+  <h2><a href="../node/145/index.html" title="New SITPLUS version 1.0.3 published">New SITPLUS version 1.0.3 published</a></h2>
+
+      <span class="submitted">Thu, 01/19/2012 - 19:58 — admin</span>
+  
+  <div class="content clear-block">
+    <p>Changes: Added new option to show camera image as  background, fixed camera grabbing issues on linux and other minor fixes.  Translations updated: Castellano, Català and Galego (thanks to Miguel  Bouzada).</p>
+<p><a href="../downloads/index.html">SITPLUS downloads</a>&nbsp;</p>
+  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+        </div>
+
+      </div>
+
+</div>
+<div id="node-140" class="node">
+
+
+  <h2><a href="../node/140/index.html" title="Announce: eViacam 1.5.3">Announce: eViacam 1.5.3</a></h2>
+
+      <span class="submitted">Sat, 12/31/2011 - 15:55 — admin</span>
+  
+  <div class="content clear-block">
+    <h2>What is eViacam ?</h2>
+<p>Enable Viacam (aka eViacam ) is a mouse replacement software that moves the pointer as you move your head. It works on standard PCs equipped with a web camera.</p>
+<h2>What's new for eViacam v1.5.3 ?</h2>
+<p>This release fixes an important defect that made the program crash and some other bugs. It also makes configuration dialogues non-modal. See file NEWS for details.</p>
+<h2>Where can I get it ?</h2>
+<p>Sources and Win32 binaries can be downloaded from:<br /><a href="http://viacam.org/">http://viacam.org</a><br /><br />To install on <strong>Ubuntu</strong> open a terminal and run:<br />sudo add-apt-repository ppa:cesar-crea-si/eviacam<br />sudo apt-get update<br />sudo apt-get install eviacam<br /><br />Git repository:<br />git://eviacam.git.sourceforge.net/gitroot/eviacam/eviacam<br />&nbsp;</p>
+<h2>Follow us on Twitter (<a href="http://twitter.com/creasoftware">@creasoftware</a>)<br /><a href="http://twitter.com/creasoftware"><img alt="twitter follow us" src="https://si1.twimg.com/help/1307050984_4277" /></a></h2>
+<p>Enjoy and Happy 2012!<br /></p>
+  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="node_read_more first last"><a href="../node/140/index.html" title="Read the rest of Announce: eViacam 1.5.3.">Read more</a></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-133" class="node">
+
+
+  <h2><a href="../node/133/index.html" title="SITPLUS in Debian GNU/Linux">SITPLUS in Debian GNU/Linux</a></h2>
+
+      <span class="submitted">Fri, 08/26/2011 - 14:57 — admin</span>
+  
+  <div class="content clear-block">
+    <p>From now on SITPLUS is available as part the Debian GNU/Linux distribution!</p>
+<p><a href="ftp://ftp.debian.org/debian/pool/main/s/sitplus/">ftp://ftp.debian.org/debian/pool/main/s/sitplus/</a></p>
+<p><a href="http://packages.debian.org/sid/sitplus">http://packages.debian.org/sid/sitplus</a></p>
+<p>Thanks to Luis Rivas (package maintainer)&nbsp;and the Debian Med Packaging Team.</p>
+<p>&nbsp;</p>
+  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+        </div>
+
+      </div>
+
+</div>
+<div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a href="index1.html?page=1" title="Go to page 2" class="active">2</a></li>
+<li class="pager-item"><a href="index2.html?page=2" title="Go to page 3" class="active">3</a></li>
+<li class="pager-next"><a href="index1.html?page=1" title="Go to next page" class="active">next ›</a></li>
+<li class="pager-last last"><a href="index2.html?page=2" title="Go to last page" class="active">last »</a></li>
+</ul></div>          </div>
+          <a href="../rss/index.xml" class="feed-icon"><img src="../misc/feed/index.png" alt="Syndicate content" title="SITPLUS RSS" width="16" height="16" /></a>          <div id="footer">(c) SITPLUS 2011<div id="block-system-0" class="clear-block block block-system">
+
+
+  <div class="content"><a href="http://drupal.org/"><img src="../misc/powered-blue-80x15/index.png" alt="Powered by Drupal, an open source content management system" title="Powered by Drupal, an open source content management system" width="80" height="15" /></a></div>
+</div>
+</div>
+      </div></div></div></div> <!-- /.left-corner, /.right-corner, /#squeeze, /#center -->
+
+      
+    </div> <!-- /container -->
+  </div>
+<!-- /layout -->
+
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-17024360-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+  </body>
+
+<!-- Mirrored from sitplus.crea-si.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 24 Aug 2015 12:31:50 GMT -->
+</html>

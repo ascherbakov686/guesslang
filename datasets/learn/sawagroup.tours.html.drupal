@@ -1,0 +1,374 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ar" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+ 
+ 
+		<link rel="shortcut icon" href="img/favico.png">
+        <meta charset="utf-8">
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="Description" content="مجموعة سوا Sawa Group" />
+        <meta content="IE=edge" http-equiv="X-UA-Compatible" />
+        <base href="" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="robots" content="index,follow" />	
+        <link rel="stylesheet" href="sites/all/themes/sawa/css/drag.css">
+        
+  <link href="https://fonts.googleapis.com/css?family=Tajawal" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Baloo+Bhaijaan" rel="stylesheet">
+   
+        
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://sawagroup.tours/sites/all/themes/sawa/img/logo_small_trans.png" type="image/png" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="Sawa Group RSS" href="http://sawagroup.tours/?q=ar/rss.xml" />
+  <title>Sawa Group</title>
+  <style type="text/css" media="all">
+@import url("http://sawagroup.tours/modules/system/system.base.css?q2v3pj");
+@import url("http://sawagroup.tours/modules/system/system.menus.css?q2v3pj");
+@import url("http://sawagroup.tours/modules/system/system.messages.css?q2v3pj");
+@import url("http://sawagroup.tours/modules/system/system.theme.css?q2v3pj");
+</style>
+<style type="text/css" media="all">
+@import url("http://sawagroup.tours/modules/comment/comment.css?q2v3pj");
+@import url("http://sawagroup.tours/modules/field/theme/field.css?q2v3pj");
+@import url("http://sawagroup.tours/modules/node/node.css?q2v3pj");
+@import url("http://sawagroup.tours/modules/search/search.css?q2v3pj");
+@import url("http://sawagroup.tours/modules/user/user.css?q2v3pj");
+@import url("http://sawagroup.tours/sites/all/modules/views/css/views.css?q2v3pj");
+</style>
+<style type="text/css" media="all">
+@import url("http://sawagroup.tours/sites/all/modules/ctools/css/ctools.css?q2v3pj");
+@import url("http://sawagroup.tours/sites/all/libraries/superfish/css/superfish.css?q2v3pj");
+@import url("http://sawagroup.tours/sites/all/libraries/superfish/css/superfish-smallscreen.css?q2v3pj");
+@import url("http://sawagroup.tours/sites/all/libraries/superfish/style/default.css?q2v3pj");
+</style>
+<style type="text/css" media="all">
+@import url("http://sawagroup.tours/sites/all/themes/sawa/css/style.css?q2v3pj");
+@import url("http://sawagroup.tours/sites/all/themes/sawa/js/jquery-ui.css?q2v3pj");
+@import url("http://sawagroup.tours/sites/all/themes/sawa/js/jquery.mCustomScrollbar.css?q2v3pj");
+@import url("http://sawagroup.tours/sites/all/themes/sawa/js/whatsapp/floating-wpp.css?q2v3pj");
+</style>
+  <script type="text/javascript" src="http://sawagroup.tours/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://sawagroup.tours/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://sawagroup.tours/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://sawagroup.tours/misc/drupal.js?q2v3pj"></script>
+<script type="text/javascript" src="http://sawagroup.tours/sites/all/libraries/superfish/jquery.hoverIntent.minified.js?q2v3pj"></script>
+<script type="text/javascript" src="http://sawagroup.tours/sites/all/libraries/superfish/sfsmallscreen.js?q2v3pj"></script>
+<script type="text/javascript" src="http://sawagroup.tours/sites/all/libraries/superfish/supposition.js?q2v3pj"></script>
+<script type="text/javascript" src="http://sawagroup.tours/sites/all/libraries/superfish/superfish.js?q2v3pj"></script>
+<script type="text/javascript" src="http://sawagroup.tours/sites/all/libraries/superfish/supersubs.js?q2v3pj"></script>
+<script type="text/javascript" src="http://sawagroup.tours/sites/all/modules/superfish/superfish.js?q2v3pj"></script>
+<script type="text/javascript" src="http://sawagroup.tours/sites/all/themes/sawa/js/jquery.js?q2v3pj"></script>
+<script type="text/javascript" src="http://sawagroup.tours/sites/all/themes/sawa/js/jquery-ui.min.js?q2v3pj"></script>
+<script type="text/javascript" src="http://sawagroup.tours/sites/all/themes/sawa/js/TweenMax.min.js?q2v3pj"></script>
+<script type="text/javascript" src="http://sawagroup.tours/sites/all/themes/sawa/js/jquery.mousewheel.js?q2v3pj"></script>
+<script type="text/javascript" src="http://sawagroup.tours/sites/all/themes/sawa/js/jquery.pause.js?q2v3pj"></script>
+<script type="text/javascript" src="http://sawagroup.tours/sites/all/themes/sawa/js/jquery.marquee.min.js?q2v3pj"></script>
+<script type="text/javascript" src="http://sawagroup.tours/sites/all/themes/sawa/js/whatsapp/floating-wpp.js?q2v3pj"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"ar\/","ajaxPageState":{"theme":"sawa","theme_token":"1eFi7aZ70JaP9iRoEJqpKhQQ35JfCqFV3PM_ReWCmVg","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/all\/themes\/sawa\/js\/jquery.js":1,"sites\/all\/themes\/sawa\/js\/jquery-ui.min.js":1,"sites\/all\/themes\/sawa\/js\/TweenMax.min.js":1,"sites\/all\/themes\/sawa\/js\/jquery.mousewheel.js":1,"sites\/all\/themes\/sawa\/js\/jquery.pause.js":1,"sites\/all\/themes\/sawa\/js\/jquery.marquee.min.js":1,"sites\/all\/themes\/sawa\/js\/whatsapp\/floating-wpp.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-smallscreen.css":1,"sites\/all\/libraries\/superfish\/style\/default.css":1,"sites\/all\/themes\/sawa\/css\/style.css":1,"sites\/all\/themes\/sawa\/js\/jquery-ui.css":1,"sites\/all\/themes\/sawa\/js\/jquery.mCustomScrollbar.css":1,"sites\/all\/themes\/sawa\/js\/whatsapp\/floating-wpp.css":1}},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show","width":"show"},"speed":"fast"},"plugins":{"smallscreen":{"mode":"window_width","breakpointUnit":"px","title":"Main menu"},"supposition":true,"supersubs":true}}}});
+//--><!]]>
+</script>
+</head>
+
+
+
+
+
+<body class="html front not-logged-in no-sidebars page-node i18n-ar" >
+    
+<div id="myButton"></div>
+<script type="text/javascript">
+    $(function () {
+        $('#myButton').floatingWhatsApp({
+            phone: '+963994505050',
+            popupMessage: 'Welcome to Sawa Group, How can we help you?',
+            message: "",
+            showPopup: true,
+            showOnIE: false,
+            headerTitle: 'Sawa Group',
+            buttonImage: '<img src="http://sawagroup.tours/sites/all/themes/sawa/js/whatsapp/whatsapp.svg" />'
+        });
+    });
+</script>
+
+
+
+    	<script src="sites/all/themes/sawa/js/custom.js"></script>
+
+	<style>
+	
+	
+	    
+
+
+
+	</style>
+
+
+	<div class="loading">
+
+		<img src="sites/all/themes/sawa/img/basicloader.gif" />
+    </div>
+
+	
+	<!-- glitch -->
+	<div class="header">
+		<div class="lang">
+			 <a href="?q=en">English</a> 			
+		</div>
+		<div class="social-container"><a href="https://www.facebook.com/sawatravelgrp/" target="_blank" class="social-link"><img src="sites/all/themes/sawa/img/facebook.svg" /></a>
+			<a href="https://instagram.com/group.sawa" target="_blank" class="social-link"><img src="sites/all/themes/sawa/img/instagram.svg" /></a>
+			<a href="https://t.me/sawagroup" target="_blank" class="social-link"><img src="sites/all/themes/sawa/img/telegram.svg" /></a></div>
+			
+		<a href="http://sawagroup.tours/#home" class="logo"></a>
+		<div class="menu">
+		  <div class="region region-featured">
+    <div id="block-superfish-1" class="block block-superfish">
+
+    <h2>Main menu</h2>
+  
+  <div class="content">
+    <ul  id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-default sf-total-items-5 sf-parent-items-2 sf-single-items-3"><li id="menu-222-1" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="http://sawagroup.tours/#0" title="" class="sf-depth-1">الرئيسية</a></li><li id="menu-316-1" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="http://sawagroup.tours/#1" title="" class="sf-depth-1">عن مجموعة سوا</a></li><li id="menu-317-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><span title="" class="sf-depth-1 menuparent nolink" tabindex="0">خدماتنا</span><ul><li id="menu-319-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="http://sawagroup.tours/#2" title="" class="sf-depth-2">سياحة وسفر</a></li><li id="menu-320-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="http://sawagroup.tours/#3" title="" class="sf-depth-2">سياحة دينية</a></li><li id="menu-323-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="http://sawagroup.tours/#4" title="" class="sf-depth-2">خدمات الدراسة</a></li><li id="menu-321-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="http://sawagroup.tours/#5" title="" class="sf-depth-2">خدمات أمنية</a></li><li id="menu-322-1" class="last odd sf-item-5 sf-depth-2 sf-no-children"><a href="http://sawagroup.tours/#6" title="" class="sf-depth-2">إستقدام العاملات</a></li></ul></li><li id="menu-418-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-8 sf-parent-children-0 sf-single-children-8 menuparent"><span title="" class="sf-depth-1 menuparent nolink" tabindex="0">فنادق</span><ul><li id="menu-421-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/?q=ar/syria-hotels" title="" class="sf-depth-2">سوريا</a></li><li id="menu-422-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/?q=ar/lebanon-hotels" title="" class="sf-depth-2">لبنان</a></li><li id="menu-476-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/?q=ar/dubai-hotels" title="" class="sf-depth-2">دبي</a></li><li id="menu-468-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/?q=ar/malaysia-hotels" title="" class="sf-depth-2">ماليزيا</a></li><li id="menu-470-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/?q=ar/bali-hotels" title="" class="sf-depth-2">بالي</a></li><li id="menu-469-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="/?q=ar/singapore-hotels" title="" class="sf-depth-2">سنغافورة</a></li><li id="menu-471-1" class="middle odd sf-item-7 sf-depth-2 sf-no-children"><a href="/?q=ar/maldives-hotels" title="" class="sf-depth-2">المالديف</a></li><li id="menu-420-1" class="last even sf-item-8 sf-depth-2 sf-no-children"><a href="/?q=ar/iraq-hotels" title="" class="sf-depth-2">العراق</a></li></ul></li><li id="menu-318-1" class="last odd sf-item-5 sf-depth-1 sf-no-children"><a href="http://sawagroup.tours/#7" title="" class="sf-depth-1">إتصل بنا</a></li></ul>  </div>
+</div>
+  </div>
+			
+		</div>
+		
+	</div>
+	
+	<div class="switcher_container">
+			<div class="switcher" ids="0" ><span stat="active"></span><div class="highlight">الرئيسية</div></div>
+		<div class="switcher" ids="1" ><span stat="inactive"></span><div class="highlight">عن مجموعة سوا</div></div>
+		<div class="switcher" ids="2" ><span stat="inactive"></span><div class="highlight">السياحة والسفر</div></div>
+		<div class="switcher" ids="3" ><span stat="inactive"></span><div class="highlight">السياحة الدينية</div></div>
+        <div class="switcher" ids="4" ><span stat="inactive"></span><div class="highlight">خدمات الدراسة</div></div>
+
+		<div class="switcher" ids="5" ><span stat="inactive"></span><div class="highlight">الخدمات الامنية</div></div>
+		<div class="switcher" ids="6" ><span stat="inactive"></span><div class="highlight">استقدام العاملات</div></div>
+		<div class="switcher" ids="7" ><span stat="inactive"></span><div class="highlight"> إتصل بنا</div></div>
+		</div>
+<div id="scroll"><img src="sites/all/themes/sawa/img/magic-scroll.gif" id="scrollimg" /></div>
+	
+
+
+<div class="content_y2ad">	
+	
+
+	
+	<div class="container section home" stats="active" ids="0" sec="0" style="top:0px; position: relative">
+				<div class="title "><img width="812" height="811" src="sites/all/themes/sawa/img/big_logo.png" /> </div>
+
+	
+				<div id="background" class="layer-0 "></div>
+				<div id="planet-2" class="planet layer-2"></div>
+				<!--<div class="title titlenew ">creative</div>-->
+
+	</div>
+    
+
+	<div class="section1 section about" stats="inactive"  ids="1" sec="1" style="background-image:url(sites/all/themes/sawa/img/bg1.jpg); position: relative" >
+		<div class="xla">
+		<img  src="sites/all/themes/sawa/img/logo_small_trans.png" />
+			<span class="eight">مجموعة </span><span class="year">سوا </span>
+			<p class="xla2">
+				نحن مجموعة من رجال الاعمال السوريون الشباب المؤمنون بأهمية الاستثمار بالكوادر البشرية السورية ورؤس الأموال السورية ودعمها بجميع الخبرات العالمية والوطنية المتاحة أسسنا مجموعة "ســــــــــــــــــــــــــــــــــــــــــــــــــــــــوا" لتضم مجموعة متنوعة من النشاطات الاستثمارية في قطاع السياحة  والسفر والخدمات التعليمية  والحماية الامنية والرعاية المنزلية والمؤسساتية ونطمح للمزيد من التوسع في قطاعات جديدة 
+<br>
+رؤيتنا : نحن في مجموعة سوا نطمح ان نحجز لانفسنا مكانا مرموقا محليا وفي الشرق الاوسط و بين المجموعات العالمية المتعددة الانشطة حيث اننا نعمل بمسؤولية اخلاقية عالية متمسكين بالاتقان والحرفية نهجا لنا والذي سيكون مفتاح النجاح والتوسع اللامنتهي مستقبلا 
+<br>
+رسالتنا : نتميز في ســــــــوا باستثمار رأس المال البشري السوري بخبراته والعمل على وضع الخطط الحرفية لادارة و تطويركوادر المجموعة  بألية متميزة تتوفر فيها روح الفريق  و استدامة الراحة النفسية ومقومات النجاح لتحقيق أهدافنا بطريقة تنافسية مختلفة تحمل روح المشاركة والشفافية والابداع بالاضافة الى استخدام الحلول التقنية الحديثة لتزويد عملائنا بأفضل الخدمات وأكثرها تميزا بما يحقق معايرنا المهنية المطابقة للمعايير العالمية 
+<br>
+الأهداف : تقديم كافة خدمات المجموعة بحرفية وفق معايير الجودة والكفاءة والشفافية وترسيخ ثقافة الشراكة مع العملاء من خلال منحهم أفضل العروض واكثرها تميزا 
+القيم : <br>
+- التفاني في سبيل تحقيق أهداف المجموعة ورؤيتها<br>
+- احترام متطلبات العملاء والعمل على تحقيقها بنزاهة وشفافية<br>
+- العمل بروح الفريق <br>
+- التطوير والتواصل الفعال <br>
+- الالتزام بالسياسات المهنية <br>
+- تعزيز روح المشاركة مع العملاء 
+			</p>
+		</div>
+		
+	</div>
+	
+	
+	<div class="section1 container  section2 section tourism" stats="inactive"  ids="2" sec="2" style=" position: relative " >
+    	<img id="background" class="layer-0 sec2img" src="sites/all/themes/sawa/img/shifaaz-shamoon-372668.jpg" />
+		<div>
+			<span class="eight">السياحة </span><span class="year">والسفر </span>
+			<p>
+			<p style="direction: rtl;">سوا للسياحة والسفر أسست كي توفر مجموعة واسعة من الخدمات السياحية الترفيهية والتي تشمل الإعداد اللوجستي للرحلات،وتأمين التأشيرات وتنظيم رحلات الى اجمل بلدان ومناطق العالم السياحية، ويمكن تقديم خدمة النقل من والى المطار، وتأمين خدمات الاستقبال بناء على طلب العملاء ومن الجدير بالذكر ان سوا للسياحة تهتم بشكل مميز بتقديم برامج خاصة برجال الاعمال وعائلاتهم وتمنح الشخصيات الهامة ميزات رفاهية بمستوى عالمي  حيث ان فلسفتنا في العمل السياحي هي امتاع وترفيه زبائننا لاقصى حد بكلفة منافسة وانطباع لاينسى . </p>			</p>
+		</div>
+		
+		<ul class="thumbsz">
+			
+			<li><div class="box"><img class="thumb_zoom" src="sites/all/themes/sawa/img/t3.jpg" /></div><span class="sertitle">رحلات سياحية</span></li>
+			<li><div class="box"><img class="thumb_zoom" src="sites/all/themes/sawa/img/t2.jpg" /></div><span class="sertitle"> حجوزات فندقية</span></li>
+			<li><div class="box"><img class="thumb_zoom" src="sites/all/themes/sawa/img/t1.jpg" /></div><span class="sertitle">حجوزات طيران</span></li>
+		</ul>
+		
+	</div>
+	
+	
+	<div class="section1 container  section2 section3 section regional_tourism" stats="inactive"  ids="3" sec="3" style=" position: relative" >
+	<img id="background" class="layer-0 sec2img" src="sites/all/themes/sawa/img/b4.jpg"/>
+		<div>
+			<span class="eight">السياحة </span><span class="year">الدينية</span>
+			<p>
+			ولان سورية مصدر الحضارات ومهد الديانات السماوية المشرقية ولان اطلال واثار ومقامات الاديان تتعانق فيها وتتكاتف بين كنيسة وجامع وضريح ومقام ومزار ومحج ولان ابجدية المحبة الدينية كتبت في كل ركن فيها  ,,,
+اختارت شركة سوا للسياحة والسفر ان تقدم خدماتها المميزة في السياحة الدينية من خلال تنظيم مجموعات سياحية لزيارة الاضرحة والمقامات الشريفة ضمن اراضي الجمهورية العربية السورية  والحرص على افضل درجات الاقامة واكثرها راحة من خلال الحجوزات الفندقية الراقية وتوفير الحماية الامنية المميزة والتامة  
+			</p>
+			</p>
+		</div>
+		
+
+		
+	</div>
+	
+			
+	<div class="section1 container  section2 section3 section7 section study_in_russia" stats="inactive"  ids="4" sec="4" style=" position: relative" >
+	<img id="background" class="layer-0 sec2img" src="sites/all/themes/sawa/img/b7.jpg"/>
+		<div>
+    <span class="eight" style="    float: right !important;">خدمات الدراسة</span>
+						<p>
+		تقوم سوا للدراسة في روسيا بتأمين القبولات الجامعية في جامعات مقاطعة بيلغورود الروسية وذلك في جميع التخصصات الدراسية (الطب البشري , الصيدلة , طب الأسنان , اقتصاد وقانون دولي , تكنلوجيا , ثقافة وفنون , الهندسات بكافة فروعها , العلوم الزراعية , جيولوجيا وتنقيب) بحيث تؤمن كامل الاجراءات للتسجيل في الجامعة واستصدار الفيزا بمدة اقصاها شهر واحد مع امكانية الإستقبال في مطار المدينة ولغاية الوصول إلى السكن الجامعي.
+<br/>
+للمزيد من المعلومات عن الدراسة في روسيا:
+<br/><br/>
+واتس : <a href="tel:+963933230511">00963933230511</a><br/>
+فيسبوك: <a href="https://www.facebook.com/study1russia" target="_blank">Study1Russia</a> <br/>
+<br/>
+تقوم سوا للدراسة في ماليزيا بتأمين القبولات الجامعية في جامعات ماليزيا وذلك في جميع التخصصات الدراسية (الطب البشري , الصيدلة , طب الأسنان , اقتصاد وقانون دولي , تكنلوجيا , ثقافة وفنون , الهندسات بكافة فروعها , العلوم الزراعية , جيولوجيا وتنقيب) بحيث تؤمن كامل الاجراءات للتسجيل في الجامعة واستصدار الفيزا بمدة اقصاها شهر واحد مع امكانية الإستقبال في مطار المدينة ولغاية الوصول إلى السكن الجامعي.
+<br/>
+للمزيد من المعلومات عن الدراسة في ماليزيا:
+<br/><br/>
+واتس : <a href="tel:+963998550055">00963998550055</a><br/>				<a href="http://sawagroup.tours/sites/default/files/1.jpg" data-lightbox="roadtrip"><img src="http://sawagroup.tours/sites/default/files/1.jpg" class="zom"/></a>
+									<a href="http://sawagroup.tours/sites/default/files/4.jpg" data-lightbox="roadtrip"><img src="http://sawagroup.tours/sites/default/files/4.jpg" class="zom"/></a>
+									<a href="http://sawagroup.tours/sites/default/files/a7fa8c49-016a-4855-a52e-8c9a6138c95d.jpg" data-lightbox="roadtrip"><img src="http://sawagroup.tours/sites/default/files/a7fa8c49-016a-4855-a52e-8c9a6138c95d.jpg" class="zom"/></a>
+									<a href="http://sawagroup.tours/sites/default/files/01_limkokwing.png" data-lightbox="roadtrip"><img src="http://sawagroup.tours/sites/default/files/01_limkokwing.png" class="zom"/></a>
+									<a href="http://sawagroup.tours/sites/default/files/05_FTMS_Logo.jpg" data-lightbox="roadtrip"><img src="http://sawagroup.tours/sites/default/files/05_FTMS_Logo.jpg" class="zom"/></a>
+									<a href="http://sawagroup.tours/sites/default/files/07_HelpLogo.png" data-lightbox="roadtrip"><img src="http://sawagroup.tours/sites/default/files/07_HelpLogo.png" class="zom"/></a>
+									<a href="http://sawagroup.tours/sites/default/files/02_Sheffiled.png" data-lightbox="roadtrip"><img src="http://sawagroup.tours/sites/default/files/02_Sheffiled.png" class="zom"/></a>
+					
+
+        </p>
+
+		</p>
+		</div>
+		
+		
+	</div>	
+		
+
+	<div class="section1 container  section2 section3 section security" stats="inactive"  ids="5" sec="5" style=" position: relative" >
+	    
+	    	    
+	   
+	<img id="background" class="layer-0 sec2img" src="sites/all/themes/sawa/img/b5.jpg"/>
+		<div>
+			<span class="eight">الخدمات </span><span class="year">الأمنيّة  	    <div class="soon">قريباً</div>
+	     </span>
+			<p>
+			<p>تعتبر سوا للحماية والخدمات الامنية من أميز شركات الحماية في سورية حيث تقدم الشركة خدمات الأمن والحراسة على أعلى مستوى وحرفية لجميع القطاعات الخاصة والحكومية  كخدمات  تأمين الفنادق و المستشفيات و المؤسسات المصرفية والتجارية والصناعية ونشاطتها و خدمات تأمين الفعاليات والمناسبات المدنية والدينية وذلك بواسطة فريق أمن مؤهل ومدرب على أعلى مستوى احترافي عالمي ليتمكنوا من أداء مهاهم على أكمل وجه .</p>			</p>
+		</div>
+		
+
+		
+	</div>
+	
+	
+	<div class="section1 container  section2 section3 section maids" stats="inactive"  ids="6" sec="6" style=" position: relative" >
+	    
+
+	    
+	<img id="background" class="layer-0 sec2img" src="sites/all/themes/sawa/img/b6.jpg"/>
+		<div>
+			<span class="eight">إستقدام </span><span class="year">العاملات  	    <div class="soon">قريباً</div>
+	     </span>
+						<p>توفر شركة سوا لاستقدام العاملات الاجنبيات للمؤسسات والمنازل  خدمات متكاملة عالية الجودة  لعملائها تعتمد على دراسة مفصلة وشاملة لاحتياجاتهم من الخدمات حيث نسعى لبناء علاقات شراكة متينة بيننا وبين عملائنا لضمان تحقيق التوافق بين الطرفين وفق القوانين الضامنة للجميع  بشفافية تضمن للعميل الاطلاع على كافة التفاصيل المتعلقة بعملية الاستقدام. كما تقدم الشركة خدمة الرعاية والمرافقة الطبية لكبار السن ومن هم بحاجة لتلك الرعاية وفق المعايير الحرفية المتعارف عليها , كما نعدكم بمواكبة  افضل مستويات الخدمات بتجدد دائم .  </p>
+		</div>
+		
+
+		
+	</div>
+	
+		
+	<div class="section1 container  section2 section3 section contact" stats="inactive"  ids="7" sec="7" style="position: relative" >
+
+        <div>
+    		<form id="contact" method="post" enctype="multipart/form-data" action="sites/all/themes/sawa/templates/submit.php">
+    			<div id="right"><span class="eight"> إتصل  </span><span class="year">بنا </span>
+    			<p>
+    			<img id="icons" class="layer-0 sec2img" src="sites/all/themes/sawa/img/icons.jpg"/>
+    					 دمشق - سوريا - ابو رمانة <br/>
+    					<a href="tel:+963114075">+963 11 4075</a><br/>
+    					<a href="tel:+963998550055">+963 998 55 00 55</a><br/>
+    					<a href="mailto:info@sawagoup.tours">info@sawagroup.tours</a>
+    			</p>
+    			</div>
+    			<div id="middle"> 
+    				<label> الإسم الكامل </label>
+    				<input type="text" id="fname" name="fname" required>
+    				<label style="height: 140px;"> نص الرسالة </label>
+    				<textarea  id="messages" name="messages" required></textarea>
+    			</div>
+    			<div id="left">
+    				<label> العنوان الكامل </label>
+    				<input type="text" id="address" name="address" required >
+    				<label> البريد الإلكتروني</label>
+    				<input type="text" id="email" name="email" required email>
+    				
+    				<input type="submit" value="إرسال" /><input type="reset" value="تراجع" />
+    			</div>
+    		</form>
+        </div>
+    					
+
+	</div>
+
+
+
+</div>
+	<div class="footer"> <span class="copyrightz">All Rights Reserved by Sawa Group © 2020</span></div>
+<style> 
+.section1 div p {
+
+    font-size: 22px;
+
+    text-shadow: 0px 0px 5px white;
+}
+
+.xla {
+    top: 15% !important;
+}
+.xla2{width:100% !important;}
+</style> 
+
+<link href="sites/all/themes/sawa/js/lightbox2-master/src/css/lightbox.css" rel="stylesheet" />
+
+<script src="sites/all/themes/sawa/js/lightbox2-master/src/js/lightbox.js"/>
+
+<script>
+$(document).ready(function(){
+	    lightbox.option({
+      'resizeDuration': 200,
+      'wrapAround': true
+    })
+	
+})
+</script>  </body>
+</html>

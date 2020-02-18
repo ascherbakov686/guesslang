@@ -1,0 +1,2090 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	 
+	   
+	
+	
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ca" xml:lang="ca"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Home - Universitat de Barcelona</title>
+    <meta name="DC.title" content="Home - Universitat de Barcelona" />
+    <meta name="keywords"  content="Universitat, Fundació, Estudis, estudiar, study, University, Fundation, Fundación, Universidad, Patrocinio, docencia, curso, curs, Formació;, formación, inversigació;, investigación, research, service, serveis, facultat, facultad, faculty, campus, curriculum, grup ub, académico, actos, actividad, activitat, cultura, learn, UB, Barcelona" />
+    <meta name="description" content="Página principal de la Universitat de Barcelona" />
+    <meta name="DC.description" content="Página principal de la Universitat de Barcelona" />
+    <meta name="robots" content="index, follow" />
+    <meta name="rating" content="general" />
+    <meta name="DC.language" content="ca" scheme="ISO639-1" />
+    <meta name="DC.creator" content="ub" />
+    
+        <meta property="fb:pages" content="124038361034" />
+    
+
+    
+
+    <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+    <link rel="Shortcut icon" href="/web/system/modules/edu.ub.presentation/resources/img/favicon.png" type="image/png" />
+
+    <!-- //******************  Ficheros Css  *************************************************************************** -->
+    
+  <link media="screen" rel="stylesheet" href="/web/system/modules/edu.ub.presentation/resources/css/colorbox.css" />
+  
+  
+    <link href="/web/system/modules/edu.ub.presentation/resources/css/ub-min.css" rel="stylesheet" type="text/css" />
+    <link href="/web/system/modules/edu.ub.presentation/resources/css/print.css" rel="stylesheet" type="text/css" media="print" />
+    
+    <!--[if IE 6]>
+      <link href="/web/system/modules/edu.ub.presentation/resources/css/general_ie6.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 7]>
+      <link href="/web/system/modules/edu.ub.presentation/resources/css/general_ie7.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+
+    <script type="text/javascript"  src="/web/system/modules/edu.ub.presentation/resources/js/ub-min.js"></script>
+  
+
+     <link href="/web/system/modules/edu.ub.presentation/resources/css/general.css" rel="stylesheet" type="text/css" />  <link href="/web/system/modules/edu.ub.presentation/resources/css/auxiliars.css" rel="stylesheet" type="text/css" />  <link href="/web/system/modules/edu.ub.presentation/resources/css/my.css" rel="stylesheet" type="text/css" />  <link href="/web/system/modules/edu.ub.presentation/resources/css/twitter.css" rel="stylesheet" type="text/css" /> 
+   
+
+     <!-- //******************  Ficheros Javascript - El archivo combined.js engloba jsFicheros Css Print  ********** -->
+    <!--
+        <script src="http://maps.google.com/maps?file=api&v=2&key=ABQIAAAAFUR0qCD44Yw511pd93eVpxT5uhc0kUEmaBFumjEBMJjR43TAtxSjowmNm9vPdDAeuWZeAnE7Yfb9jg" type="text/javascript"></script> 
+    -->
+
+     <script type="text/javascript"  src="/web/system/modules/edu.ub.presentation/resources/js/twitter-plugin.js"></script> 
+</head> 
+	
+	<body  id="plantilla1">
+		<div id="page" class="frontpage">
+			<div id="subpage">
+				<div id="espai_comu3">
+		      		<!-- M-023 --> 
+		        	
+
+
+
+
+
+
+
+
+
+
+			<div class="M-023">  
+					<div class="logo">
+						
+                			<a href="/web/ub/ca/index.html" title="Universitat de Barcelona">
+                				<img src="/web/ub/galeries/imatges/logo_home_nou.png"  width="383" height="122" alt="Universitat de Barcelona"  longdesc="#" />
+                			</a>	
+               		</div>	
+  
+
+				<div class="menu">
+                    <strong class="hidden">Informació sobre:</strong> 
+                    <map id="Informacion_sobre">
+                        <ul>
+		<li><div class='separador'><a href='/web/ub/ca/estudis/estudis.html' title='Estudis i docència'>
+Estudis i docència
+</a></div></li>
+<li><div class='separador'><a href='/web/ub/ca/recerca_innovacio/recerca_innovacio.html' title='Recerca i innovació'>
+Recerca i innovació
+</a></div></li>
+<li><div><a href='/web/ub/ca/universitat/universitat.html' title='La Universitat'>
+La Universitat
+</a></div></li>
+
+						</ul>
+					</map>                
+				</div>	
+			</div>  
+               
+                                 
+
+    
+
+		       		 <!-- END M-023 -->      
+		     	</div> 
+		  		<div id="espai_comu1">        	
+		            <!-- M-021 -->        	
+		            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="M-021">
+	<div id="div_idiomas">
+		<strong class="hidden">Idiomes</strong> 
+		<map id="los-idiomas">	
+		<ul id='idiomas'>
+<li class='language__ca'><a class='selected' hreflang='ca' xml:lang='ca' title='Català'>
+Català
+</a></li>
+<li class='language__es'><a href='/web/ub/es/index.html?' hreflang='es' xml:lang='es' title='Español'>
+Español
+</a></li>
+<li class='language__en'><a href='/web/ub/en/index.html?' hreflang='en' xml:lang='en' title='English'>
+English
+</a></li>
+
+         
+          
+              <li class="language__zh"><a href="http://www.ub.edu/sites/zh" target="_self" title="中文" hreflang="zh"  xml:lang="zh" > 中文</a></li>
+          
+              <li class="language__ar"><a href="http://www.ub.edu/sites/ar" target="_self" title="عربي" hreflang="ar"  xml:lang="ar" > عربي</a></li>
+          
+        </ul>
+
+		</map>
+	</div>
+
+	<div id="div_buscador">
+		<strong class="hidden">Cercador</strong>
+		<form id="form_M-021" action="/dyn/cms/continguts_ca/Resultats.html">
+			<div class="esquerre">
+				<label for="search">Cerca&nbsp;</label>
+				<input type="text" name="q" id="search" class="buscadorsuperior" value="Cerca" tabindex="1" onclick="this.value='';" />
+			</div>
+			<div class="dreta">
+				<label for="M-021_submit">
+					<input type="image" src="/web/system/modules/edu.ub.presentation/resources/img/button6.png" name="M-021_submit" id="M-021_submit" value="&gt;&gt;" class="button2" alt="enviar" />
+				</label>
+			</div>
+		</form>
+	</div>
+</div>
+		          	<!-- END M-021 -->
+		        </div>      
+		        <div id="espai_comu2">
+		        	<!-- M-022 --> 
+		        	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="M-022">
+	<strong class="hidden">Serveis</strong> 
+	<map id="los-servicios">	
+			<ul>	
+            
+						<li class="menu_noticias">
+              <a class="" href="/dyn/cms/continguts_ca/menu_eines/noticies/index.html"  title="Notícies" >
+              Notícies
+						  </a>
+            </li>
+				
+            
+						<li class="menu_agenda">
+              <a class="" href="/dyn/cms/continguts_ca/menu_eines/agenda/index.html"  title="Agenda" >
+              Agenda
+						  </a>
+            </li>
+				
+            
+						<li class="menu_webmultimedia">
+              <a class="" href="http://www.ub.edu/ubtv/"  title="UBtv" >
+              UBtv
+						  </a>
+            </li>
+				
+            
+						<li class="menu_saladeprensa">
+              <a class="" href="/dyn/cms/continguts_ca/menu_eines/sala_de_premsa/index.html"  title="Sala de premsa" >
+              Sala de premsa
+						  </a>
+            </li>
+				
+            
+						<li class="menu_directorio">
+              <a class="" href="http://directori.ub.edu/dir/?lang=ca"  title="Directori" >
+              Directori
+						  </a>
+            </li>
+				
+			</ul>	
+	</map>
+</div>
+		            <!-- END M-022 -->  
+		        </div> 
+		    
+		        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+    <h1 class="hidden">Universitat de Barcelona</h1>
+    <div id="espai_comu4" class="home">
+        <div id="plantilla1_espai1">
+            <!-- M-029-a -->
+            <div class="M-029-a"> 
+                <strong>Accés directe a:</strong>
+                <div class="palabras">
+                    <p class="skip"><a href="#contenedor" title="Saltar los accesos directos">Saltar los accesos directos</a></p>
+                    <ul>
+
+                         
+                         
+                            
+                                
+                                
+                                    
+                                     
+                                    
+
+                                    <li class="grande default"><a href="https://www.ub.edu/web/ub/ca/estudis/oferta_formativa/masters/index.html" target="_self" >màsters i postgraus</a></li>
+                                
+                                    
+                                     
+                                    
+
+                                    <li class="medio default"><a href="http://www.ub.edu/web/ub/ca/universitat/coneix_la_ub/internacional/internacional.html" target="_self" >internacional</a></li>
+                                
+                                    
+                                     
+                                    
+
+                                    <li class="grande default"><a href="http://www.ub.edu/dyn/cms/continguts_ca/estudis/oferta_formativa/graus/graus.html" target="_self" >graus</a></li>
+                                
+                                    
+                                     
+                                    
+
+                                    <li class="medio default"><a href="http://www.publicacions.ub.edu/" target="_blank" >publicacions</a></li>
+                                
+                                    
+                                     
+                                    
+
+                                    <li class="peque default"><a href="http://www.ub.edu/web/ub/ca/estudis/estudiar_UB/futurs_estudiants/futurs_estudiants.html" target="_self" >futurs estudiants</a></li>
+                                
+                                    
+                                     
+                                    
+
+                                    <li class="medio default"><a href="http://www.ub.edu/web/ub/ca/universitat/per_a_empreses/lloguer/lloguer.html" target="_self" >lloguer d'espais</a></li>
+                                
+                                    
+                                     
+                                    
+
+                                    <li class="grande default"><a href="http://www.ub.edu/portaltreball" target="_self" >treballar a la UB</a></li>
+                                
+                                    
+                                     
+                                    
+
+                                    <li class="grande default"><a href="http://www.ub.edu/escola_doctorat" target="_self" >doctorat</a></li>
+                                
+                                    
+                                     
+                                    
+
+                                    <li class="medio default"><a href="http://crai.ub.edu/" target="_self" >CRAI biblioteca</a></li>
+                                
+                                    
+                                     
+                                    
+
+                                    <li class="peque default"><a href="https://www.ub.edu/web/ub/ca/sites/genere/index.html" target="_blank" >igualtat</a></li>
+                                
+                                    
+                                     
+                                    
+
+                                    <li class="peque default"><a href="http://www.ub.edu/arxiu/" target="_self" >arxiu</a></li>
+                                
+                                    
+                                     
+                                    
+
+                                    <li class="grande default"><a href="http://www.ub.edu/cultura" target="_self" >cultura</a></li>
+                                
+                                    
+                                     
+                                    
+
+                                    <li class="grande default"><a href="http://www.ub.edu/botigaub/" target="_self" >botiga UB</a></li>
+                                
+                                    
+                                     
+                                    
+
+                                    <li class="peque default"><a href="http://observatoriestudiant.ub.edu/" target="_self" >observatori de l'estudiant</a></li>
+                                
+                                    
+                                     
+                                    
+
+                                    <li class="grande default"><a href="http://www.ub.edu/emprenedoria/" target="_self" >emprenedoria</a></li>
+                                
+                                    
+                                     
+                                    
+
+                                    <li class="peque default"><a href="http://www.ub.edu/web/ub/ca/estudis/oferta_formativa/formacio_linia/index.html" target="_self" >formació en línia</a></li>
+                                
+                                    
+                                     
+                                    
+
+                                    <li class="medio default"><a href="https://www.ub.edu/portal/web/politiques-qualitat/els-processos-de-qualitat-ub" target="_self" >Qualitat</a></li>
+                                
+                                    
+                                     
+                                    
+
+                                    <li class="medio default"><a href="http://www.ccit.ub.edu" target="_self" >CCiTUB</a></li>
+                                
+                                    
+                                     
+                                    
+
+                                    <li class="peque default"><a href="http://www.ub.edu/esports" target="_self" >esports</a></li>
+                                
+                                    
+                                     
+                                    
+
+                                    <li class="peque default"><a href="http://www.ub.edu/web/ub/ca/sites/llengues/portada/index.html" target="_self" >llengües</a></li>
+                                
+                            
+                          
+                    </ul>
+                </div>
+                
+            </div>
+            <!-- END M-029-a -->
+        </div>
+        
+     
+        <div  id="plantilla1_espai2">
+    
+        <div id="banner"><!-- start banner -->
+          <div id="block-banners">
+            <ul class="banners-list">
+            
+            
+              
+              
+              
+                <li>
+                   
+                               
+                    <a href="/web/ub/ca/universitat/la_ub_avui/ranquings/index.html"><img src="/web/ub/galeries/imatges/xbanners_Capcalera/ca/la-ub-la-millor.jpg" alt="banner0"/></a>
+                    
+                    
+                </li>
+              
+              
+              
+            
+              
+              
+              
+                <li>
+                   
+                               
+                    <a href="http://www.ub.edu/debatsub/?utm_source=homeubcat&utm_medium=banner&utm_campaign=debatsfeminismes "><img src="/web/ub/galeries/imatges/xbanners_Capcalera/ca/banner_home_debats_ub.jpg" alt="banner1"/></a>
+                    
+                    
+                </li>
+              
+              
+              
+            
+              
+              
+              
+                <li>
+                   
+                               
+                    <a href="http://unirun.cat/?utm_source=ubhome_cat&utm_medium=baner&utm_campaign=unirun20"><img src="/web/ub/galeries/imatges/xbanners_Capcalera/ca/bannerhome_unirun_2020_ca.jpg" alt="banner2"/></a>
+                    
+                    
+                </li>
+              
+              
+              
+            
+              
+              
+              
+                <li>
+                   
+                               
+                    <a href="http://www.eim.ub.edu/?utm_source=homeub_cat&utm_medium=baner&utm_campaign=eimset19"><img src="/web/ub/galeries/imatges/xbanners_Capcalera/ca/eim-201909-ca.jpg" alt="banner3"/></a>
+                    
+                    
+                </li>
+              
+              
+              
+            
+              
+              
+              
+                <li>
+                   
+                               
+                    <a href="http://www.ub.edu/carpeta/?utm_source=homeub&utm_medium=baner&utm_campaign=carpeta"><img src="/web/ub/galeries/imatges/xbanners_Capcalera/ca/carpeta2020.jpg" alt="banner4"/></a>
+                    
+                    
+                </li>
+              
+              
+              
+            
+              
+              
+              
+                <li>
+                   
+                               
+                    <a href="http://www.ub.edu/vespres?utm_source=homeubcat&utm_medium=baner&utm_campaign=VespresHivern20"><img src="/web/ub/galeries/imatges/xbanners_Capcalera/ca/vespres-hivern-2020-ca.jpg" alt="banner5"/></a>
+                    
+                    
+                </li>
+              
+              
+              
+            
+            </ul>
+              
+              
+                  
+              
+              <script type="text/javascript"  id="bannerhome" data-elements="6" data-timer="5000" src="/web/system/modules/edu.ub.presentation/resources/js/banner_home.js"></script>
+          </div>
+          <div id="block-thumbs">
+            <ul class="thumbs-list">
+               
+            
+              
+              
+              
+              <li>           
+                 <a href="/web/ub/ca/universitat/la_ub_avui/ranquings/index.html" title="LA UB, LA MILLOR" ><span>LA UB, LA MILLOR</span>
+                          Comprova-ho!</a>
+              </li> 
+              
+              
+              
+            
+              
+              
+              
+              <li>           
+                 <a href="http://www.ub.edu/debatsub/?utm_source=homeubcat&utm_medium=banner&utm_campaign=debatsfeminismes " title="DEBATS UB" ><span>DEBATS UB</span>
+                          Feminisme(s)</a>
+              </li> 
+              
+              
+              
+            
+              
+              
+              
+              <li>           
+                 <a href="http://unirun.cat/?utm_source=ubhome_cat&utm_medium=baner&utm_campaign=unirun20" title="UNIRUN 2020" ><span>UNIRUN 2020</span>
+                          La cursa de les universitats</a>
+              </li> 
+              
+              
+              
+            
+              
+              
+              
+              <li>           
+                 <a href="http://www.eim.ub.edu/?utm_source=homeub_cat&utm_medium=baner&utm_campaign=eimset19" title="ESCOLA D'IDIOMES" ><span>ESCOLA D'IDIOMES</span>
+                          Matrícula oberta</a>
+              </li> 
+              
+              
+              
+            
+              
+              
+              
+              <li>           
+                 <a href="http://www.ub.edu/carpeta/?utm_source=homeub&utm_medium=baner&utm_campaign=carpeta" title="CONCURS CARPETA UB" ><span>CONCURS CARPETA UB</span>
+                          Presenta-hi el teu disseny!</a>
+              </li> 
+              
+              
+              
+            
+              
+              
+              
+              <li>           
+                 <a href="http://www.ub.edu/vespres?utm_source=homeubcat&utm_medium=baner&utm_campaign=VespresHivern20" title="ELS VESPRES D'HIVERN" ><span>ELS VESPRES D'HIVERN</span>
+                          Concerts al Paranimf de la Universitat</a>
+              </li> 
+              
+              
+              
+             
+            </ul>
+        </div>       
+        </div><!-- end banner -->
+      
+      
+    </div> 
+        
+    </div>
+    
+    <div id="contenedor" class="home">
+        <!-- Contenedor -->
+        <div id="col1">
+            <div  id="plantilla1_espai3">
+                <div class="contenedor_clase">
+                    
+                        <div class="banner-home-col1 banner-home-col1-top">
+                            
+                            
+                                
+                                
+                                    
+                                        
+                                        
+                                        <a href="http://www.ub.edu/plaestrategic2030/" title="Pla estratègic UB2030" target="_self" >
+                                    
+                                    <img src="/web/ub/galeries/imatges/universitat/pla-estrategic-ub2030.jpg" width="100%"
+                                         alt="Pla estratègic UB2030"
+                                         title="Pla estratègic UB2030" />
+                                    
+                                        </a>
+                                    
+                                    
+                                
+                            
+                        </div>
+                    
+                    <!-- M-020-b  -->
+                    <div class="M-020-b" >
+                        <h2>La UB en vídeo</h2>
+                         
+                        
+                             
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+    
+     
+    
+    
+    
+    
+
+    
+     
+     
+        
+    
+    
+    
+
+    
+        
+        <iframe title="YouTube video player" class="youtube-player" type="text/html"
+                width="300" height="190" src="//www.youtube.com/embed/gHzq9FJEckE"
+                frameborder="0" allowFullScreen></iframe>
+    
+
+                             
+                            <p><b>Nou &lsquo;hub&rsquo; per modernitzar i internacionalitzar les universitats<br />
+</b></p>
+                        
+                         
+                        
+                        
+
+
+
+
+
+
+
+
+
+<div class="news_slider slider_ub_petit">             
+    <div class="button_prev"><a href="#" class="prev"><img src="/web/system/modules/edu.ub.presentation/resources/img/prev_petit.png" width="13" height="63" alt="Previous" title="Previous" /></a></div>
+    <div class="button_next"><a href="#" class="next"><img src="/web/system/modules/edu.ub.presentation/resources/img/next_petit.png" width="13" height="63" alt="Next" title="Next" /></a></div>
+    <div class="news_items">
+        <a name="skip_to_news_1"></a>
+        <div class="container fl">
+            <ul class="jcarousel-skin-ub1">
+                
+                
+                    
+                    
+                    
+                    
+                    
+                        
+                            <li class="item">
+                                <a href="/web/ub/ca/menu_eines/web_multimedia/videos/videos_2020/hub_euf.html">
+                                    <img src="/web/ub/galeries/imatges/noticies/videos/hubeub.jpg_491294597.jpg" width="63" height="63" alt="" />
+                                
+                                </a>
+                            </li>
+                    
+                
+                    
+                    
+                    
+                    
+                    
+                        
+                            <li class="item">
+                                <a href="/web/ub/ca/menu_eines/web_multimedia/videos/videos_2020/museuTB.html">
+                                    <img src="/web/ub/galeries/imatges/noticies/videos/museuTB.jpg_491294597.jpg" width="63" height="63" alt="" />
+                                
+                                </a>
+                            </li>
+                    
+                
+                    
+                    
+                    
+                    
+                    
+                        
+                            <li class="item">
+                                <a href="/web/ub/ca/menu_eines/web_multimedia/videos/videos_2020/50anys_ICE.html">
+                                    <img src="/web/ub/galeries/imatges/noticies/videos/video_50anys_ICE.jpg_491294597.jpg" width="63" height="63" alt="" />
+                                
+                                </a>
+                            </li>
+                    
+                
+                    
+                    
+                    
+                    
+                    
+                        
+                            <li class="item">
+                                <a href="/web/ub/ca/menu_eines/web_multimedia/videos/videos_2020/premis_fotonat2019.html">
+                                    <img src="/web/ub/galeries/imatges/noticies/videos/premis_fotonat2019.jpg_491294597.jpg" width="63" height="63" alt="" />
+                                
+                                </a>
+                            </li>
+                    
+                
+                    
+                    
+                    
+                    
+                    
+                        
+                            <li class="item">
+                                <a href="/web/ub/ca/menu_eines/web_multimedia/videos/videos_2020/taula_periodica4.html">
+                                    <img src="/web/ub/galeries/imatges/noticies/videos/capitol4TP.jpg_491294597.jpg" width="63" height="63" alt="" />
+                                
+                                </a>
+                            </li>
+                    
+                
+            </ul>
+        </div>
+    </div>
+</div>
+                        
+                        <div class="link_ubtv">
+                            <a href="http://www.ub.edu/ubtv">Més vídeos a</a>
+                        </div>
+                    </div>
+                <!-- END M-020-b  -->
+                </div>
+            </div>
+            <div  id="plantilla21_espai1"> 
+                <div class="contenedor_clase">
+                    <!-- <div class="title">M-033</div> --> 
+                    <div class="M-033">
+                        <div id="noscript">
+                            <a href="http://www.twitter.com/UniBarcelona" id="ocultar">Enllaç al twitter de la Universitat de Barcelona</a>
+                        </div>
+                        <div id="tweets"></div>
+                    </div>
+
+             
+              
+             
+              <div class="banner-home-col1">
+              
+              
+                
+                
+                  
+                    
+                    
+                    <a href="https://seu.ub.edu/index.gsp?lang=ca_ES" title="Seu Electrònica" target="_blank" >
+                  
+                  <img src="/web/ub/galeries/imatges/universitat/banner_seu_2.jpg" width="100%"
+                    alt="Seu Electrònica"
+                    title="Seu Electrònica" />
+                  
+                    </a>
+                  
+                  
+                
+              
+                
+                
+                  
+                    
+                    
+                    <a href="http://www.ub.edu/web/ub/ca/sites/transparencia/index.html" title="Portal de Transparència" target="_blank" >
+                  
+                  <img src="/web/ub/galeries/imatges/universitat/baner_transparencia.jpg" width="100%"
+                    alt="Portal de Transparència"
+                    title="Portal de Transparència" />
+                  
+                    </a>
+                  
+                  
+                
+              
+            </div>
+             
+                </div>  
+            </div>
+            
+              
+              
+            
+        </div>
+        <div id="col2">
+            <div  id="plantilla1_espai5">
+                <div class="contenedor_clase">
+                    <!-- <div class="title">M-037</div> -->
+                    <!-- M-037 -->
+                    <div class="M-037">
+             <h2>Notícies</h2> 
+             
+                    <div class="rss"><a href='/dyn/cms/system/modules/edu.ub.presentation/elements/rss.rss?tipo=noticias&amp;l=ca' class="inversa">RSS</a></div>
+                          <h3>Actualitat</h3>                       
+                        
+                            
+                               
+                                
+                                    
+                                    
+                                    <div class="bloque_imagen">
+                                        <div class="bloque_imagen_contenido">
+                                            <a href="/web/ub/ca/menu_eines/noticies/2020/02/028.html" class="titular">Una exposició explica com es va construir la façana neogòtica de la catedral de Barcelona</a>
+                                            <br />13.02.2020
+                                        </div>
+                                        
+                                        
+                                        
+                                            
+                                                <div class="bloque_imagen_imagen">
+                                                
+                                                                            
+                                                    <img src="/web/ub/galeries/imatges/noticies/2020/02/thumbfaxanacatedral.jpg_1613160124.jpg"
+                                                        alt="Façana de la catedral de Barcelona. © Catedral de Barcelona."
+                                                        title=""/>
+                                                </div>
+                                            
+                                        
+                                    </div>
+                                  
+                                                 
+                        
+                            
+                               
+                                
+                                    
+                                    
+                                    <div class="bloque_imagen">
+                                        <div class="bloque_imagen_contenido">
+                                            <a href="/web/ub/ca/menu_eines/noticies/2020/02/020.html" class="titular">Una conferència de la neurocientífica Gina Rippon sobre cervell i gènere inicia el cicle Debats UB: Feminisme(s)</a>
+                                            <br />13.02.2020
+                                        </div>
+                                        
+                                        
+                                        
+                                            
+                                                <div class="bloque_imagen_imagen">
+                                                
+                                                                            
+                                                    <img src="/web/ub/galeries/imatges/noticies/2020/02/thumbGina_Rippon_credit_James_Waller.jpg_287095365.jpg"
+                                                        alt="Ginna Rippon."
+                                                        title=""/>
+                                                </div>
+                                            
+                                        
+                                    </div>
+                                  
+                                                 
+                        
+                            
+                               
+                                
+                                    
+                                    
+                                    <div class="bloque_imagen">
+                                        <div class="bloque_imagen_contenido">
+                                            <a href="/web/ub/ca/menu_eines/noticies/2020/02/027.html" class="titular">La UB participa en la segona edició de la UNIferia, el saló virtual dels estudis de grau i màster de les universitats espanyoles</a>
+                                            <br />13.02.2020
+                                        </div>
+                                        
+                                        
+                                        
+                                            
+                                                <div class="bloque_imagen_imagen">
+                                                
+                                                                            
+                                                    <img src="/web/ub/galeries/imatges/noticies/2019/03/Uniferia_thum.jpg_287095365.jpg"
+                                                        alt="UNIferia"
+                                                        title=""/>
+                                                </div>
+                                            
+                                        
+                                    </div>
+                                  
+                                                 
+                        
+              
+          
+                       <h3>Recerca</h3>
+                        
+                            
+                            
+                                
+                                    
+                                    
+                                    <div class="bloque_imagen">
+                                        <div class="bloque_imagen_contenido">
+                                            <a href="/web/ub/ca/menu_eines/noticies/2020/02/031.html" class="titular">Com recuperen les xarxes neuronals la seva funció després d'una pèrdua de neurones?</a>
+                                            <br />18.02.2020
+                                        </div>
+                                        
+                                        
+                                        
+                                            
+                                                <div class="bloque_imagen_imagen">
+                                                
+                                                                            
+                                                    <img src="/web/ub/galeries/imatges/noticies/2020/02/Xarxes-neuronals-JSoriano-sqr.jpg_287095365.jpg"
+                                                        alt="&nbsp;"
+                                                        title=""/>
+                                                </div>
+                                            
+                                        
+                                    </div>
+                                
+                                                      
+                        
+                            
+                            
+                                
+                                    
+                                    
+                                    <div class="bloque_imagen">
+                                        <div class="bloque_imagen_contenido">
+                                            <a href="/web/ub/ca/menu_eines/noticies/2020/02/030.html" class="titular">El projecte «Evitem la pesca fantasma» retira dinou arts de pesca perduts als fons marins </a>
+                                            <br />17.02.2020
+                                        </div>
+                                        
+                                        
+                                        
+                                            
+                                                <div class="bloque_imagen_imagen">
+                                                
+                                                                            
+                                                    <img src="/web/ub/galeries/imatges/noticies/2020/02/pescafantasmaDEF.jpg_287095365.jpg"
+                                                        alt="Pesca fantasma "
+                                                        title=""/>
+                                                </div>
+                                            
+                                        
+                                    </div>
+                                
+                                                      
+                        
+                            
+                            
+                                
+                                    
+                                    
+                                    <div class="bloque_imagen">
+                                        <div class="bloque_imagen_contenido">
+                                            <a href="/web/ub/ca/menu_eines/noticies/2020/02/026.html" class="titular">Identifiquen la proteïna responsable de la mort cel·lular causant d&rsquo;un tipus de ceguesa hereditària</a>
+                                            <br />17.02.2020
+                                        </div>
+                                        
+                                        
+                                        
+                                            
+                                                <div class="bloque_imagen_imagen">
+                                                
+                                                                            
+                                                    <img src="/web/ub/galeries/imatges/noticies/2020/02/np9_ceguera_amendez_celldeathdis_-_image_sqr.jpg_287095365.jpg"
+                                                        alt="Imatge de microscopi de les cèl·lules fotoreceptores."
+                                                        title=""/>
+                                                </div>
+                                            
+                                        
+                                    </div>
+                                
+                                                      
+                        
+                            
+                            
+                                
+                                    
+                                    
+                                    <div class="bloque_imagen">
+                                        <div class="bloque_imagen_contenido">
+                                            <a href="/web/ub/ca/menu_eines/noticies/2020/02/024.html" class="titular">La trajectòria científica de l&rsquo;ecòleg Narcís Prat, premiada per l&rsquo;Associació Ibèrica de Limnologia </a>
+                                            <br />14.02.2020
+                                        </div>
+                                        
+                                        
+                                        
+                                            
+                                                <div class="bloque_imagen_imagen">
+                                                
+                                                                            
+                                                    <img src="/web/ub/galeries/imatges/noticies/2020/02/NarcxsPrat_.jpg_287095365.jpg"
+                                                        alt="Narcís Prat "
+                                                        title=""/>
+                                                </div>
+                                            
+                                        
+                                    </div>
+                                
+                                                      
+                                              
+                        
+                        <div class="obj2">
+                            
+                            <div class="mas">
+                                <a href="/dyn/cms/continguts_ca/menu_eines/noticies/index.html" class="inversa">Més notícies</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END M-037 --> 
+                              
+                    <!-- M-037 -->
+                    <div class="M-037">
+              
+                        <h2>Agenda</h2>
+                        <div class="rss"><a href='/dyn/cms/system/modules/edu.ub.presentation/elements/rss.rss?tipo=activitades' class="inversa">RSS</a></div>
+                        
+                            
+                            
+                                 
+                                    
+                                    
+                                    <div class="bloque">
+                                        <span class="fecha">28.01.2020</span>&nbsp;&nbsp;
+                                        <a href="/web/ub/ca/menu_eines/agenda/2020/01/28_1.html" class="titular">Exposició: «Recién pintado» </a>
+                                    </div>
+                                
+                            
+                        
+                            
+                            
+                                 
+                                    
+                                    
+                                    <div class="bloque">
+                                        <span class="fecha">20.02.2020</span>&nbsp;&nbsp;
+                                        <a href="/web/ub/ca/menu_eines/agenda/2020/02/20_1.html" class="titular">Jornada: «Transició energètica: de la ciència al territori»</a>
+                                    </div>
+                                
+                            
+                        
+                            
+                            
+                                 
+                                    
+                                    
+                                    <div class="bloque">
+                                        <span class="fecha">20.02.2020</span>&nbsp;&nbsp;
+                                        <a href="/web/ub/ca/menu_eines/agenda/2020/02/20_2.html" class="titular">Els Dijous de Filologia i Comunicació: «Frankenstein en el cine» </a>
+                                    </div>
+                                
+                            
+                        
+                            
+                            
+                                 
+                                    
+                                    
+                                    <div class="bloque">
+                                        <span class="fecha">20.02.2020</span>&nbsp;&nbsp;
+                                        <a href="/web/ub/ca/menu_eines/agenda/2020/02/20_4.html" class="titular">XXXIII Cicle de Música a la Universitat: Coral Filologia UB</a>
+                                    </div>
+                                
+                            
+                        
+                            
+                            
+                                 
+                                    
+                                    
+                                    <div class="bloque">
+                                        <span class="fecha">21.02.2020</span>&nbsp;&nbsp;
+                                        <a href="/web/ub/ca/menu_eines/agenda/2020/02/21_1.html" class="titular">Els Vespres d&rsquo;Hivern: Cor Blanc</a>
+                                    </div>
+                                
+                            
+                        
+                            
+                            
+                                 
+                                    
+                                    
+                                    <div class="bloque">
+                                        <span class="fecha">03.03.2020</span>&nbsp;&nbsp;
+                                        <a href="/web/ub/ca/menu_eines/agenda/2020/03/03_1.html" class="titular">Taller de Lectura: «Mujeres escritoras II» </a>
+                                    </div>
+                                
+                            
+                        
+                            
+                            
+                                 
+                                    
+                                    
+                                    <div class="bloque">
+                                        <span class="fecha">09.03.2020</span>&nbsp;&nbsp;
+                                        <a href="/web/ub/ca/menu_eines/agenda/2020/02/20_3.html" class="titular">Curs de Fotografia de la natura: laboratori digital (inscripcions fins al 9 de març)</a>
+                                    </div>
+                                
+                            
+                        
+                        <div class="obj2">
+                            
+                            <div class="mas"><a href="/dyn/cms/continguts_ca/menu_eines/agenda/index.html" class="inversa">Més esdeveniments</a></div>
+                        </div>
+                  
+                    </div>
+                    <!-- END M-037 -->
+                </div>
+            </div>
+            <div  id="plantilla1_espai6"></div>
+            </div>
+            <div id="col3">
+            <div id="plantilla1_espai7">
+                <div class="contenedor_clase">
+                    <!-- <div class="title">M-038</div> -->
+                    <!-- M-038 -->
+                    <div  class="M-038">
+                        <div class="obj3">
+                            <form id="M-038_form" action="#">
+                             
+                            
+                                
+                                  
+                                        <div class="round_title">
+                                            <h2>Intranets</h2>
+                                        </div>
+                                        <div class="round_content">
+                                            <ul>
+                                                
+                                                    
+                                                    
+                                                        <li>
+                                                            <a href="http://www.ub.edu/monub/" title="Món UB (estudiants)">
+                                                                Món UB (estudiants)
+                                                            </a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                    
+                                                        <li>
+                                                            <a href="https://intranet.ub.edu/" title="Intranet (PDI i PAS)">
+                                                                Intranet (PDI i PAS)
+                                                            </a>
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                    
+                                                        <li>
+                                                            <a href="http://www.alumni.ub.edu/" title="Alumni UB">
+                                                                Alumni UB
+                                                            </a>
+                                                        </li>
+                                                    
+                                                
+                                            </ul>
+                                        </div>
+                                        
+                                    
+                                
+                            </form>
+                        </div>
+                        <div class="obj3">
+                        <div class="round_title">
+                          <h2 class="segueix_nos">Segueix-nos</h2>
+                        </div>
+                        <div class="round_content">
+                          <ul class="xarxes_socials_bloc">
+                            <li><a href="https://www.facebook.com/UniversitatdeBarcelona" target="_blank"><img src="/web/system/modules/edu.ub.presentation/resources/img/ico_facebook_25x25.png" alt="botó per accedir al facebook de la universitat de barcelona" /></a></li>
+                            <li><a href="http://twitter.com/UniBarcelona" target="_blank"><img src="/web/system/modules/edu.ub.presentation/resources/img/ico_twitter_25x25.png" alt="botó per accedir al twitter de la universitat de barcelona" /></a></li>
+                            <li><a href="https://instagram.com/UniBarcelona/" target="_blank"><img src="/web/system/modules/edu.ub.presentation/resources/img/ico_insta_25x25.png" alt="botó per accedir a l'instagram de la Universitat de Barcelona" /></a></li>
+                            <li><a href="https://www.linkedin.com/edu/school?id=12252&trk=tyah&trkInfo=clickedVertical:school,idx:1-1-1,tarId:1435650663489,tas:universitat" target="_blank"><img src="/web/system/modules/edu.ub.presentation/resources/img/ico_linkedin_25x25.png" alt="botó per accedir al linkedin de la Universitat de Barcelona" /></a></li>
+                            <li><a href="https://www.youtube.com/user/UB" target="_blank"><img src="/web/system/modules/edu.ub.presentation/resources/img/ico_youtube_25x25.png" alt="botó per accedir al youtube de la universitat de barcelona" /></a></li>
+                            <li><a href="https://t.me/unibarcelona" target="_blank"><img src="/web/system/modules/edu.ub.presentation/resources/img/ico_telegram_25x25.png" alt="botó per accedir al telegram de la Universitat de Barcelona" /></a></li>
+                            <li><a href="http://www.ub.edu/web/ub/ca/butlleti/index.html" target="_blank"><img src="/web/system/modules/edu.ub.presentation/resources/img/ico_email_25x25.png" alt="botó per accedir al butlletí de la universitat de barcelona" /></a></li>
+                          </ul>
+                        </div>
+
+                        <div class="obj2">
+                            <div class="mas">
+                                <a href="http://www.ub.edu/web/ub/ca/universitat/la_ub_avui/xarxes_socials/index.html" class="inversa">Tots els perfils de les xarxes socials</a>
+                            </div>
+                        </div>
+
+                        </div>
+
+                    </div>
+                    <!-- END M-038 -->
+                    <div class="M-039">
+                     <h2 class="acces_directe">Accés directe</h2>
+                        <!-- titol a traduir-->
+                         <div class="contenedor_desplegable"> 
+                            
+                                     
+                                         
+                                 
+                                     <div class="contenidor_enllac"><a href="#div_esconder1" class="esconderDiv"  id="div1"  >Centres i IDP-ICE</a></div>
+                                     <div id="div_esconder1" class="capa_escondida_list">
+                                         <div class="scroll">
+                                            <ul>
+                                                
+                                                <li class="titol">Facultats
+                                                <ul>
+                                                
+                                                 
+                                                  <li>
+                                                
+                                                     <a href="http://www.ub.edu/bellesarts/" >Belles Arts</a>
+                                                
+                                                     </li>
+                                                     
+                                                 
+                                                  <li>
+                                                
+                                                     <a href="http://www.ub.edu/biologia/" >Biologia</a>
+                                                
+                                                     </li>
+                                                     
+                                                 
+                                                  <li>
+                                                
+                                                     <a href="http://www.ub.edu/geologia/" >Ciències de la Terra</a>
+                                                
+                                                     </li>
+                                                     
+                                                 
+                                                  <li>
+                                                
+                                                     <a href="http://www.ub.edu/dret/" >Dret</a>
+                                                
+                                                     </li>
+                                                     
+                                                 
+                                                  <li>
+                                                
+                                                     <a href="http://www.ub.edu/economiaempresa/" >Economia i Empresa</a>
+                                                
+                                                     </li>
+                                                     
+                                                 
+                                                  <li>
+                                                
+                                                     <a href="http://www.ub.edu/educacio/" >Educació</a>
+                                                
+                                                     </li>
+                                                     
+                                                 
+                                                  <li>
+                                                
+                                                     <a href="http://www.ub.edu/farmacia/" >Farmàcia i Ciències de l'Alimentació</a>
+                                                
+                                                     </li>
+                                                     
+                                                 
+                                                  <li>
+                                                
+                                                     <a href="http://www.ub.edu/filologia/" >Filologia i Comunicació</a>
+                                                
+                                                     </li>
+                                                     
+                                                 
+                                                  <li>
+                                                
+                                                     <a href="http://www.ub.edu/filosofia/" >Filosofia</a>
+                                                
+                                                     </li>
+                                                     
+                                                 
+                                                  <li>
+                                                
+                                                     <a href="http://www.ub.edu/fisica/" >Física</a>
+                                                
+                                                     </li>
+                                                     
+                                                 
+                                                  <li>
+                                                
+                                                     <a href="http://www.ub.edu/facgh/gh.htm" >Geografia i Història</a>
+                                                
+                                                     </li>
+                                                     
+                                                 
+                                                  <li>
+                                                
+                                                     <a href="https://www.ub.edu/portal/web/informacio-mitjans-audiovisuals/" >Informació i Mitjans Audiovisuals</a>
+                                                
+                                                     </li>
+                                                     
+                                                 
+                                                  <li>
+                                                
+                                                     <a href="http://www.mat.ub.edu/" >Matemàtiques i Informàtica</a>
+                                                
+                                                     </li>
+                                                     
+                                                 
+                                                  <li>
+                                                
+                                                     <a href="http://www.ub.edu/medicina-ciencies-salut" >Medicina i Ciències de la Salut</a>
+                                                
+                                                     </li>
+                                                     
+                                                 
+                                                  <li>
+                                                
+                                                     <a href="http://www.ub.edu/psicologia/" >Psicologia</a>
+                                                
+                                                     </li>
+                                                     
+                                                 
+                                                  <li>
+                                                
+                                                     <a href="http://www.ub.edu/quimica" >Química</a>
+                                                
+                                                     </li>
+                                                     
+                                                  </ul>
+                                                  </li>
+                                               
+                                                <li class="titol">IDP-ICE
+                                                <ul>
+                                                
+                                                 
+                                                  <li>
+                                                
+                                                     <a href="http://www.ub.edu/ice/" >Institut de Desenvolupament Professional-ICE</a>
+                                                
+                                                     </li>
+                                                     
+                                                  </ul>
+                                                  </li>
+                                               
+                                                <li class="titol">Escola de Doctorat
+                                                <ul>
+                                                
+                                                 
+                                                  <li>
+                                                
+                                                     <a href="http://www.ub.edu/escola_doctorat/" >Escola de Doctorat</a>
+                                                
+                                                     </li>
+                                                     
+                                                  </ul>
+                                                  </li>
+                                               
+                                                <li class="titol">Centres adscrits
+                                                <ul>
+                                                
+                                                 
+                                                  <li>
+                                                
+                                                     <a href="http://www.santjoandedeu.edu.es/" >Campus Docent Sant Joan de Déu</a>
+                                                
+                                                     </li>
+                                                     
+                                                 
+                                                  <li>
+                                                
+                                                     <a href="https://www.ceibcn.com/ca/" >Centre d'Estudis Internacionals </a>
+                                                
+                                                     </li>
+                                                     
+                                                 
+                                                  <li>
+                                                
+                                                     <a href="http://www.unibarcelona.com/?c=I90604M0002" >Centre Universitari Internacional de Barcelona</a>
+                                                
+                                                     </li>
+                                                     
+                                                 
+                                                  <li>
+                                                
+                                                     <a href="http://enti.cat/" >Escola de Noves Tecnologies Interactives </a>
+                                                
+                                                     </li>
+                                                     
+                                                 
+                                                  <li>
+                                                
+                                                     <a href="http://www.escac.com/ca" >Escola Superior de Cinema i Audiovisuals de Catalunya </a>
+                                                
+                                                     </li>
+                                                     
+                                                 
+                                                  <li>
+                                                
+                                                     <a href="http://escodi.com/" >Escola Superior de Comerç i Distribució</a>
+                                                
+                                                     </li>
+                                                     
+                                                 
+                                                  <li>
+                                                
+                                                     <a href="http://www.esrp.net/" >Escola Superior de Relacions Públiques</a>
+                                                
+                                                     </li>
+                                                     
+                                                 
+                                                  <li>
+                                                
+                                                     <a href="http://www.cett.es/" >Escola Universitària d'Hoteleria i Turisme CETT </a>
+                                                
+                                                     </li>
+                                                     
+                                                 
+                                                  <li>
+                                                
+                                                     <a href="http://ispc.gencat.cat/" >Institut de Seguretat Pública de Catalunya </a>
+                                                
+                                                     </li>
+                                                     
+                                                 
+                                                  <li>
+                                                
+                                                     <a href="http://inefc.gencat.cat/ca/inefc_barcelona/" >Institut Nacional d'Educació Física de Catalunya </a>
+                                                
+                                                     </li>
+                                                     
+                                                  </ul>
+                                                  </li>
+                                               
+                                           </ul>
+                                         </div>
+                                     
+                                     </div>
+                                
+                                 
+                             
+                             
+                                         
+                                         
+                                 
+                                     <div class="contenidor_enllac"><a href="#div_esconder2" class="esconderDiv"  id="div2"  >Grup UB i Parcs</a></div>
+                                     <div id="div_esconder2" class="capa_escondida_list">
+                                         <div class="scroll">
+                                             <ul>
+                                               
+                                                <li class="titol">Grup UB
+                                                <ul>
+                                                  
+                                                  
+                                                  <li>
+                                                  
+                                                       <a href="http://www.fbg.ub.edu/" >Fundació Bosch i Gimpera (FBG)</a>
+                                                
+                                                       </li>
+                                                 
+                                                  
+                                                  <li>
+                                                  
+                                                       <a href="http://www.guaschcoranty.com" >Fundació Guasch Coranty</a>
+                                                
+                                                       </li>
+                                                 
+                                                  
+                                                  <li>
+                                                  
+                                                       <a href="http://www.fundaciojosepfinestres.cat" >Fundació Josep Finestres</a>
+                                                
+                                                       </li>
+                                                 
+                                                  
+                                                  <li>
+                                                  
+                                                          
+                                                         <a href="/web/ub/ca/universitat/grup_UB/detall/fundacio_montcelimar.html" >Fundació Montcelimar</a>
+                                                     
+                                                
+                                                       </li>
+                                                 
+                                                  
+                                                  <li>
+                                                  
+                                                       <a href="http://www.solidaritat.ub.edu/" >Fundació Solidaritat UB</a>
+                                                
+                                                       </li>
+                                                 
+                                                  
+                                                  <li>
+                                                  
+                                                       <a href="http://www.fpedroipons.ub.edu/index.php?lang=ca" >Fundació Universitària Agustí Pedro i Pons</a>
+                                                
+                                                       </li>
+                                                 
+                                                  
+                                                  <li>
+                                                  
+                                                       <a href="http://www.il3.ub.edu/ca/Home.html" >Institut de Formació Contínua (IL3-UB)</a>
+                                                
+                                                       </li>
+                                                 
+                                                  
+                                                  <li>
+                                                  
+                                                       <a href="http://www.pcb.ub.edu/" >Parc Científic de Barcelona (PCB)</a>
+                                                
+                                                       </li>
+                                                 
+                                                  
+                                                  <li>
+                                                  
+                                                          
+                                                         <a href="/web/ub/ca/universitat/grup_UB/detall/cultura_innovadora_i_cientifica_UB.html" >Cultura Innovadora i Científica (CIC-UB)</a>
+                                                     
+                                                
+                                                       </li>
+                                                 
+                                                 </ul>
+                                                    </li>
+                                                 
+                                                <li class="titol">Parcs
+                                                <ul>
+                                                  
+                                                  
+                                                  <li>
+                                                  
+                                                       <a href="http://www.ub.edu/minerva/" >Parc de les Humanitats i les Ciències Socials</a>
+                                                
+                                                       </li>
+                                                 
+                                                 </ul>
+                                                    </li>
+                                                 
+                                             </ul>
+                                         </div>
+                                     
+                                     </div>
+                                
+                                
+                            
+                            
+                                      
+                                         
+                                     <div class="contenidor_enllac"><a href="#div_esconder3" class="esconderDiv"  id="div3"  >Instituts de recerca</a></div>
+                                     <div id="div_esconder3" class="capa_escondida_list">
+                                         <div class="scroll">
+                                         
+                                             <ul>
+                                                  
+                                                  <li class="titol">Instituts de recerca propis de la UB
+                                                  <ul>
+                                                  
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutspropis/ibub.html" >Institut de Biomedicina (IBUB)</a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutspropis/iccub.html" >Institut de Ciències del Cosmos (ICCUB) </a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutspropis/imub.html" >Institut de Matemàtica de la Universitat de Barcelona (IMUB)</a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutspropis/in2ub.html" >Institut de Nanociència i Nanotecnologia (IN2UB) </a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutspropis/neurociencies.html" >Institut de Neurociències</a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutspropis/iqtcub.html" >Institut de Química Teòrica i Computacional (IQTCUB) </a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutspropis/aigua.html" >Institut de Recerca de l’Aigua</a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutspropis/irbio.html" >Institut de Recerca de la Biodiversitat (IRBio)</a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutspropis/ircvm.html" >Institut de Recerca en Cultures Medievals (IRCVM)</a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutspropis/beat.html" >Institut de Recerca en Economia (BEAT)</a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutspropis/irea.html" >Institut de Recerca en Economia Aplicada Regional i Pública (IREA) </a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutspropis/ire.html" >Institut de Recerca en Educació (IRE.UB)</a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutspropis/insa.html" >Institut de Recerca en Nutrició i Seguretat Alimentària (INSA·UB)</a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutspropis/ubics.html" >Institut de Recerca en Sistemes Complexos (UBICS)</a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutspropis/geomodels.html" >Institut de Recerca Geomodels</a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutspropis/transjus.html" >Institut de Recerca Jurídica de la UB (TransJus)</a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutspropis/ipoa.html" >Institut del Pròxim Orient Antic (IPOA)</a>
+                                                  
+                                                       </li>
+                                                       
+                                                    </ul>
+                                                    </li>
+                                                 
+                                                  <li class="titol">Instituts de recerca participats per la UB
+                                                  <ul>
+                                                  
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutsparticipats/idibell.html" >Institut d'Investigació Biomèdica de Bellvitge (IDIBELL)</a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutsparticipats/idibaps.html" >Institut d'Investigacions Biomèdiques August Pi i Sunyer (IDIBAPS)</a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutsparticipats/ibec.html" >Institut de Bioenginyeria de Catalunya (IBEC)</a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutsparticipats/irb.html" >Institut de Recerca Biomèdica (IRB)</a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutsparticipats/crag.html" >Centre de Recerca en Agrigenòmica (CRAG)</a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutsparticipats/cresib.html" >Institut de Salut Global de Barcelona (ISGlobal Barcelona)</a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutsparticipats/ieec.html" >Institut d’Estudis Espacials de Catalunya (IEEC)</a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutsparticipats/creaf.html" >Centre de Recerca Ecològica i Aplicacions Forestals (CREAF)</a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutsparticipats/irec.html" >Institut de Recerca en Energia de Catalunya (IREC)</a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutsparticipats/ieb.html" >Institut d'Economia de Barcelona (IEB)</a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutsparticipats/ijc.html" >Institut de Recerca contra la Leucèmia Josep Carreras (IJC)</a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutsparticipats/irsjd.html" >Institut de Recerca Sant Joan de Déu</a>
+                                                  
+                                                       </li>
+                                                       
+                                                    </ul>
+                                                    </li>
+                                                 
+                                                  <li class="titol">Instituts interuniversitaris i altres centres de recerca
+                                                  <ul>
+                                                  
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutsinteruniversitaris/ibei.html" >Institut Barcelona d'Estudis Internacionals (IBEI)</a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutsinteruniversitaris/iideg.html" >Institut Interuniversitari d'Estudis de Dones i Gènere (IIEDG)</a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                       <a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/recerca_a_la_UB/instituts/institutsparticipats/ciimu.html" >Consorci Institut d’Infància i Adolescència de Barcelona</a>
+                                                  
+                                                       </li>
+                                                       
+                                                     
+                                                    <li>
+                                                  
+                                                            
+                                                           <a href="/dyn/cms/system/modules/edu.ub.presentation/elements/home.jsp" >Institut Interuniversitari de Filosofia Analítica de Barcelona (BIAP)</a>
+                                                       
+                                                  
+                                                       </li>
+                                                       
+                                                    </ul>
+                                                    </li>
+                                                 
+                                             </ul>
+                                         </div>
+                                     
+                                     </div>
+                                
+                                
+                            
+                            
+                                      
+                                         
+                                     <div class="contenidor_enllac"><a href="#div_esconder4" class="esconderDiv"  id="div4"  >Hospitals universitaris</a></div>
+                                     <div id="div_esconder4" class="capa_escondida_list">
+                                         <div class="scroll">
+                                             <ul>
+                                                  
+                                                  
+                                                  <li>
+                                                  
+                                                       <a href="http://www.hospitalclinic.org" >Hospital Clínic de Barcelona</a>
+                                                  
+                                                       </li>
+                                                 
+                                                  
+                                                  <li>
+                                                  
+                                                       <a href="http://www.bellvitgehospital.cat/" >Hospital Universitari de Bellvitge</a>
+                                                  
+                                                       </li>
+                                                 
+                                                  
+                                                  <li>
+                                                  
+                                                       <a href="http://www.mutuaterrassa.cat/" >Hospital de la Mútua de Terrassa </a>
+                                                  
+                                                       </li>
+                                                 
+                                                  
+                                                  <li>
+                                                  
+                                                       <a href="http://www.bsa.cat/" >Badalona Serveis Assistencials (associat)</a>
+                                                  
+                                                       </li>
+                                                 
+                                                  
+                                                  <li>
+                                                  
+                                                       <a href="http://www.csdm.es/" >Consorci Sanitari del Maresme (associat)</a>
+                                                  
+                                                       </li>
+                                                 
+                                                  
+                                                  <li>
+                                                  
+                                                       <a href="http://www.csi.cat/ciutadans/centres/hospital-dos-maig/" >Hospital Dos de Maig de Barcelona (Consorci Sanitari Integral) (associat)</a>
+                                                  
+                                                       </li>
+                                                 
+                                                  
+                                                  <li>
+                                                  
+                                                       <a href="http://www.csi.cat/ciutadans/centres/hospital-hospitalet/es_index.html" >Hospital General de l'Hospitalet (Consorci Sanitari Integral) (associat)</a>
+                                                  
+                                                       </li>
+                                                 
+                                                  
+                                                  <li>
+                                                  
+                                                       <a href="http://www.csi.cat/ciutadans/centres/hospital-moises-broggi/index.html" >Hospital Sant Joan Despí Moisès Broggi (Consorci Sanitari Integral) (associat)</a>
+                                                  
+                                                       </li>
+                                                 
+                                                  
+                                                  <li>
+                                                  
+                                                       <a href="http://www.hospitalmollet.cat/web/" >Fundació Sanitària Mollet (associat)</a>
+                                                  
+                                                       </li>
+                                                 
+                                                  
+                                                  <li>
+                                                  
+                                                       <a href="http://www.hospitalbenitomenni.org/" >Hospital Benito Menni (associat)</a>
+                                                  
+                                                       </li>
+                                                 
+                                                  
+                                                  <li>
+                                                  
+                                                       <a href="http://www.hsjdbcn.org" >Hospital de Sant Joan de Déu (associat)</a>
+                                                  
+                                                       </li>
+                                                 
+                                                  
+                                                  <li>
+                                                  
+                                                       <a href="http://www.hscor.com/" >Hospital del Sagrat Cor (associat)</a>
+                                                  
+                                                       </li>
+                                                 
+                                                  
+                                                  <li>
+                                                  
+                                                       <a href="http://www.hospitalesperitsant.com/" >Hospital Esperit Sant (associat)</a>
+                                                  
+                                                       </li>
+                                                 
+                                                  
+                                                  <li>
+                                                  
+                                                       <a href="http://www.hospitalplato.com/" >Hospital Plató (associat)</a>
+                                                  
+                                                       </li>
+                                                 
+                                                  
+                                                  <li>
+                                                  
+                                                       <a href="http://www.hsrafael.com/" >Hospital Sant Rafael (associat)</a>
+                                                  
+                                                       </li>
+                                                 
+                                             </ul>
+                                         </div>
+                                     
+                                     </div>
+                                
+                                
+                                                  </div>
+                        
+                    </div>
+                </div>
+                
+
+            </div>
+        </div>
+        <!-- END CONTENEDOR -->
+    </div>
+
+
+
+		         
+		        <div id="espai_comu9" class="border_top">
+		        	<!--  M-032  -->
+		        	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="M-071">
+		<div id="xarxes_socials">
+			<ul>
+				<li class="text"><span class="text_baixat">Segueix-nos:</span></li>
+                <li><a href="https://www.facebook.com/UniversitatdeBarcelona"><img src="/web/system/modules/edu.ub.presentation/resources/img/gris_ico_facebook_25x25.png" alt="botó per accedir al facebook de la universitat de barcelona"/></a></li>
+                <li><a href="http://twitter.com/UniBarcelona"><img src="/web/system/modules/edu.ub.presentation/resources/img/gris_ico_twitter_25x25.png" alt="botó per accedir al twitter de la universitat de barcelona" /></a></li>
+                <li><a href="https://instagram.com/UniBarcelona/"><img src="/web/system/modules/edu.ub.presentation/resources/img/gris_ico_insta_25x25.png" alt="botó per accedir a l'instagram de la Universitat de Barcelona" /></a></li>
+                <li><a href="https://www.linkedin.com/edu/school?id=12252&trk=tyah&trkInfo=clickedVertical:school,idx:1-1-1,tarId:1435650663489,tas:universitat"><img src="/web/system/modules/edu.ub.presentation/resources/img/gris_ico_linkedin_25x25.png" alt="botó per accedir al linkedin de la Universitat de Barcelona" /></a></li>
+                <li><a href="https://www.youtube.com/user/UB"><img src="/web/system/modules/edu.ub.presentation/resources/img/gris_ico_youtube_25x25.png" alt="botó per accedir al youtube de la universitat de barcelona" /></a></li>
+                <li><a href="https://plus.google.com/111672865607529040564"><img src="/web/system/modules/edu.ub.presentation/resources/img/gris_ico_google_25x25.png" alt="botó per accedir al google+ de la universitat de barcelona" /></a></li>
+                <li><a href="??? peu.flickr.url ???"><img src="/web/system/modules/edu.ub.presentation/resources/img/gris_ico_flicker_25x25.png" alt="??? peu.flickr.alt ???" /></a></li>
+			</ul>
+		</div>
+	</div>
+    <div class="M-032-home">
+    <div class="sombra">
+      <span class="titol_leru">Membre de la</span>       
+      <span class="titol_campus">Reconeixement internacional de l'excel·lència</span>
+      <span class="logo_hr"><a href="http://www.ub.edu/web/ub/ca/recerca_innovacio/hr_excellence/index.html"><img src="/web/system/modules/edu.ub.presentation/resources/img/logo_hr.png" alt="HR Excellence in Research" /></a></span>
+      <span class="logo_leru"><a href="http://www.leru.org/index.php/public/home/"><img src="/web/system/modules/edu.ub.presentation/resources/img/logo_leru_nou2.png" alt="logo del ∞ - League of European Research Universities" /></a></span>
+      <span class="logo_bkc"><a href="https://bkc.ub.upc.edu/ca"><img src="/web/system/modules/edu.ub.presentation/resources/img/logo_bkc_nou.png" alt="logo del bkc - campus excel·lència"/></a></span>
+      <span class="logo_hubc"><a href="http://hub.ub.edu/"><img src="/web/system/modules/edu.ub.presentation/resources/img/logo_hubc.png" alt="logo del health universitat de barcelona campus"/></a></span>
+	    <p class="hidden">Footer</p>	
+	<ul>
+		<li class='separador'><a href='/web/ub/ca/menu_peu/contacte/contacte.html' >
+Contacte
+</a></li>
+<li class='separador'><a href='https://seu.ub.edu/' >
+Seu electrònica
+</a></li>
+<li class='separador'><a href='/web/ub/ca/menu_peu/mapaweb/mapaweb.html' >
+Mapa del web
+</a></li>
+<li><a href='/web/ub/ca/menu_peu/avis_legal/avis_legal.html' >
+Avís legal
+</a></li>
+
+	</ul>	
+<p>© Universitat de Barcelona</p>
+</div></div>
+		 			<!--END  M-032  -->
+				</div>
+			</div>
+		</div>
+	<script src="/urchin.js" type="text/javascript"></script><script type="text/javascript">urchinTracker();</script></body>
+	
+  <!-- PRUEBAS 16/03/2012 -->
+</html>
+
+
+

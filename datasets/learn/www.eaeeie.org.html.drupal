@@ -1,0 +1,167 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="sk" xml:lang="sk">
+
+
+
+<head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title>European Association for Education in Electrical and Information Engineering - EAEEIE</title>
+        <meta name="author" content="www.mdj.sk" />
+        <meta name="copyright" content="EAEEIE - European Association for Education in Electrical and Information Engineering" />
+        <meta name="keywords" content="klucove slova" />
+        <meta name="description" content="European Association for Education in Electrical and Information Engineering" />
+        <meta name="robots" content="all" />
+        <link rel="stylesheet" type="text/css" href="../frontpage/CSS/GeneralStyles.css" />
+        <script language="JavaScript" src="../frontpage/JAVASCRIPTS/JAVAGeneralScripts.js" type="text/javascript"></script>
+
+    <!--lightbox-->
+        <link rel="stylesheet" href="../frontpage/CSS/Lightbox.css" type="text/css" media="screen" />
+        <script src="../frontpage/JAVASCRIPTS/JAVALightboxPrototype.js" type="text/javascript"></script>
+        <script src="../frontpage/JAVASCRIPTS/JAVALightboxScriptaculous.js?load=effects" type="text/javascript"></script>
+        <script src="../frontpage/JAVASCRIPTS/JAVALightbox.js" type="text/javascript"></script>
+    <!-- /lightbox-->
+
+          
+        <!--mapa-->
+        <script type="text/javascript">
+<!--
+var maps=new Array();
+  maps[0]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_es.gif';
+  maps[1]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_fr.gif';
+  maps[2]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_is.gif';
+  maps[3]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_sk.gif';
+  maps[4]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_pl.gif';
+  maps[5]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_pt.gif';
+  maps[6]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_de.gif';
+  maps[7]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_cz.gif';
+  maps[8]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_ie.gif';
+  maps[9]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_ch.gif';
+  maps[10]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_at.gif';
+  maps[11]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_hu.gif';
+  maps[12]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_uk.gif';
+  maps[13]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_uk.gif';
+  maps[14]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_dk.gif';
+  maps[15]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_ru.gif';
+  maps[16]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_ua.gif';
+  maps[17]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_by.gif';
+  maps[18]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_md.gif';
+  maps[19]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_ro.gif';
+  maps[20]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_bg.gif';
+  maps[21]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_tr.gif';
+  maps[22]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_no.gif';
+  maps[23]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_se.gif';
+  maps[24]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_fi.gif';
+  maps[25]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_it.gif';
+  maps[26]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_ee.gif';
+  maps[27]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_lt.gif';
+  maps[28]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_si.gif';
+  maps[29]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_gr.gif';
+  maps[30]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_be.gif';
+  maps[31]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_nl.gif';
+  maps[32]='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_hr.gif';
+
+window.onload=function() {
+  elem=document.getElementsByTagName('area');
+  for(c=0;c<elem.length;c++) {
+    elem[c].id='a'+c;
+    elem[c].onmouseover=function() {
+      document.getElementById('pic').src=maps[this.id.split('a')[1]];
+    }
+    elem[c].onmouseout=function() {
+      document.getElementById('pic').src='../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index.gif';
+    }
+  }
+}
+var preloads=[];
+
+function preload(){
+  for(i=0;i<arguments.length;i++) {
+    preloads[preloads.length]=new Image();
+    preloads[preloads.length-1].src=arguments[i];
+  }
+}
+preload('../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_es.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_fr.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_is.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_sk.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_pl.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_pt.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_de.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_cz.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_ie.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_ch.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_at.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_hu.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_uk.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_dk.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_ru.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_ua.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_by.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_md.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_ro.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_bg.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_tr.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_no.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_se.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_fi.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_it.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_ee.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_by.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_lt.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_si.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_gr.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_be.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_nl.gif','../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index_hr.gif');
+//-->
+</script>
+        <!--/mapa-->
+
+
+
+<body id="index">
+
+<div id="main">
+
+<h1>European Association for Education in Electrical and Information Engineering</h1>
+
+<div id="leftside" style="margin-top:7px;">
+<img id="pic" src="../frontpage/FILES/GENERALPICTURES/EuropeanStates/back-index.gif" usemap="#map" border="0" />
+</div>
+
+<div id="rightside">
+
+<div id="login">
+<form name="form" style="padding-top:13px;">
+<select name="site" style="width:150px;" onChange="window.location='?q='+this.value+'/news';">
+<option selected>Select your language &nbsp; </option>
+<option value="" >French</option>
+<option value="" >English</option>
+<option value="" >Spanish</option>
+<option value="" >Portuguese</option>
+<option value="" >German</option>
+<option value="" >Polish</option>
+<option value="" >Italian</option>
+<option value="cz" >Czech</option>
+<option value="sk" >Slovak</option>
+<option value="" >Finnish</option>
+<option value="" >Esperanto</option>
+</select>
+</form>
+
+</div>
+
+
+</div>
+
+<MAP NAME="map">
+        <AREA SHAPE="POLY" COORDS="418,169,449,181,450,183,455,188,461,188,467,193,470,197,458,199,447,207,449,213,441,218,436,222,431,223,425,220,415,219,411,222,409,214,405,211,413,195,421,185,419,180,413,178,410,178,409,170" HREF="?q=news" TITLE="ES">
+        <AREA SHAPE="POLY" COORDS="465,142,474,138,480,133,485,142,496,150,501,153,498,154,498,160,489,169,494,175,491,177,493,186,486,191,475,186,466,191,460,187,454,187,448,182,455,161,453,154,443,146,443,141,450,142,456,146,457,138" HREF="?q=news" TITLE="FR">
+        <AREA SHAPE="POLY" COORDS="421,18,432,27,445,28,452,23,447,15,434,12,429,4,420,6,427,12" HREF="?q=news" TITLE="IS">
+        <AREA SHAPE="POLY" COORDS="544,158,553,152,562,155,566,153,570,156,568,160,562,158,550,165,544,162" HREF="?q=sk/news" TITLE="SK">
+        <AREA SHAPE="POLY" COORDS="537,141,534,123,549,116,556,119,572,120,576,128,573,132,576,144,569,153,559,153" HREF="?q=news" TITLE="PL">
+        <AREA SHAPE="POLY" COORDS="409,180,419,183,402,212,396,209,401,201,397,198" HREF="?q=news" TITLE="PT">
+        <AREA SHAPE="POLY" COORDS="503,120,513,120,512,113,516,113,520,119,530,118,533,122,534,140,522,145,522,150,528,156,523,161,524,163,516,163,510,162,498,159,502,152,495,143,496,139,495,135,500,129" HREF="?q=news" TITLE="DE">
+        <AREA SHAPE="POLY" COORDS="523,146,534,142,544,146,551,152,544,158,535,155,529,157" HREF="?q=news" TITLE="CZ">
+        <AREA SHAPE="POLY" COORDS="436,97,442,98,445,101,449,105,445,114,434,115,429,113,429,108,436,105,433,101" HREF="?q=news" TITLE="IE">
+        <AREA SHAPE="POLY" COORDS="493,167,497,161,509,162,511,169,504,172,501,170,496,172" HREF="?q=news" TITLE="CH">
+        <AREA SHAPE="POLY" COORDS="542,158,539,170,529,173,519,168,513,168,512,164,520,162,529,157" HREF="?q=news" TITLE="AU">
+        <AREA SHAPE="POLY" COORDS="541,172,543,164,549,165,562,160,571,163,562,175,553,177,549,178" HREF="?q=news" TITLE="HU">
+        <AREA SHAPE="POLY" COORDS="456,117,449,118,458,125,444,129,473,133,476,131,472,128,479,125,480,120,473,119,474,109,471,98,465,93,473,86,466,83,471,77,465,76,459,81,456,91,457,100,463,100,461,112,456,110" HREF="?q=news" TITLE="UK">
+        <AREA SHAPE="POLY" COORDS="446,94,452,96,452,103,442,97" HREF="?q=news" TITLE="UK">
+        <AREA SHAPE="POLY" COORDS="522,94,513,98,511,112,517,109" HREF="?q=news" TITLE="DK">
+        <AREA SHAPE="POLY" COORDS="592,103,588,86,594,79,588,73,598,59,588,34,591,30,585,25,590,18,624,23,672,1,671,180,659,181,644,176,647,156,652,151,650,139,630,140,618,126,610,130,611,121,603,106" HREF="?q=news" TITLE="RU">
+        <AREA SHAPE="POLY" COORDS="571,156,577,143,577,137,603,137,614,127,621,135,649,142,651,151,646,159,629,168,613,168,603,179,601,178,606,171,603,162,595,158,584,164,571,161" HREF="?q=news" TITLE="UA">
+        <AREA SHAPE="POLY" COORDS="574,122,583,119,591,103,602,106,611,121,603,135,576,136,577,128" HREF="?q=news" TITLE="BY">
+        <AREA SHAPE="POLY" COORDS="592,161,600,178,605,173,604,162,596,159" HREF="?q=news" TITLE="MD">
+        <AREA SHAPE="POLY" COORDS="564,177,571,164,583,164,590,161,597,172,601,189,592,188,586,193,573,191,572,187,568,182" HREF="?q=news" TITLE="RO">
+        <AREA SHAPE="POLY" COORDS="576,208,589,208,599,192,593,189,586,195,574,193,571,201" HREF="?q=news" TITLE="BG">
+        <AREA SHAPE="POLY" COORDS="595,221,604,242,613,243,620,234,631,239,644,230,652,232,671,226,673,195,652,203,633,198,618,207,606,207,611,212,607,214,593,215" HREF="?q=news" TITLE="TR">
+        <AREA SHAPE="POLY" COORDS="506,87,512,90,524,81,526,85,530,77,528,61,538,51,549,27,557,27,561,22,569,26,585,11,554,18,534,41,524,55,505,64" HREF="?q=news" TITLE="NO">
+        <AREA SHAPE="POLY" COORDS="531,110,537,105,543,105,547,88,554,79,549,74,550,61,559,56,567,40,568,28,561,25,550,30,539,52,529,61,533,71,526,88" HREF="?q=news" TITLE="SE">
+        <AREA SHAPE="POLY" COORDS="573,80,564,78,563,64,576,45,570,40,569,26,577,18,585,18,583,23,588,30,585,34,597,61,588,73" HREF="?q=news" TITLE="FI">
+        <AREA SHAPE="POLY" COORDS="506,174,520,170,526,172,522,181,519,187,525,193,527,200,535,207,549,215,541,214,540,226,534,231,536,221,511,196,507,187,500,183,494,186,493,177,499,174" HREF="?q=news" TITLE="IT">
+        <AREA SHAPE="POLY" COORDS="572,87,582,84,587,85,589,95,579,92,567,90" HREF="?q=news" TITLE="EE">
+        <AREA SHAPE="POLY" COORDS="562,105,579,104,585,111,590,102,587,96,578,94,573,101,567,96" HREF="?q=news" TITLE="LT">
+        <AREA SHAPE="POLY" COORDS="528,178,535,180,540,173,534,173" HREF="?q=news" TITLE="SI">
+        <AREA SHAPE="POLY" COORDS="559,222,575,245,581,231,574,217,584,210,574,209,566,214" HREF="?q=news" TITLE="GR">
+        <AREA SHAPE="POLY" COORDS="483,134,494,133,496,147,487,141" HREF="?q=news" TITLE="BE">
+        <AREA SHAPE="POLY" COORDS="489,130,493,121,501,120,498,130" HREF="?q=news" TITLE="NL">
+        <AREA SHAPE="POLY" COORDS="541,173,535,179,531,185,553,204,559,200,561,204,565,214,575,207,569,201,571,193,562,177,547,179" HREF="?q=news" TITLE="HR">
+</MAP>
+
+
+
+<div id="footer">Copyright (c) 2008 The European Association for Education in Electrical and Information Engineering, Design <a href="http://www.equilibria.sk" >www.equilibria.sk</a>,<br/> Development and Programming<a href="http://www.mdj.sk"> www.mdj.sk</a></div>
+</div>
+
+</body>
+</html>

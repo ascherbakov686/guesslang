@@ -1,0 +1,297 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/teamroadkill.org/files/favicon.ico" type="image/x-icon" />
+  <title>Welcome to Team Road Kill | Team Road Kill</title>
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/teamroadkill.org/files/css/css_c3fc52010974f7843eb96818f38740ba.css" />
+   <!--[if IE 6]><link rel="stylesheet" href="/sites/default/themes/danland/danblog/style.ie6.css" type="text/css" /><![endif]-->
+  <script type="text/javascript" src="/sites/teamroadkill.org/files/js/js_922167c113b16fc0fb1b9f333072be14.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "nice_menus_options": { "delay": 800, "speed": 1 }, "datetweaks": { "use_dropdown": true }, "AjaxLoad": { "css": [ "/modules/node/node.css", "/modules/poll/poll.css", "/modules/system/defaults.css", "/modules/system/system.css", "/modules/system/system-menus.css", "/modules/user/user.css", "/sites/all/modules/cck/theme/content-module.css", "/sites/all/modules/ckeditor/ckeditor.css", "/sites/all/modules/ctools/css/ctools.css", "/sites/all/modules/date/date.css", "/sites/all/modules/jquery_ui/jquery.ui/themes/base/jquery-ui.css", "/sites/all/modules/date/date_popup/themes/datepicker.css", "/sites/all/modules/filefield/filefield.css", "/sites/all/modules/logintoboggan/logintoboggan.css", "/sites/all/modules/nice_menus/nice_menus.css", "/sites/all/modules/nice_menus/nice_menus_default.css", "/sites/all/modules/video_filter/video_filter.css", "/sites/default/modules/datetweaks/datetweaks.css", "/sites/default/modules/datetweaks/js/timepicker/jquery.timepicker.css", "/sites/default/modules/quotes/quotes.css", "/misc/farbtastic/farbtastic.css", "/sites/all/modules/calendar/calendar.css", "/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css", "/sites/all/modules/views/css/views.css", "/sites/default/modules/panels/css/panels.css", "/sites/default/themes/danland/style.css", "/sites/default/themes/danland/danblog/danblog.css" ], "scripts": [ "/sites/all/modules/jquery_update/replace/jquery.min.js", "/misc/jquery-extend-3.4.0.js", "/misc/drupal.js", "/sites/all/modules/ajax_load/ajax_load.js", "/sites/all/modules/nice_menus/superfish/js/superfish.js", "/sites/all/modules/nice_menus/superfish/js/jquery.bgiframe.min.js", "/sites/all/modules/nice_menus/superfish/js/jquery.hoverIntent.minified.js", "/sites/all/modules/nice_menus/nice_menus.js", "/sites/default/modules/datetweaks/js/datetweaks.js", "/sites/default/modules/datetweaks/js/date-functions/date-functions.js", "/sites/default/modules/datetweaks/js/timepicker/jquery.timepicker.js", "/sites/default/modules/panels/js/panels.js", "/sites/default/themes/danland/scripts/jquery.cycle.all.js", "/sites/default/themes/danland/scripts/hoverIntent.js", "/sites/default/themes/danland/scripts/superfish.js" ] }, "video_filter": { "url": { "ckeditor": "/admin/video_filter/dashboard/ckeditor" } }, "CToolsUrlIsAjaxTrusted": { "/poll/what-day-pick-bus": true, "/": true } });
+//--><!]]>
+</script>
+<!--[if IE 6]>
+        <script type="text/javascript" src="/sites/default/themes/danland/danblog/scripts/jquery.pngFix.js"></script>
+<![endif]-->
+<!--[if IE 6]>
+<script type="text/javascript">
+    jQuery(document).ready(function($) {
+        $(document).pngFix();
+    });
+</script>
+<![endif]-->
+<script type="text/javascript">
+  jQuery(document).ready(function($) {
+    $("#superfish ul.menu").superfish({ 
+            delay:       100,                           
+            animation:   {opacity:'show',height:'show'},  
+            speed:       'fast',                          
+            autoArrows:  true,                           
+            dropShadows: true                   
+        });
+  });
+</script>
+ </head>
+
+<body>
+<div id="header">
+<div id="header-wrapper">
+        <div id="header-first">
+           
+          <div class="logo">
+            <a href="/" title="Home"><img src="/sites/teamroadkill.org/files/move_logo.png" alt="Home" height="50"/></a>
+          </div>
+                  </div><!-- /header-first -->
+        <div id="header-middle">
+	  <h2 class="logo-name"><a href="/" title="Home">Team Road Kill</a></h2>				        </div><!-- /header-middle -->
+        <div id="search-box">
+          <form action="/"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-eWhUK1AT3e_o4f57JQKQr5Ggme-JlEcUT0xs7WrEiWc" value="form-eWhUK1AT3e_o4f57JQKQr5Ggme-JlEcUT0xs7WrEiWc"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+</div>
+
+</div></form>
+        </div><!-- /search-box -->
+
+	<div id="authorize">
+      <ul><li class="first"><a href="/user">Login</a></li><li><a href="/user/register">Register</a></li></ul>
+	    </div>
+
+      </div><!-- /header-wrapper -->
+
+</div> <!-- /header -->
+<div style="clear:both"></div>
+<div id="menu">
+<div id="rounded-menu-left"></div>
+       <!-- PRIMARY -->
+      <div id="superfish">
+          <div id="block-nice_menus-1" class="block ">
+
+
+  <div class="content"><ul class="nice-menu nice-menu-down" id="nice-menu-1"><li class="menu-32717 menu-path-node-1284 active-trail first  odd "><a href="/welcome" title="Welcome to Team Road Kill" class="active">Welcome</a></li>
+<li class="menu-7756 menu-path-news even "><a href="/news">TRK News</a></li>
+<li class="menu-1 menu-path-blog odd "><a href="/blogs">Blogs</a></li>
+<li class="menu-115 menu-path-calendar even "><a href="/calendar" title="Here&#039;s the Road Kill Calendar">Calendar</a></li>
+<li class="menu-14434 menu-path-products odd "><a href="/products">TRK Products</a></li>
+<li class="menu-2 menu-path-contact even  last "><a href="/contact">Contact Us</a></li>
+</ul>
+</div>
+</div>
+      </div> <!-- /primary -->
+    <div id="rounded-menu-right"></div>
+</div> <!-- end menu -->
+
+ 
+<div style="clear:both"></div>
+<div id="wrapper">
+<div id="content">
+																		<h1 class="title">Welcome to Team Road Kill</h1>					      <div class="content-middle">  <div class="node">
+                    <div class="content"><p>Like it or not, you&#39;ve found us! &nbsp;We are the Kill, a Twin Cities based bike club. &nbsp;Our Mission is to encourage and increase social and recreational bike riding. &nbsp;We need you!</p>
+
+<p>We hold member rides and events all year, but ride mostly in the summer season. &nbsp;Our big event is the <a href="http://ragbrai.com">RAGBRAI</a>. &nbsp;</p>
+
+<p>2019 is the club&#39;s 35th year!</p>
+
+<h3>RAGBRAI Profile</h3>
+
+<p>Riders, create your <a href="/node/add/ragbrai">RAGBRAI Profile!</a></p>
+</div>
+	<div style="clear:both"></div>
+      </div>
+</div>
+						
+</div> <!-- end content -->
+
+<div style="clear:both"></div>
+</div> <!-- end wrapper -->
+
+
+    <div style="clear:both"></div>
+    <div id="bottom-teaser" class="in3">
+                    <div class="column A">
+              <div id="block-quotes-2" class="block ">
+
+
+  <div class="content">  <div class="node">
+        <h2 class="title"><a href="/road-kill-rules/morning-departing-time-ragbrai-0"></a></h2>            <div class="content"><div class="quotes-quote"><p>Can we wait a little longer, it&#39;s not hot enough yet.</p></div><div class="quotes-author">&mdash; Moneyman</div><div class="clear-block"></div></div>
+	<div style="clear:both"></div>
+      </div>
+</div>
+</div>
+  <div id="block-views-rides-block_1" class="block ">
+
+  <h2>Upcoming Rides</h2>
+
+  <div class="content"><div class="view view-rides view-id-rides view-display-id-block_1 view-dom-id-f463a4bea5e716becca37f1083708a03">
+    
+  
+  
+  
+  
+  
+  
+  
+  
+</div></div>
+</div>
+  <div id="block-views-events-block_1" class="block ">
+
+  <h2>Upcoming Events</h2>
+
+  <div class="content"><div class="view view-events view-id-events view-display-id-block_1 view-dom-id-b8b41defc7140a8e5ca40038a59b3498">
+    
+  
+  
+  
+  
+  
+  
+  
+  
+</div></div>
+</div>
+          </div>
+                              <div class="column B">
+              <div id="block-views-stories-block_1" class="block ">
+
+  <h2>Latest News</h2>
+
+  <div class="content"><div class="view view-stories view-id-stories view-display-id-block_1 view-dom-id-0f6ee99b258b2f12f28fd5340aa78fcb">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/2018-11-26-trk-facebook-poll-vote-meeting-location-about-2019-trk-meetup-live-stream-ragbrai">TRK Facebook Poll -- Vote For Meeting Location about the 2019 TRK meetup to live stream the RAGBRAI Route Announcement party</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">11/26/2018 2:50pm by mootsman</span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/2018-01-29-post-ride-cleanup">Post ride cleanup.</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">01/29/2018 11:12pm by moneyman</span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/2017-12-01-trk-facebook-poll-vote-meeting-location-about-2018-trk-meetup-live-stream-ragbrai">TRK Facebook Poll -- Vote For Meeting Location about the 2018 TRK meetup to live stream the RAGBRAI Route Announcement party.</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">12/01/2017 11:10am by mootsman</span>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/2017-02-16-team-road-kill-update">Team Road Kill update</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">02/16/2017 9:21pm by grog</span>  </div></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/2017-02-15-continental-congress-minutes">Continental Congress minutes</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">02/15/2017 9:02pm by grog</span>  </div></li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/2017-01-15-ragbrai-2017-route-announcement-gathering">RAGBRAI 2017 Route Announcement Gathering</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">01/15/2017 10:58pm by Spinningone</span>  </div></li>
+          <li class="views-row views-row-7 views-row-odd views-row-last">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/2016-02-18-2016-team-roadkill-jersey-order-mpls-local-company-podium-wear-0">2016 Team Roadkill Jersey order from mpls local company Podium Wear</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">02/18/2016 9:41pm by FreeTheLemmings</span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/news">
+    All the News...  </a>
+</div>
+  
+  
+  
+</div></div>
+</div>
+  <div id="block-views-blogs-block_2" class="block ">
+
+  <h2>Latest Blog Posts</h2>
+
+  <div class="content"><div class="view view-blogs view-id-blogs view-display-id-block_2 view-dom-id-edacda380609fa465964c55c583eb5c5">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blogs/fastbiker/2018-05-30-tour-de-vail-mental-health-fund-raiser">Tour De Vail Mental Health Fund Raiser</a></span>  </div>  
+  <span class="views-field views-field-created">        <span class="field-content">05/30/2018 2:33pm</span>  </span>       |   
+  <span class="views-field views-field-name">        <span class="field-content">fastbiker</span>  </span></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blogs/bluediamond59/2018-05-01-national-ride-silence-memorial-ride-may-16th">National Ride in Silence Memorial Ride - May 16th</a></span>  </div>  
+  <span class="views-field views-field-created">        <span class="field-content">05/01/2018 9:18am</span>  </span>       |   
+  <span class="views-field views-field-name">        <span class="field-content">Bluediamond59</span>  </span></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blogs/bluediamond59/2017-12-06-lupine-lighting-systems-rotlicht-rear-light">Lupine Lighting Systems Rotlicht Rear Light </a></span>  </div>  
+  <span class="views-field views-field-created">        <span class="field-content">12/06/2017 12:45pm</span>  </span>       |   
+  <span class="views-field views-field-name">        <span class="field-content">Bluediamond59</span>  </span></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blogs/bluediamond59/2017-07-11-twin-cities-regional-bicycle-barriers-study">Twin Cities Regional Bicycle Barriers Study</a></span>  </div>  
+  <span class="views-field views-field-created">        <span class="field-content">07/11/2017 10:00am</span>  </span>       |   
+  <span class="views-field views-field-name">        <span class="field-content">Bluediamond59</span>  </span></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blogs/bluediamond59/2017-01-31-msp-stolen-2014-specialized-awol">MSP - Stolen 2014 Specialized AWOL </a></span>  </div>  
+  <span class="views-field views-field-created">        <span class="field-content">01/31/2017 6:57am</span>  </span>       |   
+  <span class="views-field views-field-name">        <span class="field-content">Bluediamond59</span>  </span></li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blogs/fastbiker/2016-07-11-thank-you-road-kill">Thank You Road Kill</a></span>  </div>  
+  <span class="views-field views-field-created">        <span class="field-content">07/11/2016 7:40am</span>  </span>       |   
+  <span class="views-field views-field-name">        <span class="field-content">fastbiker</span>  </span></li>
+          <li class="views-row views-row-7 views-row-odd views-row-last">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blogs/wylbur/2015-06-05-dealing-noise-ragbrai-when-trying-sleep">Dealing With Noise On RAGBRAI When Trying to Sleep</a></span>  </div>  
+  <span class="views-field views-field-created">        <span class="field-content">06/05/2015 10:27am</span>  </span>       |   
+  <span class="views-field views-field-name">        <span class="field-content">Wylbur</span>  </span></li>
+      </ul></div>    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/blogs">
+    See all blogs  </a>
+</div>
+  
+  
+  
+</div></div>
+</div>
+          </div>
+                              <div class="column C">
+              <div id="block-block-2" class="block ">
+
+  <h2>RAGBRAI Countdown</h2>
+
+  <div class="content"><p align=center>212 days<br />1 hours<br />6 minutes<br /> since RAGBRAI XLVII - 2019</p></div>
+</div>
+          </div>
+                <div style="clear:both"></div>
+    </div>
+    
+
+ 
+<div style="clear:both"></div>
+<div id="footer-wrapper">
+<div id="footer">
+   <div id="block-block-5" class="block ">
+
+
+  <div class="content"><hr />
+<p><a href="/user">&copy;</a> 2019 | Team Road Kill LLC.</p>
+</div>
+</div>
+  <div id="block-system-0" class="block ">
+
+
+  <div class="content"><a href="https://drupal.org"><img src="/misc/powered-blue-80x15.png" alt="Powered by Drupal, an open source content management system" title="Powered by Drupal, an open source content management system" width="80" height="15" /></a></div>
+</div>
+</div>
+</div> <!-- end footer wrapper -->
+
+<div style="clear:both"></div>
+<div id="notice"><p>Theme by <a href="http://www.danetsoft.com">Danetsoft</a> and <a href="http://www.danpros.com">Danang Probo Sayekti</a> inspired by <a href="http://www.maksimer.no">Maksimer</a></p></div>
+</body>
+</html>
+

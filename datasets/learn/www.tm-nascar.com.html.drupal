@@ -1,0 +1,492 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />  
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/default/files/nrl_favicon.ico" type="image/x-icon" />
+  <title>-------------------Welcome to Trackmania Nascar!------------------ | TM-Nascar.com</title>  
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_d15106bd00d9484c7414595ee14d282b.css" />
+  <script type="text/javascript" src="/misc/jquery.js?K"></script>
+<script type="text/javascript" src="/misc/drupal.js?K"></script>
+<script type="text/javascript" src="/sites/all/modules/lightbox2/js/auto_image_handling.js?K"></script>
+<script type="text/javascript" src="/sites/all/modules/lightbox2/js/lightbox.js?K"></script>
+<script type="text/javascript" src="/sites/all/modules/poormanscron/poormanscron.js?K"></script>
+<script type="text/javascript" src="/sites/all/modules/spamspan/spamspan.compressed.js?K"></script>
+<script type="text/javascript" src="/sites/all/modules/user_relationships/user_relationships_ui/user_relationships_ui.js?K"></script>
+<script type="text/javascript" src="/misc/jquery.form.js?K"></script>
+<script type="text/javascript" src="/sites/all/modules/shoutbox/shoutbox-form.js?K"></script>
+<script type="text/javascript" src="/sites/all/themes/nrl/script.js?K"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "lightbox2": { "rtl": 0, "file_path": "/(\\w\\w/)sites/default/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": 1, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": 0, "disable_resize": 0, "disable_zoom": 0, "force_show_nav": 0, "show_caption": 1, "loop_items": 1, "node_link_text": "View Image Details", "node_link_target": 0, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "original", "image_node_sizes": "()", "trigger_lightbox_classes": "img.inline,img.image-img_assist_custom", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": 1, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 800, "iframe_height": 600, "iframe_border": 1, "enable_video": 0 }, "cron": { "basePath": "/poormanscron", "runNext": 1582040728 }, "spamspan": { "m": "spamspan", "u": "u", "d": "d", "h": "h", "t": "t" }, "user_relationships_ui": { "loadingimage": "/sites/all/modules/user_relationships/user_relationships_ui/images/loadingAnimation.gif", "savingimage": "/sites/all/modules/user_relationships/user_relationships_ui/images/savingimage.gif", "position": { "position": "absolute", "left": "0", "top": "0" } }, "shoutbox": { "mode": "block", "refreshDelay": 30000, "ascending": 1, "maxLength": "255", "refreshPath": "/shoutbox/js/view", "currentPath": "node/2" } });
+//--><!]]>
+</script>
+  <!--[if IE 6]><link rel="stylesheet" href="/sites/all/themes/nrl/style.ie6.css" type="text/css" /><![endif]-->  
+  <!--[if IE 7]><link rel="stylesheet" href="/sites/all/themes/nrl/style.ie7.css" type="text/css" media="screen" /><![endif]-->
+  <script type="text/javascript">if (Drupal.jsEnabled) {$(document).ready(function(){
+				window.setTimeout("artNoStyleAdding(document)", 2000);});}</script>
+  <script type="text/javascript"> </script>
+</head>
+
+<body>
+    <div id="art-page-background-gradient"></div>
+<div id="art-main">
+<div class="art-Sheet">
+    <div class="art-Sheet-tl"></div>
+    <div class="art-Sheet-tr"></div>
+    <div class="art-Sheet-bl"></div>
+    <div class="art-Sheet-br"></div>
+    <div class="art-Sheet-tc"></div>
+    <div class="art-Sheet-bc"></div>
+    <div class="art-Sheet-cl"></div>
+    <div class="art-Sheet-cr"></div>
+    <div class="art-Sheet-cc"></div>
+    <div class="art-Sheet-body">
+<div class="art-Header">
+    <div class="art-Header-jpeg"></div>
+<div class="art-Logo">
+    <h1 class="art-Logo-name"><a href="/" title = "TM-Nascar.com">TM-Nascar.com</a></h1></div>
+</div>
+<div class="art-nav">
+        <div class="l"></div>
+    <div class="r"></div>
+            <div class="art-na art-PostContentv">
+  <ul class="art-menu arttabs_primary">
+    <li><a href="/content/welcome-trackmania-nascar" class="primary">Home</a>
+    </li>
+    <li><a href="/drivers" class="primary">Drivers</a>
+    </li>
+    <li><a href="/forum">Forums</a>
+      <ul>
+        <li><span><span><a href="/forum/2">Forum Public</a></span></span>
+        </li>
+      </ul>
+    </li>
+    <li><a href="/rules/nrl">NRL Rules</a>
+      <ul>
+        <li><span><span><a href="/rules/faq">NRL FAQ</a></span></span>
+        </li>
+
+
+
+      </ul>
+    </li>
+    <li><a href="/nrl/schedule" class="primary">Schedule</a>
+      <ul>
+        <li><span><span><a href="/nrl/statistics/2019/stadium" style="width: 250px;">NRL 2019 Stadium Leader Board</a></span></span>
+        </li>
+        <li><span><span><a href="/nrl/statistics/2019/sprintcup" style="width: 250px;">NRL 2019 Sprint Cup Leader Board</a></span></span>
+        </li>
+        <li><span><span><a href="/nrl/statistics/2019/endurance" style="width: 250px;">NRL 2019 Endurance Leader Board</a></span></span>
+        </li>
+        <li><span><span><a href="/nrl/statistics/2018/stadium" style="width: 250px;">NRL 2018 Stadium Leader Board</a></span></span>
+        </li>
+        <li><span><span><a href="/nrl/statistics/2018/sprintcup" style="width: 250px;">NRL 2018 Sprint Cup Leader Board</a></span></span>
+        </li>
+        <li><span><span><a href="/nrl/statistics/2018/endurance" style="width: 250px;">NRL 2018 Endurance Leader Board</a></span></span>
+        </li>
+        <li><span><span><a href="/nrl/statistics/2016/stadium" style="width: 250px;">NRL 2016 Stadium Leader Board</a></span></span>
+        </li>
+        <li><span><span><a href="/nrl/statistics/2016/sprintcup" style="width: 250px;">NRL 2016 Sprint Cup Leader Board</a></span></span>
+        </li>
+        <li><span><span><a href="/nrl/statistics/2016/endurance" style="width: 250px;">NRL 2016 Endurance Leader Board</a></span></span>
+        </li>
+        <li><span><span><a href="/nrl/statistics/2015/stadium" style="width: 250px;">NRL 2015 Stadium Leader Board</a></span></span>
+        </li>
+        <li><span><span><a href="/nrl/statistics/2015/sprintcup" style="width: 250px;">NRL 2015 Sprint Cup Leader Board</a></span></span>
+        </li>
+        <li><span><span><a href="/nrl/statistics/2015/endurance" style="width: 250px;">NRL 2015 Endurance Leader Board</a></span></span>
+        </li>
+        <li><span><span><a href="/nrl/statistics/2014/stadium" style="width: 250px;">NRL 2014 Stadium Leader Board</a></span></span>
+        </li>
+        <li><span><span><a href="/nrl/statistics/2014/sprintcup" style="width: 250px;">NRL 2014 Sprint Cup Leader Board</a></span></span>
+        </li>
+        <li><span><span><a href="/nrl/statistics/2014/endurance" style="width: 250px;">NRL 2014 Endurance Leader Board</a></span></span>
+        </li>
+        <li><span><span><a href="/nrl/statistics/2013/stadium" style="width: 250px;">NRL 2013 Stadium Leader Board</a></span></span>
+        </li>
+        <li><span><span><a href="/nrl/statistics/2013/envimix" style="width: 250px;">NRL 2013 Envi Leader Board</a></span></span>
+        </li>
+        <li><span><span><a href="/nrl/statistics/2013/endurance" style="width: 250px;">NRL 2013 Endurance Leader Board</a></span></span>
+        </li>
+        <li><span><span><a href="/nrl/statistics/2012/stadium" style="width: 250px;">NRL 2012 Stadium Leader Board</a></span></span>
+        </li>
+        <li><span><span><a href="/nrl/statistics/2012/envimix" style="width: 250px;">NRL 2012 Envi Leader Board</a></span></span>
+        </li>
+        <li><span><span><a href="/nrl/statistics/2012/endurance" style="width: 250px;">NRL 2012 Endurance Leader Board</a></span></span>
+        </li>
+        <li><span><span><a href="/nrl/statistics/season2011" style="width: 250px;">NRL 2011 Leader Board</a></span></span>
+        </li>
+        <li><span><span><a href="/nrl/statistics/ec2011" style="width: 250px;">NRL 2011 Endurance Leader Board</a></span></span>
+        </li>
+      </ul>
+    </li>
+    <li><a href="/contact" class="primary">Contact us</a></li>
+    <li><a href="/user" class="primary">LOGIN</a></li>
+    <li><a href="/register" class="primary">SIGNUP</a></li>
+  </ul>
+
+
+</div>
+	</div>
+<div id="banner1"><div id="banner1-block-2">
+  	
+  <div class="content">
+     <p><marquee behavior="scroll" direction="left" style="font-weight: bold; border-top: 1px solid #fff; border-bottom: 1px solid #fff;"><i>Welcome to TM Nascar.com! Have Fun All !</i></marquee></p>
+   </div>
+</div></div><div class="art-contentLayout">
+<div class="art-content">
+              
+<div id="mission">Welcome to Trackmania Nascar! tm-nascar.com provides Trackmania players with Nascar news,
+events and information throughout the Trackmania community.</div><div class="art-Post">
+    <div class="art-Post-body">
+<div class="art-Post-inner">
+<h2 class="art-PostHeader"> -------------------Welcome to Trackmania Nascar!------------------</h2>
+<div class="art-PostContent">
+<div class="art-article"> <p class="rtecenter">
+    Nascar racing, Trackmania Style! Download Nascars from Maniapark for an exciting experience!</p>
+<p class="rtecenter">
+    &nbsp;</p>
+<p style="text-align: center">
+    <a href="http://www.tm-nascar.com">www.tm-nascar.com</a> is a partner with the Trackmania <strong>N</strong>ascar <strong>R</strong>acing <strong>L</strong>eague (NRL), the Trackmania <strong>N</strong>ascar <strong>R</strong>acing <strong>T</strong>eam (NRT) and the Maniaplanet <strong>S</strong>tadium <strong>R</strong>acing <strong>E</strong>volution (SRE).</p>
+<p class="rtecenter">
+      The NRL is&nbsp;a league of drivers that participate in&nbsp;weekly Trackmania Nascar style races.<br />
+    The NRL&nbsp;follows the current Nascar Cup Series schedule with weekly races on Sundays.&nbsp;NRL registration takes place&nbsp;all throughout the year. If you are interested, <a href="http://www.tm-nascar.com/register">please sign up</a>.</p>
+<p>    &nbsp;The NRT consists of dedicated drivers that compete with other Trackmania teams and participate in the NRL. NRT drivers create the foundation for the NRL, designing cars, tracks, loadscreens and signs for all TM drivers to enjoy. For consideration as a team member, you will need to drive with us on our servers, and display a positive friendly attitude towards other TM drivers.</p>
+<div class="art-BlockHeader" style="height: 22em !important;">
+<div class="l"></div>
+<div class="r"></div>
+<div class="art-header-tag-icon" style="height: 22em !important;">
+<div class="t" style="height: 22em !important;">
+The Nascar Racing League seasons are driven on the Maniaplanet SRE Title<br />
+TM² Stadium Stadium Racing Evolution (SRE).<br />
+<a href="/title/SRE01.jpg" rel="lightbox[NRL2014][TM² Stadium Racing Evolution (SRE)]" alt="TM² Stadium Racing Evolution (SRE)" title="TM² Stadium Racing Evolution (SRE)"><img src="/sites/default/files/imagecache/thumbnail/serverstuff/SRE01.jpg" /></a> <a href="/title/SRE07.jpg" rel="lightbox[NRL2014][TM² Stadium Racing Evolution (SRE)]" alt="TM² Stadium Racing Evolution (SRE)" title="TM² Stadium Racing Evolution (SRE)"><img src="/sites/default/files/imagecache/thumbnail/serverstuff/SRE07.jpg" /></a> <a href="/title/SRE10.jpg" rel="lightbox[NRL2014][TM² Stadium Racing Evolution (SRE)]" alt="TM² Stadium Racing Evolution (SRE)" title="TM² Stadium Racing Evolution (SRE)"><img src="/sites/default/files/imagecache/thumbnail/serverstuff/SRE10.jpg" /></a> <a href="/title/SRE12.jpg" rel="lightbox[NRL2014][TM² Stadium Racing Evolution (SRE)]" alt="TM² Stadium Racing Evolution (SRE)" title="TM² Stadium Racing Evolution (SRE)"><img src="/sites/default/files/imagecache/thumbnail/serverstuff/SRE12.jpg" /></a><br />
+(Click to enlarge some screenshots)<br />
+Resources: read more <a href="/news/tm2-stadium-racing-evolution-sre-live">Details</a>, download the <a href="/news/tm2-stadium-racing-evolution-sre-live">latest version</a>,<br />For support in our <a href="/forums/forum-public/tm2-stadium-stadium-racing-evolution-sre">SRE Forum</a>, sign up to <a href="http://www.tm-nascar.com/register">www.tm-nascar.com</a>.
+  </div>
+</div>
+</div>
+<p style="text-align: center">
+    Trackmania servers include on TM2/Maniaplanet the NRL HD 80k, the NRL ROC 100k, the NRL Nascar SRE,<br />
+the Ranascar, the NRL ISLAND SRE and the NRL Events server.<br />
+Direct Links below the ShoutBox.&nbsp;<span style="display: none">&nbsp;</span></p>
+<p style="text-align: center">
+</p><p>    For more informations, please visit our public forums, sign up or contact us.<span style="display: none">&nbsp;</span></p>
+ </div>
+</div>
+<div class="cleared"></div>
+
+</div>
+
+    </div>
+</div>
+<div id="user1"><div class="art-Block clear-block block block-block" id="block-block-10">
+    <div class="art-Block-tl"></div>
+    <div class="art-Block-tr"></div>
+    <div class="art-Block-bl"></div>
+    <div class="art-Block-br"></div>
+    <div class="art-Block-tc"></div>
+    <div class="art-Block-bc"></div>
+    <div class="art-Block-cl"></div>
+    <div class="art-Block-cr"></div>
+    <div class="art-Block-cc"></div>
+    <div class="art-Block-body">
+
+	<div class="art-BlockHeader">
+		    <div class="l"></div>
+		    <div class="r"></div>
+		    <div class="art-header-tag-icon">
+		        <div class="t">	
+			<h2 class="subject">Nascar Events</h2>
+</div>
+		    </div>
+		</div>    
+	<div class="art-BlockContent content">
+	    <div class="art-BlockContent-body">
+	
+		 <p><a href="http://tm-nascar.com/nrl/schedule"><br />
+  <img src="/O0/520-470-max.png" /></a></p>
+ 
+	    </div>
+	</div>
+	
+
+    </div>
+</div>
+<div class="art-Block clear-block block block-block" id="block-block-6">
+    <div class="art-Block-tl"></div>
+    <div class="art-Block-tr"></div>
+    <div class="art-Block-bl"></div>
+    <div class="art-Block-br"></div>
+    <div class="art-Block-tc"></div>
+    <div class="art-Block-bc"></div>
+    <div class="art-Block-cl"></div>
+    <div class="art-Block-cr"></div>
+    <div class="art-Block-cc"></div>
+    <div class="art-Block-body">
+
+	<div class="art-BlockHeader">
+		    <div class="l"></div>
+		    <div class="r"></div>
+		    <div class="art-header-tag-icon">
+		        <div class="t">	
+			<h2 class="subject">Sign Up for the NRL 2020 !</h2>
+</div>
+		    </div>
+		</div>    
+	<div class="art-BlockContent content">
+	    <div class="art-BlockContent-body">
+	
+		 <p>Still not a member of the <strong><em>Nascar Racing League</em></strong>?</p>
+<p>The season starts at <strong>Feb. 16</strong> with a promotional event on <strong>Feb. 9.</strong></p>
+<p><a href="http://www.tm-nascar.com/register" class="art-button">Sign Up Now!</a></p>
+<p> <b><u>Wait a few hours for account activation</u></b></p>
+<p><a href="/contact" class="art-button">Support</a></p>
+ 
+	    </div>
+	</div>
+	
+
+    </div>
+</div>
+</div></div>
+<div class="art-sidebar1"><div class="art-Block clear-block block block-user" id="block-user-0">
+    <div class="art-Block-tl"></div>
+    <div class="art-Block-tr"></div>
+    <div class="art-Block-bl"></div>
+    <div class="art-Block-br"></div>
+    <div class="art-Block-tc"></div>
+    <div class="art-Block-bc"></div>
+    <div class="art-Block-cl"></div>
+    <div class="art-Block-cr"></div>
+    <div class="art-Block-cc"></div>
+    <div class="art-Block-body">
+
+	<div class="art-BlockHeader">
+		    <div class="l"></div>
+		    <div class="r"></div>
+		    <div class="art-header-tag-icon">
+		        <div class="t">	
+			<h2 class="subject">User login</h2>
+</div>
+		    </div>
+		</div>    
+	<div class="art-BlockContent content">
+	    <div class="art-BlockContent-body">
+	
+		<form action="/content/welcome-trackmania-nascar?destination=node%2F2"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<span class="art-button-wrapper"><span class="l"></span><span class="r"></span><input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit art-button" /></span><div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-aVnznakO3ROIAo1-EErTqq5zDRGjoOTRSctcOnBAvSM" value="form-aVnznakO3ROIAo1-EErTqq5zDRGjoOTRSctcOnBAvSM"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+
+	    </div>
+	</div>
+	
+
+    </div>
+</div>
+<div class="art-Block clear-block block block-block" id="block-block-9">
+    <div class="art-Block-tl"></div>
+    <div class="art-Block-tr"></div>
+    <div class="art-Block-bl"></div>
+    <div class="art-Block-br"></div>
+    <div class="art-Block-tc"></div>
+    <div class="art-Block-bc"></div>
+    <div class="art-Block-cl"></div>
+    <div class="art-Block-cr"></div>
+    <div class="art-Block-cc"></div>
+    <div class="art-Block-body">
+
+	<div class="art-BlockHeader">
+		    <div class="l"></div>
+		    <div class="r"></div>
+		    <div class="art-header-tag-icon">
+		        <div class="t">	
+			<h2 class="subject">SRE Titlepack Update</h2>
+</div>
+		    </div>
+		</div>    
+	<div class="art-BlockContent content">
+	    <div class="art-BlockContent-body">
+	
+		<html>
+<body>
+<a href="/title/SRE@tm-nascar.Title.Pack.Gbx">Last version of SRE </a>: <strong>24.1.2020</strong>
+
+Size: 196 MB
+<br>
+<strong>Or automatic update in game</strong>
+</body>
+</html>
+	    </div>
+	</div>
+	
+
+    </div>
+</div>
+<div class="art-Block clear-block block block-shoutbox" id="block-shoutbox-0">
+    <div class="art-Block-tl"></div>
+    <div class="art-Block-tr"></div>
+    <div class="art-Block-bl"></div>
+    <div class="art-Block-br"></div>
+    <div class="art-Block-tc"></div>
+    <div class="art-Block-bc"></div>
+    <div class="art-Block-cl"></div>
+    <div class="art-Block-cr"></div>
+    <div class="art-Block-cc"></div>
+    <div class="art-Block-body">
+
+	<div class="art-BlockHeader">
+		    <div class="l"></div>
+		    <div class="r"></div>
+		    <div class="art-header-tag-icon">
+		        <div class="t">	
+			<h2 class="subject">Shout box</h2>
+</div>
+		    </div>
+		</div>    
+	<div class="art-BlockContent content">
+	    <div class="art-BlockContent-body">
+	
+		<div class="shoutbox-add-form"><form action="/"  accept-charset="UTF-8" method="post" id="shoutbox-add-form">
+<div><fieldset><div class="form-item">
+ <div id="shoutbox-error" class="error" title="Click to close"></div>
+</div>
+<div class="form-item" id="edit-message-wrapper">
+ <input type="text" maxlength="255" name="message" id="edit-message" size="15" value="" class="form-text" />
+</div>
+<div class="form-item">
+ <div id="shoutbox-throbber"></div>
+</div>
+<span class="art-button-wrapper"><span class="l"></span><span class="r"></span><input type="submit" name="op" id="edit-submit-1" value="Shout"  class="form-submit art-button" /></span><div class="form-item">
+ <div class="shoutbox-interval-msg">Shouts automatically update every 30 seconds</div>
+</div>
+</fieldset>
+<input type="hidden" name="js" id="edit-js" value="0"  />
+<input type="hidden" name="form_build_id" id="form-bY9KJ1fr8pgXFdXq--UabsJKjIlTl2xkejT9OG9Nsco" value="form-bY9KJ1fr8pgXFdXq--UabsJKjIlTl2xkejT9OG9Nsco"  />
+<input type="hidden" name="form_id" id="edit-shoutbox-add-form" value="shoutbox_add_form"  />
+
+</div></form>
+</div><div id="shoutbox-body">
+<table>
+<tbody>
+ <tr class="odd"><td><div class="shoutbox-msg" title="Posted 02/16/20 at 10:28pm by NRT Minos"><div class="shoutbox-admin-links"></div><span class="shoutbox-user-name">NRT Minos</span>:&nbsp;<span class="shoutbox-shout">Yes it begins extremely intensively :) GL all!</span><span class="shoutbox-msg-time">1 day 17 hours ago</span></div>
+</td> </tr>
+ <tr class="even"><td><div class="shoutbox-msg" title="Posted 02/16/20 at 08:33pm by NRT Middenrat"><div class="shoutbox-admin-links"></div><span class="shoutbox-user-name">NRT Middenrat</span>:&nbsp;<span class="shoutbox-shout">Bodes well for the season :)</span><span class="shoutbox-msg-time">1 day 19 hours ago</span></div>
+</td> </tr>
+ <tr class="odd"><td><div class="shoutbox-msg" title="Posted 02/16/20 at 08:31pm by NRT Minos"><div class="shoutbox-admin-links"></div><span class="shoutbox-user-name">NRT Minos</span>:&nbsp;<span class="shoutbox-shout">Nice races!! 1 more time, Miiiiddd...!!! :D HF!</span><span class="shoutbox-msg-time">1 day 19 hours ago</span></div>
+</td> </tr>
+ <tr class="even"><td><div class="shoutbox-msg" title="Posted 02/16/20 at 08:22pm by NRT Mr Spock"><div class="shoutbox-admin-links"></div><span class="shoutbox-user-name">NRT Mr Spock</span>:&nbsp;<span class="shoutbox-shout">gga drivers nrl 2020 is open ;)</span><span class="shoutbox-msg-time">1 day 19 hours ago</span></div>
+</td> </tr>
+ <tr class="odd"><td><div class="shoutbox-msg" title="Posted 02/15/20 at 10:29pm by NRT Minos"><div class="shoutbox-admin-links"></div><span class="shoutbox-user-name">NRT Minos</span>:&nbsp;<span class="shoutbox-shout">Haaa, it looks like broken only when logged in ;)</span><span class="shoutbox-msg-time">2 days 17 hours ago</span></div>
+</td> </tr>
+ <tr class="even"><td><div class="shoutbox-msg" title="Posted 02/15/20 at 08:16pm by NRT Minos"><div class="shoutbox-admin-links"></div><span class="shoutbox-user-name">NRT Minos</span>:&nbsp;<span class="shoutbox-shout">Ouch, leaderboards pages after 2014 looks like broken ?</span><span class="shoutbox-msg-time">2 days 19 hours ago</span></div>
+</td> </tr>
+ <tr class="odd"><td><div class="shoutbox-msg" title="Posted 02/15/20 at 08:10pm by NRT Minos"><div class="shoutbox-admin-links"></div><span class="shoutbox-user-name">NRT Minos</span>:&nbsp;<span class="shoutbox-shout">Happy birthday +(too much) days!! Cheers Spock ;)</span><span class="shoutbox-msg-time">2 days 19 hours ago</span></div>
+</td> </tr>
+</tbody>
+</table>
+</div>
+<div class="shoutbox-all-shouts"><a href="/shoutbox">All shouts</a></div>
+	    </div>
+	</div>
+	
+
+    </div>
+</div>
+<div class="art-Block clear-block block block-block" id="block-block-3">
+    <div class="art-Block-tl"></div>
+    <div class="art-Block-tr"></div>
+    <div class="art-Block-bl"></div>
+    <div class="art-Block-br"></div>
+    <div class="art-Block-tc"></div>
+    <div class="art-Block-bc"></div>
+    <div class="art-Block-cl"></div>
+    <div class="art-Block-cr"></div>
+    <div class="art-Block-cc"></div>
+    <div class="art-Block-body">
+
+	<div class="art-BlockHeader">
+		    <div class="l"></div>
+		    <div class="r"></div>
+		    <div class="art-header-tag-icon">
+		        <div class="t">	
+			<h2 class="subject">Servers</h2>
+</div>
+		    </div>
+		</div>    
+	<div class="art-BlockContent content">
+	    <div class="art-BlockContent-body">
+	
+		 <!-- <big><b><u>TM/TMU SERVERS</b></u></big>
+
+<a href="tmtp://#join=aircadNRL">Join 60k</a>, add to <a href="tmtp://#addfavourite=aircadNRL">favourites</a>
+
+<a href="tmtp://#join=aircad80k">Join Nascar League 80k</a>, add to <a href="tmtp://#addfavourite=aircad80k">favourites</a>
+
+<a href="tmtp://#join=NRL90K">Join Nascar League 90k</a>, add to <a href="tmtp://#addfavourite=NRL90K">favourites</a>
+
+<a href="tmtp://#join=NRL80KTMU">Join NRL United Nascar</a>,<br /> add to <a href="tmtp://#addfavourite=NRL80KTMU">favourites</a> --><!-- <big><b><u>TM/TMU SERVERS</b></u></big>
+
+<a href="tmtp://#join=aircadNRL">Join 60k</a>, add to <a href="tmtp://#addfavourite=aircadNRL">favourites</a>
+
+<a href="tmtp://#join=aircad80k">Join Nascar League 80k</a>, add to <a href="tmtp://#addfavourite=aircad80k">favourites</a>
+
+<a href="tmtp://#join=NRL90K">Join Nascar League 90k</a>, add to <a href="tmtp://#addfavourite=NRL90K">favourites</a>
+
+<a href="tmtp://#join=NRL80KTMU">Join NRL United Nascar</a>,<br /> add to <a href="tmtp://#addfavourite=NRL80KTMU">favourites</a> --><p>
+<big><b><u>TM² SERVERS</u></b></big></p>
+<p><a href="maniaplanet://#qjoin=ranascar@SRE@tm-nascar" class="art-button"><span style="color: #f00">RaN</span><span style="color: #f33">a</span><span style="color: #f66">s</span><span style="color: #f99">C</span><span style="color: #fcc">a</span><span style="color:#fff">r</span></a><br />
+or add to <a href="maniaplanet://#addfavourite=ranascar@SRE@tm-nascar">favourites</a></p>
+<p><a href="maniaplanet://#qjoin=nrlhd@TMStadium@nadeo" class="art-button"><span style="color: #e00">N</span><span style="color: #BBB">R</span><span style="color: #3FF">L</span> <span style="color: #FFF">HD</span> <span style="color: #009">80k</span></a><br />
+or add to <a href="maniaplanet://#addfavourite=nrlhd@TMStadium@nadeo">favourites</a></p>
+<p><a href="maniaplanet://#qjoin=nrl100k@TMStadium@nadeo" class="art-button"><span style="color: #e00">N</span><span style="color: #BBB">R</span><span style="color: #3FF">L</span> <span style="color: #FFF">ROC</span> <span style="color: #009">100k</span></a><br />
+or add to <a href="maniaplanet://#addfavourite=nrl100k@TMStadium@nadeo">favourites</a></p>
+<!-- <a href="maniaplanet://#join=nrl2nascar">SRE 60k</a> --><!-- <a href="maniaplanet://#join=nrl2nascar">SRE 60k</a> --><p>
+<a href="maniaplanet://#qjoin=nrl2nascar@SRE@tm-nascar" class="art-button"><span style="color: #e00">N</span><span style="color: #BBB">R</span><span style="color: #3FF">L</span> <span style="color: #FFF">SRE</span> <span style="color: #fff">60k</span></a><br />
+or add to <a href="maniaplanet://#addfavourite=nrl2nascar@SRE@tm-nascar">favourites</a></p>
+<p><a href="maniaplanet://#qjoin=nrl2island@SRE@tm-nascar" class="art-button"><span style="color: #e00">N</span><span style="color: #BBB">R</span><span style="color: #3FF">L</span> <span style="color: #5FF">I</span><span style="color: #7FF">S</span><span style="color: #9FF">L</span><span style="color: #bFF">A</span><span style="color: #dFF">N</span><span style="color: #FFF">D</span> <span style="color: #fff">SRE</span></a><br />
+or add to <a href="maniaplanet://#addfavourite=nrl2island@SRE@tm-nascar">favourites</a></p>
+<p><a href="maniaplanet://#qjoin=nrl2stadiumre@SRE@tm-nascar" class="art-button"><span style="color: #e00">N</span><span style="color: #BBB">R</span><span style="color: #3FF">L</span> <span style="color: #FFF">Events Server</span> <span style="color: #fff"></span></a><br />
+or add to <a href="maniaplanet://#addfavourite=nrl2stadiumre@SRE@tm-nascar">favourites</a></p>
+ 
+	    </div>
+	</div>
+	
+
+    </div>
+</div>
+</div>
+</div>
+<div class="cleared"></div>
+<div class="art-Footer">
+    <div class="art-Footer-inner">
+        <a href="/rss.xml" class="art-rss-tag-icon"></a>        <div class="art-Footer-text">
+        <p><a href="/contact">Contact Us</a>&nbsp;|&nbsp;<a href="/rules/nrl">Terms of Use</a>&nbsp;|&nbsp;<a href="#">Trademarks</a>&nbsp;|&nbsp;<a href="#">Privacy Statement</a><br />Copyright &copy; 2009&nbsp;- 2020 TM-Nascar.com.&nbsp;All Rights Reserved.</p>                </div>        
+    </div>
+    <div class="art-Footer-background"></div>
+</div>
+
+    </div>
+</div>
+<div class="cleared"></div>
+<p class="art-page-footer">Powered by <a href="http://drupal.org/">Drupal</a> and <a href="http://www.artisteer.com/?p=drupal_themes">Drupal Theme</a> created with Artisteer.</p>
+</div>
+
+
+<div id="user_relationships_popup_form" class="user_relationships_ui_popup_form"></div>
+</body>
+</html>

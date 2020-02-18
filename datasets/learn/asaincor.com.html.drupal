@@ -1,0 +1,1419 @@
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-127154293-1", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("send", "pageview");</script>
+<meta name="title" content="ASA Inc - Travel, Health, Life Insurance Consultants - Free Consultations" />
+<link rel="shortlink" href="https://asaincor.com/" />
+<link rel="canonical" href="https://asaincor.com/" />
+<meta name="description" content="Do you need insurance? Since 1990, ASA Inc., has helped pair groups and individuals up with the right coverage. Our goal is to provide the highest level of service possible to our valued customers. Compare insurance quotes on travel, life, health, and more. You can&#039;t put a price on peace of mind." />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/sites/default/files/asa-favicon.png" type="image/png" />
+<link rel="revision" href="/node/17" />
+<link rel="create" href="/node?node=17" />
+
+    <title>ASA Inc - Travel, Health, Life Insurance Consultants - Free Consultations</title>
+    <link rel="stylesheet" href="/sites/default/files/css/css_ii6L6bOiDqlk91j93JXc-ACQOIi86JDVxFZEDuU8cJI.css?pxc9um" media="all" />
+<link rel="stylesheet" href="/sites/default/files/css/css_zjHUOBhhwEkRndkS8sYFGhhZTrwWbES-H1dgqa3FrA8.css?pxc9um" media="all" />
+
+    
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+
+        
+<!-- ASA HEAD -->
+<!-- Global site tag (gtag.js) - Google Ads: 780921695 --> <script async src="https://www.googletagmanager.com/gtag/js?id=AW-780921695"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-780921695'); </script>
+
+<script>
+function gtag_conv(intag,url)
+{
+	//Determine ID Tags
+	var tag = "DEFAULT";
+	if (intag=="contactus") { tag = "s-aVCJKdtow"; }
+	if (intag=="messagebox") { tag = "yjuuCKL3qIw"; }
+	if (intag=="viewplandetails") { tag = "4TwVCL74qIw"; }
+	if (intag=="quoteform") { tag = "LO29CLWdvow"; }
+	if (intag=="personalize") { tag = "SK8xCPOivow"; }
+	//Set Identifier
+	var identifier = "AW-780921695/" + tag + "BEN_Wr_QC";
+	//Setup Callback
+	var callback = function () { if (typeof(url) != 'undefined') { window.location = url; } };
+	//Process Tag
+	if (url=="none")
+	{
+		//Bypass callback, so form can submit/etc:
+		gtag('event', 'conversion', { 'send_to': identifier });
+	}
+	else
+	{
+		//Send callback so link click passes through:
+		gtag('event', 'conversion', { 'send_to': identifier, 'event_callback': callback });
+	}
+	//False Output (onClick, etc)
+	return false;
+}
+
+</script>
+<!-- ASA HEAD END -->
+
+  </head>
+  <body>
+        <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+          
+        <div id="app">
+          
+
+
+
+
+<off-canvas>
+    <div slot="off-canvas">
+              <div class="mobile-navigation">
+        
+
+    <div class="region region--off-canvas">
+                            
+
+
+    
+
+    <div id="block-mobilenavigation" class="block system-menu-block">
+        
+                
+                        
+<accordion-menu>
+    
+
+
+
+
+
+
+            
+        
+
+
+<ul data-region="off_canvas" class="menu--mobile-navigation accordion-menu menu vertical" data-accordion-menu>
+      <li>
+        <a href="/" data-drupal-link-system-path="&lt;front&gt;" class="is-active">Home</a>
+
+            </li>
+      <li>
+        <a href="" data-drupal-link-system-path="&lt;front&gt;" class="is-active">International Insurance</a>
+
+                    
+
+
+
+
+    
+
+
+
+
+<ul>
+      <li>
+        <a href="/travel-insurance" data-drupal-link-system-path="node/21">Travel Insurance</a>
+
+            </li>
+      <li>
+        <a href="/health-medical-insurance" data-drupal-link-system-path="node/22">Health/Medical Insurance</a>
+
+            </li>
+      <li>
+        <a href="/student-insurance" data-drupal-link-system-path="node/23">Student Insurance</a>
+
+            </li>
+      <li>
+        <a href="/missionary-insurance" data-drupal-link-system-path="node/24">Missionary Insurance</a>
+
+            </li>
+      <li>
+        <a href="/us-visitor-j-1-visa-insurance" data-drupal-link-system-path="node/25">U.S. Visitor/J-1 Visa Insurance </a>
+
+            </li>
+      <li>
+        <a href="/life-insurance" data-drupal-link-system-path="node/26">Life Insurance</a>
+
+            </li>
+  </ul>
+            </li>
+      <li>
+        <a href="" data-drupal-link-system-path="&lt;front&gt;" class="is-active">Resource Center </a>
+
+                    
+
+
+
+
+    
+
+
+
+
+<ul>
+      <li>
+        <a href="/articles-faqs" data-drupal-link-system-path="node/258">Articles &amp; FAQs</a>
+
+            </li>
+      <li>
+        <a href="http://asaincor.com/glossary">Glossary</a>
+
+            </li>
+      <li>
+        <a href="/reviews" data-drupal-link-system-path="node/260">Reviews</a>
+
+            </li>
+  </ul>
+            </li>
+      <li>
+        <a href="/about-us" data-drupal-link-system-path="node/27">About Us</a>
+
+            </li>
+      <li>
+        <a href="/contact-us" data-drupal-link-system-path="node/104">Contact Us </a>
+
+            </li>
+  </ul>
+</accordion-menu>
+
+            </div>
+
+            </div>
+
+      </div>
+        </div>
+    <div slot="on-canvas">
+              <header>
+        <div class="header-container">
+            
+<off-canvas-toggle class="toggle-open">
+                        
+
+
+
+
+<icon icon="bars"></icon>                </off-canvas-toggle>            
+<off-canvas-toggle class="toggle-close">
+                        
+
+
+
+
+<icon icon="times"></icon>                </off-canvas-toggle>          
+
+    <div class="region region--branding">
+                            
+
+
+
+    <div id="block-zionandzion-branding" class="block system-branding-block">
+        
+                
+                    <a href="https://asaincor.com/" title="Home" rel="home">
+            <img src="/sites/default/files/asa-logo_0.png" alt="Home" />
+        </a>
+        </div>
+
+            </div>
+
+          
+
+    <div class="region region--secondary-header">
+                            
+
+
+
+    <div id="block-phonenumbers" class="block block-content">
+        
+                
+                    
+            <div class="field field--name--body field--type--text-with-summary"><p><a class="text-catskill-white" href="tel://4807531333">USA  480-753-1333</a></p>
+</div>
+      
+            </div>
+
+            </div>
+
+          
+
+    <div class="region region--primary-header">
+                            
+
+
+    
+
+    <div id="block-zionandzion-main-menu" class="block system-menu-block">
+        
+                
+                    
+    
+
+<ul class="menu menu-level-0">
+  
+  <li class="menu-item menu-item--expanded">
+    
+                    <a href="#">
+            International Insurance
+            
+
+
+
+
+<icon icon="caret-down"></icon>        </a>
+    
+          
+      <div class="menu-dropdown menu-dropdown-0 menu-type-default">
+        
+  
+
+<ul class="menu menu-level-1">
+  
+  <li class="menu-item">
+    
+            <a href="/quote-results?plans=all" title="View All Plans" data-drupal-link-query="{&quot;plans&quot;:&quot;all&quot;}" data-drupal-link-system-path="quote-results">View All Plans</a>
+    
+          
+      <div class="menu-dropdown menu-dropdown-1 menu-type-default">
+        
+  
+
+      </div>
+    
+  </li>
+  
+  <li class="menu-item">
+    
+            <a href="/travel-insurance" data-drupal-link-system-path="node/21">Travel Insurance</a>
+    
+          
+      <div class="menu-dropdown menu-dropdown-1 menu-type-default">
+        
+  
+
+      </div>
+    
+  </li>
+  
+  <li class="menu-item">
+    
+            <a href="/health-medical-insurance" data-drupal-link-system-path="node/22">Health/Medical Insurance</a>
+    
+          
+      <div class="menu-dropdown menu-dropdown-1 menu-type-default">
+        
+  
+
+      </div>
+    
+  </li>
+  
+  <li class="menu-item">
+    
+            <a href="/student-insurance" data-drupal-link-system-path="node/23">Student Insurance</a>
+    
+          
+      <div class="menu-dropdown menu-dropdown-1 menu-type-default">
+        
+  
+
+      </div>
+    
+  </li>
+  
+  <li class="menu-item">
+    
+            <a href="/missionary-insurance" data-drupal-link-system-path="node/24">Missionary Insurance</a>
+    
+          
+      <div class="menu-dropdown menu-dropdown-1 menu-type-default">
+        
+  
+
+      </div>
+    
+  </li>
+  
+  <li class="menu-item">
+    
+            <a href="/us-visitor-j-1-visa-insurance" data-drupal-link-system-path="node/25">U.S. Visitor/J-1 Visa Insurance</a>
+    
+          
+      <div class="menu-dropdown menu-dropdown-1 menu-type-default">
+        
+  
+
+      </div>
+    
+  </li>
+  
+  <li class="menu-item">
+    
+            <a href="/life-insurance" data-drupal-link-system-path="node/26">Life Insurance</a>
+    
+          
+      <div class="menu-dropdown menu-dropdown-1 menu-type-default">
+        
+  
+
+      </div>
+    
+  </li>
+</ul>
+
+            <div class="field field--name--field-ref-cta field--type--entity-reference">
+
+<article role="article" about="/node/261" class="node node--type--call-to-action node--view-mode--default">
+    <a href="/resources/international-insurance-comparison-chart">
+        <div>
+            
+            <div class="field field--name--field-ref-content field--type--entity-reference-revisions"><div class="paragraph--type--content paragraph--view-mode--default paragraph">
+    
+
+
+
+
+<div class="field field--name--field-html-content field--type--text-long zf-typography">
+                        <h2>WHAT'S THE DIFFERENCE?</h2>
+<p>View our comparison chart to learn the difference between each</p>
+
+            </div>
+</div></div>
+      
+        </div>
+    </a>
+</article>
+</div>
+      
+
+      </div>
+    
+  </li>
+  
+  <li class="menu-item menu-item--expanded">
+    
+                    <a href="#">
+            Resource Center
+            
+
+
+
+
+<icon icon="caret-down"></icon>        </a>
+    
+          
+      <div class="menu-dropdown menu-dropdown-0 menu-type-default">
+        
+  
+
+<ul class="menu menu-level-1">
+  
+  <li class="menu-item">
+    
+            <a href="/articles-faqs" data-drupal-link-system-path="node/258">Articles &amp; FAQs</a>
+    
+          
+      <div class="menu-dropdown menu-dropdown-1 menu-type-default">
+        
+  
+
+      </div>
+    
+  </li>
+  
+  <li class="menu-item">
+    
+            <a href="http://asaincor.com/glossary">Glossary</a>
+    
+          
+      <div class="menu-dropdown menu-dropdown-1 menu-type-default">
+        
+  
+
+      </div>
+    
+  </li>
+  
+  <li class="menu-item">
+    
+            <a href="/reviews" data-drupal-link-system-path="node/260">Reviews</a>
+    
+          
+      <div class="menu-dropdown menu-dropdown-1 menu-type-default">
+        
+  
+
+      </div>
+    
+  </li>
+</ul>
+
+
+      </div>
+    
+  </li>
+  
+  <li class="menu-item">
+    
+            <a href="/about-us" data-drupal-link-system-path="node/27">About Us</a>
+    
+          
+      <div class="menu-dropdown menu-dropdown-0 menu-type-default">
+        
+  
+
+      </div>
+    
+  </li>
+  
+  <li class="menu-item">
+    
+            <a href="/contact-us" data-drupal-link-system-path="node/104">Contact Us</a>
+    
+          
+      <div class="menu-dropdown menu-dropdown-0 menu-type-default">
+        
+  
+
+      </div>
+    
+  </li>
+</ul>
+
+            </div>
+
+            </div>
+
+        </div>
+      </header>
+
+      <main>
+          
+
+    <div class="region region--masthead">
+                            
+
+
+
+    <div id="block-entityviewcontent-2" class="block entity-view">
+        
+                
+                    
+
+<section class="background-slider">
+    
+
+<div class="slider-container">
+    <slider role="article" about="/node/17" class="node node--type--homepage node--view-mode--masthead-item slideshow" :options="{&quot;arrows&quot;:false,&quot;dots&quot;:false,&quot;autoplay&quot;:true,&quot;autoplaySpeed&quot;:4000,&quot;fade&quot;:true,&quot;speed&quot;:1000}">
+                    <div class="slide-img" style="background-image: url('/sites/default/files/Homepage-Image-1_0.jpg');">
+
+            </div>
+                    <div class="slide-img" style="background-image: url('/sites/default/files/Homepage-Image-2_0.jpg');">
+
+            </div>
+                    <div class="slide-img" style="background-image: url('/sites/default/files/Homepage-Image-3_1.jpg');">
+
+            </div>
+                    <div class="slide-img" style="background-image: url('/sites/default/files/Homepage-Image-4_1.jpg');">
+
+            </div>
+            </slider>
+</div>                <div class="homepage-title" >
+            <h1>Protect Yourself and Your Trip with ASA</h1>
+        </div>
+    
+    
+
+
+
+<quote-form>
+        <quote-form></section>
+
+            </div>
+
+            </div>
+
+                      
+
+    <div class="region region--content">
+                            
+
+
+
+    <div id="block-zionandzion-page-title" class="block page-title-block">
+        
+                
+                    
+  <h1></h1>
+
+
+            </div>
+
+
+
+    
+
+    <div id="block-zionandzion-content" class="block system-main-block">
+        
+                
+                    <article role="article" about="/node/17" class="node node--type--homepage node--view-mode--full">
+
+    
+    
+
+    
+    <div>
+        
+      <div class="field field--name--field-ref-sections field--type--entity-reference-revisions">
+              <div>
+
+
+
+
+<xy-grid-container class="paragraph--type--one-column-section paragraph--view-mode--default paragraph xy-grid-row" v-cloak>
+    <xy-grid-row>
+                
+
+
+<xy-grid-cell class="field field--name--field-ref-column-1 field--type--entity-reference-revisions grid-column-1" v-cloak>
+                        <div><div class="paragraph--type--column paragraph--view-mode--default paragraph">
+    
+      <div class="field field--name--field-ref-components field--type--entity-reference-revisions">
+              <div><div class="signature-content paragraph--type--content paragraph--view-mode--default paragraph">
+    
+
+
+
+
+<div class="field field--name--field-html-content field--type--text-long zf-typography">
+                        <h2>Your partner for all your international insurance needs</h2>
+
+<p>When it comes to international insurance, we pride ourselves on giving our customers the best possible experience at home and abroad. We do not believe in offering insurance plans that are not financially solid and that do not share the same customer service values that we feel every client deserves. An insurance policy costs the same regardless of who they buy it from. The difference is the quality of service, and there is nobody better in this industry than ASA.</p>
+<img alt="Alonso Cornejo" data-entity-type="file" data-entity-uuid="3b166247-8ad2-461a-8359-f5fcb08a6102" height="79" src="/sites/default/files/inline-images/Alonso-R.-Cornejo-Signature_1.png" width="336" class="align-center" /><p class="president-ceo">PRESIDENT &amp; CEO</p>
+
+            </div>
+</div></div>
+          </div>
+  
+</div></div>
+            </xy-grid-cell>
+        </xy-grid-row>
+</xy-grid-container></div>
+              <div>
+
+
+
+
+<xy-grid-container class="bg-lt-gray paragraph--type--one-column-section paragraph--view-mode--default paragraph xy-grid-row" v-cloak>
+    <xy-grid-row>
+                
+
+
+<xy-grid-cell class="field field--name--field-ref-column-1 field--type--entity-reference-revisions grid-column-1" v-cloak>
+                        <div><div class="paragraph--type--column paragraph--view-mode--default paragraph">
+    
+      <div class="field field--name--field-ref-components field--type--entity-reference-revisions">
+              <div><div class="paragraph--type--content paragraph--view-mode--default paragraph">
+    
+
+
+
+
+<div class="field field--name--field-html-content field--type--text-long zf-typography">
+                        <h2>We handpick the best insurance providers for you</h2>
+<p>We don’t offer cookie-cutter policies. We find the ideal policy based on your exact needs. That way, you don’t end up paying for anything other than what you actually need.</p>
+
+            </div>
+</div></div>
+              <div>
+    
+    <div class="paragraph--type--list-of-resources paragraph--view-mode--default paragraph">
+                    
+            <div class="field field--name--field-view-resource field--type--viewsreference"><div class="views-element-container">
+
+
+
+
+        
+
+
+<xy-grid-container class="views-view views-view--block views-view--provider-logos js-view-dom-id-973cfcfcf1f1666827f131d41ff17ef3d30f75fe0103950a21d51d8448fbbe4d xy-grid-row" v-cloak>
+    <xy-grid-row>
+                    
+            
+            
+
+            
+            
+            
+
+                  <div class="views-row">
+      <div class="views-field views-field-field-ref-image"><div class="field-content"><a href="/International-Medical-Group-IMG"><article>
+            <img src="/sites/default/files/styles/medium/public/imglobal-logo.png?itok=Ln2eNlEI" width="208" height="78" typeof="foaf:Image" />
+
+
+
+
+  </article></a></div></div>
+    </div>
+      <div class="views-row">
+      <div class="views-field views-field-field-ref-image"><div class="field-content"><a href="/Cigna"><article>
+            <img src="/sites/default/files/styles/medium/public/Cigna-Logo.png?itok=dtPJ4E96" width="220" height="77" typeof="foaf:Image" />
+
+
+
+
+  </article></a></div></div>
+    </div>
+      <div class="views-row">
+      <div class="views-field views-field-field-ref-image"><div class="field-content"><a href="/GeoBlue"><article>
+            <img src="/sites/default/files/styles/medium/public/GeoBlue-Logod.png?itok=v-k_x7c0" width="220" height="46" typeof="foaf:Image" />
+
+
+
+
+  </article></a></div></div>
+    </div>
+      <div class="views-row">
+      <div class="views-field views-field-field-ref-image"><div class="field-content"><a href="/Bupa"><article>
+            <img src="/sites/default/files/styles/medium/public/Bupa-Horz-Transparent.png?itok=cKYPqPvH" width="220" height="106" typeof="foaf:Image" />
+
+
+
+
+  </article></a></div></div>
+    </div>
+      <div class="views-row">
+      <div class="views-field views-field-field-ref-image"><div class="field-content"><a href="/VUMI"><article>
+            <img src="/sites/default/files/styles/medium/public/Vumi-Logo-1.png?itok=nBf2xlN9" width="194" height="81" typeof="foaf:Image" />
+
+
+
+
+  </article></a></div></div>
+    </div>
+      <div class="views-row">
+      <div class="views-field views-field-field-ref-image"><div class="field-content"><a href="/HTH-Worldwide"><article>
+            <img src="/sites/default/files/styles/medium/public/HTH-Logo.png?itok=ik1YcMUr" width="220" height="35" typeof="foaf:Image" />
+
+
+
+
+  </article></a></div></div>
+    </div>
+      <div class="views-row">
+      <div class="views-field views-field-field-ref-image"><div class="field-content"><a href="/Seven-Corners"><article>
+            <img src="/sites/default/files/styles/medium/public/Seven-Corners-Logo.png?itok=89moR2rI" width="220" height="98" typeof="foaf:Image" />
+
+
+
+
+  </article></a></div></div>
+    </div>
+      <div class="views-row">
+      <div class="views-field views-field-field-ref-image"><div class="field-content"><a href="/Tokio-Marine-HCC"><article>
+            <img src="/sites/default/files/styles/medium/public/TokyoHCC-Logo.png?itok=FsJMQ_n-" width="220" height="72" typeof="foaf:Image" />
+
+
+
+
+  </article></a></div></div>
+    </div>
+      <div class="views-row">
+      <div class="views-field views-field-field-ref-image"><div class="field-content"><a href="/Azimuth"><article>
+            <img src="/sites/default/files/styles/medium/public/Azimuth-Risk-Solutions-Logo.png?itok=RuxFS-hy" width="220" height="83" typeof="foaf:Image" />
+
+
+
+
+  </article></a></div></div>
+    </div>
+
+
+            
+            
+
+            
+            
+
+            
+            
+            </xy-grid-row>
+</xy-grid-container></div>
+</div>
+      
+            </div>
+</div>
+          </div>
+  
+</div></div>
+            </xy-grid-cell>
+        </xy-grid-row>
+</xy-grid-container></div>
+              <div>
+
+
+
+
+<xy-grid-container class="paragraph--type--one-column-section paragraph--view-mode--default paragraph bg-aqua bg-layer xy-grid-row" :bgcolor="&quot;#51c3c5&quot;" :bgimage="&quot;/sites/default/files/Homepage-Content-Image-1.jpg&quot;" :bgColor="51c3c5" v-cloak>
+    <xy-grid-row>
+                
+
+
+<xy-grid-cell class="field field--name--field-ref-column-1 field--type--entity-reference-revisions grid-column-1" v-cloak>
+                        <div><div class="paragraph--type--column paragraph--view-mode--default paragraph">
+    
+      <div class="field field--name--field-ref-components field--type--entity-reference-revisions">
+              <div><div class="paragraph--type--content paragraph--view-mode--default paragraph">
+    
+
+
+
+
+<div class="field field--name--field-html-content field--type--text-long zf-typography">
+                        <h2>We understand each customer is unique</h2>
+<p>There’s not one insurance policy that will meet everyone’s needs. We take the time to listen to what our customers need and recommend the best insurance policy for them.</p>
+<p>During this process, we want you to understand what you’re purchasing and what to do in the event you need to use your insurance plan. We understand insurance may be confusing. That’s why it is important to have ASA on your side.</p>
+
+            </div>
+</div></div>
+          </div>
+  
+</div></div>
+            </xy-grid-cell>
+        </xy-grid-row>
+</xy-grid-container></div>
+              <div>
+
+
+
+
+<xy-grid-container class="paragraph--type--one-column-section paragraph--view-mode--default paragraph bg-prussian-blue xy-grid-row" :bgcolor="&quot;#00334c&quot;" :bgColor="00334c" v-cloak>
+    <xy-grid-row>
+                
+
+
+<xy-grid-cell class="field field--name--field-ref-column-1 field--type--entity-reference-revisions grid-column-1" v-cloak>
+                        <div><div class="paragraph--type--column paragraph--view-mode--default paragraph">
+    
+      <div class="field field--name--field-ref-components field--type--entity-reference-revisions">
+              <div><div class="paragraph--type--content paragraph--view-mode--default paragraph">
+    
+
+
+
+
+<div class="field field--name--field-html-content field--type--text-long zf-typography">
+                        <h2>We stand behind our customers</h2>
+<p>Being in insurance is much more than just selling a policy. It’s about being there when you need us the most—when there is a medical emergency or claim. Our customer service team is dedicated to assisting our clients with every aspect of their policy. Our only business is international insurance. This allows us to focus all our efforts and resources into providing you with protection around the world.</p>
+
+            </div>
+</div></div>
+          </div>
+  
+</div></div>
+            </xy-grid-cell>
+        </xy-grid-row>
+</xy-grid-container></div>
+              <div>
+
+
+
+
+<xy-grid-container class="paragraph--type--one-column-section paragraph--view-mode--default paragraph bg-loblolly-grey bg-layer xy-grid-row" :bgcolor="&quot;#b5bcc5&quot;" :bgimage="&quot;/sites/default/files/Homepage-Content-Image-2.jpg&quot;" :bgColor="b5bcc5" v-cloak>
+    <xy-grid-row>
+                
+
+
+<xy-grid-cell class="field field--name--field-ref-column-1 field--type--entity-reference-revisions grid-column-1" v-cloak>
+                        <div><div class="paragraph--type--column paragraph--view-mode--default paragraph">
+    
+      <div class="field field--name--field-ref-components field--type--entity-reference-revisions">
+              <div><div class="paragraph--type--content paragraph--view-mode--default paragraph">
+    
+
+
+
+
+<div class="field field--name--field-html-content field--type--text-long zf-typography">
+                        <h2>We work with only the best insurance companies</h2>
+<p>We don’t partner with just any insurance company. All the plans we offer are backed by A.M. Best rated companies—meaning the insurance company has a proven track record of paying claims.</p>
+
+            </div>
+</div></div>
+          </div>
+  
+</div></div>
+            </xy-grid-cell>
+        </xy-grid-row>
+</xy-grid-container></div>
+          </div>
+  
+    </div>
+
+</article>
+
+            </div>
+
+            </div>
+
+                </main>
+
+
+      
+
+    <div class="region region--pre-footer">
+                            
+
+
+
+    <div id="block-entityviewcontent-4" class="block entity-view">
+        
+                
+                    
+
+
+<article role="article" about="/node/17" class="node node--type--homepage node--view-mode--call-to-actions">
+
+    <div>
+        
+      <div class="field field--name--field-ref-ctas field--type--entity-reference">
+              <div>
+
+<article role="article" about="/node/251" class="node node--type--call-to-action node--view-mode--default">
+    <a href="/articles-faqs">
+        <div>
+            
+            <div class="field field--name--field-ref-content field--type--entity-reference-revisions"><div class="paragraph--type--content paragraph--view-mode--default paragraph">
+    
+
+
+
+
+<div class="field field--name--field-html-content field--type--text-long zf-typography">
+                        <h2>Stay educated</h2>
+<p>Visit our articles and FAQs</p>
+
+            </div>
+</div></div>
+      
+        </div>
+    </a>
+</article>
+</div>
+              <div>
+
+<article role="article" about="/node/248" class="node node--type--call-to-action node--view-mode--default">
+    <a href="/about-us">
+        <div>
+            
+            <div class="field field--name--field-ref-content field--type--entity-reference-revisions"><div class="paragraph--type--content paragraph--view-mode--default paragraph">
+    
+
+
+
+
+<div class="field field--name--field-html-content field--type--text-long zf-typography">
+                        <h2>Meet the ASA family</h2>
+<p>Learn about ASA</p>
+
+            </div>
+</div></div>
+      
+        </div>
+    </a>
+</article>
+</div>
+          </div>
+  
+    </div>
+
+</article>
+
+            </div>
+
+
+
+    
+
+    <div class="views-element-container block views-block block--views-block block--views-block--resource-center block--views-block--reviews-slider" id="block-views-block-resource-center-block-3">
+        
+                
+                    <div>
+
+
+
+
+        
+
+
+<xy-grid-container class="views-view views-view--block views-view--reviews-slider js-view-dom-id-266fa5a71aafdffaa555ddd69634d1beb19da3e67df44fdc329e0e35390d65b8 xy-grid-row" v-cloak>
+    <xy-grid-row>
+                    
+            
+            
+
+            
+            
+            
+
+            
+
+
+
+<div class="slider-container">
+    <slider class="reviews-slideshow slideshow" :options="{&quot;infinite&quot;:true,&quot;dots&quot;:true,&quot;autoplay&quot;:false,&quot;autoplaySpeed&quot;:&quot;3000&quot;}">
+                    <div >
+                
+
+    <article role="article" about="/node/107" class="node node--type--review node--view-mode--slider-item">
+        
+
+
+
+
+<icon class="quote-mark" icon="quote-left"></icon>        <div class="content">
+            
+            
+            
+            <div class="field field--name--field-ref-content field--type--entity-reference-revisions"><div class="paragraph--type--content paragraph--view-mode--default paragraph">
+    
+
+
+
+
+<div class="field field--name--field-html-content field--type--text-long zf-typography">
+                        <p>ASA has been our agent since 1997. The Cornejo family runs this out of Phoenix. They have been impeccably honest, capable, hard-working on our behalf, even going to battle for us when the insurance company made a four-figure mistake. They are experts on international insurance. I strongly urge anyone to use an agent like ASA instead of dealing directly with an insurance company it does not cost you anything extra to use them. And I can give the Cornejos an A+++ recommendation based on a 15-year relationship.</p>
+
+            </div>
+</div></div>
+      
+
+            <div class="cite">
+            <div class="field field--name--field-txt-title field--type--string">David H.</div>
+      
+            <div class="field field--name--field-ref-destination field--type--string">Albania</div>
+      </div>
+        </div>
+    </article>
+
+            </div>
+                    <div >
+                
+
+    <article role="article" about="/node/108" class="node node--type--review node--view-mode--slider-item">
+        
+
+
+
+
+<icon class="quote-mark" icon="quote-left"></icon>        <div class="content">
+            
+            
+            
+            <div class="field field--name--field-ref-content field--type--entity-reference-revisions"><div class="paragraph--type--content paragraph--view-mode--default paragraph">
+    
+
+
+
+
+<div class="field field--name--field-html-content field--type--text-long zf-typography">
+                        <p>Very knowledgeable and patient and kind. I spoke to Alonso, who answered all my questions (there were a lot) and helped me explore all my options without getting frustrated or short. Alesha helped me communicate with my doctors to submit the necessary paperwork. They made the whole process very easy.</p>
+
+            </div>
+</div></div>
+      
+
+            <div class="cite">
+            <div class="field field--name--field-txt-title field--type--string">Mallory D.</div>
+      
+            <div class="field field--name--field-ref-destination field--type--string">South Korea</div>
+      </div>
+        </div>
+    </article>
+
+            </div>
+                    <div >
+                
+
+    <article role="article" about="/node/109" class="node node--type--review node--view-mode--slider-item">
+        
+
+
+
+
+<icon class="quote-mark" icon="quote-left"></icon>        <div class="content">
+            
+            
+            
+            <div class="field field--name--field-ref-content field--type--entity-reference-revisions"><div class="paragraph--type--content paragraph--view-mode--default paragraph">
+    
+
+
+
+
+<div class="field field--name--field-html-content field--type--text-long zf-typography">
+                        <p>The staff at ASA Inc. are so amazing! I consider myself very fortunate to have them working on my behalf. I recently suffered a medical emergency and ASA was there for me making sure that all of my needs were met, taking care of doctors' authorizations, etc. so that I had nothing to worry about except getting better. They return my phone calls promptly and seem to take a personal interest in my welfare. I highly recommend their services.</p>
+
+            </div>
+</div></div>
+      
+
+            <div class="cite">
+            <div class="field field--name--field-txt-title field--type--string">Katherine S.</div>
+      
+            <div class="field field--name--field-ref-destination field--type--string">Italy</div>
+      </div>
+        </div>
+    </article>
+
+            </div>
+                    <div >
+                
+
+    <article role="article" about="/node/110" class="node node--type--review node--view-mode--slider-item">
+        
+
+
+
+
+<icon class="quote-mark" icon="quote-left"></icon>        <div class="content">
+            
+            
+            
+            <div class="field field--name--field-ref-content field--type--entity-reference-revisions"><div class="paragraph--type--content paragraph--view-mode--default paragraph">
+    
+
+
+
+
+<div class="field field--name--field-html-content field--type--text-long zf-typography">
+                        <p>I want to express my great appreciation for all of your extra help getting our employees and their families signed up last month for travel policies. Not only did you find an appropriate policy for your needs and help me sign up employees, several times you adjusted the policies when we wanted to belatedly add and change family coverage. You were consistently courteous and helpful, despite the challenges I presented with each phone call! Thank you very much for making a complicated process easier for us and for doing it with such professionalism and kindness.</p>
+
+            </div>
+</div></div>
+      
+
+            <div class="cite">
+            <div class="field field--name--field-txt-title field--type--string">Debora K.</div>
+      
+            <div class="field field--name--field-ref-destination field--type--string">Japan</div>
+      </div>
+        </div>
+    </article>
+
+            </div>
+                    <div >
+                
+
+    <article role="article" about="/node/111" class="node node--type--review node--view-mode--slider-item">
+        
+
+
+
+
+<icon class="quote-mark" icon="quote-left"></icon>        <div class="content">
+            
+            
+            
+            <div class="field field--name--field-ref-content field--type--entity-reference-revisions"><div class="paragraph--type--content paragraph--view-mode--default paragraph">
+    
+
+
+
+
+<div class="field field--name--field-html-content field--type--text-long zf-typography">
+                        <p>This is a letter I felt I needed to send in an appreciation for one of the best agents, of any kind, I have ever worked with. I have had my family moving around the globe since 1999. Trying to find health insurance, as an American, living overseas has always been a big challenge and concern. I was introduced to Alonso Cornejo in 2005. He quickly understood our needs and well exceeded just about anyone from a service provider industry that I have ever spoke with. I looked up IHI when Alonso recommended that care for us. It was claimed to be the number one customer service in the health insurance industry. With people like Alonso, representing that product, they are lucky. We have moved back to the USA and are going with a healthcare provider here in California. Even cancelling our policy, Alonso was gracious and excellent to work with, and extremely prompt.</p>
+<p>Alonso treats the customer with care and respect. We even had a baby son in New Zealand last January, which wasn't very easily logistically. Knowing, if there was any kind of problem, I could pick up the phone and call definitely made life a lot better. I am happy we never needed to use our insurance, just knowing we were covered was worth every penny. I appreciate having done business with ASA, Inc. especially with this kind of customer service. I will go out of my way to recommend Alonso to anyone that is in our situation.</p>
+<p>We will be a customer again in the future. I am sure of it. </p>
+
+            </div>
+</div></div>
+      
+
+            <div class="cite">
+            <div class="field field--name--field-txt-title field--type--string">John Z.</div>
+      
+            <div class="field field--name--field-ref-destination field--type--string">New Zealand</div>
+      </div>
+        </div>
+    </article>
+
+            </div>
+            </slider>
+</div>
+            
+            
+
+            
+            
+
+            
+            
+            </xy-grid-row>
+</xy-grid-container></div>
+
+            </div>
+
+            </div>
+
+      <footer>
+          <div class="footer-container">
+            
+
+    <div class="region region--left-footer">
+                            
+
+
+    
+
+    <div id="block-footermenu1" class="block system-menu-block">
+        
+                
+                        
+
+
+
+
+
+
+
+
+
+<ul data-region="left_footer" class="menu--footer-menu-1 menu vertical">
+      <li>
+        <a href="/" data-drupal-link-system-path="&lt;front&gt;" class="is-active">Home</a>
+
+            </li>
+      <li>
+        <a href="/quote-results?plans=all" title="View All Plans" data-drupal-link-query="{&quot;plans&quot;:&quot;all&quot;}" data-drupal-link-system-path="quote-results">View All Plans</a>
+
+            </li>
+      <li>
+        <a href="/travel-insurance" data-drupal-link-system-path="node/21">Travel Insurance</a>
+
+            </li>
+      <li>
+        <a href="/health-medical-insurance" data-drupal-link-system-path="node/22">Health/Medical Insurance</a>
+
+            </li>
+      <li>
+        <a href="/student-insurance" data-drupal-link-system-path="node/23">Student Insurance</a>
+
+            </li>
+      <li>
+        <a href="/missionary-insurance" data-drupal-link-system-path="node/24">Missionary Insurance</a>
+
+            </li>
+      <li>
+        <a href="/us-visitor-j-1-visa-insurance" data-drupal-link-system-path="node/25">U.S./J-1 Visa Insurance</a>
+
+            </li>
+      <li>
+        <a href="/life-insurance" data-drupal-link-system-path="node/26">Life Insurance</a>
+
+            </li>
+  </ul>
+
+            </div>
+
+
+
+    
+
+    <div id="block-footermenu2" class="block system-menu-block">
+        
+                
+                        
+
+
+
+
+
+
+
+
+
+<ul data-region="left_footer" class="menu--footer-menu-2 menu vertical">
+      <li>
+        <a href="/articles-faqs" data-drupal-link-system-path="node/258">Articles &amp; FAQs</a>
+
+            </li>
+      <li>
+        <a href="https://asaincor.com/glossary">Glossary </a>
+
+            </li>
+      <li>
+        <a href="/reviews" data-drupal-link-system-path="node/260">Reviews</a>
+
+            </li>
+      <li>
+        <a href="/about-us" data-drupal-link-system-path="node/27">About Us</a>
+
+            </li>
+      <li>
+        <a href="/contact-us" data-drupal-link-system-path="node/104">Contact Us</a>
+
+            </li>
+      <li>
+        <a href="/agent-affiliate-program" data-drupal-link-system-path="node/29">Agent/Affiliate Program</a>
+
+            </li>
+  </ul>
+
+            </div>
+
+
+
+    
+
+    <div class="views-element-container block views-block block--views-block block--views-block--providers block--views-block--provider-pages-menu" id="block-views-block-providers-block-1">
+        
+                
+                    <div>
+
+
+
+
+        
+
+
+<xy-grid-container class="views-view views-view--block views-view--provider-pages-menu js-view-dom-id-ab8765c3025f3c942f6105cfe802130e2c718c4a2ee11b9807b0c1a4c133a75e xy-grid-row" v-cloak>
+    <xy-grid-row>
+                    
+            
+            
+
+                            <header>
+                    <h2>Providers</h2>
+                </header>
+            
+            
+            
+
+            <div class="item-list">
+  
+  <ul>
+
+          <li><div class="views-field views-field-field-txt-title-1"><div class="field-content"><a href="/node/International%20Medical%20Group%20IMG"><a href="/node/353" hreflang="en">International Medical Group IMG</a></a></div></div></li>
+          <li><div class="views-field views-field-field-txt-title-1"><div class="field-content"><a href="/node/Cigna"><a href="/node/105" hreflang="en">Cigna</a></a></div></div></li>
+          <li><div class="views-field views-field-field-txt-title-1"><div class="field-content"><a href="/node/GeoBlue"><a href="/provider/12" hreflang="en">GeoBlue</a></a></div></div></li>
+          <li><div class="views-field views-field-field-txt-title-1"><div class="field-content"><a href="/node/Bupa"><a href="/provider/61" hreflang="en">Bupa</a></a></div></div></li>
+          <li><div class="views-field views-field-field-txt-title-1"><div class="field-content"><a href="/node/VUMI"><a href="/provider/52" hreflang="en">VUMI</a></a></div></div></li>
+          <li><div class="views-field views-field-field-txt-title-1"><div class="field-content"><a href="/node/HTH%20Worldwide"><a href="/provider/50" hreflang="en">HTH Worldwide</a></a></div></div></li>
+          <li><div class="views-field views-field-field-txt-title-1"><div class="field-content"><a href="/node/Seven%20Corners"><a href="/provider/41" hreflang="en">Seven Corners</a></a></div></div></li>
+          <li><div class="views-field views-field-field-txt-title-1"><div class="field-content"><a href="/node/Tokio%20Marine%20HCC"><a href="/provider/18" hreflang="en">Tokio Marine HCC</a></a></div></div></li>
+          <li><div class="views-field views-field-field-txt-title-1"><div class="field-content"><a href="/node/Azimuth"><a href="/provider/48" hreflang="en">Azimuth</a></a></div></div></li>
+    
+  </ul>
+
+</div>
+
+            
+            
+
+            
+            
+
+            
+            
+            </xy-grid-row>
+</xy-grid-container></div>
+
+            </div>
+
+            </div>
+
+            
+
+    <div class="region region--right-footer">
+                            
+
+
+
+    <div id="block-sitebranding" class="block system-branding-block">
+        
+                
+                    <a href="https://asaincor.com/" title="Home" rel="home">
+            <img src="/sites/default/files/asa-logo_0.png" alt="Home" />
+        </a>
+        </div>
+
+
+
+
+    <div id="block-contactinformation" class="block block-content">
+        
+                
+                    
+            <div class="field field--name--body field--type--text-with-summary"><p><strong>ASA, Inc.</strong></p>
+
+<p>480-753-1333<br />
+4425 E Agave Rd. Suite 134<br />
+Phoenix, AZ 85044</p>
+
+<p><a href="https://www.bbb.org/phoenix/business-reviews/insurance-consultant/asa-inc-international-insurance-consultants-in-phoenix-az-1000042200#bbbonlineclick" target="_blank"><img src="/themes/custom/zionandzion/production/images/bbb.png" /></a></p>
+
+<p><a href="https://www.google.com/search?q=ASA%2C%20Inc.#lrd=0x872b06e75b658c1b:0x3c225d10cdd119a4,1,,," target="_blank"><img src="/themes/custom/zionandzion/production/images/asa-5stars.png" /></a></p>
+
+<p><a href="https://sbs.naic.org/solar-external-lookup/lookup/licensee/summary/1800000230?jurisdiction=AZ&amp;entityType=BE&amp;licenseType=PRO" target="_blank">Arizona Department of Insurance #15359</a></p>
+</div>
+      
+            </div>
+
+            </div>
+
+          </div>
+      </footer>
+
+
+      
+
+    <div class="region region--sticky">
+                    <div class="back-to-top-button">
+            <a href="#" class="back-to-top clearfix">
+
+
+
+
+<icon title="back to top" lib="fal" icon="caret-circle-up"></icon></a>
+            </div>
+                            
+
+
+    
+
+    <div id="block-chatbutton" class="block block-content">
+        
+                
+        
+    </div>
+
+            </div>
+
+        </div>
+</off-canvas>
+        </div>
+      
+        <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/17","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","google_analytics":{"trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"livechat":{"licence_number":"9909620","livechat_mobile":"No","livechat_sounds":"No","is_admin_page":false},"user":{"uid":0,"permissionsHash":"58445b0f43775574fe01f6e2420c79661e885e784ff96b88a0857c726b4c4239"}}</script>
+<script src="/sites/default/files/js/js_O9BLKGP7LZKD-TxNFw2ynCKGYWMBBFZw1nouVGfXrc8.js"></script>
+
+
+<!-- ASA BODY CLOSING -->
+<script type="text/javascript"
+src="https://beta.phonewagon.com/DynamicNumbers/fbecf8af56c1406eb5928
+5c4e3db5309/88/9/pw_dns.js"></script>
+
+<script type="text/javascript" src="/asa/endhtml.js"></script>
+<!-- ASA BODY CLOSING END -->
+
+  </body>
+</html>

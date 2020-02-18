@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+ 
+<html lang="en"><head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PKBKM7N');</script>
+<!-- End Google Tag Manager -->
+	
+	
+	
+<!------------ analistics--------------->
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118373839-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-118373839-2');
+</script>
+<!---------- fim anaistics ------------>
+	
+	<SCRIPT LANGUAGE="JavaScript"> 
+<!-- Disable 
+function disableselect(e){ 
+return false 
+} 
+
+function reEnable(){ 
+return true 
+} 
+
+//if IE4+ 
+document.onselectstart=new Function ("return false") 
+document.oncontextmenu=new Function ("return false") 
+//if NS6 
+if (window.sidebar){ 
+document.onmousedown=disableselect 
+document.onclick=reEnable 
+} 
+//--> 
+</script> 
+<!-------------- fim ação mouse --------------->	
+	
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Fone: 11 977-148-076 Criação de site, Hospedagem e Publicidade online</title>
+<!-- Stylesheets -->
+<link href="css/bootstrap.css" rel="stylesheet">
+<link href="plugins/revolution/css/settings.css" rel="stylesheet" type="text/css"><!-- REVOLUTION SETTINGS STYLES -->
+<link href="plugins/revolution/css/layers.css" rel="stylesheet" type="text/css"><!-- REVOLUTION LAYERS STYLES -->
+<link href="plugins/revolution/css/navigation.css" rel="stylesheet" type="text/css"><!-- REVOLUTION NAVIGATION STYLES -->
+<link href="css/style.css" rel="stylesheet">
+<link href="css/responsive.css" rel="stylesheet">
+
+
+<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
+<link rel="icon" href="images/favicon.png" type="image/x-icon">
+<!-- Responsive -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+</head>
+
+<body class="">
+	
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PKBKM7N"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	
+<div class="page-wrapper">
+     
+ 	
+    <!-- Main Header-->
+    <header class="main-header fixed-header">
+
+        <!-- Main Box -->
+    	<div class="main-box">
+        	<div class="auto-container">
+            	<div class="outer-container clearfix">
+                    <!--Logo Box-->
+                    <div class="logo-box">
+                        <div class="logo"><a href="http://3click.com.br/index.html"><img src="./publicidade_files/logo.png" alt=""></a></div>
+                    </div>
+                    <!--Nav Outer-->
+                    <div class="nav-outer clearfix">
+                        <!-- Main Menu -->
+                        <nav class="main-menu">
+                            <div class="navbar-header">
+                                <!-- Toggle Button -->    	
+                                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                </button>
+                            </div>
+                            
+                            <div class="navbar-collapse collapse clearfix">
+                                <ul class="navigation clearfix">
+                                    <li><a href="index.html">Inicial</a>
+                                    	
+                                     </li>
+									
+									<li  ><a href="agencia.html">Agência</a> </li>
+									
+
+                                    <li class="dropdown"><a href="#">NOSSOS PLANOS</a>
+                                    <ul>
+                                    <li><a href="criacao-de-site.html">CRIAÇÃO DE SITE</a></li>
+										<li><a href="criacao-de-loja-virtual.html">CRIAÇÃO DE LOJA VIRTUAL</a></li>
+										<li><a href="criacao-de-portal.html">CRIAÇÃO DE PORTAL</a></li>
+										<li><a href="criacao-de-sistemas.html">CRIAÇÃO DE SISTEMA</a></li>
+										<li><a href="identidade-visual.html">CRIAÇÃO DE IDENTIDADE VISUAL</a></li>
+										<li><a href="criacao-de-logotipo.html">CRIAÇÃO DE LOGOTIPO</a></li>
+										<li><a href="criacao-de-rotulo.html">CRIAÇÃO DE ROTULO</a></li>
+										<li><a href="personalizacao-de-face.html">FANPAGE PERSONALIZADA</a></li>
+										<li><a href="face-ads.html">PUBLICIDADE NO FACE</a></li>
+										<li><a href="google-dwords.html">PUBLICIDADE GOOGLE</a></li>		
+											
+                                    </ul>
+										
+										
+                                    <div class="dropdown-btn"><span class="fa fa-angle-down"></span></div></li>
+									
+<!------------------------------------------------> 
+
+                                   
+                                    <li><a href="http://3click.com.br/blog">Blog</a>
+                                    	
+                                    <div class="dropdown-btn"><span class="fa fa-angle-down"></span></div></li>
+									
+                                    <li><a href="http://3click.com.br/contato.html">Fale Conosco</a></li>
+                                 </ul>
+                            </div>
+                        </nav>
+                        <!-- Main Menu End-->
+                        
+                        <!--Search Box-->
+                        
+                    </div>
+                    <!--Nav Outer End-->
+            	</div>    
+            </div>
+        </div>
+    </header>
+    <!--End Main Header -->
+    
+    <!--Main Slider-->
+    <section class="main-slider main-slider-one">
+        <div class="forcefullwidth_wrapper_tp_banner" id="rev_slider_one_forcefullwidth" style="position:relative;width:100%;height:auto;margin-top:0px;margin-bottom:0px"><div class="rev_slider_wrapper fullwidthbanner-container" id="rev_slider_one_wrapper" data-source="gallery" style="margin-top: 0px; margin-bottom: 0px; position: absolute; overflow: visible; height: 835px; width: 1349px; left: 0px;">
+            <div class="rev_slider fullwidthabanner revslider-initialised tp-simpleresponsive rev_redraw_on_blurfocus" id="rev_slider_one" data-version="5.4.1" data-slideactive="rs-1687" style="max-height: 835px; margin-top: 0px; margin-bottom: 0px; height: 835px;">
+                <ul class="tp-revslider-mainul" style="visibility: visible; display: block; overflow: hidden; width: 100%; height: 100%; max-height: none;">
+                    <!-- Slide 1 -->
+                     
+                        
+                        <div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: hidden; left: 548px; top: 530px; z-index: 5;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: hidden; transform: matrix(1, 0, 0, 1, 0, 0);"><div class="tp-caption tp-resizeme" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="text" data-height="none" data-whitespace="nowrap" data-width="none" data-hoffset="[&#39;473&#39;,&#39;15&#39;,&#39;15&#39;,&#39;15&#39;]" data-voffset="[&#39;530&#39;,&#39;470&#39;,&#39;410&#39;,&#39;400&#39;]" data-x="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]" data-y="[&#39;top&#39;,&#39;top&#39;,&#39;top&#39;,&#39;top&#39;]" data-textalign="[&#39;top&#39;,&#39;top&#39;,&#39;top&#39;,&#39;top&#39;]" data-frames="[{&quot;from&quot;:&quot;x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:1000,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;mask&quot;:&quot;x:0;y:0;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" id="layer-330148425" style="visibility: inherit; transition: none; line-height: 23px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 14px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -187, 0, 0, 1); transform-origin: 50% 50% 0px;">
+                        	<a href="#" class="theme-btn btn-style-one" style="transition: none; text-align: inherit; line-height: 24px; border-width: 2px; margin: 0px; padding: 15px 38px; letter-spacing: 1px; font-weight: 700; font-size: 15px;">FALE CONOSCO</a>
+                        </div></div></div></div>
+
+                        
+                        <div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: hidden; left: -75px; top: 296px; z-index: 5;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: hidden; transform: matrix(1, 0, 0, 1, 0, 0);"><div class="tp-caption tp-resizeme big-ipad-hidden" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="shape" data-height="none" data-whitespace="nowrap" data-width="none" data-hoffset="[&#39;-150&#39;,&#39;15&#39;,&#39;15&#39;,&#39;15&#39;]" data-voffset="[&#39;50&#39;,&#39;0&#39;,&#39;0&#39;,&#39;0&#39;]" data-x="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]" data-y="[&#39;bottom&#39;,&#39;bottom&#39;,&#39;bottom&#39;,&#39;bottom&#39;]" data-textalign="[&#39;top&#39;,&#39;top&#39;,&#39;top&#39;,&#39;top&#39;]" data-frames="[{&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:2000,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:3000,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;mask&quot;:&quot;x:0;y:0;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" id="layer-193510701" style="visibility: inherit; transition: none; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 14px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 491, 0, 1); transform-origin: 50% 50% 0px;">
+                            <figure class="content-image" style="transition: none; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 14px;"><img src="./publicidade_files/content-image-2.png" alt="" style="width: 521px; height: 489px; transition: none; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 14px;"></figure>
+                        </div></div></div></div>
+
+
+                        <div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: hidden; left: 0px; top: 524px; z-index: 5;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: hidden; transform: matrix(1, 0, 0, 1, 0, 0);"><div class="tp-caption tp-shape tp-shapewrapper tp-resizeme big-ipad-hidden" data-basealign="slide" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="shape" data-height="auto" data-whitespace="nowrap" data-width="none" data-hoffset="[&#39;0&#39;,&#39;0&#39;,&#39;0&#39;,&#39;0&#39;]" data-voffset="[&#39;0&#39;,&#39;0&#39;,&#39;0&#39;,&#39;0&#39;]" data-x="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]" data-y="[&#39;bottom&#39;,&#39;bottom&#39;,&#39;bottom&#39;,&#39;bottom&#39;]" data-frames="[{&quot;from&quot;:&quot;x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:1000,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;mask&quot;:&quot;x:0;y:0;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" id="layer-656387844" style="visibility: inherit; transition: none; text-align: inherit; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 14px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -425, 0, 0, 1); transform-origin: 50% 50% 0px;">
+                            <figure class="content-image" style="transition: none; text-align: inherit; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 14px;"><img src="./publicidade_files/content-image-1.png" alt="" style="width: 423px; height: 311px; transition: none; text-align: inherit; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 14px;"></figure>
+                        </div></div></div></div>
+
+                    </li>
+
+                    <!-- Slide 2 -->
+                    
+                        
+                         
+                        
+                        <div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: 548px; top: 260px; z-index: 5;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: hidden; transform: matrix(1, 0, 0, 1, 0, 0);"></div></div></div>
+
+                        <div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: 548px; top: 300px; z-index: 5;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: hidden; transform: matrix(1, 0, 0, 1, 0, 0);"><h4>PEQUENAS EMPRESAS PODEM TER</h1>
+							<div class="tp-caption tp-resizeme" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="text" data-height="none" data-whitespace="nowrap" data-fontsize="[&#39;64&#39;,&#39;40&#39;,&#39;36&#39;,&#39;24&#39;]" data-width="none" data-hoffset="[&#39;473&#39;,&#39;15&#39;,&#39;15&#39;,&#39;15&#39;]" data-voffset="[&#39;300&#39;,&#39;220&#39;,&#39;190&#39;,&#39;160&#39;]" data-x="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]" data-y="[&#39;top&#39;,&#39;top&#39;,&#39;top&#39;,&#39;top&#39;]" data-textalign="[&#39;top&#39;,&#39;top&#39;,&#39;top&#39;,&#39;top&#39;]" data-frames="[{&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:1000,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;mask&quot;:&quot;x:0;y:0;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" id="layer-30426036" style="visibility: inherit; transition: none; line-height: 23px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 64px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">
+                            <h2 style="transition: none; text-align: inherit; line-height: 77px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 700; font-size: 70px;">GRANDES <br> RESULTADOS</h2>
+                        </div></div></div></div>
+                        
+                        
+                        
+                        <div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: 548px; top: 530px; z-index: 5;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: hidden; transform: matrix(1, 0, 0, 1, 0, 0);"><div class="tp-caption tp-resizeme" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="text" data-height="none" data-whitespace="nowrap" data-width="none" data-hoffset="[&#39;473&#39;,&#39;15&#39;,&#39;15&#39;,&#39;15&#39;]" data-voffset="[&#39;530&#39;,&#39;470&#39;,&#39;410&#39;,&#39;400&#39;]" data-x="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]" data-y="[&#39;top&#39;,&#39;top&#39;,&#39;top&#39;,&#39;top&#39;]" data-textalign="[&#39;top&#39;,&#39;top&#39;,&#39;top&#39;,&#39;top&#39;]" data-frames="[{&quot;from&quot;:&quot;x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:1000,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;mask&quot;:&quot;x:0;y:0;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" id="layer-118200767" style="visibility: inherit; transition: none; line-height: 23px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 14px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">
+                            <a href="" class="theme-btn btn-style-one" style="transition: none; text-align: inherit; line-height: 24px; border-width: 2px; margin: 0px; padding: 15px 38px; letter-spacing: 1px; font-weight: 700; font-size: 15px;">FALE CONOSCO<div class="auto-container">
+      <h1>whats:11 977-148-076</h1>
+      <ul class="bread-crumb clearfix">
+        
+      </ul>
+    </div></a>
+                        </div></div></div></div>
+
+                        
+                        <div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: -75px; top: 296px; z-index: 5;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: hidden; transform: matrix(1, 0, 0, 1, 0, 0);"><div class="tp-caption tp-resizeme big-ipad-hidden" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="shape" data-height="none" data-whitespace="nowrap" data-width="none" data-hoffset="[&#39;-150&#39;,&#39;15&#39;,&#39;15&#39;,&#39;15&#39;]" data-voffset="[&#39;50&#39;,&#39;0&#39;,&#39;0&#39;,&#39;0&#39;]" data-x="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]" data-y="[&#39;bottom&#39;,&#39;bottom&#39;,&#39;bottom&#39;,&#39;bottom&#39;]" data-textalign="[&#39;top&#39;,&#39;top&#39;,&#39;top&#39;,&#39;top&#39;]" data-frames="[{&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:2000,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:3000,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;mask&quot;:&quot;x:0;y:0;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" id="layer-612676541" style="visibility: inherit; transition: none; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 14px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">
+                            <figure class="content-image" style="transition: none; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 14px;"><img src="./publicidade_files/content-image-2.png" alt="" style="width: 521px; height: 489px; transition: none; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 14px;"></figure>
+                        </div></div></div></div>
+
+
+                        <div class="tp-parallax-wrap" style="position: absolute; display: block; visibility: visible; left: 0px; top: 524px; z-index: 5;"><div class="tp-loop-wrap" style="position:absolute;display:block;;"><div class="tp-mask-wrap" style="position: absolute; display: block; overflow: hidden; transform: matrix(1, 0, 0, 1, 0, 0);"><div class="tp-caption tp-shape tp-shapewrapper tp-resizeme big-ipad-hidden" data-basealign="slide" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingtop="[0,0,0,0]" data-responsive_offset="on" data-type="shape" data-height="auto" data-whitespace="nowrap" data-width="none" data-hoffset="[&#39;0&#39;,&#39;0&#39;,&#39;0&#39;,&#39;0&#39;]" data-voffset="[&#39;0&#39;,&#39;0&#39;,&#39;0&#39;,&#39;0&#39;]" data-x="[&#39;left&#39;,&#39;left&#39;,&#39;left&#39;,&#39;left&#39;]" data-y="[&#39;bottom&#39;,&#39;bottom&#39;,&#39;bottom&#39;,&#39;bottom&#39;]" data-frames="[{&quot;from&quot;:&quot;x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;speed&quot;:1500,&quot;to&quot;:&quot;o:1;&quot;,&quot;delay&quot;:1000,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;mask&quot;:&quot;x:0;y:0;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]" id="layer-256164939" style="visibility: inherit; transition: none; text-align: inherit; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 14px; white-space: nowrap; min-height: 0px; min-width: 0px; max-height: none; max-width: none; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 50% 50% 0px;">
+                            <figure class="content-image" style="transition: none; text-align: inherit; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 14px;"><img src="./publicidade_files/content-image-1.png" alt="" style="width: 423px; height: 311px; transition: none; text-align: inherit; line-height: 0px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 400; font-size: 14px;"></figure>
+                        </div></div></div></div>
+
+                    </li>
+                </ul>
+            <div class="tp-loader off" style="display: none;"><div class="dot1"></div><div class="dot2"></div><div class="bounce1"></div><div class="bounce2"></div><div class="bounce3"></div></div><div class="tp-bannertimer" style="visibility: visible; width: 26.94%; transform: translate3d(0px, 0px, 0px);"></div></div>
+        </div><div class="tp-fullwidth-forcer" style="width: 100%; height: 835px;"></div></div>
+    </section>
+    <!--End Main Slider-->
+  
+
+    <!--Services Section-->
+    <section class="services-section sky-bg">
+        <div class="auto-container">
+            <!--Sec Title-->
+            <div class="sec-title centered">
+                <h2>Qual a necessidade do seu negócio?<br><span class="theme_color">Fale conosco e solicite um orçamento!</span></h2>
+            </div>
+            <div class="row clearfix">
+                <!--Services Block-->
+                <div class="services-block col-md-4 col-sm-6 col-xs-12">
+                    <div class="inner-box wow fadeInLeft animated" style="visibility: visible; animation-name: fadeInLeft;">
+                        <div class="icon-box"><span class="icon"><img src="images/icons/icon-criacao-site.png" alt=""></span></div>
+                        <h3><a href="criacao-de-site.html">DESENVOLER MEU <br>
+                            <b>WEBSITE </a></h3>
+                      <a href="criacao-de-site.html" class="read-more">QUERO SABER [+]<i class="fa fa-angle-right"></i></a>
+                    </div>
+                </div>
+
+                <!--Services Block-->
+                <div class="services-block col-md-4 col-sm-6 col-xs-12">
+                    <div class="inner-box wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+                        <div class="icon-box"><span class="icon"><img src="images/icons/loja-virtual.png" alt=""></span></div>
+                        <h3><a href="criacao-de-loja-virtual.html">DESENVOLVER MINHA <br>
+                      <b>LOJA VIRTUAL</a></h3>
+                        <a href="criacao-de-loja-virtual.html" class="read-more">QUERO SABER [+]<i class="fa fa-angle-right"></i></a>
+                    </div>
+                </div>
+                
+                <!--Services Block-->
+                <div class="services-block col-md-4 col-sm-6 col-xs-12">
+                    <div class="inner-box wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+                        <div class="icon-box">
+                            <span class="icon"><img src="images/icons/adwords.png" alt=""></span>
+                        </div>
+                        <h3><a href="adwords.html">QUERO APARECER<BR>
+                      <B>NO GOOGLE </a></h3>
+                        <a href="adwords.html" class="read-more">QUERO SABER [+]<i class="fa fa-angle-right"></i></a>
+                    </div>
+                </div>
+  
+						                <!--Services Block-->
+                <div class="services-block col-md-4 col-sm-6 col-xs-12">
+                    <div class="inner-box wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+                        <div class="icon-box">
+                            <span class="icon"><img src="images/icons/service-1.png" width="180" alt=""></span>
+                        </div>
+                        <h3><a href="identidade-visual.html">DESENVOLVER MINHA<BR>
+                      <B>IDENTIDADE VISUAL</a></h3>
+                        <a href="identidade-visual.html" class="read-more">QUERO SABER [+]<i class="fa fa-angle-right"></i></a>
+                    </div>
+                </div>
+                <!--Services Block-->
+                <div class="services-block col-md-4 col-sm-6 col-xs-12">
+                    <div class="inner-box wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+                        <div class="icon-box"><span class="icon"><img src="images/icons/identidade-visual.png" alt=""></span></div>
+                        <h3><a href="logomarca.html">DESENVOLVER MINHA<BR>
+                            <B>LOGOMARCA</a></h3>
+                        <a href="logomarca.html" class="read-more">QUERO SABER [+]<i class="fa fa-angle-right"></i></a>
+                    </div>
+                </div>
+                <!--Services Block-->
+                <div class="services-block col-md-4 col-sm-6 col-xs-12">
+                    <div class="inner-box wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+                        <div class="icon-box">
+                            <span class="icon"><img src="images/icons/icon-midia-social.png" width="180" alt=""></span>
+                        </div>
+                        <h3><a href="face.html">QUERO APARECER NO<BR>
+                      <B>FACE & INSTAGRAM<a></h3>
+                        <a href="face.html" class="read-more">QUERO SABER [+]<i class="fa fa-angle-right"></i></a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    
+    <!--Traffic Section-->
+    <section class="traffic-section">
+        <div class="auto-container">
+            <div class="row clearfix">
+                <!--Image Column-->
+                <div class="image-column col-md-5 col-sm-12 col-xs-12">
+                    <div class="image wow slideInLeft animated" style="visibility: visible; animation-name: slideInLeft;">
+                        <img src="./publicidade_files/image-1.png" alt="">
+                    </div>
+                </div>
+                <!--Content Column-->
+                <div class="content-column col-md-7 col-sm-12 col-xs-12">
+                    <div class="inner-column">
+                        <div class="sec-title">
+                            <h2>Agência 3CLICK, a sua Agência <span class="theme_color">ONLINE 100% DIGITAL</span></h2>
+                        </div>
+                        <div class="text">Agência 3CLICK é uma empresa de Marketing Digital especializada em Criação de Sites, Identidade Visual (Logos,Identidade Virtual, Papelaria Corporativa..), Google Adwords, Facebook Ads, SEO, Gestão de Redes Sociais e muito mais! Inscrita sob o CNPJ  30.368.151/0001-68</div>
+                        <ul class="list-style-one">
+                            <li>Atendemos tanto a pessoas físicas quanto jurídicas, e inovamos com o conceito de “revisões ilimitadas”. Ou seja, o desenvolvimento da arte só é finalizado mediante aprovação do cliente.</li>
+							
+							<li>
+							Nossa missão é construir uma relação de parceria com os nossos clientes. Atuamos como uma Agência Full Service, ou seja, desenvolvendo desde a identidade visual até campanhas mais robustas de divulgação.
+							</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--End Traffic Section-->
+
+    <!-- Gallery Section -->
+    <section class="gallery-section sky-bg">
+        <div class="auto-container">
+            <div class="sec-title centered">
+                <h2>UTIMOS <span class="theme_color">JOBS</span></h2>
+            </div>
+
+            <div class="row clearfix">
+                <!-- Gallery Item -->
+                <div class="gallery-item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="inner-box">
+                        <figure class="image-box">
+                            <img src="./publicidade_files/1.jpg" alt="">
+                            <!--Overlay Box-->
+                            <div class="overlay-box">
+                                <div class="overlay-inner">
+                                    <div class="content">
+                                        <a href="#" >CRIAÇÃO DE LOGO</a>
+                                         
+                                    </div>
+                                </div>
+                            </div>
+                        </figure>
+                    </div>
+                </div>
+
+                <!-- Gallery Item -->
+                <div class="gallery-item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="inner-box">
+                        <figure class="image-box">
+                            <img src="./publicidade_files/news-3.jpg" alt="">
+                            <!--Overlay Box-->
+                            <div class="overlay-box">
+                                <div class="overlay-inner">
+                                    <div class="content">
+                                        <a href="#" >CRIAÇÃO DE CARTÃO</a>
+                                         
+                                    </div>
+                                </div>
+                            </div>
+                        </figure>
+                    </div>
+                </div>
+
+                <!-- Gallery Item -->
+                <div class="gallery-item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="inner-box">
+                        <figure class="image-box">
+                            <img src="./publicidade_files/3.jpg" alt="">
+                            <!--Overlay Box-->
+                            <div class="overlay-box">
+                               <div class="overlay-inner">
+                                    <div class="content">
+                                        <a href="#" >CRIAÇÃO DE LOGO</a>
+                                         
+                                    </div>
+                                </div>
+                            </div>
+                        </figure>
+                    </div>
+                </div>
+
+                <!-- Gallery Item -->
+                <div class="gallery-item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="inner-box">
+                        <figure class="image-box">
+                            <img src="./publicidade_files/4.jpg" alt="">
+                            <!--Overlay Box-->
+                            <div class="overlay-inner">
+                                    <div class="content">
+                                        <a href="#" >CRIAÇÃO DE WEBSITE</a>
+                                         
+                                    </div>
+                                </div>
+                        </figure>
+                    </div>
+                </div>
+
+                <!-- Gallery Item -->
+                <div class="gallery-item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="inner-box">
+                        <figure class="image-box">
+                            <img src="./publicidade_files/5.jpg" alt="">
+                            <!--Overlay Box-->
+                            <div class="overlay-inner">
+                                    <div class="content">
+                                        <a href="#" >CRIAÇÃO DE ROTULO</a>
+                                         
+                                    </div>
+                                </div>
+                        </figure>
+                    </div>
+                </div>
+
+                <!-- Gallery Item -->
+                <div class="gallery-item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="inner-box">
+                        <figure class="image-box">
+                            <img src="./publicidade_files/6.jpg" alt="">
+                            <!--Overlay Box-->
+                            <div class="overlay-box">
+                               <div class="overlay-inner">
+                                    <div class="content">
+                                        <a href="#" >CRIAÇÃO DE WEBSITE</a>
+                                         
+                                    </div>
+                                </div>
+                            </div>
+                        </figure>
+                    </div>
+                </div>
+				
+
+		<!-- Gallery Item -->
+                <div class="gallery-item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="inner-box">
+                        <figure class="image-box">
+                            <img src="publicidade_files/news-2.jpg" alt="">
+                            <!--Overlay Box-->
+                            <div class="overlay-box">
+                               <div class="overlay-inner">
+                                    <div class="content">
+                                        <a href="#" >CRIAÇÃO DE EMBLAGEM</a>
+                                         
+                                    </div>
+                                </div>
+                          </div>
+                      </figure>
+                    </div>
+                </div>		
+				
+				<!-- Gallery Item -->
+                <div class="gallery-item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="inner-box">
+                        <figure class="image-box">
+                            <img src="publicidade_files/2.jpg" alt="">
+                            <!--Overlay Box-->
+                            <div class="overlay-box">
+                               <div class="overlay-inner">
+                                    <div class="content">
+                                        <a href="#" >CRIAÇÃO DE LOGO</a>
+                                         
+                                    </div>
+                                </div>
+                          </div>
+                      </figure>
+                    </div>
+                </div>
+				
+				<!-- Gallery Item -->
+                <div class="gallery-item col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="inner-box">
+                        <figure class="image-box">
+                            <img src="publicidade_files/news-1.jpg" alt="">
+                            <!--Overlay Box-->
+                            <div class="overlay-box">
+                               <div class="overlay-inner">
+                                    <div class="content">
+                                        <a href="#" >CRIAÇÃO DE PASTA</a>
+                                         
+                                    </div>
+                                </div>
+                          </div>
+                      </figure>
+                    </div>
+                </div>
+				
+				
+				
+				
+            </div>
+        </div>
+    </section>
+    <!-- End Gallery secton -->
+
+
+    <!--Main Footer-->
+    <footer class="main-footer">    <div class="footer-upper" style="background-image:url(images/background/pattern.png)">
+      <div class="auto-container">        <div class="row clearfix">
+          <!--Big Column-->
+          <div class="big-column col-md-6 col-sm-12 col-xs-12"> <div class="row clearfix">
+              <!--Footer Column-->
+              <div class="footer-column col-md-5 col-sm-6 col-xs-12"> <div class="footer-widget links-widget">
+                  <h2>agência 3click</h2>
+                  <div class="widget-content">  <ul class="list">
+                      <li><a href="agencia.html">Agência</a></li>
+                      <li><a href="clientes.html">Nossos clientes</a></li>
+                      <li><a href="/blog">Blog</a></li>
+                      <li><a href="contato.html">Contato</a></li>             
+                    </ul>  </div> </div> </div>
+              <!--Footer Column-->
+              <div class="footer-column col-md-5 col-sm-6 col-xs-12">
+                <div class="footer-widget links-widget">
+                  <h2>DESENVOLVIENTO WEB</h2>
+                  <div class="widget-content"> <ul class="list">
+                 <li><a href="criacao-de-site.html">Criação de site</a></li>
+                 <li><a href="criacao-de-loja-virtual.html">Crição de loja virtual</a></li>
+                 <li><a href="criacao-de-portal.html">Criação de portal</a></li>
+                 <li><a href="criacao-de-sistemas.html">Criação de sistema onine</a></li>
+                     
+                    </ul> </div> </div> </div> </div> </div>
+          <!--Big Column-->
+          <div class="big-column col-md-6 col-sm-12 col-xs-12">
+            <div class="row clearfix">
+              <!--Footer Column-->
+              <div class="footer-column col-md-5 col-sm-6 col-xs-12">
+                <div class="footer-widget links-widget">
+                  <h2>CRIAÇÃO FRÁFICA </h2>
+                  <div class="widget-content">
+                  <ul class="list">
+                  <li><a href="identidade-visual.html">Identidade visual</a></li>
+                  <li><a href="criacao-de-logotipo.html">Criação de logotipo</a></li>
+                  <li><a href="criacao-de-rotulo.html">Criação de Rótulo</a></li>
+                  <li><a href="personalizacao-de-face.html">Personaização de face </a></li>
+                     
+                  </ul>  </div>  </div>  </div>
+              <!--Footer Column-->
+              <div class="col-md-7 col-sm-6 col-xs-12">   <div class="footer-column col-md-5 col-sm-6 col-xs-12"> <div class="footer-widget links-widget">
+					<h2>webmarketing</h2>
+                  <div class="widget-content"> <ul class="list">
+                      <li><a href="face-ads.html">FACE ADS</a></li>
+                      <li><a href="google-dwords.html">	ADWORDS</a></li>
+                      <li><a href="otimizacao-de-site.html">Otimização</a></li>
+                      <li><a href="/blog">BLOG</a></li>                     
+             </ul> </div>  </div>  </div>   </div> </div>  </div></div> </div></div>
+    <!--Footer Bottom-->
+    <div class="footer-bottom">      <div class="auto-container">
+        <div class="copyright"><H3>3CLICK &copy; - WHATS:11 977-148-076 | AGENCIA@3CICK.COM.BR</h3> Conteúdo sob licenciamento Creative Commons Atribuição 2.5 Brasil CC BY-NC-ND</div>
+      </div>    </div>  
+
+ <!-- INICIO ATENCIMENTO ONLINE -------------------------------------------------------------->
+	<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/pt_BR/sdk/xfbml.customerchat.js#xfbml=1&version=v2.12&autoLogAppEvents=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Your customer chat code -->
+<div class="fb-customerchat"
+  attribution="setup_tool"
+  page_id="1544197565602113"
+  theme_color="#ff7e29">
+</div>
+<!-- FIM ATENDIMENTO ONLINE ------------------------------------------------------------------>	</footer>
+    <!--End Main Footer-->
+    
+</div>
+<!--End pagewrapper-->
+
+ 
+
+<script src="./publicidade_files/jquery.js.download"></script> 
+<script src="./publicidade_files/bootstrap.min.js.download"></script>
+<!--Revolution Slider-->
+<script src="./publicidade_files/jquery.themepunch.revolution.min.js.download"></script>
+<script src="./publicidade_files/jquery.themepunch.tools.min.js.download"></script>
+<script src="./publicidade_files/revolution.extension.actions.min.js.download"></script>
+<script src="./publicidade_files/revolution.extension.carousel.min.js.download"></script>
+<script src="./publicidade_files/revolution.extension.kenburn.min.js.download"></script>
+<script src="./publicidade_files/revolution.extension.layeranimation.min.js.download"></script>
+<script src="./publicidade_files/revolution.extension.migration.min.js.download"></script>
+<script src="./publicidade_files/revolution.extension.navigation.min.js.download"></script>
+<script src="./publicidade_files/revolution.extension.parallax.min.js.download"></script>
+<script src="./publicidade_files/revolution.extension.slideanims.min.js.download"></script>
+<script src="./publicidade_files/revolution.extension.video.min.js.download"></script>
+<script src="./publicidade_files/main-slider-script.js.download"></script>
+<!--End Revolution Slider-->
+<script src="./publicidade_files/jquery.fancybox.js.download"></script>
+<script src="./publicidade_files/owl.js.download"></script>
+<script src="./publicidade_files/wow.js.download"></script>
+<script src="./publicidade_files/bxslider.js.download"></script>
+<script src="./publicidade_files/appear.js.download"></script>
+<script src="./publicidade_files/script.js.download"></script>
+
+<script type="text/javascript">( function(){ window.SIG_EXT = {}; } )()</script></body></html>

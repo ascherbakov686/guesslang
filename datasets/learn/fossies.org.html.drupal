@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<HTML lang="en">
+<HEAD>
+<META http-equiv="content-type" content="text/html; charset=utf-8">
+<META name="viewport" content="width=device-width, initial-scale=0.7">
+<META name="description" content="Fossies - The Fresh Open Source Software archive with special browsing features">
+<META name="keywords" content="Fossies, Download, Fresh, Freeware, Shareware, Free, Open Source, Software, Archive, Source Code Browsing, Syntax Highlighting, Documentation, Unix, Linux, Windows, Internet, Engineering, Research, Science">
+<META http-equiv="Content-Script-Type" content="text/javascript">
+<META http-equiv="Content-Style-Type" content="text/css">
+<META name="robots" content="INDEX,FOLLOW">
+<TITLE>Fossies - The Fresh Open Source Software Archive</TITLE>
+<script type="text/javascript" src="/scripts/hp_tt_infos.js"></script>
+<script type="text/javascript" src="/scripts/poth_tt_infos.js"></script>
+<LINK rel="stylesheet" type="text/css" href="/style/fresh.css">
+<LINK rel="alternate" type="application/rss+xml" title="RSS" href="/fresh.rss">
+
+</HEAD>
+
+<BODY>
+<script type="text/javascript" src="/scripts/wz_tooltip.js"></script>
+<script type="text/javascript" src="/scripts/tip_balloon.js"></script>
+
+<DIV class="fresh_head_1" align="center">
+<H1>The &quot;<SPAN onmouseover="Tip(fresh_history, BALLOON, isWZTTBB, DELAY, 1000, DURATION, 20000, STICKY, 0)" onmouseout="UnTip()"><A HREF="/">Fossies</A></SPAN>&quot; Software Archive</H1>
+</DIV>
+
+<DIV class="fresh_head_2" align="center">
+...&nbsp;<SPAN onmouseover="Tip(fresh_motivation, BALLOON, isWZTTBB, DELAY, 1000, DURATION, 45000, STICKY, 0)" onmouseout="UnTip()"><span class="hbl">F</span>resh&nbsp;<span class="hbl">O</span>pen&nbsp;<span class="hbl">S</span>ource&nbsp;<span class="hbl">S</span>oftware mainly&nbsp;for <span class="hbl">I</span>nternet,&nbsp;<span class="hbl">E</span>ngineering&nbsp;and&nbsp;<span class="hbl">S</span>cience</SPAN>&nbsp;...
+</DIV>
+
+<HR>
+
+<DIV class="fresh_info">
+This specialized software archive isn't designed to be a "complete" software
+archive like some <A HREF="other-softarchs.html">other</A> services
+but is just a collection of individually selected and hopefully useful software
+sources. Amongst other  
+<A HREF="/features.html" onmouseover="Tip(fresh_features, BALLOON, isWZTTBB, DELAY, 2000, DURATION, 45000, STICKY, 1)" onmouseout="UnTip()">great features</A> it allows to browse and search through the archive members in order to study both documentation and sources. 
+This may avoid unnecessary file transfers and installation effort and may let you detect some otherwise undetected software treasures.
+As a new probably worldwide uniquely feature Fossies provides now additionally graph-visualized <A HREF="/dox/">dox</A>ygen generated source code documentation for nearly all packages.
+The main focus of this archive is on internet applications and solutions for research, engineering and scientific workers.
+Have fun in browsing through our software archive!
+</DIV>
+
+<HR>
+
+<DIV class="folders" align="center">
+<P>
+
+<TABLE CELLPADDING="20" CELLSPACING="0" BORDER="0" >
+<TR VALIGN="MIDDLE">
+
+<TD>
+<B><A HREF="linux/" onmouseover="Tip(linux, ABOVE, true, OFFSETY, 15, BALLOON, isWZTTBB, DELAY, 1000, DURATION, 6000, STICKY, 1)" onmouseout="UnTip()" TITLE="Software packages for Unix-like operating systems">Linux</A></B>
+
+<UL>
+<LI><A HREF="linux/misc/"     onmouseover="Tip(linux_misc, ABOVE, true, OFFSETX, 15, OFFSETY, 0, BALLOON, isWZTTBB, DELAY, 1500, DURATION, 30000, STICKY, 1)" onmouseout="UnTip()" TITLE="The main Linux/Unix software collection">misc</A></LI>
+
+<LI><A HREF="linux/www/"       onmouseover="Tip(linux_www, ABOVE, true, OFFSETX, 15, OFFSETY, 0, BALLOON, isWZTTBB, DELAY, 1500, DURATION, 30000, STICKY, 1)" onmouseout="UnTip()" TITLE="Web-related Linux/Unix software">www</A></LI>
+
+<LI><A HREF="linux/privat/" onmouseover="Tip(linux_privat, ABOVE, true, OFFSETX, 15, OFFSETY, 0, BALLOON, isWZTTBB, DELAY, 1500, DURATION, 30000, STICKY, 1)" onmouseout="UnTip()" TITLE="An originally privat(e) omnium-gatherum of very &#34;fresh&#34;, &#34;specialized&#34; or yet unstable software">privat</A></LI>
+
+<LI><A HREF="linux/kernel/" onmouseover="Tip(linux_kernel, ABOVE, true, OFFSETX, 10, OFFSETY, 0, BALLOON, isWZTTBB, DELAY, 1500, DURATION, 30000, STICKY, 1)" onmouseout="UnTip()" TITLE="Different Linux kernel sources">kernel</A></LI>
+
+<LI><A HREF="linux/docs/"   onmouseover="Tip(linux_docs, ABOVE, true, OFFSETX, 15, OFFSETY, 0, BALLOON, isWZTTBB, DELAY, 1500, DURATION, 30000, STICKY, 1)" onmouseout="UnTip()" TITLE="Some Linux documentation (but mostly outdated)">(docs)</A></LI>
+</UL>
+<B><A HREF="windows/" onmouseover="Tip(windows, BALLOON, isWZTTBB, ABOVE, true, OFFSETY, 15, DELAY, 1000, DURATION, 6000, STICKY, 1)" onmouseout="UnTip()" TITLE="Some Windows (and DOS) specific software packages">Windows</A></B>
+<UL>
+<LI><A HREF="windows/misc/" onmouseover="Tip(windows_misc, ABOVE, true, OFFSETX, 15, OFFSETY, 0, BALLOON, isWZTTBB, DELAY, 1500, DURATION, 30000, STICKY, 1)" onmouseout="UnTip()" TITLE="The main Windows software collection">misc</A></LI>
+<LI><A HREF="windows/www/"   onmouseover="Tip(windows_www, ABOVE, true, OFFSETX, 15, OFFSETY, 0, BALLOON, isWZTTBB, DELAY, 1500, DURATION, 30000, STICKY, 1)" onmouseout="UnTip()" TITLE="Web-related Windows software">www</A></LI>
+<LI><A HREF="windows/mail/" onmouseover="Tip(windows_mail, ABOVE, true, OFFSETX, 15, OFFSETY, 0, BALLOON, isWZTTBB, DELAY, 1500, DURATION, 30000, STICKY, 1)" onmouseout="UnTip()" TITLE="Mail-related Windows software">mail</A></LI>
+</UL>
+</TD>
+
+<TD valign="middle">
+<IMG SRC="tree-1511608-foss.jpg" class="foss_tree" WIDTH="357" HEIGHT="402" ALT="Flowering FOSS tree" usemap="#foss_tree">
+</TD>
+
+<TD align="left" valign="middle">
+<B>
+<A HREF="/pkgs.html" onmouseover="Tip(pkgs, ABOVE, true, OFFSETY, 15, BALLOON, isWZTTBB, DELAY, 1000, DURATION, 6000, STICKY, 1)" onmouseout="UnTip()" TITLE="Software packages (download and member browsing)">Pkgs</A>
+</B>
+<UL>
+<LI><A HREF="/newest.html" onmouseover="Tip(pkgs_new, ABOVE, true, OFFSETY, 15, BALLOON, isWZTTBB, DELAY, 1000, DURATION, 6000, STICKY, 1)" onmouseout="UnTip()" TITLE="List of the 100 newest software packages">new</A>
+
+<LI><A HREF="/all.html" onmouseover="Tip(pkgs_all, ABOVE, true, OFFSETY, 15, BALLOON, isWZTTBB, DELAY, 1000, DURATION, 6000, STICKY, 1)" onmouseout="UnTip()" TITLE="Alphabetical index of all software packages">all</A>
+</UL>
+
+<B>
+<A HREF="/diffs/" onmouseover="Tip(diffs, ABOVE, true, OFFSETY, 15, BALLOON, isWZTTBB, DELAY, 1000, DURATION, 6000, STICKY, 1)" onmouseout="UnTip()" TITLE="Software packages source code changes ( = differences) reports">Diffs</A>
+</B>
+<UL>
+<LI><A HREF="/diffs/newest.html" onmouseover="Tip(diffs_new, ABOVE, true, OFFSETY, 15, BALLOON, isWZTTBB, DELAY, 1000, DURATION, 6000, STICKY, 1)" onmouseout="UnTip()" TITLE="List of the 100 software packages with the newest diffs reports">new</A>
+<LI><A HREF="/diffs/all.html" onmouseover="Tip(diffs_all, ABOVE, true, OFFSETY, 15, BALLOON, isWZTTBB, DELAY, 1000, DURATION, 6000, STICKY, 1)" onmouseout="UnTip()" TITLE="Alphabetical index of all software packages with a diffs report">all</A>
+</UL>
+
+<B>
+<A HREF="/dox/" onmouseover="Tip(dox, ABOVE, true, OFFSETY, 15, BALLOON, isWZTTBB, DELAY, 1000, DURATION, 6000, STICKY, 1)" onmouseout="UnTip()" TITLE="Doxygen generated source code documentation">Dox</A>
+</B>
+<UL>
+<LI><A HREF="/dox/newest.html" onmouseover="Tip(dox_new, ABOVE, true, OFFSETY, 15, BALLOON, isWZTTBB, DELAY, 1000, DURATION, 6000, STICKY, 1)" onmouseout="UnTip()" TITLE="List of the 100 newest software packages with doxygen-generated source-code documentation">new</A>
+<LI><A HREF="/dox/all.html" onmouseover="Tip(dox_all, ABOVE, true, OFFSETY, 15, BALLOON, isWZTTBB, DELAY, 1000, DURATION, 6000, STICKY, 1)" onmouseout="UnTip()" TITLE="Alphabetical index of all software packages of all software packages with doxygen-generated source-code documentation">all</A>
+</UL>
+</TD>
+
+</TR>
+</TABLE>
+</DIV>
+
+<map name="foss_tree" id="foss_tree">
+<area shape="poly" alt="FOSS tree: Special features of the Fossies software archive" coords="80,55,150,10,325,116,325,184,187,210,175,291,187,395,154,395,150,282,100,259,80,265" href="/features.html" onmouseover="Tip(fresh_features, ABOVE, true, BALLOON, isWZTTBB, FIX, [180, 290], DELAY, 1000, DURATION, 45000, STICKY, 1)" onmouseout="UnTip()">
+<area shape="poly" alt="FOSS tree (upper left branch): Linux package of the hour" coords="0,00,70,00,70,95,0,95" href="/linux/poth.html" onmouseover="Tip(lin_poth, FONTSIZE, '10pt', ABOVE, true, BALLOON, isWZTTBB, WIDTH, 550, FIX, [330, 290], DELAY, 1000, DURATION, 15000, STICKY, 1)" onmouseout="UnTip()">
+<area shape="poly" alt="FOSS tree (lower left branch): Windows package of the hour" coords="0,205,70,205,70,300,0,300" href="/windows/poth.html" onmouseover="Tip(win_poth, FONTSIZE, '10pt', ABOVE, true, BALLOON, isWZTTBB, WIDTH, 550, FIX, [305, 475], DELAY, 1000, DURATION, 15000, STICKY, 1)" onmouseout="UnTip()">
+</map>
+
+<DIV class="fresh_foot_1" align="center">
+<FORM action="/search">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software package:
+ <INPUT TYPE="hidden" NAME="q" VALUE="folder_search">
+ <INPUT NAME="q1" SIZE="20">
+ <INPUT type="submit" value="Search">
+ <A HREF="/search.html">(advanced)</A>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+ <INPUT TYPE="hidden" NAME="rd" VALUE="/fresh/">
+ <INPUT TYPE="hidden" NAME="sd" VALUE="0"> 
+ <INPUT TYPE="hidden" NAME="ud" VALUE="/"> 
+ <INPUT TYPE="hidden" NAME="ap" VALUE="no"> 
+ <INPUT TYPE="hidden" NAME="ca" VALUE="no"> 
+ <INPUT TYPE="hidden" NAME="dp" VALUE="0"> 
+ <INPUT TYPE="hidden" NAME="si" VALUE="0"> 
+ <INPUT TYPE="hidden" NAME="sn" VALUE="1"> 
+ <INPUT TYPE="hidden" NAME="ml" VALUE="30"> 
+ <INPUT TYPE="hidden" NAME="dml" VALUE="3"> 
+</FORM>
+</DIV>
+
+<HR>
+
+<DIV class="fresh_info">
+Some of the Linux collections above are fairly large so you may view for a
+start only the newest 50 archives (use "index_n.html" instead of "index.html").
+<noscript>
+If JavaScript is enabled:
+</noscript>
+Put your mouse on such a collection link, wait two seconds and click within the
+appearing popup-window on the desired link.
+To see Fossies "package of the hour" move the mouse over the FOSS tree near the
+Linux or the Windows area.
+</DIV>
+<HR>
+
+<DIV class="fresh_foot_1" align="center">
+<A HREF="/" TITLE="Go to the Fossies start page" onmouseover="Tip('Go to the Fossies start page', SHADOW, true, OFFSETX, -10, OFFSETY, 10)" onmouseout="UnTip()">Home</A>&nbsp;&nbsp;|&nbsp;
+<A HREF="/about.html" TITLE="About Fossies: History, motivation, features ..." onmouseover="Tip('&nbsp;About Fossies: History, motivation, features&nbsp;...&nbsp;', SHADOW, true, OFFSETX, -10, OFFSETY, 10)" onmouseout="UnTip()">About</A>&nbsp;&nbsp;|&nbsp;
+<A HREF="/features.html" TITLE="The special features of the Fossies software archive" onmouseover="Tip('&nbsp;The special features of the Fossies software archive&nbsp;', SHADOW, true, OFFSETY, 10)" onmouseout="UnTip()">Features</A>&nbsp;&nbsp;|&nbsp;
+<A HREF="/all.html" TITLE="Big index of all software packages on Fossies" onmouseover="Tip('&nbsp;Big index of all software packages on Fossies&nbsp;', SHADOW, true, OFFSETX, -10, OFFSETY, 10)" onmouseout="UnTip()">All</A>&nbsp;&nbsp;|&nbsp;
+<A HREF="/newest.html" TITLE="List of the 100 newest software packages on Fossies" onmouseover="Tip('List of the 100 newest software packages on Fossies', SHADOW, true, OFFSETX, -10, OFFSETY, 10)" onmouseout="UnTip()">Newest</A>&nbsp;&nbsp;|&nbsp;
+<A HREF="/dox/" TITLE="Fossies doxygen generated source code documentation" onmouseover="Tip('Fossies doxygen generated source code documentation&nbsp;', SHADOW, true, OFFSETX, -10, OFFSETY, 10)" onmouseout="UnTip()">Dox</A>&nbsp;&nbsp;|&nbsp;
+<A HREF="/diffs/" TITLE="Fossies source code changes (&quot;diffs&quot;) reports" onmouseover="Tip('Fossies source code changes (&quot;diffs&quot;) reports', SHADOW, true, OFFSETX, -10, OFFSETY, 10)" onmouseout="UnTip()">Diffs</A>&nbsp;&nbsp;|&nbsp;
+<A HREF="/features.html#codespell" TITLE="Fossies requestable source code misspelling (&quot;codespell&quot;) reports" onmouseover="Tip('Fossies requestable source code misspelling (&quot;codespell&quot;) reports', SHADOW, true, OFFSETX, -10, OFFSETY, 10)" onmouseout="UnTip()">Codespell</A>&nbsp;&nbsp;|&nbsp;
+<A HREF="/rssfeed.html" TITLE="Fossies RSS feeds" onmouseover="Tip('Fossies RSS feeds (informing about the newest software packages)', SHADOW, true, OFFSETX, -10, OFFSETY, 10)" onmouseout="UnTip()">RSS Feeds</A>&nbsp;&nbsp;|&nbsp;
+<A HREF="/slideshow/" TITLE="Small slideshow to get an impression of some special Fossies features" onmouseover="Tip('&nbsp;Small slideshow to get an impression of some special Fossies features&nbsp;', SHADOW, true, OFFSETX, -10, OFFSETY, 5)" onmouseout="UnTip()">Screenshots</A>&nbsp;&nbsp;|&nbsp;
+<A HREF="/comments.html" TITLE="Comments, commendations, contacts, criticism ..." onmouseover="Tip('Comments, commendations, contacts, criticism ...', SHADOW, true, OFFSETX, -10, OFFSETY, 10)" onmouseout="UnTip()">Comments</A>&nbsp;&nbsp;|&nbsp;
+<A HREF="/imprint.html" TITLE="Fossies imprint, disclaimer" onmouseover="Tip('Fossies imprint, disclaimer', SHADOW, true, OFFSETX, -10, OFFSETY, 5)" onmouseout="UnTip()">Imprint</A>&nbsp;&nbsp;|&nbsp;
+<A HREF="/privacy_policy.html" TITLE="Fossies privacy policy" onmouseover="Tip('&nbsp;Fossies privacy policy&nbsp;', SHADOW, true, OFFSETX, -10, OFFSETY, 10)" onmouseout="UnTip()">Privacy</A>&nbsp;&nbsp;|&nbsp;
+<A HREF="/http_to_https.html" TITLE="How to access Fossies via HTTPS (or HTTP)" onmouseover="Tip('How to access Fossies via HTTPS (or HTTP)', SHADOW, true, OFFSETX, -10, OFFSETY, 10)" onmouseout="UnTip()">HTTP(S)</A>
+</DIV>
+
+</BODY></HTML>

@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head>
+<meta charset="utf-8" />
+<link rel="shortcut icon" href="https://nrex.wyo.gov/sites/nrex.wygisc.org/themes/best_responsive/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="alternate" type="application/rss+xml" title="Natural Resource and Energy Explorer RSS" href="https://nrex.wyo.gov/rss.xml" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<title>Natural Resource and Energy Explorer | Natural Resource and Energy Explorer</title>
+<style type="text/css" media="all">
+@import url("https://nrex.wyo.gov/modules/system/system.base.css?q5cfsn");
+@import url("https://nrex.wyo.gov/modules/system/system.menus.css?q5cfsn");
+@import url("https://nrex.wyo.gov/modules/system/system.messages.css?q5cfsn");
+@import url("https://nrex.wyo.gov/modules/system/system.theme.css?q5cfsn");
+</style>
+<style type="text/css" media="all">
+@import url("https://nrex.wyo.gov/modules/comment/comment.css?q5cfsn");
+@import url("https://nrex.wyo.gov/modules/field/theme/field.css?q5cfsn");
+@import url("https://nrex.wyo.gov/modules/node/node.css?q5cfsn");
+@import url("https://nrex.wyo.gov/modules/search/search.css?q5cfsn");
+@import url("https://nrex.wyo.gov/modules/user/user.css?q5cfsn");
+@import url("https://nrex.wyo.gov/sites/all/modules/views/css/views.css?q5cfsn");
+</style>
+<style type="text/css" media="all">
+@import url("https://nrex.wyo.gov/sites/all/modules/ctools/css/ctools.css?q5cfsn");
+</style>
+<style type="text/css" media="all">
+@import url("https://nrex.wyo.gov/sites/nrex.wygisc.org/themes/best_responsive/style.css?q5cfsn");
+@import url("https://nrex.wyo.gov/sites/nrex.wygisc.org/themes/best_responsive/css/responsive.css?q5cfsn");
+</style>
+<script type="text/javascript" src="https://nrex.wyo.gov/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://nrex.wyo.gov/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://nrex.wyo.gov/misc/drupal.js?q5cfsn"></script>
+<script type="text/javascript" src="https://nrex.wyo.gov/sites/nrex.wygisc.org/themes/best_responsive/js/flexslider-min.js?q5cfsn"></script>
+<script type="text/javascript" src="https://nrex.wyo.gov/sites/nrex.wygisc.org/themes/best_responsive/js/slide.js?q5cfsn"></script>
+<script type="text/javascript" src="https://nrex.wyo.gov/sites/all/modules/google_analytics/googleanalytics.js?q5cfsn"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://nrex.wyo.gov/sites/nrex.wygisc.org/files/public/googleanalytics/analytics.js?q5cfsn","ga");ga("create", "UA-45071603-8", {"cookieDomain":"auto","allowLinker":true});ga("require", "linkid", "linkid.js");ga("require", "linker");ga("linker:autoLink", ["nrex.wyo.gov","nrex.wygisc.org"]);ga("set", "page", location.pathname + location.search + location.hash);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://nrex.wyo.gov/sites/nrex.wygisc.org/themes/best_responsive/js/uniform.js?q5cfsn"></script>
+<script type="text/javascript" src="https://nrex.wyo.gov/sites/nrex.wygisc.org/themes/best_responsive/js/superfish.js?q5cfsn"></script>
+<script type="text/javascript" src="https://nrex.wyo.gov/sites/nrex.wygisc.org/themes/best_responsive/js/initialize.js?q5cfsn"></script>
+<script type="text/javascript" src="https://nrex.wyo.gov/sites/nrex.wygisc.org/themes/best_responsive/js/responsive.js?q5cfsn"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"best_responsive","theme_token":"4XfN6JsG_h18hf8wR5XdiKySgWnnjyesrWnHaTZ381c","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/nrex.wygisc.org\/themes\/best_responsive\/js\/flexslider-min.js":1,"sites\/nrex.wygisc.org\/themes\/best_responsive\/js\/slide.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/nrex.wygisc.org\/themes\/best_responsive\/js\/uniform.js":1,"sites\/nrex.wygisc.org\/themes\/best_responsive\/js\/superfish.js":1,"sites\/nrex.wygisc.org\/themes\/best_responsive\/js\/initialize.js":1,"sites\/nrex.wygisc.org\/themes\/best_responsive\/js\/responsive.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/nrex.wygisc.org\/themes\/best_responsive\/style.css":1,"sites\/nrex.wygisc.org\/themes\/best_responsive\/css\/responsive.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"json|nrex|7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackDomainMode":2,"trackCrossDomains":["nrex.wyo.gov","nrex.wygisc.org"],"trackUrlFragments":1}});
+//--><!]]>
+</script>
+<!--[if lt IE 9]><script src="/sites/nrex.wygisc.org/themes/best_responsive/js/html5.js"></script><![endif]-->
+</head>
+<body class="html front not-logged-in no-sidebars page-node">
+    <div id="wrap" class="clearfix">
+  <div id="header-wrap">
+        <header id="header" class="clearfix">
+      <div id="logo">
+        <div id="site-logo"><a href="/" title="Home">
+          <img src="https://nrex.wyo.gov/sites/nrex.wygisc.org/themes/best_responsive/logo.png" alt="Home" />
+        </a></div>        <h1 id="site-name">
+          <a href="/" title="Home"><span>Natural Resource and Energy Explorer</span></a>
+        </h1>
+      </div>
+      <nav id="navigation" role="navigation">
+        <div id="main-menu">
+          <ul class="menu"><li class="first leaf"><a href="/" class="active">Home</a></li>
+<li class="expanded"><a href="/about">About</a><ul class="menu"><li class="first leaf"><a href="/data">Data Resources &amp; Partners</a></li>
+<li class="leaf"><a href="/faqs">Frequently Asked Questions</a></li>
+<li class="last leaf"><a href="/events">Schedule of Events</a></li>
+</ul></li>
+<li class="expanded"><a href="/user/login?current=node" title="">Log In</a><ul class="menu"><li class="first last leaf"><a href="/user/register" title="">Register</a></li>
+</ul></li>
+<li class="last leaf"><a href="/contact" title="">Contact</a></li>
+</ul>        </div>
+      </nav>
+    </header>
+  </div>
+
+  <div id="main-content" class="clearfix">
+                <div id="home-slider">
+      <div class="flexslider-container">
+        <div id="single-post-slider" class="flexslider">
+          <ul class="slides">
+            <li class="slide"><img src="/sites/nrex.wygisc.org/themes/best_responsive/images/slide-image-1.jpg" alt="Slide"/></li>
+            <li class="slide"><img src="/sites/nrex.wygisc.org/themes/best_responsive/images/slide-image-2.jpg" alt="Slide"/></li>
+            <li class="slide"><img src="/sites/nrex.wygisc.org/themes/best_responsive/images/slide-image-3.jpg" alt="Slide"/></li>
+          </ul><!-- /slides -->
+        </div><!-- /flexslider -->
+      </div>
+    </div>
+        
+    
+        <div id="primary" class="container   clearfix">
+      <section id="content" role="main" class="clearfix">
+                                <div id="content-wrap">
+                                                                      <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+      <article id="node-1" class="node node-basic-page node-promoted node-sticky node-teaser clearfix" about="/home" typeof="sioc:Item foaf:Document">
+        <header>
+                    <h2 class="title" ><a href="/home">Welcome</a></h2>
+            <span property="dc:title" content="Welcome" class="rdf-meta element-hidden"></span>  
+      
+          </header>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2 style="font-style:normal; text-align:center"><span style="color:rgb(168, 174, 45)">~  </span><a href="http://nrex.wyo.gov/user/"><span style="color:rgb(58, 111, 143)">FIRST, LOG IN OR REGISTER</span></a><span style="color:rgb(168, 174, 45)"> ~</span><br /><span style="color:rgb(168, 174, 45)">~  </span><a href="http://nrex.wyo.gov/disclaimer"><span style="color:rgb(58, 111, 143)">ONCE LOGGED IN, GET STARTED WITH THE NREX MAP APPLICATION</span></a><span style="color:rgb(168, 174, 45)"> ~</span><br /> </h2>
+<p><a href="/sites/nrex.wygisc.org/files/public/documents/NREX_Brochure.pdf" target="_blank"><img alt="NREX Brochure Cover and Link to the Brochure." src="/sites/nrex.wygisc.org/files/public/pictures/nrex_brochure_200px.png" style="border-style:solid; border-width:0px; float:left; height:295px; margin:1px 5px; width:190px" /></a>The Natural Resource and Energy Explorer (NREX) is a Web GIS-based software tool that supports pre-planning development considerations by enabling discovery, analysis and assessment of energy, environmental, cultural, socioeconomic and infrastructural assets for user-defined, project-scale areas of interest in the state. </p>
+<p>The NREX application is designed to support the Energy Atlas concept within the Governorâ€™s Energy Strategy Initiative by providing public access to credible geographic data and information maintained by state agencies. Its primary audience includes developers, conservationists, consultants, planners, <span style="font-family:open sans,helvetica,arial,sans-serif; font-size:14px">policy makers, </span>and resource managers with interests in assessing potential place-based resource allocations. A secondary audience includes educators and the general public seeking map-based sources of information for Wyoming's natural, cultural and energy resources.</p>
+<p><a href="/sites/nrex.wygisc.org/files/public/documents/NREX_Brochure.pdf" style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: 25.2px; font-family: 'Open Sans', Helvetica, Arial, sans-serif;" target="_blank">NREX Brochure (pdf)</a>: tri-fold for print.<br /><a href="https://vimeo.com/wygisc/nrex-introduction" style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: 25.2px; font-family: 'Open Sans', Helvetica, Arial, sans-serif;" target="_blank">NREX Video (Vimeo)</a><span style="font-family:open sans,helvetica,arial,sans-serif; font-size:14px">: Governor Matthew H. Mead's Introduction to the Natural Resource and Energy Explorer.</span></p>
+<p> </p>
+<p><a href="https://vimeo.com/wygisc/miningdemos" style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: 25.2px; font-family: 'Open Sans', Helvetica, Arial, sans-serif;" target="_blank">NREX Mining Potential Demo Video (Vimeo)</a><span style="font-family:open sans,helvetica,arial,sans-serif; font-size:14px">: Wyoming Business Council and WyGISC's demonstration of use for potential mining in Wyoming. Click on the <strong>CC </strong>in the lower right-hand corner to view demo narrative.</span></p>
+<p><iframe frameborder="0" height="500" src="https://player.vimeo.com/video/201039040" width="100%"></iframe></p>
+</div></div></div>  </div>
+
+      <footer>
+      <ul class="links inline"><li class="node-readmore first last"><a href="/home" rel="tag" title="Welcome">Read more<span class="element-invisible"> about Welcome</span></a></li>
+</ul>    </footer>
+  
+    </article> <!-- /.node -->
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+        </div>
+      </section>
+          </div>
+
+    <div class="clear"></div>
+  </div>
+
+    <footer id="footer-bottom">
+    <div id="footer-area" class="clearfix">
+              <div id="footer-block-wrap" class="clearfix">
+          <div class="footer-block">
+            <div class="region region-footer-first">
+  <div id="block-block-3" class="block block-block">
+
+      
+  <div class="content">
+    <p style="text-align:center"><span style="font-size:14px"><a href="http://www.wyo.gov/" style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: 25.2px; font-family: 'Open Sans', Helvetica, Arial, sans-serif; text-align: center;" target="_blank">State of Wyoming</a></span></p>
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+          </div>          <div class="footer-block">
+            <div class="region region-footer-second">
+  <div id="block-block-1" class="block block-block">
+
+      
+  <div class="content">
+    <p style="text-align:center"><span style="font-size:14px"><a href="https://sites.google.com/a/wyo.gov/wy-ag/privacy" target="_blank">Privacy Policy</a></span></p>
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+          </div>          <div class="footer-block remove-margin">
+            <div class="region region-footer-third">
+  <div id="block-block-2" class="block block-block">
+
+      
+  <div class="content">
+    <p style="text-align:center"><a href="https://drive.google.com/file/d/0BxgGvgRMOUrURE53czl3ZkhPaU0/view" style="font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; line-height: 25.2px;" target="_blank">Updated Energy Strategy 2016</a></p>
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+          </div>        </div>
+        <div class="clear"></div>
+            
+      <div class="region region-footer">
+  <div id="block-system-powered-by" class="block block-system">
+
+      
+  <div class="content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+    </div>
+  </footer>
+  
+  <div id="copyright">
+    Copyright &copy; 2020, <a href="/">Natural Resource and Energy Explorer</a>. Theme by  <a href="http://www.devsaran.com" target="_blank">Devsaran</a>
+  </div>
+</div>  </body>
+</html>

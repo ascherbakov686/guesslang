@@ -1,0 +1,803 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.londondesignbiennale.com/sites/default/files/LDB-Logo_black_transparent.png" type="image/png" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://www.londondesignbiennale.com/" />
+<link rel="shortlink" href="https://www.londondesignbiennale.com/" />
+  <title>London Design Biennale |</title>
+  <style type="text/css" media="all">
+@import url("https://www.londondesignbiennale.com/modules/system/system.base.css?q201i9");
+@import url("https://www.londondesignbiennale.com/modules/system/system.menus.css?q201i9");
+@import url("https://www.londondesignbiennale.com/modules/system/system.messages.css?q201i9");
+@import url("https://www.londondesignbiennale.com/modules/system/system.theme.css?q201i9");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.londondesignbiennale.com/sites/all/modules/date/date_api/date.css?q201i9");
+@import url("https://www.londondesignbiennale.com/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?q201i9");
+@import url("https://www.londondesignbiennale.com/modules/field/theme/field.css?q201i9");
+@import url("https://www.londondesignbiennale.com/sites/all/modules/ldb_admin/ldb_admin.css?q201i9");
+@import url("https://www.londondesignbiennale.com/modules/node/node.css?q201i9");
+@import url("https://www.londondesignbiennale.com/modules/search/search.css?q201i9");
+@import url("https://www.londondesignbiennale.com/modules/user/user.css?q201i9");
+@import url("https://www.londondesignbiennale.com/sites/all/modules/views/css/views.css?q201i9");
+@import url("https://www.londondesignbiennale.com/sites/all/modules/ckeditor/css/ckeditor.css?q201i9");
+@import url("https://www.londondesignbiennale.com/sites/all/modules/media/modules/media_wysiwyg/css/media_wysiwyg.base.css?q201i9");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.londondesignbiennale.com/sites/all/modules/ctools/css/ctools.css?q201i9");
+@import url("https://www.londondesignbiennale.com/sites/all/modules/video/css/video.css?q201i9");
+@import url("https://www.londondesignbiennale.com/sites/all/modules/ds/layouts/ds_2col/ds_2col.css?q201i9");
+@import url("https://www.londondesignbiennale.com/sites/all/modules/ds/layouts/ds_2col_stacked_fluid/ds_2col_stacked_fluid.css?q201i9");
+@import url("https://www.londondesignbiennale.com/sites/all/libraries/fontawesome/css/font-awesome.css?q201i9");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.londondesignbiennale.com/sites/all/themes/ldb2/slick/slick/slick.css?q201i9");
+@import url("https://www.londondesignbiennale.com/sites/all/themes/ldb2/style.css?q201i9");
+</style>
+  <script type="text/javascript" src="https://www.londondesignbiennale.com/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.londondesignbiennale.com/misc/jquery-extend-3.4.0.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.londondesignbiennale.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://www.londondesignbiennale.com/misc/drupal.js?q201i9"></script>
+<script type="text/javascript" src="https://www.londondesignbiennale.com/sites/all/modules/ldb_admin/ldb_admin.js?q201i9"></script>
+<script type="text/javascript" src="https://www.londondesignbiennale.com/sites/all/modules/video/js/video.js?q201i9"></script>
+<script type="text/javascript" src="https://www.londondesignbiennale.com/sites/all/themes/ldb2/slick/slick/slick.min.js?q201i9"></script>
+<script type="text/javascript" src="https://www.londondesignbiennale.com/sites/all/themes/ldb2/functions.js?q201i9"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ldb2","theme_token":"bSnat_4216TTiRNTz31L1Uu4jMiTRfAmuO6RNZR9Mz4","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/ldb_admin\/ldb_admin.js":1,"sites\/all\/modules\/video\/js\/video.js":1,"sites\/all\/themes\/ldb2\/slick\/slick\/slick.min.js":1,"sites\/all\/themes\/ldb2\/functions.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/ldb_admin\/ldb_admin.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/video\/css\/video.css":1,"sites\/all\/modules\/ds\/layouts\/ds_2col\/ds_2col.css":1,"sites\/all\/modules\/ds\/layouts\/ds_2col_stacked_fluid\/ds_2col_stacked_fluid.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"sites\/all\/themes\/ldb2\/slick\/slick\/slick.css":1,"sites\/all\/themes\/ldb2\/style.css":1}},"better_exposed_filters":{"views":{"partner_block":{"displays":{"block":{"filters":[]}}}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in no-sidebars page-node page-node- page-node-9 node-type-page" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <header>
+    <div class="wrap">
+        <div id="logo"><a href="/"><img src="https://www.londondesignbiennale.com/sites/default/files/LDB-Logo%20no%20date%20small.png" alt="Home" /></a></div>
+        <div id="header">  <div class="region region-header">
+    <div id="block-system-main-menu" class="block block-system block-menu">
+        <h2>Main menu</h2>  
+  <div class="content">
+    <ul class="menu"><li class="first leaf active-trail"><a href="/london-design-biennale-2020" class="active-trail active">Home</a></li>
+<li class="leaf"><a href="/es-devlin">Artistic Director 2020</a></li>
+<li class="leaf"><a href="/theme-resonance">Resonance</a></li>
+<li class="leaf"><a href="/participants">Participants</a></li>
+<li class="leaf"><a href="/exhibit-london-design-biennale-2020">Exhibit</a></li>
+<li class="leaf"><a href="/london-design-biennale-medal-winners">Medals</a></li>
+<li class="leaf"><a href="/supporters">Supporters</a></li>
+<li class="leaf"><a href="/jury">Jury</a></li>
+<li class="leaf"><a href="/press">Press</a></li>
+<li class="leaf"><a href="/summit">Summit</a></li>
+<li class="expanded"><span class="nolink">Archive</span><ul class="menu"><li class="first leaf"><a href="/london-design-biennale-2018">Emotional States</a></li>
+<li class="last leaf"><a href="/utopia-design">Utopia by Design</a></li>
+</ul></li>
+<li class="leaf"><span class="separator"><hr></span></li>
+<li class="leaf logout"><a href="/login">Log in</a></li>
+<li class="last collapsed" id="bars"><span class="nolink">&nbsp;<i class="fa fa-bars" aria-hidden="true"></i></span></li>
+</ul>  </div>
+</div>
+  </div>
+</div>        <div id="social">  <div class="region region-social">
+    <div id="block-menu-menu-social-icon-" class="block block-menu">
+        <h2>Social (icon)</h2>  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="https://www.facebook.com/Londondesignbiennale/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i>&nbsp;</a></li>
+<li class="leaf"><a href="https://twitter.com/londonbiennale" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i>&nbsp;</a></li>
+<li class="leaf"><a href="https://www.instagram.com/london_design_biennale/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i>&nbsp;</a></li>
+<li class="last leaf"><a href="http://eepurl.com/dC4Cov"><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;</a></li>
+</ul>  </div>
+</div>
+  </div>
+</div>    </div>
+</header>
+<div id="wrap">
+    <div class="tabs xtra"></div>    <div class="mssg xtra"></div>        
+    <div id="highlighted">  <div class="region region-highlighted">
+    <div id="block-block-11" class="block block-block">
+          
+  <div class="content">
+    <div class="rtecenter">London Design Biennale 8-27 September 2020</div>
+
+<div class="rtecenter"><strong><a href="https://www.somersethouse.org.uk/whats-on/london-design-biennale-2020">Book Tickets Now</a></strong></div>
+  </div>
+</div>
+  </div>
+</div>        <div id="content">  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+          
+  <div class="content">
+    <div  class="ds-2col-stacked-fluid node node-page none view-mode-full clearfix">
+
+  
+  <div class="group-header">
+    <!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-title field-type-ds field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      <h1>London Design Biennale 2020</h1>      </div>
+</div>
+  </div>
+
+  
+  
+  <div class="group-footer">
+    
+<div class="paragraphs-items paragraphs-items-field-content paragraphs-items-field-content-full paragraphs-items-full">
+  <!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-content field-type-paragraphs field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      <div  class="ds-1col entity entity-paragraphs-item paragraphs-item-video upload full-width view-mode-full clearfix">
+
+  
+  <div class="wrap ">
+    <!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-video field-type-video field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      <video width="720" height="480" preload="auto" controls="controls" poster="">
+  <source src="https://www.londondesignbiennale.com/sites/default/files/videos/original/SH%20Social%20Edit%20for%20LDB18_0.mp4" type="video/mp4" />
+No flash player has been set up. <a href="/admin/config/media/video/players">Please select a player to play Flash videos.</a></video>
+      </div>
+</div>
+  </div>
+
+</div>
+
+    
+          <!--fieldItem-->
+      <div  class="ds-1col entity entity-paragraphs-item paragraphs-item-link black view-mode-full clearfix">
+
+  
+  <div class="wrap ">
+    <!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-link field-type-link-field field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      <a href="https://www.somersethouse.org.uk/whats-on/london-design-biennale-2020" target="_blank">Book Tickets Now</a>      </div>
+</div>
+  </div>
+
+</div>
+
+    
+          <!--fieldItem-->
+      <div  class="ds-1col entity entity-paragraphs-item paragraphs-item-text full-width view-mode-full clearfix">
+
+  
+  <div class="wrap ">
+    <!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      <h2 class="rtecenter"><span style="color:#ff8200">London Design Biennale is a global gathering of the world’s most ambitious and imaginative designers, curators and design institutions. The third edition will take place from 8 - 27 September 2020 at Somerset House. </span></h2>
+
+<p> </p>
+
+<p class="rtecenter">Es Devlin has been named Artistic Director for 2020 and has chosen 'Resonance' as the theme, which up to 50 countries, cities and territories will respond to in their installations and presentations across the entirety of the site. </p>
+
+<p class="rtecenter">Capitalising on its first two editions, London Design Biennale 2020 will provoke debate and an engaging exchange of ideas about the universal impact of design in contemporary culture. It will explore design’s potential as a transformative global tool and show its power to inspire,<span style="color:null"> inform and entertain. </span></p>
+      </div>
+</div>
+  </div>
+
+</div>
+
+    
+          <!--fieldItem-->
+      <div  class="ds-1col entity entity-paragraphs-item paragraphs-item-column-page-link-block manual view-mode-full clearfix">
+
+  
+  <div class="wrap ">
+    <!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-title field-type-text field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      Previous Editions      </div>
+</div>
+
+<div class="paragraphs-items paragraphs-items-field-link-block paragraphs-items-field-link-block-full paragraphs-items-full">
+  <!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-link-block field-type-paragraphs field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      
+<div  class="ds-2col entity entity-paragraphs-item paragraphs-item-page-link-block manual view-mode-full clearfix">
+
+  
+  <div class="group-auto">
+      </div>
+
+  <div class="group-manual">
+    <a href="https://www.londondesignbiennale.com/participants">            <!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-image field-type-image field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      <img src="https://www.londondesignbiennale.com/sites/default/files/styles/teaser_image/public/images/block/Screenshot%202019-05-01%20at%2012.41.27.png?itok=ovU9VDW2" alt="" />      </div>
+</div>
+<!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-title field-type-text field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      2018      </div>
+</div>
+<!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-link field-type-link-field field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      https://www.londondesignbiennale.com/participants      </div>
+</div>
+        </a>  </div>
+
+</div>
+
+          <!--fieldItem-->
+      
+<div  class="ds-2col entity entity-paragraphs-item paragraphs-item-page-link-block manual view-mode-full clearfix">
+
+  
+  <div class="group-auto">
+      </div>
+
+  <div class="group-manual">
+    <a href="https://www.londondesignbiennale.com/participants">            <!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-image field-type-image field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      <img src="https://www.londondesignbiennale.com/sites/default/files/styles/teaser_image/public/images/block/LDB16_Lebanon_credit%20ER_0.jpg?itok=TjuC0O1E" alt="" />      </div>
+</div>
+<!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-title field-type-text field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      2016      </div>
+</div>
+<!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-link field-type-link-field field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      https://www.londondesignbiennale.com/participants      </div>
+</div>
+        </a>  </div>
+
+</div>
+
+      </div>
+</div>
+</div>
+  </div>
+
+</div>
+
+    
+          <!--fieldItem-->
+      <div  class="ds-1col entity entity-paragraphs-item paragraphs-item-column-page-link-block manual view-mode-full clearfix">
+
+  
+  <div class="wrap ">
+    <!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-title field-type-text field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      Previous Themes      </div>
+</div>
+
+<div class="paragraphs-items paragraphs-items-field-link-block paragraphs-items-field-link-block-full paragraphs-items-full">
+  <!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-link-block field-type-paragraphs field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      
+<div  class="ds-2col entity entity-paragraphs-item paragraphs-item-page-link-block manual view-mode-full clearfix">
+
+  
+  <div class="group-auto">
+      </div>
+
+  <div class="group-manual">
+    <a href="https://www.londondesignbiennale.com/london-design-biennale-2018">            <!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-image field-type-image field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      <img src="https://www.londondesignbiennale.com/sites/default/files/styles/teaser_image/public/images/block/dl_ldb18_06.jpeg?itok=mK68fuR-" alt="" />      </div>
+</div>
+<!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-title field-type-text field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      Emotional States      </div>
+</div>
+<!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-link field-type-link-field field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      https://www.londondesignbiennale.com/london-design-biennale-2018      </div>
+</div>
+        </a>  </div>
+
+</div>
+
+          <!--fieldItem-->
+      
+<div  class="ds-2col entity entity-paragraphs-item paragraphs-item-page-link-block manual view-mode-full clearfix">
+
+  
+  <div class="group-auto">
+      </div>
+
+  <div class="group-manual">
+    <a href="https://www.londondesignbiennale.com/utopia-design">            <!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-image field-type-image field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      <img src="https://www.londondesignbiennale.com/sites/default/files/styles/teaser_image/public/images/block/dl_londondesignbiennale_01.jpg?itok=XRcXJkCi" alt="" />      </div>
+</div>
+<!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-title field-type-text field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      Utopia by Design      </div>
+</div>
+<!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-link field-type-link-field field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      https://www.londondesignbiennale.com/utopia-design      </div>
+</div>
+        </a>  </div>
+
+</div>
+
+      </div>
+</div>
+</div>
+  </div>
+
+</div>
+
+    
+      </div>
+</div>
+</div>
+  </div>
+
+</div>
+
+  </div>
+</div>
+<div id="block-block-13" class="mailchimp block block-block">
+  <div class="content">
+    <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us1.list-manage.com","uuid":"4a7adb928b5af626420a06774","lid":"cb7f96a21f","uniqueMethods":true}) })</script>
+  </div>
+</div>
+  </div>
+</div>    <div id="post-content">  <div class="region region-post-content">
+    <div id="block-views-partner-block-block" class="block block-views">
+        <h2>Partner block</h2>  
+  <div class="content">
+    <div class="view view-partner-block view-id-partner_block view-display-id-block view-dom-id-8608c6718904884f0fe4a6f31a2619ba">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    <div  class="ds-2col-stacked-fluid node node-page none view-mode-full clearfix">
+
+  
+  <div class="group-header">
+    <!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-title field-type-ds field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      <h1>Partners block for footer</h1>      </div>
+</div>
+  </div>
+
+  
+  
+  <div class="group-footer">
+    
+<div class="paragraphs-items paragraphs-items-field-content paragraphs-items-field-content-full paragraphs-items-full">
+  <!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-content field-type-paragraphs field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      <div  class="ds-1col entity entity-paragraphs-item paragraphs-item-partners-sponsors view-mode-full clearfix">
+
+  
+  <div class="wrap ">
+    <!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-title field-type-text field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      Partners      </div>
+</div>
+<!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-partners field-type-entityreference field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      <div id="node-249" class="node node-partner node-teaser">
+
+
+  <div class="content clearfix">
+    <!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-logo field-type-image field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      <a href="https://www.somersethouse.org.uk/" target="_blank"><img src="https://www.londondesignbiennale.com/sites/default/files/logos/Somerset%202.png" alt="" /></a>      </div>
+</div>
+  </div>
+
+
+</div>
+      </div>
+</div>
+  </div>
+
+</div>
+
+    
+          <!--fieldItem-->
+      <div  class="ds-1col entity entity-paragraphs-item paragraphs-item-partners-sponsors view-mode-full clearfix">
+
+  
+  <div class="wrap ">
+    <!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-partners field-type-entityreference field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      <div id="node-39" class="node node-partner node-teaser">
+
+
+  <div class="content clearfix">
+    <!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-logo field-type-image field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      <img src="https://www.londondesignbiennale.com/sites/default/files/logos/poly.png" alt="" />      </div>
+</div>
+<!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-sub-header field-type-text field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      Headline Partner      </div>
+</div>
+  </div>
+
+
+</div>
+      </div>
+</div>
+  </div>
+
+</div>
+
+    
+          <!--fieldItem-->
+      <div  class="ds-1col entity entity-paragraphs-item paragraphs-item-partners-sponsors view-mode-full clearfix">
+
+  
+  <div class="wrap ">
+    <!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-partners field-type-entityreference field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      <div id="node-44" class="node node-partner node-teaser">
+
+
+  <div class="content clearfix">
+    <!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-logo field-type-image field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      <img src="https://www.londondesignbiennale.com/sites/default/files/logos/thenewyorker.png" alt="" />      </div>
+</div>
+<!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-sub-header field-type-text field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      International Media Partner      </div>
+</div>
+  </div>
+
+
+</div>
+          <!--fieldItem-->
+      <div id="node-43" class="node node-partner node-teaser">
+
+
+  <div class="content clearfix">
+    <!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-logo field-type-image field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      <img src="https://www.londondesignbiennale.com/sites/default/files/logos/itsnice.png" alt="" />      </div>
+</div>
+<!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-sub-header field-type-text field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      Digital Media Partner      </div>
+</div>
+  </div>
+
+
+</div>
+          <!--fieldItem-->
+      <div id="node-46" class="node node-partner node-teaser">
+
+
+  <div class="content clearfix">
+    <!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-logo field-type-image field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      <img src="https://www.londondesignbiennale.com/sites/default/files/logos/googleart.png" alt="" />      </div>
+</div>
+<!--
+This file is not used by Drupal core, which uses theme functions instead.
+See http://api.drupal.org/api/function/theme_field/7 for details.
+After copying this file to your theme's folder and customizing it, remove this
+HTML comment.
+-->
+<div class="field field-name-field-sub-header field-type-text field-label-hidden">
+    <div class="field-items w-row">
+          <!--fieldItem-->
+      Partner      </div>
+</div>
+  </div>
+
+
+</div>
+      </div>
+</div>
+  </div>
+
+</div>
+
+    
+      </div>
+</div>
+</div>
+  </div>
+
+</div>
+
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+</div></div>
+<footer>
+    <div id="footer" class="wrap">
+          <div class="region region-footer-left">
+    <div id="block-menu-menu-social" class="block block-menu">
+        <h2>Social</h2>  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="https://www.instagram.com/london_design_biennale/" target="_blank">Instagram</a></li>
+<li class="leaf"><a href="https://twitter.com/londonbiennale" target="_blank">Twitter</a></li>
+<li class="leaf"><a href="https://www.facebook.com/Londondesignbiennale/" target="_blank">Facebook</a></li>
+<li class="leaf"><a href="http://eepurl.com/dC4Cov">Newsletter</a></li>
+<li class="last leaf"><a href="https://www.londondesignbiennale.com/contact-0">Contact</a></li>
+</ul>  </div>
+</div>
+<div id="block-block-3" class="block block-block">
+          
+  <div class="content">
+    <h6>© London Design Biennale. All rights reserved</h6>
+  </div>
+</div>
+  </div>
+   
+          <div class="region region-footer">
+    <div id="block-block-1" class="block block-block">
+        <h2>Biennale Location</h2>  
+  <div class="content">
+    <p>Somerset House Strand<br />
+London<br />
+WC2R 1LA<br />
+United Kingdom</p>
+  </div>
+</div>
+<div id="block-block-2" class="block block-block">
+        <h2>Head Office</h2>  
+  <div class="content">
+    <p>33 John Street<br />
+London<br />
+WC1N 2AT<br />
+United Kingdom</p>
+  </div>
+</div>
+  </div>
+   
+    </div>
+</footer>  </body>
+</html>
