@@ -53,3 +53,13 @@ $ ~/.local/bin/guesslang --learn datasets/learn --model guesslang/data/model/
 18:09:31 guesslang.__main__ INFO Guessing learning accuracy is 50.00%
 
 
+# report graph:
+
+$ ~/.local/bin/guesslang --test datasets/learn --model guesslang/data/model/
+
+2020-02-18 12:11:31.995735: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+
+12:11:38 guesslang.__main__ INFO The overall accuracy of the test is 50.00%
+
+12:11:38 guesslang.__main__ INFO Test report saved into '/home/shcherbakov_al/guesslang/report-1582017098.json'
+
