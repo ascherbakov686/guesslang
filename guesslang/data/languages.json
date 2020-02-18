@@ -1,4 +1,5 @@
 {
   "html-from-php": ["php"],
+  "html-from-drupal": ["drupal"],
   "html-from-python": ["python"]
 }
