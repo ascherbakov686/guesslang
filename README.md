@@ -20,7 +20,7 @@ $ python3 -W ignore make_keywords.py /home/shcherbakov_al/guesslang/datasets/lea
 
 
 
-# learn attempt
+# learn attempt:
 
 $ ~/.local/bin/guesslang --learn datasets/learn --model guesslang/data/model/
 
