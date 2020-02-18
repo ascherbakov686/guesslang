@@ -1,0 +1,73 @@
+{
+  "overall-accuracy": 0.5,
+  "per-language": {
+    "html-from-php": {
+      "accuracy": 0.0,
+      "nb-files": 21,
+      "predicted": {
+        "html-from-php": 0,
+        "html-from-python": 21
+      },
+      "predicted-files": {
+        "html-from-php": [],
+        "html-from-python": [
+          "datasets/learn/index19.html.php",
+          "datasets/learn/index14.html.php",
+          "datasets/learn/index8.html.php",
+          "datasets/learn/index1.html.php",
+          "datasets/learn/index7.html.php",
+          "datasets/learn/index20.html.php",
+          "datasets/learn/index12.html.php",
+          "datasets/learn/index10.html.php",
+          "datasets/learn/index17.html.php",
+          "datasets/learn/index.html.php",
+          "datasets/learn/index16.html.php",
+          "datasets/learn/index4.html.php",
+          "datasets/learn/index13.html.php",
+          "datasets/learn/index11.html.php",
+          "datasets/learn/index3.html.php",
+          "datasets/learn/index6.html.php",
+          "datasets/learn/index2.html.php",
+          "datasets/learn/index5.html.php",
+          "datasets/learn/index18.html.php",
+          "datasets/learn/index9.html.php",
+          "datasets/learn/index15.html.php"
+        ]
+      }
+    },
+    "html-from-python": {
+      "accuracy": 1.0,
+      "nb-files": 21,
+      "predicted": {
+        "html-from-php": 0,
+        "html-from-python": 21
+      },
+      "predicted-files": {
+        "html-from-php": [],
+        "html-from-python": [
+          "datasets/learn/index15.html.python",
+          "datasets/learn/index.html.python",
+          "datasets/learn/index2.html.python",
+          "datasets/learn/index18.html.python",
+          "datasets/learn/index13.html.python",
+          "datasets/learn/index3.html.python",
+          "datasets/learn/index14.html.python",
+          "datasets/learn/index4.html.python",
+          "datasets/learn/index10.html.python",
+          "datasets/learn/index9.html.python",
+          "datasets/learn/index11.html.python",
+          "datasets/learn/index17.html.python",
+          "datasets/learn/index16.html.python",
+          "datasets/learn/index12.html.python",
+          "datasets/learn/index5.html.python",
+          "datasets/learn/index20.html.python",
+          "datasets/learn/index1.html.python",
+          "datasets/learn/index19.html.python",
+          "datasets/learn/index8.html.python",
+          "datasets/learn/index6.html.python",
+          "datasets/learn/index7.html.python"
+        ]
+      }
+    }
+  }
+}
