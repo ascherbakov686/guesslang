@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<!-- UA webservers homepage 
+
+     This is for the faculty/staff/depts/courses/students system.
+
+  -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>UW Departments Web Server</title>
+  <link href="styles.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <div id="skipnav">
+  <a href="#contentbox">Skip Navigation</a>
+
+</div>
+<div id="wheader" class="colorPurple wNo patchNo">
+ <div id="autoMargin">
+  <div class="wlogoSmall">
+   <div class="logoAbsolute"><a id="wlogoLink" href="http://www.washington.edu/">W</a></div>
+   <div><a href="http://www.washington.edu/">University of Washington</a></div>
+  </div> 
+  <div id="wsearch">        
+   <form name="uwglobalsearch" id="searchbox_001967960132951597331:04hcho0_drk" action="http://www.google.com/cse">
+    <div class="wfield">
+
+     <input type="hidden" name="cx" value="001967960132951597331:04hcho0_drk" />
+     <input type="hidden" name="cof" value="FORID:0" />
+     <input name="q" type="text" value="Search the UW" class="wTextInput" onclick="make_blank();" />
+    </div>   
+    <input type="submit" class="formbutton" name="sa" value="Go" />
+   </form>
+  </div>
+  <div id="wtext">
+   <ul>
+
+    <li><a href="http://www.washington.edu/">UW Home</a></li>
+    <li><span class="wborder"><a href="http://www.washington.edu/home/directories.html">Directories</a></span></li>
+    <li><span class="wborder"><a href="http://www.washington.edu/visit/events.html">Calendar</a></span></li>
+    <li><span class="wborder"><a href="http://www.washington.edu/maps/">Maps</a></span></li>
+    <li><span class="wborder"><a href="http://myuw.washington.edu/">My UW</a></span></li>
+   </ul>
+
+  </div>
+ </div>
+</div>
+
+  <div id="content">
+    <div class="headart">
+      <img alt="Campus scene" src="scene-depts.jpg" height="240"
+      width="400" />
+
+    <h1>UW Departments Web Server</h1>
+    </div>
+
+    <ul>
+      <li><a href=
+      "http://www.washington.edu/itconnect/connect/web-publishing/shared-hosting">Creating and Publishing Web Pages</a></li>
+
+      <li><a href="http://www.washington.edu/itconnect/">
+      Technology Resources for Staff at the UW</a></li>
+
+      <li>Do you have a site on the Departments Web server? You can <a href="/adm/errorlog/">view your site's error
+      log</a>.</li>
+    </ul>
+    
+    <p style="text-align: center;">
+     Questions? Visit the <a href="http://www.washington.edu/itconnect/gethelp.html">Need Help?</a> 
+     page, send email to <a href="mailto:help@uw.edu">help@uw.edu</a>, or call 206-221-5000.
+     <br />A service provided by <a href="http://uw.edu/uwit/">UW Information Technology</a></p>
+  </div>
+
+  <div id="footer" style="position: relative;">
+    <div id="footerMainNoPatch" class="logoYes wNo">
+      <div id="footerLeft">
+        <ul>
+          <li class="logoArea"><a href=
+          "http://www.washington.edu/">&copy; 2010 University of
+          Washington</a></li>
+        </ul>
+      </div>
+
+      <div id="footerRight">
+        <ul>
+          <li class="centerText"><span>Seattle,
+          Washington</span></li>
+        </ul>
+      </div>
+
+      <div id="footerCenter">
+        <ul>
+          <li><a href=
+          "http://www.washington.edu/home/siteinfo/form/">Contact
+          Us</a></li>
+
+          <li class="footerLinkBorder"><a href=
+          "http://www.washington.edu/jobs/">Employment</a></li>
+
+          <li class="footerLinkBorder"><a href=
+          "http://myuw.washington.edu/">My UW</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

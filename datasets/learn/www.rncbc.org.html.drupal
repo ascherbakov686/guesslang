@@ -1,0 +1,831 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="rncbc.org RSS" href="https://www.rncbc.org/drupal/rss.xml" />
+  <title>rncbc.org | a.k.a. Rui Nuno Capela</title>
+  <link type="text/css" rel="stylesheet" href="https://www.rncbc.org/drupal/files/css/css_dRT-6rU1dRftKRQwz-1EJWE6PP3Qm_cmfDslBM1Fs78.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.rncbc.org/drupal/files/css/css_5boOA2WCTYOuxvapfLAEbClfA2nm0CvchVtjw4XHBrE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.rncbc.org/drupal/files/css/css_9Ch-ChmgUKemLp9Qy9M5aMO-dhtryGngmYVQmSrEmDA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.rncbc.org/drupal/files/css/css_kitXdQ-l_NZrqXwqJoJz4K1nCGELekyX2UhdRv4pbJk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.rncbc.org/drupal/files/css/css_k3snrbsthqot7V7ccRZHS9OkCZkwBv4adtNieIVlbEU.css" media="print" />
+
+<!--[if lt IE 7]>
+<link type="text/css" rel="stylesheet" href="https://www.rncbc.org/drupal/themes/garland/fix-ie.css?q5j38y" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="https://www.rncbc.org/drupal/files/js/js_qikmINIYTWe4jcTUn8cKiMr8bmSDiZB9LQqvceZ6wlM.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/drupal\/","pathPrefix":"","ajaxPageState":{"theme":"garland","theme_token":"1lSIEQeoP0kbZjw3wXcTrXmoRdnXlqSKjraVl0vq-S8","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"public:\/\/spamicide\/user_login_block_feed.css":1,"themes\/garland\/style.css":1,"themes\/garland\/print.css":1,"themes\/garland\/fix-ie.css":1}},"urlIsAjaxTrusted":{"\/drupal\/":true,"\/drupal\/node?destination=node":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node fluid-width" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+      
+  <div id="wrapper">
+    <div id="container" class="clearfix">
+
+      <div id="header">
+        <div id="logo-floater">
+                              <h1 id="branding"><a href="/drupal/">
+                          <img src="https://www.rncbc.org/drupal/files/rncbc_logo1.png" alt=" " title=" " id="logo" />
+                                    </a></h1>
+                        </div>
+
+        <h2 class="element-invisible">Main menu</h2><ul class="links inline main-menu"><li class="menu-55 first"><a href="/drupal/node/12" title="">local</a></li>
+<li class="menu-61"><a href="/drupal/node/13" title="">projects</a></li>
+<li class="menu-67 last"><a href="http://linuxaudio.org" title="Linux Audio Consortium">linuxaudio.org</a></li>
+</ul>              </div> <!-- /#header -->
+
+              <div id="sidebar-first" class="sidebar">
+            <div class="region region-sidebar-first">
+    <div id="block-search-form" class="block block-search clearfix">
+
+    
+  <div class="content">
+    <form action="/drupal/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-Gq2FavIJoBOC29E6EmqeBb9H_WFfqkD6uG9N-_eFc8A" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-system-navigation" class="block block-system block-menu clearfix">
+
+    <h2 class="title">Navigation</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first collapsed"><a href="/drupal/forum">Forums</a></li>
+<li class="last leaf"><a href="/drupal/tracker">Recent content</a></li>
+</ul>  </div>
+</div>
+<div id="block-user-login" class="block block-user clearfix">
+
+    <h2 class="title">User login</h2>
+  
+  <div class="content">
+    <form action="/drupal/node?destination=node" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/drupal/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/drupal/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-oPjyBKEs43e2v-dbaOIOESjrhgOPFY1GwuNZC7xnnIg" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="edit-user-login-block-feed-wrapper"><div class="form-item form-type-textfield form-item-user-login-block-feed">
+  <label for="edit-user-login-block-feed">user login block feed </label>
+ <input type="text" id="edit-user-login-block-feed" name="user_login_block_feed" value="" size="20" maxlength="128" class="form-text" />
+<div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div>
+</div><div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+<div id="block-forum-active" class="block block-forum clearfix">
+
+    <h2 class="title">Forum topics</h2>
+  
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="/drupal/node/2040" title="9 comments">Forbidden pan</a></li>
+<li><a href="/drupal/node/2071" title="2 comments">Can inserts be renamed?</a></li>
+<li><a href="/drupal/node/2070" title="2 comments">AppImage loading error: can&#039;t start qtractor</a></li>
+<li><a href="/drupal/node/2016" title="6 comments">Remove all program changes for a track</a></li>
+<li class="last"><a href="/drupal/node/1878" title="9 comments">Channels in Qsynth</a></li>
+</ul></div><div class="more-link"><a href="/drupal/forum" title="Read the latest forum topics.">More</a></div>  </div>
+</div>
+<div id="block-comment-recent" class="block block-comment clearfix">
+
+    <h2 class="title">Recent comments</h2>
+  
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="/drupal/comment/8614#comment-8614">Option dialog OK button works again (after renaming .config)</a><br /><span>1 week 2 days ago</span></li>
+<li><a href="/drupal/comment/8613#comment-8613">re. Options dialog OK button not working.</a><br /><span>1 week 5 days ago</span></li>
+<li><a href="/drupal/comment/8612#comment-8612">Launching qtractor in english is fantastic!...</a><br /><span>1 week 5 days ago</span></li>
+<li><a href="/drupal/comment/8611#comment-8611">re. german instead of english</a><br /><span>1 week 5 days ago</span></li>
+<li><a href="/drupal/comment/8610#comment-8610">The template file exists and</a><br /><span>1 week 6 days ago</span></li>
+<li><a href="/drupal/comment/8609#comment-8609">re. View / Options: Not working (the &quot;OK&quot;-Button stays grayed ou</a><br /><span>1 week 6 days ago</span></li>
+<li><a href="/drupal/comment/8608#comment-8608">View / Options: Not working (the &quot;OK&quot;-Button stays grayed out)</a><br /><span>1 week 6 days ago</span></li>
+<li><a href="/drupal/comment/8528#comment-8528">Ok thanks. Feature request?</a><br /><span>2 weeks 2 days ago</span></li>
+<li><a href="/drupal/comment/8527#comment-8527">re. Can inserts be renamed?</a><br /><span>2 weeks 4 days ago</span></li>
+<li class="last"><a href="/drupal/comment/8525#comment-8525">thanks.</a><br /><span>4 weeks 17 hours ago</span></li>
+</ul></div>  </div>
+</div>
+<div id="block-system-main-menu" class="block block-system block-menu clearfix">
+
+    <h2 class="title">Main menu</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first expanded"><a href="/drupal/node/12" title="">local</a><ul class="menu"><li class="first leaf"><a href="http://www.rncbc.org/snapshots" title="Daily snapshots for stuff hosted in SourceForge.net SVN">snapshots</a></li>
+<li class="leaf"><a href="http://www.rncbc.org/archive" title="Archive repository for JACK, LinuxSampler and Linux Audio related stuff">archive</a></li>
+<li class="collapsed"><a href="/drupal/node/2048" title="Photo galleries a taken on the Sonoj Convention">sonoj</a></li>
+<li class="collapsed"><a href="/drupal/node/95" title="Photo galleries a taken on various Linux Audio Conferences
+">lac</a></li>
+<li class="last collapsed"><a href="/drupal/node/1940" title="My oldie primoridial web as it was on compuserve (late 90s)">old</a></li>
+</ul></li>
+<li class="collapsed"><a href="/drupal/node/13" title="">projects</a></li>
+<li class="last leaf"><a href="http://linuxaudio.org" title="Linux Audio Consortium">linuxaudio.org</a></li>
+</ul>  </div>
+</div>
+  </div>
+        </div>
+      
+      <div id="center"><div id="squeeze"><div class="right-corner"><div class="left-corner">
+                    <div id="highlighted">  <div class="region region-highlighted">
+    <div id="block-block-1" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <p>Show-off my open-source stuff, mostly of the Linux Audio/MIDI genre</p>
+  </div>
+</div>
+  </div>
+</div>          <a id="main-content"></a>
+          <div id="tabs-wrapper" class="clearfix">                                        </div>                                                  <div class="clearfix">
+              <div class="region region-content">
+    <div id="block-system-main" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <div id="node-2067" class="node node-blog node-promoted node-teaser" about="/drupal/node/2067" typeof="sioc:Post sioct:BlogPost">
+
+  
+        <h2><a href="/drupal/node/2067">Qtractor 0.9.12 - The QStuff* Winter&#039;19 Release batch #3</a></h2>
+    <span property="dc:title" content="Qtractor 0.9.12 - The QStuff* Winter&#039;19 Release batch #3" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <span class="submitted"><span property="dc:date dc:created" content="2019-12-28T12:00:00+00:00" datatype="xsd:dateTime" rel="sioc:has_creator">28 December, 2019 - 12:00 — <span class="username" xml:lang="" about="/drupal/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">rncbc</span></span></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a name="qtractor" href="http://qtractor.org" id="qtractor"><img src="/drupal/files/qtractor.png" align="left" title="Qtractor" hspace="4" vspace="4" /></a><a href="http://qtractor.org"><img src="/drupal/files/qtractor-preflect18x.png" title="Qtractor" align="right" hspace="8" vspace="4" /></a><br />
+Greetings, just one last time!</p>
+<dd>
+  <b><a href="http://qtractor.org">Qtractor</a> 0.9.12</b> (<i>winter'19</i>) is released!<br />
+</dd>
+<p>The change-log is rather short but nevertheless:</p>
+<ul>
+<li>Basic key-signature has been added to tempo, time-signature and location markers map.</li>
+<li>MIDI Clip editor (aka. piano-roll) horizontal and vertical splitter sizes, widths and heights resp. are now preserved as user preferences and also to session state.</li>
+<li>Second attempt to fix the yet non-official though CMake build configuration.</li>
+</ul>
+<p>Description:<br />
+</p><dd>
+<a href="http://qtractor.org">Qtractor</a> is an audio/MIDI multi-track sequencer application written in C++ with the <a href="http://qt.io">Qt</a> framework. Target platform is Linux, where the Jack Audio Connection Kit (<a href="http://jackaudio.org">JACK</a>) for audio and the Advanced Linux Sound Architecture (<a href="http://www.alsa-project.org">ALSA</a>) for MIDI are the main infrastructures to evolve as a fairly-featured Linux desktop audio workstation GUI, specially dedicated to the personal home-studio.</dd>
+<p>Website:<br />
+</p><dd>
+  <a href="http://qtractor.org">http://qtractor.org</a><br />
+  <a href="https://qtractor.sourceforge.io">https://qtractor.sourceforge.io</a><br />
+  <a href="http://qtractor.sourceforge.net">http://qtractor.sourceforge.net</a><br />
+</dd>
+<p>Project page:<br />
+</p><dd>
+  <a href="https://sourceforge.net/projects/qtractor">https://sourceforge.net/projects/qtractor</a><br />
+</dd>
+<p>Downloads:<br />
+</p><dd>
+  <a href="https://sourceforge.net/projects/qtractor/files">https://sourceforge.net/projects/qtractor/files</a>
+<ul>
+<li>source tarball:<br />
+  <a href="https://download.sf.net/qtractor/qtractor-0.9.12.tar.gz"><b>qtractor-0.9.12.tar.gz</b></a></li>
+<li>source package (openSUSE Tumbleweed):<br />
+  <a href="https://download.sf.net/qtractor/qtractor-0.9.12-52.rncbc.suse.src.rpm">qtractor-0.9.12-52.rncbc.suse.src.rpm</a></li>
+<li>binary package (openSUSE Tumbleweed):<br />
+  <a href="https://download.sf.net/qtractor/qtractor-0.9.12-52.rncbc.suse.x86_64.rpm">qtractor-0.9.12-52.rncbc.suse.x86_64.rpm</a></li>
+<li><a href="http://appimage.org">AppImage</a> packages:<br />
+  <a href="https://download.sf.net/qtractor/qtractor-0.9.12-52.x86_64.AppImage">qtractor-0.9.12-52.x86_64.AppImage</a></li>
+</ul>
+</dd>
+<p>Git repos:<br />
+</p><dd>
+  <a href="https://git.code.sf.net/p/qtractor/code">https://git.code.sf.net/p/qtractor/code</a><br />
+  <a href="https://github.com/rncbc/qtractor.git">https://github.com/rncbc/qtractor.git</a><br />
+  <a href="https://gitlab.com/rncbc/qtractor.git">https://gitlab.com/rncbc/qtractor.git</a><br />
+  <a href="https://bitbucket.org/rncbc/qtractor.git">https://bitbucket.org/rncbc/qtractor.git</a><br />
+</dd>
+<p>Wiki (help wanted!):<br />
+</p><dd>
+  <a href="https://sourceforge.net/p/qtractor/wiki/">https://sourceforge.net/p/qtractor/wiki/</a>
+<ul>
+<li>static rendering:<br />
+  <a href="http://qtractor.org/doc">http://qtractor.org/doc</a><br />
+  <a href="https://qtractor.sourceforge.io/doc">https://qtractor.sourceforge.io/doc</a><br />
+  <a href="http://qtractor.sourceforge.net/doc">http://qtractor.sourceforge.net/doc</a></li>
+<li>user manual &amp; how-to's:<br />
+  <a href="https://download.sf.net/qtractor/qtractor-manual-and-howtos.epub">qtractor-manual-and-howtos.epub</a><br />
+  <a href="https://download.sf.net/qtractor/qtractor-manual-and-howtos.pdf">qtractor-manual-and-howtos.pdf</a></li>
+</ul>
+</dd>
+<p>License:<br />
+</p><dd>
+  <a href="http://qtractor.org">Qtractor</a> is free, open-source <a href="http://linuxaudio.org">Linux Audio</a> software, distributed under the terms of the GNU General Public License (<a href="http://www.gnu.org/copyleft/gpl.html">GPL</a>) version 2 or later.<br />
+</dd>
+<p></p>
+<p>Enjoy &amp;&amp; Happy new year/decade's eve.</p>
+<p><!--rncbc.org donate buttom--></p><p><a href="https://paypal.me/rncbc" target="_blank"><img src="/drupal/files/donate1.png" alt="Donate to rncbc.org" title="Donate to rncbc.org" border="0" /></a></p>
+</div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first"><a href="/drupal/node/2067" rel="tag" title="Qtractor 0.9.12 - The QStuff* Winter&#039;19 Release batch #3">Read more<span class="element-invisible"> about Qtractor 0.9.12 - The QStuff* Winter&#039;19 Release batch #3</span></a></li>
+<li class="blog_usernames_blog"><a href="/drupal/blog/1" title="Read rncbc&#039;s latest blog entries.">rncbc&#039;s blog</a></li>
+<li class="comment-add last"><a href="/drupal/comment/reply/2067#comment-form" title="Add a new comment to this page.">Add new comment</a></li>
+</ul></div>
+    
+      </div>
+
+</div>
+<div id="node-2066" class="node node-blog node-promoted node-teaser" about="/drupal/node/2066" typeof="sioc:Post sioct:BlogPost">
+
+  
+        <h2><a href="/drupal/node/2066">Vee One Suite 0.9.12 - The QStuff* Winter&#039;19 Release batch #2</a></h2>
+    <span property="dc:title" content="Vee One Suite 0.9.12 - The QStuff* Winter&#039;19 Release batch #2" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <span class="submitted"><span property="dc:date dc:created" content="2019-12-26T19:00:00+00:00" datatype="xsd:dateTime" rel="sioc:has_creator">26 December, 2019 - 19:00 — <span class="username" xml:lang="" about="/drupal/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">rncbc</span></span></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><img src="/drupal/files/vee-one-suite-21-R2.png" title="Vee One Suite" align="right" hspace="8" vspace="8" /><br />
+Greetings, a second time!</p>
+<p>The <em>Vee One Suite</em> of <em>old-school</em> software instruments, <b><a href="#synthv1">synthv1</a></b>, as a polyphonic subtractive synthesizer, <b><a href="#samplv1">samplv1</a></b>, a polyphonic sampler synthesizer, <b><a href="#drumkv1">drumkv1</a></b> as yet another drum-kit sampler and <b><a href="#padthv1">padthv1</a></b> as a polyphonic additive synthesizer, are all here and now released, making it for the second QStuff* Winter'19 batch of the season.</p>
+<p>All delivered in dual form:
+</p><ul>
+<li>a pure stand-alone <a href="https://jackaudio.org">JACK</a> client with JACK-session, <a href="http://non.tuxfamily.org/nsm/">NSM</a> (Non Session management) and both JACK MIDI and <a href="https://www.alsa-project.org">ALSA</a> MIDI input support;</li>
+<li>a <a href="http://lv2plug.in">LV2</a> instrument plug-in.</li>
+</ul>
+<p>Changes for this special season are pretty much the same for all the <i>gang-of-four</i>:
+</p><ul>
+<li>Custom color (palette) theme editor introduced; color (palette) theme changes are now effective immediately, except on default.</li>
+<li>Second attempt to fix the yet non-official though CMake build configuration.</li>
+<li>Move QApplication construction/destruction from LV2 UI to plug-in instantiation and cleanup.</li>
+</ul>
+<p>The <em>Vee One Suite</em> are free, open-source <a href="https://linuxaudio.org">Linux Audio</a> software, distributed under the terms of the GNU General Public License (<a href="https://www.gnu.org/copyleft/gpl.html">GPL</a>) version 2 or later.</p>
+<p> </p>
+<h2><a name="synthv1" href="http://synthv1.sourceforge.net" id="synthv1"><img src="/drupal/files/synthv1_32x32.png" align="left" title="synthv1" hspace="4" vspace="4" />synthv1</a> - an old-school polyphonic synthesizer</h2>
+<p><a href="http://synthv1.sourceforge.net"><img src="/drupal/files/synthv1-preflect10x.png" title="synthv1" align="right" hspace="4" vspace="4" /></a></p>
+<p><a href="http://synthv1.sourceforge.net">synthv1</a> 0.9.12 (winter'19) is out!</p>
+<p><a href="http://synthv1.sourceforge.net">synthv1</a> is an old-school all-digital 4-oscillator subtractive polyphonic synthesizer with stereo fx.</p>
+<dd>LV2 URI: http://synthv1.sourceforge.net/lv2</dd>
+
+<p>
+</p><dt>website:</dt>
+<dd><a href="https://synthv1.sourceforge.io">https://synthv1.sourceforge.io</a><br />
+  <a href="http://synthv1.sourceforge.net">http://synthv1.sourceforge.net</a></dd>
+
+<p>
+</p><dt>project page:</dt>
+<dd><a href="https://sourceforge.net/projects/synthv1">https://sourceforge.net/projects/synthv1</a></dd>
+
+<p>
+</p><dt>downloads:</dt>
+<dd><a href="https://sourceforge.net/projects/synthv1/files">https://sourceforge.net/projects/synthv1/files</a>
+<ul>
+<li>source tarball:<br />
+  <a href="https://download.sf.net/synthv1/synthv1-0.9.12.tar.gz"><b>synthv1-0.9.12.tar.gz</b></a></li>
+<li>source package:<br />
+  <a href="https://download.sf.net/synthv1/synthv1-0.9.12-51.rncbc.suse.src.rpm">synthv1-0.9.12-51.rncbc.suse.src.rpm</a></li>
+<li>binary packages (openSUSE Tumbleweed):<br />
+  <a href="https://download.sf.net/synthv1/synthv1-0.9.12-51.rncbc.suse.x86_64.rpm">synthv1-0.9.12-51.rncbc.suse.x86_64.rpm</a><br />
+  <a href="https://download.sf.net/synthv1/synthv1-lv2-0.9.12-51.rncbc.suse.x86_64.rpm">synthv1-lv2-0.9.12-51.rncbc.suse.x86_64.rpm</a></li>
+<li><a href="https://appimage.org">AppImage</a> package (JACK stand-alone only):<br />
+  <a href="https://download.sf.net/synthv1/synthv1-0.9.12-51.x86_64.AppImage">synthv1-0.9.12-51.x86_64.AppImage</a></li>
+</ul>
+</dd>
+
+<p>
+</p><dt>git repos:<br />
+<dt>
+</dt></dt><dd><a href="https://git.code.sf.net/p/synthv1/code">https://git.code.sf.net/p/synthv1/code</a><br />
+  <a href="https://github.com/rncbc/synthv1.git">https://github.com/rncbc/synthv1.git</a><br />
+  <a href="https://gitlab.com/rncbc/synthv1.git">https://gitlab.com/rncbc/synthv1.git</a><br />
+  <a href="https://bitbucket.org/rncbc/synthv1.git">https://bitbucket.org/rncbc/synthv1.git</a></dd>
+
+<p> </p>
+<h2><a name="samplv1" href="http://samplv1.sourceforge.net" id="samplv1"><img src="/drupal/files/samplv1_32x32.png" align="left" title="samplv1" hspace="4" vspace="4" />samplv1</a> - an old-school polyphonic sampler</h2>
+<p><a href="http://samplv1.sourceforge.net"><img src="/drupal/files/samplv1-preflect10x.png" title="samplv1" align="right" hspace="4" vspace="4" /></a></p>
+<p><a href="http://samplv1.sourceforge.net">samplv1</a> 0.9.12 (winter'19) is out!</p>
+<p><a href="http://samplv1.sourceforge.net">samplv1</a> is an old-school polyphonic sampler synthesizer with stereo fx.</p>
+<dd>LV2 URI: http://samplv1.sourceforge.net/lv2</dd>
+
+<p>
+</p><dt>website:</dt>
+<dd><a href="https://samplv1.sourceforge.io">https://samplv1.sourceforge.io</a><br />
+  <a href="http://samplv1.sourceforge.net">http://samplv1.sourceforge.net</a></dd>
+
+<p>
+</p><dt>project page:</dt>
+<dd><a href="https://sourceforge.net/projects/samplv1">https://sourceforge.net/projects/samplv1</a></dd>
+
+<p>
+</p><dt>downloads:</dt>
+<dd><a href="https://sourceforge.net/projects/samplv1/files">https://sourceforge.net/projects/samplv1/files</a>
+<ul>
+<li>source tarball:<br />
+  <a href="https://download.sf.net/samplv1/samplv1-0.9.12.tar.gz"><b>samplv1-0.9.12.tar.gz</b></a></li>
+<li>source package:<br />
+  <a href="https://download.sf.net/samplv1/samplv1-0.9.12-51.rncbc.suse.src.rpm">samplv1-0.9.12-51.rncbc.suse.src.rpm</a></li>
+<li>binary packages (openSUSE Tumbleweed):<br />
+  <a href="https://download.sf.net/samplv1/samplv1-0.9.12-51.rncbc.suse.x86_64.rpm">samplv1-0.9.12-51.rncbc.suse.x86_4.rpm</a><br />
+  <a href="https://download.sf.net/samplv1/samplv1-lv2-0.9.12-51.rncbc.suse.x86_64.rpm">samplv1-lv2-0.9.12-51.rncbc.suse.x86_4.rpm</a></li>
+<li><a href="https://appimage.org">AppImage</a> package (JACK stand-alone only):<br />
+  <a href="https://download.sf.net/samplv1/samplv1-0.9.12-51.x86_64.AppImage">samplv1-0.9.12-51.x86_64.AppImage</a></li>
+</ul>
+</dd>
+
+<p>
+</p><dt>git repos:<br />
+<dt>
+</dt></dt><dd><a href="https://git.code.sf.net/p/samplv1/code">https://git.code.sf.net/p/samplv1/code</a><br />
+  <a href="https://github.com/rncbc/samplv1.git">https://github.com/rncbc/samplv1.git</a><br />
+  <a href="https://gitlab.com/rncbc/samplv1.git">https://gitlab.com/rncbc/samplv1.git</a><br />
+  <a href="https://bitbucket.org/rncbc/samplv1.git">https://bitbucket.org/rncbc/samplv1.git</a></dd>
+
+<p> </p>
+<h2><a name="drumkv1" href="http://drumkv1.sourceforge.net" id="drumkv1"><img src="/drupal/files/drumkv1_32x32.png" align="left" title="drumkv1" hspace="4" vspace="4" />drumkv1</a> - an old-school drum-kit sampler</h2>
+<p><a href="http://drumkv1.sourceforge.net"><img src="/drupal/files/drumkv1-preflect10x.png" title="drumkv1" align="right" hspace="4" vspace="4" /></a></p>
+<p><a href="http://drumkv1.sourceforge.net">drumkv1</a> 0.9.12 (winter'19) is out!</p>
+<p><a href="http://drumkv1.sourceforge.net">drumkv1</a> is an old-school drum-kit sampler synthesizer with stereo fx.</p>
+<dd>LV2 URI: http://drumkv1.sourceforge.net/lv2</dd>
+
+<p>
+</p><dt>website:</dt>
+<dd><a href="https://drumkv1.sourceforge.io">https://drumkv1.sourceforge.io</a><br />
+  <a href="http://drumkv1.sourceforge.net">http://drumkv1.sourceforge.net</a></dd>
+
+<p>
+</p><dt>project page:</dt>
+<dd><a href="https://sourceforge.net/projects/drumkv1">https://sourceforge.net/projects/drumkv1</a></dd>
+
+<p>
+</p><dt>downloads:</dt>
+<dd><a href="https://sourceforge.net/projects/drumkv1/files">https://sourceforge.net/projects/drumkv1/files</a>
+<ul>
+<li>source tarball:<br />
+  <a href="https://download.sf.net/drumkv1/drumkv1-0.9.12.tar.gz"><b>drumkv1-0.9.12.tar.gz</b></a></li>
+<li>source package:<br />
+  <a href="https://download.sf.net/drumkv1/drumkv1-0.9.12-51.rncbc.suse.src.rpm">drumkv1-0.9.12-51.rncbc.suse.src.rpm</a></li>
+<li>binary packages (openSUSE Tumbleweed):<br />
+  <a href="https://download.sf.net/drumkv1/drumkv1-0.9.12-51.rncbc.suse.x86_64.rpm">drumkv1-0.9.12-51.rncbc.suse.x86_64.rpm</a><br />
+  <a href="https://download.sf.net/drumkv1/drumkv1-lv2-0.9.12-51.rncbc.suse.x86_64.rpm">drumkv1-lv2-0.9.12-51.rncbc.suse.x86_64.rpm</a></li>
+<li><a href="https://appimage.org">AppImage</a> package (JACK stand-alone only):<br />
+  <a href="https://download.sf.net/drumkv1/drumkv1-0.9.12-51.x86_64.AppImage">drumkv1-0.9.12-51.x86_64.AppImage</a></li>
+</ul>
+</dd>
+
+<p>
+</p><dt>git repos:<br />
+<dt>
+</dt></dt><dd><a href="https://git.code.sf.net/p/drumkv1/code">https://git.code.sf.net/p/drumkv1/code</a><br />
+  <a href="https://github.com/rncbc/drumkv1.git">https://github.com/rncbc/drumkv1.git</a><br />
+  <a href="https://gitlab.com/rncbc/drumkv1.git">https://gitlab.com/rncbc/drumkv1.git</a><br />
+  <a href="https://bitbucket.org/rncbc/drumkv1.git">https://bitbucket.org/rncbc/drumkv1.git</a></dd>
+
+<p> </p>
+<h2><a name="padthv1" href="http://padthv1.sourceforge.net" id="padthv1"><img src="/drupal/files/padthv1_32x32.png" align="left" title="padthv1" hspace="4" vspace="4" />padthv1</a> - an old-school polyphonic additive synthesizer</h2>
+<p><a href="http://padthv1.sourceforge.net"><img src="/drupal/files/padthv1-preflect10x.png" title="padthv1" align="right" hspace="4" vspace="4" /></a></p>
+<p><a href="http://padthv1.sourceforge.net">padthv1</a> 0.9.12 (winter'19) is out!</p>
+<p><a href="http://padthv1.sourceforge.net">padthv1</a> is an old-school polyphonic additive synthesizer with stereo fx</p>
+<p><a href="http://padthv1.sourceforge.net">padthv1</a> is based on the <a href="http://zynaddsubfx.sourceforge.net/doc/PADsynth/PADsynth.htm">PADsynth</a> algorithm by Paul Nasca, as a special variant of additive synthesis.</p>
+<dd>LV2 URI: http://padthv1.sourceforge.net/lv2</dd>
+
+<p>
+</p><dt>website:</dt>
+<dd><a href="https://padthv1.sourceforge.io">https://padthv1.sourceforge.io</a><br />
+  <a href="http://padthv1.sourceforge.net">http://padthv1.sourceforge.net</a></dd>
+
+<p>
+</p><dt>project page:</dt>
+<dd><a href="https://sourceforge.net/projects/padthv1">https://sourceforge.net/projects/padthv1</a></dd>
+
+<p>
+</p><dt>downloads:</dt>
+<dd><a href="https://sourceforge.net/projects/padthv1/files">https://sourceforge.net/projects/padthv1/files</a>
+<ul>
+<li>source tarball:<br />
+  <a href="https://download.sf.net/padthv1/padthv1-0.9.12.tar.gz"><b>padthv1-0.9.12.tar.gz</b></a></li>
+<li>source package:<br />
+  <a href="https://download.sf.net/padthv1/padthv1-0.9.12-51.rncbc.suse.src.rpm">padthv1-0.9.12-51.rncbc.suse.src.rpm</a></li>
+<li>binary packages (openSUSE Tumbleweed):<br />
+  <a href="https://download.sf.net/padthv1/padthv1-0.9.12-51.rncbc.suse.x86_64.rpm">padthv1-0.9.12-51.rncbc.suse.x86_64.rpm</a><br />
+  <a href="https://download.sf.net/padthv1/padthv1-lv2-0.9.12-51.rncbc.suse.x86_64.rpm">padthv1-lv2-0.9.12-51.rncbc.suse.x86_64.rpm</a></li>
+<li><a href="https://appimage.org">AppImage</a> package (JACK stand-alone only):<br />
+  <a href="https://download.sf.net/padthv1/padthv1-0.9.12-51.x86_64.AppImage">padthv1-0.9.12-51.x86_64.AppImage</a></li>
+</ul>
+</dd>
+
+<p>
+</p><dt>git repos:<br />
+<dt>
+</dt></dt><dd><a href="https://git.code.sf.net/p/padthv1/code">https://git.code.sf.net/p/padthv1/code</a><br />
+  <a href="https://github.com/rncbc/padthv1.git">https://github.com/rncbc/padthv1.git</a><br />
+  <a href="https://gitlab.com/rncbc/padthv1.git">https://gitlab.com/rncbc/padthv1.git</a><br />
+  <a href="https://bitbucket.org/rncbc/padthv1.git">https://bitbucket.org/rncbc/padthv1.git</a></dd>
+
+<p> </p>
+<p><!--rncbc.org donate buttom--></p><p><a href="https://paypal.me/rncbc" target="_blank"><img src="/drupal/files/donate1.png" alt="Donate to rncbc.org" title="Donate to rncbc.org" border="0" /></a></p>
+<p>Enjoy &amp;&amp; Have fun!</p>
+</div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first"><a href="/drupal/node/2066" rel="tag" title="Vee One Suite 0.9.12 - The QStuff* Winter&#039;19 Release batch #2">Read more<span class="element-invisible"> about Vee One Suite 0.9.12 - The QStuff* Winter&#039;19 Release batch #2</span></a></li>
+<li class="blog_usernames_blog"><a href="/drupal/blog/1" title="Read rncbc&#039;s latest blog entries.">rncbc&#039;s blog</a></li>
+<li class="comment-add last"><a href="/drupal/comment/reply/2066#comment-form" title="Add a new comment to this page.">Add new comment</a></li>
+</ul></div>
+    
+      </div>
+
+</div>
+<div id="node-2064" class="node node-blog node-promoted node-teaser" about="/drupal/node/2064" typeof="sioc:Post sioct:BlogPost">
+
+  
+        <h2><a href="/drupal/node/2064">The QStuff* Winter&#039;19 Release batch #1</a></h2>
+    <span property="dc:title" content="The QStuff* Winter&#039;19 Release batch #1" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="1" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <span class="submitted"><span property="dc:date dc:created" content="2019-12-22T19:00:00+00:00" datatype="xsd:dateTime" rel="sioc:has_creator">22 December, 2019 - 19:00 — <span class="username" xml:lang="" about="/drupal/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">rncbc</span></span></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Greetings!</p>
+<p>The old core of QStuff*, <b><a href="#qjackctl">QjackCtl</a></b>, <b><a href="#qsynth">Qsynth</a></b>, <b><a href="#qsampler">Qsampler</a></b>, <b><a href="#qxgedit">QXGEdit</a></b>, <b><a href="#qmidictl">QmidiCtl</a></b> and <b><a href="#qmidinet">QmidiNet</a></b>, are all here and now bumped to <b>version 0.6.1</b>, making it the first batch for the last (northern) winter solistice of the decade.</p>
+<p>So here they go...</p>
+<p> </p>
+<h2><a name="qjackctl" href="http://qjackctl.sourceforge.net" id="qjackctl"><img src="/drupal/files/qjackctl_32x32.png" align="left" title="QjackCtl" hspace="4" vspace="4" />QjackCtl</a> - JACK Audio Connection Kit Qt GUI Interface</h2>
+<p><a href="http://qjackctl.sourceforge.net"><img src="/drupal/files/qjackctl-preflect1.png" title="qjackctl" align="right" hspace="4" vspace="4" /></a></p>
+<dd>
+  <a href="http://qjackctl.sf.net">QjackCtl</a> 0.6.1 (winter'19) released!<br />
+</dd>
+<p><a href="http://qjackctl.sf.net">QjackCtl</a> is a(n ageing yet modern, not so <i>simple</i> anymore) <a href="https://qt.io">Qt</a> application to control the <a href="http://jackaudio.org">JACK</a> sound server, for the <a href="https://linuxaudio.org">Linux Audio</a> infrastructure.</p>
+<p>Website:<br />
+</p><dd>
+  <a href="https://qjackctl.sourceforge.io">https://qjackctl.sourceforge.io</a><br />
+  <a href="http://qjackctl.sourceforge.net">http://qjackctl.sourceforge.net</a><br />
+</dd>
+<p>Project page:<br />
+</p><dd>
+  <a href="https://sourceforge.net/projects/qjackctl">https://sourceforge.net/projects/qjackctl</a><br />
+</dd>
+<p>Downloads:<br />
+</p><dd>
+  <a href="https://sourceforge.net/projects/qjackctl/files">https://sourceforge.net/projects/qjackctl/files</a>
+<ul>
+<li>source tarball:<br />
+  <a href="https://download.sf.net/qjackctl/qjackctl-0.6.1.tar.gz"><b>qjackctl-0.6.1.tar.gz</b></a></li>
+<li>source package:<br />
+  <a href="https://download.sf.net/qjackctl/qjackctl-0.6.1-40.rncbc.suse.src.rpm">qjackctl-0.6.1-40.rncbc.suse.src.rpm</a></li>
+<li>binary package:<br />
+  <a href="https://download.sf.net/qjackctl/qjackctl-0.6.1-40.rncbc.suse.x86_64.rpm">qjackctl-0.6.1-40.rncbc.suse.x86_64.rpm</a></li>
+<li><a href="https://appimage.org">AppImage</a> package:<br />
+  <a href="https://download.sf.net/qjackctl/qjackctl-0.6.1-40.x86_64.AppImage">qjackctl-0.6.1-40.x86_64.AppImage</a></li>
+</ul>
+</dd>
+<p>Git repos:<br />
+</p><dd>
+  <a href="https://git.code.sf.net/p/qjackctl/code">https://git.code.sf.net/p/qjackctl/code</a><br />
+  <a href="https://github.com/rncbc/qjackctl.git">https://github.com/rncbc/qjackctl.git</a><br />
+  <a href="&gt;https://gitlab.com/rncbc/qjackctl.git">https://gitlab.com/rncbc/qjackctl.git</a><br />
+  <a href="https://bitbucket.com/rncbc/qjackctl.git">https://bitbucket.com/rncbc/qjackctl.git</a><br />
+</dd>
+<p>Change-log:
+</p><ul>
+<li>Custom color (palette) theme editor introduced; color (palette) theme changes are now effective immediately, except on default.</li>
+<li>Second attempt to fix the yet non-official though CMake build configuration.</li>
+<li>When using autotools and <code>./configure --with-qt=</code>..., it is also necessary to adjust the <code>PKG_CONFIG_PATH</code> environment variable (after a merge request by plcl aka. Pedro López-Cabanillas, while on <a href="https://qmidinet.sourceforge.io">qmidinet</a>, thanks).</li>
+</ul>
+<p> </p>
+<h2><a name="qsynth" href="http://qsynth.sourceforge.net" id="qsynth"><img src="/drupal/files/qsynth.png" align="left" title="Qsynth" hspace="4" vspace="4" />Qsynth</a> - A fluidsynth Qt GUI Interface</h2>
+<p><a href="http://qsynth.sourceforge.net"><img src="/drupal/files/qsynth-preflect1.png" title="qsynth" align="right" hspace="4" vspace="4" /></a></p>
+<dd>
+  <a href="http://qsynth.sf.net">Qsynth</a> 0.6.1 (winter'19) released!<br />
+</dd>
+<p><a href="http://qsynth.sf.net">Qsynth</a> is a <a href="http://www.fluidsynth.org">FluidSynth</a> GUI front-end application written in C++ around the <a href="https://qt.io">Qt</a> framework using Qt Designer.</p>
+<p>Website:<br />
+</p><dd>
+  <a href="https://qsynth.sourceforge.io">https://qsynth.sourceforge.io</a><br />
+  <a href="http://qsynth.sourceforge.net">http://qsynth.sourceforge.net</a><br />
+</dd>
+<p>Project page:<br />
+</p><dd>
+  <a href="https://sourceforge.net/projects/qsynth">https://sourceforge.net/projects/qsynth</a><br />
+</dd>
+<p>Downloads:<br />
+</p><dd>
+  <a href="https://sourceforge.net/projects/qsynth/files">https://sourceforge.net/projects/qsynth/files</a>
+<ul>
+<li>source tarball:<br />
+  <a href="https://download.sf.net/qsynth/qsynth-0.6.1.tar.gz"><b>qsynth-0.6.1.tar.gz</b></a></li>
+<li>source package:<br />
+  <a href="https://download.sf.net/qsynth/qsynth-0.6.1-40.rncbc.suse.src.rpm">qsynth-0.6.1-40.rncbc.suse.src.rpm</a></li>
+<li>binary package:<br />
+  <a href="https://download.sf.net/qsynth/qsynth-0.6.1-40.rncbc.suse.x86_64.rpm">qsynth-0.6.1-40.rncbc.suse.x86_64.rpm</a></li>
+<li><a href="https://appimage.org">AppImage</a> package:<br />
+  <a href="https://download.sf.net/qsynth/qsynth-0.6.1-40.x86_64.AppImage">qsynth-0.6.1-40.x86_64.AppImage</a></li>
+</ul>
+</dd>
+<p>Git repos:<br />
+</p><dd>
+  <a href="https://git.code.sf.net/p/qsynth/code">https://git.code.sf.net/p/qsynth/code</a><br />
+  <a href="https://github.com/rncbc/qsynth.git">https://github.com/rncbc/qsynth.git</a><br />
+  <a href="https://gitlab.com/rncbc/qsynth.git">https://gitlab.com/rncbc/qsynth.git</a><br />
+  <a href="https://bitbucket.com/rncbc/qsynth.git">https://bitbucket.com/rncbc/qsynth.git</a><br />
+</dd>
+<p>Change-log:
+</p><ul>
+<li>Custom color (palette) theme editor introduced; color (palette) theme changes are now effective immediately, except on default.</li>
+<li>Second attempt to fix the yet non-official though CMake build configuration.</li>
+<li>When using autotools and <code>./configure --with-qt=</code>..., it is also necessary to adjust the <code>PKG_CONFIG_PATH</code> environment variable (after a merge request by plcl aka. Pedro López-Cabanillas, while on <a href="https://qmidinet.sourceforge.io">qmidinet</a>, thanks).</li>
+</ul>
+<p> </p>
+<h2><a name="qsampler" href="http://qsampler.sourceforge.net" id="qsampler"><img src="/drupal/files/qsampler.png" align="left" title="Qsampler" hspace="4" vspace="4" />Qsampler</a> - A LinuxSampler Qt GUI Interface</h2>
+<p><a href="http://qsampler.sourceforge.net"><img src="/drupal/files/qsampler-thumb1.png" title="Qsampler" align="right" hspace="4" vspace="4" /></a></p>
+<dd>
+  <a href="http://qsampler.sf.net">Qsampler</a> 0.6.1 (winter'19) released!<br />
+</dd>
+<p><a href="http://qsampler.sf.net">Qsampler</a> is a <a href="https://www.linuxsampler.org">LinuxSampler</a> GUI front-end application written in C++ around the <a href="https://qt.io">Qt</a> framework using Qt Designer.</p>
+<p>Website:<br />
+</p><dd>
+  <a href="https://qsampler.sourceforge.io">https://qsampler.sourceforge.io</a><br />
+  <a href="http://qsampler.sourceforge.net">http://qsampler.sourceforge.net</a><br />
+</dd>
+<p>Project page:<br />
+</p><dd>
+  <a href="https://sourceforge.net/projects/qsampler">https://sourceforge.net/projects/qsampler</a><br />
+</dd>
+<p>Downloads:<br />
+</p><dd>
+  <a href="https://sourceforge.net/projects/qsampler/files">https://sourceforge.net/projects/qsampler/files</a>
+<ul>
+<li>source tarballs:<br />
+  <a href="https://download.sf.net/qsampler/qsampler-0.6.1.tar.gz"><b>qsampler-0.6.1.tar.gz</b></a></li>
+<li>source package:<br />
+  <a href="https://download.sf.net/qsampler/qsampler-0.6.1-40.rncbc.suse.src.rpm">qsampler-0.6.1-40.rncbc.suse.src.rpm</a></li>
+<li>binary package:<br />
+  <a href="https://download.sf.net/qsampler/qsampler-0.6.1-40.rncbc.suse.x86_64.rpm">qsampler-0.6.1-40.rncbc.suse.x86_64.rpm</a></li>
+<li><a href="https://appimage.org">AppImage</a> package:<br />
+  <a href="https://download.sf.net/qsampler/qsampler-0.6.1-40.x86_64.AppImage">qsampler-0.6.1-40.x86_64.AppImage</a></li>
+</ul>
+</dd>
+<p>Git repos:<br />
+</p><dd>
+  <a href="https://git.code.sf.net/p/qsampler/code">https://git.code.sf.net/p/qsampler/code</a><br />
+  <a href="https://github.com/rncbc/qsampler.git">https://github.com/rncbc/qsampler.git</a><br />
+  <a href="https://gitlab.com/rncbc/qsampler.git">https://gitlab.com/rncbc/qsampler.git</a><br />
+  <a href="https://bitbucket.com/rncbc/qsampler.git">https://bitbucket.com/rncbc/qsampler.git</a><br />
+</dd>
+<p>Change-log:
+</p><ul>
+<li>Custom color (palette) theme editor introduced; color (palette) theme changes are now effective immediately, except on default.</li>
+<li>Second attempt to fix the yet non-official though CMake build configuration.</li>
+<li>When using autotools and <code>./configure --with-qt=</code>..., it is also necessary to adjust the <code>PKG_CONFIG_PATH</code> environment variable (after a merge request by plcl aka. Pedro López-Cabanillas, while on <a href="https://qmidinet.sourceforge.io">qmidinet</a>, thanks).</li>
+</ul>
+<p> </p>
+<h2><a name="qxgedit" href="http://qxgedit.sourceforge.net" id="qxgedit"><img src="/drupal/files/qxgedit.png" align="left" title="QXGEdit" hspace="4" vspace="4" />QXGEdit</a> - A Qt XG Editor</h2>
+<p><a href="http://qxgedit.sourceforge.net"><img src="/drupal/files/qxgedit-thumb1.png" title="QXGEdit" align="right" hspace="4" vspace="4" /></a></p>
+<dd>
+  <a href="http://qxgedit.sf.net">QXGEdit</a> 0.6.1 (winter'19) released!<br />
+</dd>
+<p><a href="http://qxgedit.sf.net">QXGEdit</a> is a live XG instrument editor, specialized on editing MIDI System Exclusive files (.syx) for the <a href="http://www.soundonsound.com/sos/1996_articles/may96/yamahadb50xg.html">Yamaha DB50XG</a> and thus probably a baseline for many other XG devices.</p>
+<p>Website:<br />
+</p><dd>
+  <a href="https://qxgedit.sourceforge.io">https://qxgedit.sourceforge.io</a><br />
+  <a href="http://qxgedit.sourceforge.net">http://qxgedit.sourceforge.net</a><br />
+</dd>
+<p>Project page:<br />
+</p><dd>
+  <a href="https://sourceforge.net/projects/qxgedit">https://sourceforge.net/projects/qxgedit</a><br />
+</dd>
+<p>Downloads:<br />
+</p><dd>
+  <a href="https://sourceforge.net/projects/qxgedit/files">https://sourceforge.net/projects/qxgedit/files</a>
+<ul>
+<li>source tarball:<br />
+  <a href="https://download.sf.net/qxgedit/qxgedit-0.6.1.tar.gz"><b>qxgedit-0.6.1.tar.gz</b></a></li>
+<li>source package:<br />
+  <a href="https://download.sf.net/qxgedit/qxgedit-0.6.1-30.rncbc.suse.src.rpm">qxgedit-0.6.1-30.rncbc.suse.src.rpm</a></li>
+<li>binary package:<br />
+  <a href="https://download.sf.net/qxgedit/qxgedit-0.6.1-30.rncbc.suse.x86_64.rpm">qxgedit-0.6.1-30.rncbc.suse.x86_64.rpm</a></li>
+<li><a href="https://appimage.org">AppImage</a> package:<br />
+  <a href="https://download.sf.net/qxgedit/qxgedit-0.6.1-30.x86_64.AppImage">qxgedit-0.6.1-30.x86_64.AppImage</a></li>
+</ul>
+</dd>
+<p>Git repos:<br />
+</p><dd>
+  <a href="https://git.code.sf.net/p/qxgedit/code">https://git.code.sf.net/p/qxgedit/code</a><br />
+  <a href="https://github.com/rncbc/qxgedit.git">https://github.com/rncbc/qxgedit.git</a><br />
+  <a href="https://gitlab.com/rncbc/qxgedit.git">https://gitlab.com/rncbc/qxgedit.git</a><br />
+  <a href="https://bitbucket.com/rncbc/qxgedit.git">https://bitbucket.com/rncbc/qxgedit.git</a><br />
+</dd>
+<p>Change-log:
+</p><ul>
+<li>Custom color (palette) theme editor introduced; color (palette) theme changes are now effective immediately, except on default.</li>
+<li>Second attempt to fix the yet non-official though CMake build configuration.</li>
+<li>When using autotools and <code>./configure --with-qt=</code>..., it is also necessary to adjust the <code>PKG_CONFIG_PATH</code> environment variable (after a merge request by plcl aka. Pedro López-Cabanillas, while on <a href="https://qmidinet.sourceforge.io">qmidinet</a>, thanks).</li>
+</ul>
+<p> </p>
+<h2><a name="qmidictl" href="http://qmidictl.sourceforge.net" id="qmidictl"><img src="/drupal/files/qmidictl.png" align="left" title="qmidictl" hspace="4" vspace="4" />QmidiCtl</a> - A MIDI Remote Controller via UDP/IP Multicast</h2>
+<p><a href="http://qmidictl.sourceforge.net"><img src="/drupal/files/qmidictl-android-phone-1.png" title="QmidiCtl on an Android (smart)phone" align="right" hspace="4" vspace="4" width="320" /></a></p>
+<dd>
+  <a href="http://qmidictl.sf.net">QmidiCtl</a> 0.6.1 (winter'19) released!<br />
+</dd>
+<p><a href="http://qmidictl.sourceforge.net">QmidiCtl</a> is a MIDI remote controller application that sends MIDI data over the network, using UDP/IP multicast. Inspired by multimidicast (<a href="https://llg.cubic.org/tools">https://llg.cubic.org/tools</a>) and designed to be compatible with ipMIDI for Windows (<a href="https://nerds.de">https://nerds.de</a>). <a href="http://qmidictl.sourceforge.net">QmidiCtl</a> was long ago designed for the <a href="https://www.maemo.org">Maemo</a> enabled handheld devices, namely the late <a href="https://wiki.maemo.org/Nokia_N900">Nokia N900</a> and promoted to the <a href="https://maemo.org/packages/view/qmidictl/">Maemo Package</a> repositories. Nevertheless, QmidiCtl may still be found effective as a regular desktop application and recently as an Android application as well.</p>
+<p>Website:<br />
+</p><dd>
+  <a href="https://qmidictl.sourceforge.io">https://qmidictl.sourceforge.io</a><br />
+  <a href="http://qmidictl.sourceforge.net">http://qmidictl.sourceforge.net</a><br />
+</dd>
+<p>Project page:<br />
+</p><dd>
+  <a href="https://sourceforge.net/projects/qmidictl">https://sourceforge.net/projects/qmidictl</a><br />
+</dd>
+<p>Downloads:<br />
+</p><dd>
+  <a href="https://sourceforge.net/projects/qmidictl/files">https://sourceforge.net/projects/qmidictl/files</a>
+<ul>
+<li>source tarball:<br />
+  <a href="https://download.sf.net/qmidictl/qmidictl-0.6.1.tar.gz"><b>qmidictl-0.6.1.tar.gz</b></a></li>
+<li>source package:<br />
+  <a href="https://download.sf.net/qmidictl/qmidictl-0.6.1-20.rncbc.suse.src.rpm">qmidictl-0.6.1-20.rncbc.suse.src.rpm</a></li>
+<li>binary package:<br />
+  <a href="https://download.sf.net/qmidictl/qmidictl-0.6.1-20.rncbc.suse.x86_64.rpm">qmidictl-0.6.1-20.rncbc.suse.x86_84.rpm</a></li>
+<li><a href="https://appimage.org">AppImage</a> package:<br />
+  <a href="https://download.sf.net/qmidictl/qmidictl-0.6.1-20.x86_64.AppImage">qmidictl-0.6.1-20.x86_64.AppImage</a></li>
+<li>Android packages:<br />
+  <a href="https://download.sf.net/qmidictl/qmidictl-0.6.1-20.armeabi-v7a.apk">qmidictl-0.6.1-20.armeabi-v7a.apk</a><br />
+  <a href="https://download.sf.net/qmidictl/qmidictl-0.6.1-20.arm64-v8a.apk">qmidictl-0.6.1-20.arm64-v8a.apk</a><br />
+  <a href="https://play.google.com/store/apps/details?id=org.rncbc.qmidictl" title="Google Play Store"><img src="/drupal/files/google_play_badge.png" alt="Get it on Google Play" /></a>
+</li>
+</ul>
+</dd>
+<p>Git repos:<br />
+</p><dd>
+  <a href="https://git.code.sf.net/p/qmidictl/code">https://git.code.sf.net/p/qmidictl/code</a><br />
+  <a href="https://github.com/rncbc/qmidictl.git">https://github.com/rncbc/qmidictl.git</a><br />
+  <a href="https://gitlab.com/rncbc/qmidictl.git">https://gitlab.com/rncbc/qmidictl.git</a><br />
+  <a href="https://bitbucket.com/rncbc/qmidictl.git">https://bitbucket.com/rncbc/qmidictl.git</a><br />
+</dd>
+<p>Change-log:
+</p><ul>
+<li>Provide a default IPv6 address, and feedback to the user in the options dialog (after a merge request by plcl aka. Pedro López-Cabanillas, while on <a href="https://qmidinet.sourceforge.io">qmidinet</a>).
+</li><li>When using autotools and <code>./configure --with-qt=</code>..., it is also necessary to adjust the <code>PKG_CONFIG_PATH</code> environment variable (after a merge request by plcl aka. Pedro López-Cabanillas, while on <a href="https://qmidinet.sourceforge.io">qmidinet</a>, thanks).</li>
+</ul>
+<p> </p>
+<h2><a name="qmidinet" href="http://qmidinet.sourceforge.net" id="qmidinet"><img src="/drupal/files/qmidinet.png" align="left" title="qmidinet" hspace="4" vspace="4" />QmidiNet</a> -  A MIDI Network Gateway via UDP/IP Multicast</h2>
+<p></p>
+<dd>
+  <a href="http://qmidinet.sf.net">QmidiNet</a> 0.6.1 (winter'19) released!<br />
+</dd>
+<p><a href="http://qmidinet.sf.net">QmidiNet</a> is a MIDI network gateway application that sends and receives MIDI data (ALSA-MIDI and JACK-MIDI) over the network, using UDP/IP multicast. Inspired by <a href="https://llg.cubic.org/tools/multimidicast">multimidicast</a> and designed to be compatible with <a href="https://nerds.de">ipMIDI</a> for Windows.</p>
+<p>Website:<br />
+</p><dd>
+  <a href="https://qmidinet.sourceforge.io">https://qmidinet.sourceforge.io</a><br />
+  <a href="http://qmidinet.sourceforge.net">http://qmidinet.sourceforge.net</a><br />
+</dd>
+<p>Project page:<br />
+</p><dd>
+  <a href="https://sourceforge.net/projects/qmidinet">https://sourceforge.net/projects/qmidinet</a><br />
+</dd>
+<p>Downloads:<br />
+</p><dd>
+  <a href="https://sourceforge.net/projects/qmidinet/files">https://sourceforge.net/projects/qmidinet/files</a>
+<ul>
+<li>source tarball:<br />
+  <a href="https://download.sf.net/qmidinet/qmidinet-0.6.1.tar.gz"><b>qmidinet-0.6.1.tar.gz</b></a></li>
+<li>source package:<br />
+  <a href="https://download.sf.net/qmidinet/qmidinet-0.6.1-20.rncbc.suse.src.rpm">qmidinet-0.6.1-20.rncbc.suse.src.rpm</a></li>
+<li>binary package:<br />
+  <a href="https://download.sf.net/qmidinet/qmidinet-0.6.1-20.rncbc.suse.x86_64.rpm">qmidinet-0.6.1-20.rncbc.suse.x86_64.rpm</a></li>
+<li><a href="https://appimage.org">AppImage</a> package:<br />
+  <a href="https://download.sf.net/qmidinet/qmidinet-0.6.1-20.x86_64.AppImage">qmidinet-0.6.1-20.x86_64.AppImage</a></li>
+</ul>
+</dd>
+<p>Git repos:<br />
+</p><dd>
+  <a href="https://git.code.sf.net/p/qmidinet/code">https://git.code.sf.net/p/qmidinet/code</a><br />
+  <a href="https://github.com/rncbc/qmidinet.git">https://github.com/rncbc/qmidinet.git</a><br />
+  <a href="https://gitlab.com/rncbc/qmidinet.git">https://gitlab.com/rncbc/qmidinet.git</a><br />
+  <a href="https://bitbucket.com/rncbc/qmidinet.git">https://bitbucket.com/rncbc/qmidinet.git</a><br />
+</dd>
+<p>Change-log:
+</p><ul>
+<li>Second attempt to fix the yet non-official though CMake build configuration.</li>
+<li>Provide a default IPv6 address, and feedback to the user in the options dialog (after a merge request by plcl aka. Pedro López-Cabanillas, thanks).</li>
+<li>When using <code>./configure --with-qt=</code>... it is also necessary to adjust the <code>PKG_CONFIG_PATH</code> environment variable (also by plcl aka. Pedro López-Cabanillas).</li>
+</ul>
+<p> </p>
+<p>License:<br />
+</p><dd>
+  All of the <i>Qstuff</i>* are free, open-source <a href="https://linuxaudio.org">Linux Audio</a> software, distributed under the terms of the GNU General Public License (<a href="https://www.gnu.org/copyleft/gpl.html">GPL</a>) version 2 or later.<br />
+</dd>
+<p>Enjoy &amp;&amp; Be Happy! ;)</p>
+</div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first"><a href="/drupal/node/2064" rel="tag" title="The QStuff* Winter&#039;19 Release batch #1">Read more<span class="element-invisible"> about The QStuff* Winter&#039;19 Release batch #1</span></a></li>
+<li class="blog_usernames_blog"><a href="/drupal/blog/1" title="Read rncbc&#039;s latest blog entries.">rncbc&#039;s blog</a></li>
+<li class="comment-comments"><a href="/drupal/node/2064#comments" title="Jump to the first comment of this posting.">1 comment</a></li>
+<li class="comment-add last"><a href="/drupal/comment/reply/2064#comment-form" title="Add a new comment to this page.">Add new comment</a></li>
+</ul></div>
+    
+      </div>
+
+</div>
+<div id="node-2059" class="node node-blog node-promoted node-teaser" about="/drupal/node/2059" typeof="sioc:Post sioct:BlogPost">
+
+  
+        <h2><a href="/drupal/node/2059">Qtractor in the Top 10</a></h2>
+    <span property="dc:title" content="Qtractor in the Top 10" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="5" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <span class="submitted"><span property="dc:date dc:created" content="2019-11-28T19:00:00+00:00" datatype="xsd:dateTime" rel="sioc:has_creator">28 November, 2019 - 19:00 — <span class="username" xml:lang="" about="/drupal/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">rncbc</span></span></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a name="qtractor" href="http://qtractor.org" id="qtractor"><img src="/drupal/files/qtractor.png" align="left" title="Qtractor" hspace="4" vspace="4" /></a><a href="https://www.pianonadu.com/">PianoNadu</a> is way too kind to list yours truly <a href="http://qtractor.org">Qtractor</a> as one of the <a href="https://www.pianonadu.com/top-10-daw-software-of-2019/#tab-con-1">Top 10 DAW Software of 2019</a>, no matter how many times I say Qtractor is not a DAW but just a sequencer with, yes, some amenable DAW features ;)</p></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first"><a href="/drupal/node/2059" rel="tag" title="Qtractor in the Top 10">Read more<span class="element-invisible"> about Qtractor in the Top 10</span></a></li>
+<li class="blog_usernames_blog"><a href="/drupal/blog/1" title="Read rncbc&#039;s latest blog entries.">rncbc&#039;s blog</a></li>
+<li class="comment-comments"><a href="/drupal/node/2059#comments" title="Jump to the first comment of this posting.">5 comments</a></li>
+<li class="comment-add last"><a href="/drupal/comment/reply/2059#comment-form" title="Add a new comment to this page.">Add new comment</a></li>
+</ul></div>
+    
+      </div>
+
+</div>
+<div id="node-2054" class="node node-blog node-promoted node-teaser" about="/drupal/node/2054" typeof="sioc:Post sioct:BlogPost">
+
+  
+        <h2><a href="/drupal/node/2054">Qtractor 0.9.11 - The Mauerfall&#039;30 Release</a></h2>
+    <span property="dc:title" content="Qtractor 0.9.11 - The Mauerfall&#039;30 Release" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="5" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <span class="submitted"><span property="dc:date dc:created" content="2019-11-09T19:00:00+00:00" datatype="xsd:dateTime" rel="sioc:has_creator">9 November, 2019 - 19:00 — <span class="username" xml:lang="" about="/drupal/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">rncbc</span></span></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a name="qtractor" href="http://qtractor.org" id="qtractor"><img src="/drupal/files/qtractor.png" align="left" title="Qtractor" hspace="4" vspace="4" /></a><a href="http://qtractor.org"><img src="/drupal/files/qtractor-thumbnail16m.png" title="Qtractor" align="right" hspace="8" vspace="4" /></a><br />
+Hallo!</p>
+<p>Not making history or a revolution but as peaceful as thirty years ago ;)</p>
+<dd>
+  <b><a href="http://qtractor.org">Qtractor</a> 0.9.11</b> (<i>mauerfall'30</i>) is out!<br />
+</dd>
+<p>And the change-log goes as follows:</p>
+<ul>
+<li>MIDI Instrument and patch, bank and program names are now correctly updated on their respective track-list (left pane) columns.</li>
+<li>Avoid copying/replicating dirty MIDI clip files, for yet untitled/scratch sessions.</li>
+<li>Transport/Backward commands now honoring edit-tail, loop-end and punch-out points, when playback is not rolling.</li>
+<li>A session name (sub-)directory is now suggested on every new session properties dialog.</li>
+<li>Avoid adding any extraneous clip replica when Ctrl+dragging on either of its edges.</li>
+<li>When using autotools and <code>./configure --with-qt=...</code>, it is also necessary to adjust the <code>PKG_CONFIG_PATH</code> environment variable (after a merge request by plcl aka. Pedro López-Cabanillas, while on <a href="https://qmidinet.sourceforge.io">qmidinet</a>, thanks).</li>
+<li>Fixing a potential crash-effect in switching MIDI output buses on tracks that are set to show audio output monitoring meters, is on going still.</li>
+</ul>
+</div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first"><a href="/drupal/node/2054" rel="tag" title="Qtractor 0.9.11 - The Mauerfall&#039;30 Release">Read more<span class="element-invisible"> about Qtractor 0.9.11 - The Mauerfall&#039;30 Release</span></a></li>
+<li class="blog_usernames_blog"><a href="/drupal/blog/1" title="Read rncbc&#039;s latest blog entries.">rncbc&#039;s blog</a></li>
+<li class="comment-comments"><a href="/drupal/node/2054#comments" title="Jump to the first comment of this posting.">5 comments</a></li>
+<li class="comment-add last"><a href="/drupal/comment/reply/2054#comment-form" title="Add a new comment to this page.">Add new comment</a></li>
+</ul></div>
+    
+      </div>
+
+</div>
+<h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/drupal/node?page=1">2</a></li>
+<li class="pager-item"><a title="Go to page 3" href="/drupal/node?page=2">3</a></li>
+<li class="pager-item"><a title="Go to page 4" href="/drupal/node?page=3">4</a></li>
+<li class="pager-item"><a title="Go to page 5" href="/drupal/node?page=4">5</a></li>
+<li class="pager-item"><a title="Go to page 6" href="/drupal/node?page=5">6</a></li>
+<li class="pager-item"><a title="Go to page 7" href="/drupal/node?page=6">7</a></li>
+<li class="pager-item"><a title="Go to page 8" href="/drupal/node?page=7">8</a></li>
+<li class="pager-item"><a title="Go to page 9" href="/drupal/node?page=8">9</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-next"><a title="Go to next page" href="/drupal/node?page=1">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/drupal/node?page=48">last »</a></li>
+</ul></div>  </div>
+</div>
+  </div>
+          </div>
+          <a href="/drupal/rss.xml" class="feed-icon" title="Subscribe to rncbc.org RSS"><img typeof="foaf:Image" src="https://www.rncbc.org/drupal/misc/feed.png" width="16" height="16" alt="Subscribe to rncbc.org RSS" /></a>            <div class="region region-footer">
+    <div id="block-block-2" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <p>Copyright (C) 2006-2020 rncbc aka Rui Nuno Capela. All rights reserved.<br />
+Powered by <a href="http://drupal.org">Drupal</a></p>
+  </div>
+</div>
+  </div>
+      </div></div></div></div> <!-- /.left-corner, /.right-corner, /#squeeze, /#center -->
+
+      
+    </div> <!-- /#container -->
+  </div> <!-- /#wrapper -->
+  </body>
+</html>

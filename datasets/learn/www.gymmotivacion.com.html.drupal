@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head>
+<meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="shortcut icon" href="http://www.gymmotivacion.com/sites/all/themes/nexus/favicon.ico" type="image/vnd.microsoft.icon" />
+<title>Welcome to My Drupal | My Drupal</title>
+<style type="text/css" media="all">
+@import url("http://www.gymmotivacion.com/modules/system/system.base.css?pnhspn");
+@import url("http://www.gymmotivacion.com/modules/system/system.menus.css?pnhspn");
+@import url("http://www.gymmotivacion.com/modules/system/system.messages.css?pnhspn");
+@import url("http://www.gymmotivacion.com/modules/system/system.theme.css?pnhspn");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.gymmotivacion.com/modules/comment/comment.css?pnhspn");
+@import url("http://www.gymmotivacion.com/modules/field/theme/field.css?pnhspn");
+@import url("http://www.gymmotivacion.com/modules/node/node.css?pnhspn");
+@import url("http://www.gymmotivacion.com/modules/search/search.css?pnhspn");
+@import url("http://www.gymmotivacion.com/modules/user/user.css?pnhspn");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.gymmotivacion.com/sites/all/themes/nexus/css/bootstrap.min.css?pnhspn");
+@import url("http://www.gymmotivacion.com/sites/all/themes/nexus/css/flexslider.css?pnhspn");
+@import url("http://www.gymmotivacion.com/sites/all/themes/nexus/style.css?pnhspn");
+</style>
+<script type="text/javascript" src="http://www.gymmotivacion.com/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.gymmotivacion.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.gymmotivacion.com/misc/drupal.js?pnhspn"></script>
+<script type="text/javascript" src="http://www.gymmotivacion.com/sites/all/themes/nexus/js/jquery.flexslider.js?pnhspn"></script>
+<script type="text/javascript" src="http://www.gymmotivacion.com/sites/all/themes/nexus/js/slide.js?pnhspn"></script>
+<script type="text/javascript" src="http://www.gymmotivacion.com/sites/all/themes/nexus/js/bootstrap.min.js?pnhspn"></script>
+<script type="text/javascript" src="http://www.gymmotivacion.com/sites/all/themes/nexus/js/superfish.js?pnhspn"></script>
+<script type="text/javascript" src="http://www.gymmotivacion.com/sites/all/themes/nexus/js/mobilemenu.js?pnhspn"></script>
+<script type="text/javascript" src="http://www.gymmotivacion.com/sites/all/themes/nexus/js/custom.js?pnhspn"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nexus","theme_token":"HR2Sj0TJSdYLgVuMyfHy6r7QvsfCUmw3_N94A9SuZKA","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/nexus\/js\/jquery.flexslider.js":1,"sites\/all\/themes\/nexus\/js\/slide.js":1,"sites\/all\/themes\/nexus\/js\/bootstrap.min.js":1,"sites\/all\/themes\/nexus\/js\/superfish.js":1,"sites\/all\/themes\/nexus\/js\/mobilemenu.js":1,"sites\/all\/themes\/nexus\/js\/custom.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/themes\/nexus\/css\/bootstrap.min.css":1,"sites\/all\/themes\/nexus\/css\/flexslider.css":1,"sites\/all\/themes\/nexus\/style.css":1}},"urlIsAjaxTrusted":{"\/node?destination=node":true}});
+//--><!]]>
+</script>
+<!--[if lt IE 9]><script src="/sites/all/themes/nexus/js/html5.js"></script><![endif]-->
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node">
+    <div id="page">
+  <header id="masthead" class="site-header container" role="banner">
+    <div class="row">
+      <div id="logo" class="site-branding col-sm-6">
+        <div id="site-logo"><a href="/" title="Home">
+          <img src="http://www.gymmotivacion.com/sites/all/themes/nexus/logo.png" alt="Home" />
+        </a></div>        <h1 id="site-title">
+          <a href="/" title="Home">My Drupal</a>
+        </h1>
+      </div>
+      <div class="col-sm-6 mainmenu">
+        <div class="mobilenavi"></div>
+        <nav id="navigation" role="navigation">
+          <div id="main-menu">
+            <ul class="menu"><li class="first collapsed"><a href="/" class="active">Home</a></li>
+<li class="last leaf"><a href="/" title="" class="active">Program Operations</a></li>
+</ul>          </div>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+
+        <div id="slidebox" class="flexslider">
+    <ul class="slides">
+      <li>
+        <img src="/sites/all/themes/nexus/images/slide-image-1.jpg"/>
+                  <div class="flex-caption">
+            <h2>Sample product</h2><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt elit, sed do eiusmod tempor...</p>
+            <a class="frmore" href="/about-me"> READ MORE </a>
+          </div>
+              </li>
+      <li>
+        <img src="/sites/all/themes/nexus/images/slide-image-2.jpg"/>
+                  <div class="flex-caption">
+            <h2>Sample service</h2><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do Lorem ipsum dolor sit amet irure dolor in reprehenderit...</p>
+            <a class="frmore" href="/node/2"> READ MORE </a>
+          </div>
+              </li>
+      <li>
+        <img src="/sites/all/themes/nexus/images/slide-image-3.jpg"/>
+                  <div class="flex-caption">
+            <h2>Contact us</h2><p>Duis aute irure dolor in reprehenderit inLorem ipsum dolor sit amet, consectetur do Lorem ipsum dolor sit amet irure...</p>
+            <a class="frmore" href="/node/3"> READ MORE </a>
+          </div>
+              </li>
+    </ul><!-- /slides -->
+    <div class="doverlay"></div>
+  </div>
+    
+  
+  
+    <div id="main-content">
+    <div class="container"> 
+      <div class="row">
+                <div id="primary" class="content-area col-sm-8">
+          <section id="content" role="main" class="clearfix">
+                                                <div id="content-wrap">
+                            <h1 class="page-title">Welcome to My Drupal</h1>                                                                      <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+    <div id="first-time"><p>No front page content has been created yet.</p></div>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+            </div>
+          </section>
+        </div>
+                  <aside id="sidebar" class="col-sm-4" role="complementary">
+           <div class="region region-sidebar-first">
+  <div id="block-user-login" class="block block-user">
+
+        <h2 >User login</h2>
+    
+  <div class="content">
+    <form action="/node?destination=node" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-Vfm8EgZ9KyMpxfn3eDzCop1j1Uaif3uHaLUAeLvsfMk" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+          </aside> 
+              </div>
+    </div>
+  </div>
+
+      <div id="footer-block">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="region region-footer">
+  <div id="block-system-powered-by" class="block block-system">
+
+      
+  <div class="content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+          </div>
+        </div>
+      </div>
+    </div>
+  
+  
+  <footer id="colophon" class="site-footer" role="contentinfo">
+    <div class="container">
+      <div class="row">
+        <div class="fcred col-sm-12">
+          Copyright &copy; 2020, <a href="/">My Drupal</a>. Theme by  <a href="http://www.devsaran.com" target="_blank">Devsaran</a>.
+        </div>
+      </div>
+    </div>
+  </div>
+</div>  </body>
+</html>

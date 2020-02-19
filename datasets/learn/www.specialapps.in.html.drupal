@@ -1,0 +1,364 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.specialapps.in/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" type="application/rss+xml" title="SpecialApps.in RSS" href="http://www.specialapps.in/rss.xml" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="http://www.specialapps.in/" />
+<link rel="shortlink" href="http://www.specialapps.in/" />
+<meta name="google-site-verification" content="TpfoDLvrz_81evMuWwaMY2d957lPYJdnvMxcf1MUOCs" />
+  <title>SpecialApps.in |</title>
+  <style type="text/css" media="all">
+@import url("http://www.specialapps.in/modules/system/system.base.css?pjzc5k");
+@import url("http://www.specialapps.in/modules/system/system.menus.css?pjzc5k");
+@import url("http://www.specialapps.in/modules/system/system.messages.css?pjzc5k");
+@import url("http://www.specialapps.in/modules/system/system.theme.css?pjzc5k");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.specialapps.in/modules/comment/comment.css?pjzc5k");
+@import url("http://www.specialapps.in/sites/all/modules/date/date_api/date.css?pjzc5k");
+@import url("http://www.specialapps.in/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?pjzc5k");
+@import url("http://www.specialapps.in/modules/field/theme/field.css?pjzc5k");
+@import url("http://www.specialapps.in/modules/node/node.css?pjzc5k");
+@import url("http://www.specialapps.in/modules/search/search.css?pjzc5k");
+@import url("http://www.specialapps.in/modules/user/user.css?pjzc5k");
+@import url("http://www.specialapps.in/modules/views/css/views.css?pjzc5k");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.specialapps.in/modules/ctools/css/ctools.css?pjzc5k");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.specialapps.in/themes/bartik/css/layout.css?pjzc5k");
+@import url("http://www.specialapps.in/themes/bartik/css/style.css?pjzc5k");
+@import url("http://www.specialapps.in/themes/bartik/css/colors.css?pjzc5k");
+</style>
+<style type="text/css" media="print">
+@import url("http://www.specialapps.in/themes/bartik/css/print.css?pjzc5k");
+</style>
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://www.specialapps.in/themes/bartik/css/ie.css?pjzc5k" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="http://www.specialapps.in/themes/bartik/css/ie6.css?pjzc5k" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://www.specialapps.in/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.specialapps.in/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.specialapps.in/misc/drupal.js?pjzc5k"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bartik","theme_token":"9I-tNGjSTR6hwQE7z5Ao1ZA83ElU6OZ28Z_ZxpfaXGQ","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/views\/css\/views.css":1,"modules\/ctools\/css\/ctools.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"themes\/bartik\/css\/colors.css":1,"themes\/bartik\/css\/print.css":1,"themes\/bartik\/css\/ie.css":1,"themes\/bartik\/css\/ie6.css":1}},"urlIsAjaxTrusted":{"\/node?destination=node":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper"><div id="page">
+
+  <div id="header" class="without-secondary-menu"><div class="section clearfix">
+
+          <a href="/" title="Home" rel="home" id="logo">
+        <img src="http://www.specialapps.in/themes/bartik/logo.png" alt="Home" />
+      </a>
+    
+          <div id="name-and-slogan">
+
+                              <h1 id="site-name">
+              <a href="/" title="Home" rel="home"><span>SpecialApps.in</span></a>
+            </h1>
+                  
+        
+      </div> <!-- /#name-and-slogan -->
+    
+    
+          <div id="main-menu" class="navigation">
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-218 first last active"><a href="/" class="active">Home</a></li>
+</ul>      </div> <!-- /#main-menu -->
+    
+    
+  </div></div> <!-- /.section, /#header -->
+
+  
+  
+  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
+
+    
+          <div id="sidebar-first" class="column sidebar"><div class="section">
+          <div class="region region-sidebar-first">
+    <div id="block-user-login" class="block block-user">
+
+    <h2>User login</h2>
+  
+  <div class="content">
+    <form action="/node?destination=node" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-gOacdCtwdXICBOtSq9aKx-o2jMUifZNgm_RwBDlp5vk" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+      </div></div> <!-- /.section, /#sidebar-first -->
+    
+    <div id="content" class="column"><div class="section">
+            <a id="main-content"></a>
+                                <div class="tabs">
+                  </div>
+                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-4038" class="node node-fb-images node-promoted node-teaser clearfix" about="/node/4038" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/4038">genral65</a>
+    </h2>
+    <span property="dc:title" content="genral65" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2020-02-15T16:32:59+00:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Anonymous (not verified)</span> on Sat, 02/15/2020 - 16:32</span>    </div>
+  
+  <div class="content clearfix">
+      </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/4038" rel="tag" title="genral65">Read more<span class="element-invisible"> about genral65</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/4038%23comment-form">Log in</a> or <a href="/user/register?destination=node/4038%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-4037" class="node node-fb-images node-promoted node-teaser clearfix" about="/node/4037" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/4037">genral64</a>
+    </h2>
+    <span property="dc:title" content="genral64" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2020-02-15T16:32:59+00:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Anonymous (not verified)</span> on Sat, 02/15/2020 - 16:32</span>    </div>
+  
+  <div class="content clearfix">
+      </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/4037" rel="tag" title="genral64">Read more<span class="element-invisible"> about genral64</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/4037%23comment-form">Log in</a> or <a href="/user/register?destination=node/4037%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-4036" class="node node-fb-images node-promoted node-teaser clearfix" about="/node/4036" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/4036">genral63</a>
+    </h2>
+    <span property="dc:title" content="genral63" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2020-02-15T16:32:59+00:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Anonymous (not verified)</span> on Sat, 02/15/2020 - 16:32</span>    </div>
+  
+  <div class="content clearfix">
+      </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/4036" rel="tag" title="genral63">Read more<span class="element-invisible"> about genral63</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/4036%23comment-form">Log in</a> or <a href="/user/register?destination=node/4036%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-4035" class="node node-fb-images node-promoted node-teaser clearfix" about="/node/4035" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/4035">genral62</a>
+    </h2>
+    <span property="dc:title" content="genral62" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2020-02-15T16:32:59+00:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Anonymous (not verified)</span> on Sat, 02/15/2020 - 16:32</span>    </div>
+  
+  <div class="content clearfix">
+      </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/4035" rel="tag" title="genral62">Read more<span class="element-invisible"> about genral62</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/4035%23comment-form">Log in</a> or <a href="/user/register?destination=node/4035%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-4034" class="node node-fb-images node-promoted node-teaser clearfix" about="/node/4034" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/4034">genral61</a>
+    </h2>
+    <span property="dc:title" content="genral61" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2020-02-15T16:32:59+00:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Anonymous (not verified)</span> on Sat, 02/15/2020 - 16:32</span>    </div>
+  
+  <div class="content clearfix">
+      </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/4034" rel="tag" title="genral61">Read more<span class="element-invisible"> about genral61</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/4034%23comment-form">Log in</a> or <a href="/user/register?destination=node/4034%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-4033" class="node node-fb-images node-promoted node-teaser clearfix" about="/node/4033" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/4033">genral60</a>
+    </h2>
+    <span property="dc:title" content="genral60" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2020-02-15T16:32:59+00:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Anonymous (not verified)</span> on Sat, 02/15/2020 - 16:32</span>    </div>
+  
+  <div class="content clearfix">
+      </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/4033" rel="tag" title="genral60">Read more<span class="element-invisible"> about genral60</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/4033%23comment-form">Log in</a> or <a href="/user/register?destination=node/4033%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-4032" class="node node-fb-images node-promoted node-teaser clearfix" about="/node/4032" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/4032">genral59</a>
+    </h2>
+    <span property="dc:title" content="genral59" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2020-02-15T16:32:59+00:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Anonymous (not verified)</span> on Sat, 02/15/2020 - 16:32</span>    </div>
+  
+  <div class="content clearfix">
+      </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/4032" rel="tag" title="genral59">Read more<span class="element-invisible"> about genral59</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/4032%23comment-form">Log in</a> or <a href="/user/register?destination=node/4032%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-4031" class="node node-fb-images node-promoted node-teaser clearfix" about="/node/4031" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/4031">genral58</a>
+    </h2>
+    <span property="dc:title" content="genral58" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2020-02-15T16:32:59+00:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Anonymous (not verified)</span> on Sat, 02/15/2020 - 16:32</span>    </div>
+  
+  <div class="content clearfix">
+      </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/4031" rel="tag" title="genral58">Read more<span class="element-invisible"> about genral58</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/4031%23comment-form">Log in</a> or <a href="/user/register?destination=node/4031%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-4030" class="node node-fb-images node-promoted node-teaser clearfix" about="/node/4030" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/4030">genral57</a>
+    </h2>
+    <span property="dc:title" content="genral57" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2020-02-15T16:32:59+00:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Anonymous (not verified)</span> on Sat, 02/15/2020 - 16:32</span>    </div>
+  
+  <div class="content clearfix">
+      </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/4030" rel="tag" title="genral57">Read more<span class="element-invisible"> about genral57</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/4030%23comment-form">Log in</a> or <a href="/user/register?destination=node/4030%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-4029" class="node node-fb-images node-promoted node-teaser clearfix" about="/node/4029" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/4029">genral56</a>
+    </h2>
+    <span property="dc:title" content="genral56" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2020-02-15T16:32:59+00:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Anonymous (not verified)</span> on Sat, 02/15/2020 - 16:32</span>    </div>
+  
+  <div class="content clearfix">
+      </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/4029" rel="tag" title="genral56">Read more<span class="element-invisible"> about genral56</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/4029%23comment-form">Log in</a> or <a href="/user/register?destination=node/4029%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/node?page=1">2</a></li>
+<li class="pager-item"><a title="Go to page 3" href="/node?page=2">3</a></li>
+<li class="pager-item"><a title="Go to page 4" href="/node?page=3">4</a></li>
+<li class="pager-item"><a title="Go to page 5" href="/node?page=4">5</a></li>
+<li class="pager-item"><a title="Go to page 6" href="/node?page=5">6</a></li>
+<li class="pager-item"><a title="Go to page 7" href="/node?page=6">7</a></li>
+<li class="pager-item"><a title="Go to page 8" href="/node?page=7">8</a></li>
+<li class="pager-item"><a title="Go to page 9" href="/node?page=8">9</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-next"><a title="Go to next page" href="/node?page=1">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/node?page=230">last »</a></li>
+</ul></div>  </div>
+</div>
+  </div>
+      <a href="/rss.xml" class="feed-icon" title="Subscribe to SpecialApps.in RSS"><img typeof="foaf:Image" src="http://www.specialapps.in/misc/feed.png" width="16" height="16" alt="Subscribe to SpecialApps.in RSS" /></a>
+    </div></div> <!-- /.section, /#content -->
+
+    
+  </div></div> <!-- /#main, /#main-wrapper -->
+
+  
+  <div id="footer-wrapper"><div class="section">
+
+    
+          <div id="footer" class="clearfix">
+          <div class="region region-footer">
+    <div id="block-system-powered-by" class="block block-system">
+
+    
+  <div class="content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+</div>
+  </div>
+      </div> <!-- /#footer -->
+    
+  </div></div> <!-- /.section, /#footer-wrapper -->
+
+</div></div> <!-- /#page, /#page-wrapper -->
+  </body>
+</html>

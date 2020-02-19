@@ -221,7 +221,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <link rel="icon" href="https://i2.wp.com/eljayboswebdesign.com/wp-content/uploads/2019/07/favicon300.jpg?fit=192%2C192&#038;ssl=1" sizes="192x192" />
 <link rel="apple-touch-icon-precomposed" href="https://i2.wp.com/eljayboswebdesign.com/wp-content/uploads/2019/07/favicon300.jpg?fit=180%2C180&#038;ssl=1" />
 <meta name="msapplication-TileImage" content="https://i2.wp.com/eljayboswebdesign.com/wp-content/uploads/2019/07/favicon300.jpg?fit=270%2C270&#038;ssl=1" />
-<meta name="generator" content="WordPress Download Manager 3.0.8" />
+<meta name="generator" content="WordPress Download Manager 3.0.9" />
             <style>
                                 @import url('https://fonts.googleapis.com/css?family=Rubik:400,500');
                 
@@ -1157,7 +1157,7 @@ var mailchimp_public_data = {"site_url":"https:\/\/eljayboswebdesign.com","ajax_
 <script type='text/javascript' src='https://eljayboswebdesign.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.9.2'></script>
 <script type='text/javascript' src='https://eljayboswebdesign.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.8.3'></script>
 <script type='text/javascript'>
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/eljayboswebdesign.com\/wp-admin\/admin-ajax.php","nonce":"bac13afc97","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/eljayboswebdesign.com\/wp-admin\/admin-ajax.php","nonce":"5a7c9ed030","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},
 "menu_cart":{"cart_page_url":"https:\/\/eljayboswebdesign.com\/cart-2\/","checkout_page_url":"https:\/\/eljayboswebdesign.com\/checkout-2\/"},"facebook_sdk":{"lang":"en_US","app_id":""}};
 </script>
 <script type='text/javascript' src='https://eljayboswebdesign.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.3'></script>
@@ -1180,4 +1180,4 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 </body>
 </html>
 
-<!-- Cached by WP-Optimize (gzip) - https://getwpo.com - Last modified: Mon, 17 Feb 2020 23:00:37 GMT -->
+<!-- Cached by WP-Optimize (gzip) - https://getwpo.com - Last modified: Wed, 19 Feb 2020 03:29:41 GMT -->

@@ -1,0 +1,150 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/home" />
+<link rel="shortlink" href="/node/2" />
+<link rel="shortcut icon" href="https://www.processdash.com/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>The Software Process Dashboard | The Software Process Dashboard Initiative</title>
+  <style type="text/css" media="all">
+@import url("https://www.processdash.com/modules/system/system.base.css?pdfagr");
+@import url("https://www.processdash.com/modules/system/system.menus.css?pdfagr");
+@import url("https://www.processdash.com/modules/system/system.messages.css?pdfagr");
+@import url("https://www.processdash.com/modules/system/system.theme.css?pdfagr");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.processdash.com/modules/field/theme/field.css?pdfagr");
+@import url("https://www.processdash.com/modules/node/node.css?pdfagr");
+@import url("https://www.processdash.com/modules/user/user.css?pdfagr");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.processdash.com/sites/default/files/color/garland-40b5b470/style.css?pdfagr");
+</style>
+<style type="text/css" media="print">
+@import url("https://www.processdash.com/themes/garland/print.css?pdfagr");
+</style>
+
+<!--[if lt IE 7]>
+<link type="text/css" rel="stylesheet" href="https://www.processdash.com/themes/garland/fix-ie.css?pdfagr" media="all" />
+<![endif]-->
+<style type="text/css" media="all">
+@import url("https://www.processdash.com/sites/default/files/css_injector/css_injector_5.css?pdfagr");
+</style>
+  <script type="text/javascript" src="https://www.processdash.com/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://www.processdash.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://www.processdash.com/misc/drupal.js?pdfagr"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"garland","theme_token":"R92Lt23veaWH6dwf3JG-_7H1gwSlcwQH7PvtHDNg_rI","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"themes\/garland\/style.css":1,"themes\/garland\/print.css":1,"themes\/garland\/fix-ie.css":1,"public:\/\/css_injector\/css_injector_5.css":1}}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-2 node-type-page fluid-width" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+      
+  <div id="wrapper">
+    <div id="container" class="clearfix">
+
+      <div id="header">
+        <div id="logo-floater">
+                              <div id="branding"><strong><a href="/">
+                          <img src="https://www.processdash.com/sites/default/files/logo.png" alt="The Software Process Dashboard Initiative " title="The Software Process Dashboard Initiative " id="logo" />
+                        <span>The Software Process Dashboard Initiative</span>            </a></strong></div>
+                          </div>
+
+                      </div> <!-- /#header -->
+
+              <div id="sidebar-first" class="sidebar">
+            <div class="region region-sidebar-first">
+    <div id="block-system-navigation" class="block block-system block-menu clearfix">
+
+    <h2 class="title">Navigation</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first expanded active-trail"><a href="/home" title="The Software Process Dashboard" class="active-trail active">About</a><ul class="menu"><li class="first last leaf"><a href="/background" title="">Background</a></li>
+</ul></li>
+<li class="collapsed"><a href="/functionality" title="Process Dashboard">Functionality</a></li>
+<li class="collapsed"><a href="/pdes-org" title="Process Dashboard Enterprise Server">Enterprise Server</a></li>
+<li class="leaf"><a href="/download" title="Download">Download</a></li>
+<li class="leaf"><a href="/node" title="">News</a></li>
+<li class="last leaf"><a href="/support" title="">Support</a></li>
+</ul>  </div>
+</div>
+  </div>
+        </div>
+      
+      <div id="center"><div id="squeeze"><div class="right-corner"><div class="left-corner">
+                              <a id="main-content"></a>
+          <div id="tabs-wrapper" class="clearfix">                                <h1 class="with-tabs">The Software Process Dashboard</h1>
+                              </div>                                                  <div class="clearfix">
+              <div class="region region-content">
+    <div id="block-system-main" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <div id="node-2" class="node node-page">
+
+  
+      
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The Software Process Dashboard Project is an open-source initiative to create a PSP<sup><a href="/seism">(SM)</a></sup> / TSP<sup><a href="/seism">(SM)</a></sup> support tool.</p>
+<p>We feel that the PSP and the TSP are remarkable technologies that can change the face of the software industry, and we share the SEI's zeal to promote their widespread use. We feel that a freely available, powerful support tool could help to remove one of the most significant barriers to PSP / TSP adoption. We therefore aim to develop a world-class tool under the open-source model, and distribute it freely to anyone using the PSP and/or TSP. We feel that this is the least we can do to thank the SEI for developing and distributing these remarkable processes.</p>
+<p><a href="/background">Background</a>: <a href="/background#psp">What is the PSP</a>? <a href="/background#tsp">What is the TSP</a>? <a href="/background#whytool">Why build a tool</a>?<br />
+<a href="/functionality">Functionality</a>:  <a href="/functionality-personal">For Individuals</a>  <a href="/functionality-team">For Teams</a>  <a href="/download">Download</a> </p>
+<table cellspacing="1" cellpadding="1" border="0">
+<tbody style="border-top-width: 0px;">
+<tr>
+<td><a href="http://www.tuma-solutions.com/"><img src="/static/images/tuma-solutions.png" alt="Tuma Solutions" /></a></td>
+<td>Funding for the project is provided by many generous sponsors who purchase support, consulting services, and server licenses from <a href="http://www.tuma-solutions.com/">Tuma Solutions, LLC</a>.</td>
+</tr>
+</tbody>
+</table>
+<p>The Software Process Dashboard Project Team also extends its appreciation to the following vendors, who donate free software licenses and services to open source projects, including the Process Dashboard:</p>
+<table style="border:0px; border-collapse: separate; border-spacing: 10px; padding-left: 1cm">
+<tbody style="border-top-width: 0px;">
+<tr>
+<td><a href="http://sourceforge.net/projects/processdash"><img height="40" width="150" alt="Get Software Process Dashboard at SourceForge.net. Fast, secure and Free Open Source software downloads" src="https://sflogo.sourceforge.net/sflogo.php?group_id=9858&amp;type=15" /></a></td>
+<td><a href="http://sourceforge.net">SourceForge.net</a> is the world's largest Open Source software development web site, hosting more than 230,000 projects and over 2,000,000 registered users with a centralized resource for managing projects, issues, communications, and code.</td>
+</tr>
+<tr>
+<td><a href="http://www.yourkit.com"><img src="/static/images/yourkit.png" alt="YourKit Java Profiler" /></a></td>
+<td>YourKit is kindly supporting open source projects with its full-featured Java Profiler. YourKit, LLC is creator of innovative and intelligent tools for profiling Java and .NET applications. Take a look at YourKit's leading software products: <a href="http://www.yourkit.com/java/profiler/index.jsp">YourKit Java Profiler</a> and <a href="http://www.yourkit.com/.net/profiler/index.jsp">YourKit .NET Profiler</a>.</td>
+</tr>
+</tbody>
+</table>
+<div style="height: 1in"> </div>
+<hr />
+<p>Personal Software Process<sup>(SM)</sup>, PSP<sup>(SM)</sup>, Team Software Process<sup>(SM)</sup>, and TSP<sup>(SM)</sup> are service marks of Carnegie Mellon University. The open source team that writes the Process Dashboard is not affiliated with Carnegie Mellon University.</p>
+</div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"></div>
+    
+      </div>
+
+</div>
+  </div>
+</div>
+  </div>
+          </div>
+                      <div class="region region-footer">
+    <div id="block-system-powered-by" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+</div>
+  </div>
+      </div></div></div></div> <!-- /.left-corner, /.right-corner, /#squeeze, /#center -->
+
+      
+    </div> <!-- /#container -->
+  </div> <!-- /#wrapper -->
+  </body>
+</html>

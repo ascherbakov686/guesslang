@@ -1,0 +1,167 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/home" />
+<link rel="shortlink" href="/node/2" />
+<link rel="shortcut icon" href="https://tfenrichment.semel.ucla.edu/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>ABSTRACT | Transcription Factor and Micro RNA Enrichment Pipeline</title>
+  <style type="text/css" media="all">
+@import url("https://tfenrichment.semel.ucla.edu/modules/system/system.base.css?q2tzah");
+@import url("https://tfenrichment.semel.ucla.edu/modules/system/system.menus.css?q2tzah");
+@import url("https://tfenrichment.semel.ucla.edu/modules/system/system.messages.css?q2tzah");
+@import url("https://tfenrichment.semel.ucla.edu/modules/system/system.theme.css?q2tzah");
+</style>
+<style type="text/css" media="all">
+@import url("https://tfenrichment.semel.ucla.edu/modules/comment/comment.css?q2tzah");
+@import url("https://tfenrichment.semel.ucla.edu/modules/field/theme/field.css?q2tzah");
+@import url("https://tfenrichment.semel.ucla.edu/modules/node/node.css?q2tzah");
+@import url("https://tfenrichment.semel.ucla.edu/modules/search/search.css?q2tzah");
+@import url("https://tfenrichment.semel.ucla.edu/modules/user/user.css?q2tzah");
+@import url("https://tfenrichment.semel.ucla.edu/sites/all/modules/ckeditor/css/ckeditor.css?q2tzah");
+</style>
+<style type="text/css" media="all">
+@import url("https://tfenrichment.semel.ucla.edu/themes/bartik/css/layout.css?q2tzah");
+@import url("https://tfenrichment.semel.ucla.edu/themes/bartik/css/style.css?q2tzah");
+@import url("https://tfenrichment.semel.ucla.edu/themes/bartik/css/colors.css?q2tzah");
+</style>
+<style type="text/css" media="print">
+@import url("https://tfenrichment.semel.ucla.edu/themes/bartik/css/print.css?q2tzah");
+</style>
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="https://tfenrichment.semel.ucla.edu/themes/bartik/css/ie.css?q2tzah" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="https://tfenrichment.semel.ucla.edu/themes/bartik/css/ie6.css?q2tzah" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="https://tfenrichment.semel.ucla.edu/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.3"></script>
+<script type="text/javascript" src="https://tfenrichment.semel.ucla.edu/misc/jquery-extend-3.4.0.js?v=1.8.3"></script>
+<script type="text/javascript" src="https://tfenrichment.semel.ucla.edu/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://tfenrichment.semel.ucla.edu/misc/drupal.js?q2tzah"></script>
+<script type="text/javascript" src="https://tfenrichment.semel.ucla.edu/sites/all/modules/google_analytics/googleanalytics.js?q2tzah"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-5324065-12", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bartik","theme_token":"T7_IL-4RYVIukf8Lb9DDgusN7xt32cFycuh7S1xZwpo","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"themes\/bartik\/css\/colors.css":1,"themes\/bartik\/css\/print.css":1,"themes\/bartik\/css\/ie.css":1,"themes\/bartik\/css\/ie6.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in no-sidebars page-node page-node- page-node-2 node-type-page" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper"><div id="page">
+
+  <div id="header" class="without-secondary-menu"><div class="section clearfix">
+
+    
+          <div id="name-and-slogan">
+
+                              <div id="site-name">
+              <strong>
+                <a href="/" title="Home" rel="home"><span>Transcription Factor and Micro RNA Enrichment Pipeline</span></a>
+              </strong>
+            </div>
+                  
+        
+      </div> <!-- /#name-and-slogan -->
+    
+    
+          <div id="main-menu" class="navigation">
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-221 first active"><a href="/" class="active">Home</a></li>
+<li class="menu-274"><a href="/submit">Submit</a></li>
+<li class="menu-347"><a href="/background">Background</a></li>
+<li class="menu-350"><a href="/download-and-installation">Download and Installation</a></li>
+<li class="menu-351"><a href="/instructions">Instructions</a></li>
+<li class="menu-352 last"><a href="/example-results">Example Results</a></li>
+</ul>      </div> <!-- /#main-menu -->
+    
+    
+  </div></div> <!-- /.section, /#header -->
+
+  
+  
+  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
+
+    
+    
+    <div id="content" class="column"><div class="section">
+            <a id="main-content"></a>
+                    <h1 class="title" id="page-title">
+          ABSTRACT        </h1>
+                          <div class="tabs">
+                  </div>
+                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-2" class="node node-page node-full clearfix" about="/home" typeof="foaf:Document">
+
+      <span property="dc:title" content="ABSTRACT" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Identification of enriched regulatory factors among the regulatory regions of co-expressed or differentially expressed genes facilitates the identification of regulators involved in the expression of those genes. We have developed a computational pipeline which can identify the enriched transcription factors (in the promoter region) and miRNAs (in the 3’UTR region) in the given gene list. Experimentally identified transcription factor (TF) and miRNA targets are integrated to identify the regulatory factors and their targets that likely to play a role in the biology under study. We utilize, TF binding sites (from JASPAR, TRANSFAC &amp; HOCOMOCO) and miRNA seed sequence (from miRBase) to calculate enrichment using the original (TFBS enrichment) and modified version (miRNA enrichment) of the Clover algorithm (Frith et al., 2004). To enhance the predictions further, we integrate the experimental associated datasets obtained from ENCODE (J Wang et al., 2012) and ChEA (Lachmann A et al., 2010) for TF targets and for miRNA targets we utilized miRTarBase (Sheng-Da Hsu et al., 2011) and miRecords (Xiao F et al., 2009).</p>
+<p><strong>When you use the results from this pipeline please cite: </strong></p>
+<p>V. Chandran, S. Azariah, D. H. Geschwind.: A computational pipe-line protocol for identifying regulatory factor enrichment (In preparation). Until published this pipeline should be used collaboratively. Website interface developed and hosted by Yining and Giovanni Coppola.</p>
+</div></div></div>  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+      
+    </div></div> <!-- /.section, /#content -->
+
+    
+  </div></div> <!-- /#main, /#main-wrapper -->
+
+  
+  <div id="footer-wrapper"><div class="section">
+
+    
+          <div id="footer" class="clearfix">
+          <div class="region region-footer">
+    <div id="block-block-1" class="block block-block">
+
+    
+  <div class="content">
+    <p>This website is developed by Yining Zhao (<a href="http://www.semel.ucla.edu/coppolalab">Coppola Lab</a>).<br />
+Copyright © 2014 UCLA. All rights reserved.</p>
+  </div>
+</div>
+<div id="block-system-powered-by" class="block block-system">
+
+    
+  <div class="content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+</div>
+  </div>
+      </div> <!-- /#footer -->
+    
+  </div></div> <!-- /.section, /#footer-wrapper -->
+
+</div></div> <!-- /#page, /#page-wrapper -->
+  <script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1155861445"></script>
+</body>
+</html>

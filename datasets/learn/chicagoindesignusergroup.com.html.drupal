@@ -1,0 +1,222 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://chicagoindesignusergroup.com/sites/all/themes/danland/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="Chicago InDesign User Group RSS" href="http://chicagoindesignusergroup.com/rss.xml" />
+  <title>Chicago InDesign User Group | Official Chicago User Group for Adobe InDesign</title>
+  <style type="text/css" media="all">
+@import url("http://chicagoindesignusergroup.com/modules/system/system.base.css?prjfwa");
+@import url("http://chicagoindesignusergroup.com/modules/system/system.menus.css?prjfwa");
+@import url("http://chicagoindesignusergroup.com/modules/system/system.messages.css?prjfwa");
+@import url("http://chicagoindesignusergroup.com/modules/system/system.theme.css?prjfwa");
+</style>
+<style type="text/css" media="all">
+@import url("http://chicagoindesignusergroup.com/modules/aggregator/aggregator.css?prjfwa");
+@import url("http://chicagoindesignusergroup.com/modules/comment/comment.css?prjfwa");
+@import url("http://chicagoindesignusergroup.com/modules/field/theme/field.css?prjfwa");
+@import url("http://chicagoindesignusergroup.com/modules/node/node.css?prjfwa");
+@import url("http://chicagoindesignusergroup.com/modules/search/search.css?prjfwa");
+@import url("http://chicagoindesignusergroup.com/modules/user/user.css?prjfwa");
+@import url("http://chicagoindesignusergroup.com/sites/all/modules/views/css/views.css?prjfwa");
+@import url("http://chicagoindesignusergroup.com/sites/all/modules/ckeditor/css/ckeditor.css?prjfwa");
+@import url("http://chicagoindesignusergroup.com/sites/all/modules/media/modules/media_wysiwyg/css/media_wysiwyg.base.css?prjfwa");
+</style>
+<style type="text/css" media="all">
+@import url("http://chicagoindesignusergroup.com/sites/all/modules/ctools/css/ctools.css?prjfwa");
+</style>
+<style type="text/css" media="all">
+@import url("http://chicagoindesignusergroup.com/sites/all/themes/danland/style.css?prjfwa");
+</style>
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="http://chicagoindesignusergroup.com/sites/all/themes/danland/style.ie6.css?prjfwa" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://chicagoindesignusergroup.com/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://chicagoindesignusergroup.com/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://chicagoindesignusergroup.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://chicagoindesignusergroup.com/misc/drupal.js?prjfwa"></script>
+<script type="text/javascript" src="http://chicagoindesignusergroup.com/sites/all/themes/danland/scripts/jquery.cycle.all.js?prjfwa"></script>
+<script type="text/javascript" src="http://chicagoindesignusergroup.com/sites/all/themes/danland/scripts/hoverIntent.js?prjfwa"></script>
+<script type="text/javascript" src="http://chicagoindesignusergroup.com/sites/all/themes/danland/scripts/superfish.js?prjfwa"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"danland","theme_token":"G5Ch5VBXWDO7APkpWXwFTomDPKEKLnaXZcpbV233xlk","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/danland\/scripts\/jquery.cycle.all.js":1,"sites\/all\/themes\/danland\/scripts\/hoverIntent.js":1,"sites\/all\/themes\/danland\/scripts\/superfish.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/danland\/style.css":1,"sites\/all\/themes\/danland\/style.ie6.css":1}}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in no-sidebars page-node" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div >
+<div id="header">
+<div id="header-wrapper">
+	 
+		<div id="logo-wrapper">
+			<div class="logo">
+				<a href="/" title="Home"><img src="http://chicagoindesignusergroup.com/sites/default/files/butterfly.png" alt="Home" /></a>
+			</div>
+		</div><!-- end logo wrapper -->
+				<div id="branding-wrapper">
+												<h1 class="site-name"><a href="/" title="Chicago InDesign User Group">Chicago InDesign User Group</a></h1>
+																		<div class='site-slogan'>Official Chicago User Group for Adobe InDesign</div>
+			        	</div><!-- end branding wrapper -->
+		
+	
+			<div class="feed-wrapper">
+			<a href="/rss.xml" class="feed-icon" title="Subscribe to Chicago InDesign User Group RSS"><img typeof="foaf:Image" src="http://chicagoindesignusergroup.com/misc/feed.png" width="16" height="16" alt="Subscribe to Chicago InDesign User Group RSS" /></a>		</div>
+	
+			<div id="authorize">
+      		      <ul><li class="first"><a href="/user">Login</a></li><li><a href="/user/register">Register</a></li></ul>
+		</div>
+	
+      </div><!-- end header-wrapper -->
+</div> <!-- /header -->
+<div style="clear:both"></div>
+
+<div id="menu">
+<div id="rounded-menu-left"></div>
+       <div id="nav">
+        <ul class="links"><li class="menu-219 first active"><a href="/" class="active">Home</a></li>
+<li class="menu-603 last"><a href="/node/5">Meetings</a></li>
+</ul>      </div> <!-- end primary -->
+    <div id="rounded-menu-right"></div>
+</div> <!-- end menu -->
+<div style="clear:both"></div>
+
+<div id="slideshow-wrapper">
+<div class="slideshow-inner">
+<div id="slideshow-preface">
+ </div>
+<div class="slideshow">
+<img src="/sites/all/themes/danland/images/slideshows/slide1.jpg" width="950px" height="355px" alt="Slideshow 1"/>
+<img src="/sites/all/themes/danland/images/slideshows/slide2.jpg" width="950px" height="355px" alt="Slideshow 2"/>
+<img src="/sites/all/themes/danland/images/slideshows/slide3.jpg" width="950px" height="355px" alt="Slideshow 3"/>
+<img src="/sites/all/themes/danland/images/slideshows/slide4.jpg" width="950px" height="355px" alt="Slideshow 4"/> 
+<img src="/sites/all/themes/danland/images/slideshows/slide5.jpg" width="950px" height="355px" alt="Slideshow 5"/> 
+<img src="/sites/all/themes/danland/images/slideshows/slide6.jpg" width="950px" height="355px" alt="Slideshow 6"/> 
+<img src="/sites/all/themes/danland/images/slideshows/slide7.jpg" width="950px" height="355px" alt="Slideshow 7"/> 
+</div></div>
+</div>
+
+ 
+<div style="clear:both"></div>
+<div id="wrapper">
+
+    <div id="content">
+			<a id="main-content"></a>
+									      		      			      		      		        			<div class="tabs">
+          				        			</div>
+      		      		      				      <div class="content-middle">  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+
+<div class="content">
+  <div id="node-2" class="node node-article node-promoted node-sticky node-teaser clearfix" about="/node/2" typeof="sioc:Item foaf:Document">
+
+        <h2 class="title">
+      <a href="/node/2">Welcome to the Chicago InDesign User Group</a>
+    </h2>
+    <span property="dc:title" content="Welcome to the Chicago InDesign User Group" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            published by <span rel="sioc:has_creator"><span class="username" xml:lang="" about="/user/3" typeof="sioc:UserAccount" property="foaf:name" datatype="">Jim Maivald</span></span> on <span property="dc:date dc:created" content="2015-12-05T07:57:01+00:00" datatype="xsd:dateTime">Sat, 12/05/2015 - 07:57</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>This is the home page of the Chicago InDesign User Group. We are one of the oldest and largest Adobe user groups in the country. We hold meetings about every other month to cover the latest tools, tricks and trends in Adobe InDesign. Recently, Adobe decided to drop formal support for all user groups. In Chicago, we decided to continue holding meetings and to support our large and active users here in the windy city. We created this site recently to broadcast news and information about our group and our meetings. Stay tuned for the latest updates. We hope to see you at the next meeting.</p>
+</div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/taxonomy/term/1" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">welcome</a></div></div></div>  </div>
+
+      <div class="links">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/2" rel="tag" title="Welcome to the Chicago InDesign User Group">Read more<span class="element-invisible"> about Welcome to the Chicago InDesign User Group</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/2%23comment-form">Log in</a> or <a href="/user/register?destination=node/2%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-5" class="node node-page node-promoted node-teaser clearfix" about="/node/5" typeof="foaf:Document">
+
+        <h2 class="title">
+      <a href="/node/5">December 2016 Meeting</a>
+    </h2>
+    <span property="dc:title" content="December 2016 Meeting" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Don't miss our Chicago InDesign User Group meeting!</p>
+<p>Date: <strong>Wednesday, December 7, 2016</strong></p>
+<p>Location:  <strong>Ascend Training &amp; Consulting</strong>, 410 S. Michigan, Suite 433, Chicago, IL</p>
+<p>Time:  <strong>Doors open at 5:30pm. Meeting begins at 6:30pm!</strong></p>
+<p>We have a great line-up speakers covering the latest Creative Cloud 2017 update that brought new features and workflows to your favorite apps!</p>
+<p> <strong>Anne-Marie Concepcion</strong> will cover InDesign</p>
+<p> <strong>Jori Curry</strong> will cover Photoshop</p></div></div></div>  </div>
+
+      <div class="links">
+      <ul class="links inline"><li class="node-readmore first last"><a href="/node/5" rel="tag" title="December 2016 Meeting">Read more<span class="element-invisible"> about December 2016 Meeting</span></a></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-3" class="node node-article node-promoted node-teaser clearfix" about="/node/3" typeof="sioc:Item foaf:Document">
+
+        <h2 class="title">
+      <a href="/node/3">March 2016 Meeting Covers Dynamic Publishing in InDesign</a>
+    </h2>
+    <span property="dc:title" content="March 2016 Meeting Covers Dynamic Publishing in InDesign" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            published by <span rel="sioc:has_creator"><span class="username" xml:lang="" about="/user/3" typeof="sioc:UserAccount" property="foaf:name" datatype="">Jim Maivald</span></span> on <span property="dc:date dc:created" content="2016-01-20T01:35:58+00:00" datatype="xsd:dateTime">Wed, 01/20/2016 - 01:35</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>!!RESCHEDULED TO MARCH 2 DUE TO SNOW STORM!! Sorry for the late notice.</p>
+<p>InDesign provides a variety of methods for publishing text and data. In our next meeting we're going to cover several ways to get your data into and out of the program. We'll contrast and compare techniques using spreadsheets, databases, and other formats. Learn how to create all types of documents using dynamic data.<br />
+Then we'll look at how to get data that's already inside InDesign out of the program without losing the structure and formatting of the data.</p></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/taxonomy/term/2" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">XML</a></div><div class="field-item odd" rel="dc:subject"><a href="/taxonomy/term/3" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Data merge</a></div><div class="field-item even" rel="dc:subject"><a href="/taxonomy/term/4" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Excel</a></div><div class="field-item odd" rel="dc:subject"><a href="/taxonomy/term/5" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">InDesign</a></div></div></div>  </div>
+
+      <div class="links">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/3" rel="tag" title="March 2016 Meeting Covers Dynamic Publishing in InDesign">Read more<span class="element-invisible"> about March 2016 Meeting Covers Dynamic Publishing in InDesign</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/3%23comment-form">Log in</a> or <a href="/user/register?destination=node/3%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+</div> <!-- end block content -->
+</div> <!-- end block -->
+  </div>
+</div>
+						
+</div> <!-- end content -->
+
+    <div style="clear:both"></div>
+</div> <!-- end wrapper -->
+
+
+
+
+ 
+<div style="clear:both"></div>
+<div id="footer-wrapper">
+<div id="footer">
+   <div class="region region-footer">
+    <div id="block-system-powered-by" class="block block-system">
+
+
+<div class="content">
+  <span>Powered by <a href="https://www.drupal.org">Drupal</a></span></div> <!-- end block content -->
+</div> <!-- end block -->
+  </div>
+</div>
+</div> <!-- end footer wrapper -->
+
+<div style="clear:both"></div>
+<div id="notice"><p>Theme by <a href="http://www.danetsoft.com">Danetsoft</a> and <a href="http://www.danpros.com">Danang Probo Sayekti</a> inspired by <a href="http://www.maksimer.no">Maksimer</a></p></div>
+</div>  </body>
+</html>

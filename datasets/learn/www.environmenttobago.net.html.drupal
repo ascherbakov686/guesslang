@@ -1,0 +1,277 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="Environment Tobago RSS" href="https://www.environmenttobago.net/rss.xml" />
+<link rel="shortcut icon" href="https://www.environmenttobago.net/sites/all/themes/danland/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>Environment Tobago | focussed on awareness, advocacy, education, research and conservation</title>
+  <style type="text/css" media="all">
+@import url("https://www.environmenttobago.net/modules/system/system.base.css?pgjxob");
+@import url("https://www.environmenttobago.net/modules/system/system.menus.css?pgjxob");
+@import url("https://www.environmenttobago.net/modules/system/system.messages.css?pgjxob");
+@import url("https://www.environmenttobago.net/modules/system/system.theme.css?pgjxob");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.environmenttobago.net/modules/comment/comment.css?pgjxob");
+@import url("https://www.environmenttobago.net/modules/field/theme/field.css?pgjxob");
+@import url("https://www.environmenttobago.net/modules/node/node.css?pgjxob");
+@import url("https://www.environmenttobago.net/modules/poll/poll.css?pgjxob");
+@import url("https://www.environmenttobago.net/modules/search/search.css?pgjxob");
+@import url("https://www.environmenttobago.net/modules/user/user.css?pgjxob");
+@import url("https://www.environmenttobago.net/modules/forum/forum.css?pgjxob");
+@import url("https://www.environmenttobago.net/sites/all/modules/views/css/views.css?pgjxob");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.environmenttobago.net/sites/all/modules/ctools/css/ctools.css?pgjxob");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.environmenttobago.net/sites/all/themes/danland/style.css?pgjxob");
+</style>
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="https://www.environmenttobago.net/sites/all/themes/danland/style.ie6.css?pgjxob" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="https://www.environmenttobago.net/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://www.environmenttobago.net/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://www.environmenttobago.net/misc/drupal.js?pgjxob"></script>
+<script type="text/javascript" src="https://www.environmenttobago.net/sites/all/themes/danland/scripts/jquery.cycle.all.js?pgjxob"></script>
+<script type="text/javascript" src="https://www.environmenttobago.net/sites/all/themes/danland/scripts/hoverIntent.js?pgjxob"></script>
+<script type="text/javascript" src="https://www.environmenttobago.net/sites/all/themes/danland/scripts/superfish.js?pgjxob"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"danland","theme_token":"tUrmZmOpxZ-gAu-NfKLdgsAgLJfb53ibg3S1iFc_RjI","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/danland\/scripts\/jquery.cycle.all.js":1,"sites\/all\/themes\/danland\/scripts\/hoverIntent.js":1,"sites\/all\/themes\/danland\/scripts\/superfish.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/danland\/style.css":1,"sites\/all\/themes\/danland\/style.ie6.css":1}},"urlIsAjaxTrusted":{"\/node?destination=node":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div  id="layout-type-1">
+<div id="header">
+<div id="header-wrapper">
+				<div id="branding-wrapper">
+												<h1 class="site-name"><a href="/" title="Environment Tobago">Environment Tobago</a></h1>
+																		<div class='site-slogan'>focussed on awareness, advocacy, education, research and conservation</div>
+			        	</div><!-- end branding wrapper -->
+		
+	
+			<div class="feed-wrapper">
+			<a href="/rss.xml" class="feed-icon" title="Subscribe to Environment Tobago RSS"><img typeof="foaf:Image" src="https://www.environmenttobago.net/misc/feed.png" width="16" height="16" alt="Subscribe to Environment Tobago RSS" /></a>		</div>
+	
+			<div id="authorize">
+      		      <ul><li class="first"><a href="/user">Login</a></li><li><a href="/user/register">Register</a></li></ul>
+		</div>
+	
+      </div><!-- end header-wrapper -->
+</div> <!-- /header -->
+<div style="clear:both"></div>
+
+<div id="menu">
+<div id="rounded-menu-left"></div>
+       <div id="nav">
+        <ul class="links"><li class="menu-219 first active"><a href="/" class="active">Home</a></li>
+<li class="menu-470"><a href="/tracker" title="the latest">Recent Posts</a></li>
+<li class="menu-389"><a href="/node/4" title="Be part of this NGOs work">Get Involved</a></li>
+<li class="menu-390"><a href="https://sites.google.com/environmenttobago.net/reality-or-whats-real-at-et" title="Rich content. Stories aligned with Environment Tobago objectives. Our blog features responsive engagement, diversity of views, emotion and human connection. Think of it as virtual viral treehugging. Enjoy.">ET Blog</a></li>
+<li class="menu-388"><a href="/node/2" title="About ET&#039;s Easter Holiday Camp. The Clean Schools Award Programme. The Ridge to Reef Education Programme">Schools Portal</a></li>
+<li class="menu-387 last"><a href="/node/1" title="The whole nine yards...">About ET</a></li>
+</ul>      </div> <!-- end primary -->
+    <div id="rounded-menu-right"></div>
+</div> <!-- end menu -->
+<div style="clear:both"></div>
+
+<div id="slideshow-wrapper">
+<div class="slideshow-inner">
+<div id="slideshow-preface">
+ </div>
+<div class="slideshow">
+<img src="/sites/all/themes/danland/images/slideshows/sea.jpg" width="950" height="355" alt="slideshow 1"/>
+<img src="/sites/all/themes/danland/images/slideshows/noon.jpg" width="950" height="355" alt="slideshow 2"/>
+<img src="/sites/all/themes/danland/images/slideshows/snow.jpg" width="950" height="355" alt="slideshow 3"/>
+</div>
+</div>
+</div>
+
+ 
+<div style="clear:both"></div>
+<div id="wrapper">
+
+          <div id="sidebar-left" class="column sidebar"><div class="section">
+          <div class="region region-sidebar-first">
+    <div id="block-system-navigation" class="block block-system block-menu">
+
+  <h2 class="block-title">Navigation</h2>
+
+<div class="content">
+  <ul class="menu"><li class="first collapsed"><a href="/forum">Forums</a></li>
+<li class="leaf"><a href="/tracker">Recent posts</a></li>
+<li class="last leaf"><a href="/contact" title="Help us to help you - use this form  ">Contact Us</a></li>
+</ul></div> <!-- end block content -->
+</div> <!-- end block -->
+<div id="block-user-login" class="block block-user">
+
+  <h2 class="block-title">User login</h2>
+
+<div class="content">
+  <form action="/node?destination=node" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-FxMT2gfSiJReGQsfZCeMq0y3BzmyDajAy6V3l2O1K9M" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form></div> <!-- end block content -->
+</div> <!-- end block -->
+  </div>
+      </div></div> <!-- end sidebar-first -->
+    <div id="content">
+			<a id="main-content"></a>
+									      		      			      		      		        			<div class="tabs">
+          				        			</div>
+      		      		      				      <div class="content-middle">  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+
+<div class="content">
+  <div id="node-24" class="node node-article node-promoted node-sticky node-teaser clearfix" about="/node/24" typeof="sioc:Item foaf:Document">
+
+        <h2 class="title">
+      <a href="/node/24">Pursuing the Schools Awareness agenda  </a>
+    </h2>
+    <span property="dc:title" content="Pursuing the Schools Awareness agenda  " class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><img src="https://lh3.googleusercontent.com/ZEvIQ2klYWLHAaydKpSVAeCq_vwMVSXGqJHT6oQ0ZlBuDcjn_jcqWAQadZqkSlJH4sjyEgOdbbzMujj2kOiAPY5kwB0GUEO7Oc8UmqjFVcN0eMwU9Yfpr9J2JsHpEqxNGFMB_UGyHw=w2400" alt="School principal (left) with ET volunteer. " /></p></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/taxonomy/term/9" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">education</a></div><div class="field-item odd" rel="dc:subject"><a href="/taxonomy/term/18" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">awareness</a></div></div></div>  </div>
+
+      <div class="links">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/24" rel="tag" title="Pursuing the Schools Awareness agenda  ">Read more<span class="element-invisible"> about Pursuing the Schools Awareness agenda  </span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/24%23comment-form">Log in</a> or <a href="/user/register?destination=node/24%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-22" class="node node-article node-promoted node-sticky node-teaser clearfix" about="/node/22" typeof="sioc:Item foaf:Document">
+
+        <h2 class="title">
+      <a href="/node/22">August 2019 update</a>
+    </h2>
+    <span property="dc:title" content="August 2019 update" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2 id="call-to-funding-action">Call to (funding) action</h2>
+<p>It really isn’t a secret; NGOs or non-profits are always strapped for cash. True, grant funding is our traditional niche but there are, have, always been, constraints placed on expenditure for office expenses such as electricity, furniture, office gear, even staff salaries.</p></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/taxonomy/term/15" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Get In Touch Tours</a></div><div class="field-item odd" rel="dc:subject"><a href="/taxonomy/term/16" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Social Enterprise</a></div></div></div>  </div>
+
+      <div class="links">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/22" rel="tag" title="August 2019 update">Read more<span class="element-invisible"> about August 2019 update</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/22%23comment-form">Log in</a> or <a href="/user/register?destination=node/22%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-17" class="node node-article node-promoted node-sticky node-teaser clearfix" about="/node/17" typeof="sioc:Item foaf:Document">
+
+        <h2 class="title">
+      <a href="/node/17">Call for advocates</a>
+    </h2>
+    <span property="dc:title" content="Call for advocates" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><img src="http://drive.google.com/uc?export=view&amp;id=0B3srkQKXXD3YMnN2R3FETXFHRzNyVnVqcjhjX2NuNXJuMlRF" width="550" /></p>
+</div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/taxonomy/term/11" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">CSOs4EcoOversight</a></div></div></div>  </div>
+
+      <div class="links">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/17" rel="tag" title="Call for advocates">Read more<span class="element-invisible"> about Call for advocates</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/17%23comment-form">Log in</a> or <a href="/user/register?destination=node/17%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-15" class="node node-article node-promoted node-sticky node-teaser clearfix" about="/node/15" typeof="sioc:Item foaf:Document">
+
+        <h2 class="title">
+      <a href="/node/15">The society steps up </a>
+    </h2>
+    <span property="dc:title" content="The society steps up " class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>In keeping with the deliverables of the CSOs4GoodGov project, the coalition of NGO's under the lead of United Way TT has drafted a paper, which seeks to uplift the legal standing and  fiscal profiles of civil society organisations. It is an argument in early days obviously, but the problems under discussion are as old as hunger, dating as far back as only an elephant might remember.</p></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/taxonomy/term/10" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">CSOs4GoodGov</a></div></div></div>  </div>
+
+      <div class="links">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/15" rel="tag" title="The society steps up ">Read more<span class="element-invisible"> about The society steps up </span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/15%23comment-form">Log in</a> or <a href="/user/register?destination=node/15%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-21" class="node node-article node-promoted node-teaser clearfix" about="/node/21" typeof="sioc:Item foaf:Document">
+
+        <h2 class="title">
+      <a href="/node/21">Liftoff</a>
+    </h2>
+    <span property="dc:title" content="Liftoff" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong>Tobago Environmental Partnership Conference</strong></p>
+<p>Yesterday, 9 April, the Division of Infrastructure, Quarries and the Environment (DIQE) together with its partners, Environment Tobago, and Environmental Research Institute Charlotteville (ERIC), engaged the media on the upcoming inaugural Tobago Environmental Partnership Conference 2019, themed ‘<strong>The Environment and Sustainable Livelihoods</strong>’.</p></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/taxonomy/term/14" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">conference</a></div></div></div>  </div>
+
+      <div class="links">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/21" rel="tag" title="Liftoff">Read more<span class="element-invisible"> about Liftoff</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/21%23comment-form">Log in</a> or <a href="/user/register?destination=node/21%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/node?page=1">2</a></li>
+<li class="pager-next"><a title="Go to next page" href="/node?page=1">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/node?page=1">last »</a></li>
+</ul></div></div> <!-- end block content -->
+</div> <!-- end block -->
+  </div>
+</div>
+						
+</div> <!-- end content -->
+
+    <div style="clear:both"></div>
+</div> <!-- end wrapper -->
+
+
+
+
+ 
+<div style="clear:both"></div>
+<div id="footer-wrapper">
+<div id="footer">
+   <div class="region region-footer">
+    <div id="block-system-powered-by" class="block block-system">
+
+
+<div class="content">
+  <span>Powered by <a href="https://www.drupal.org">Drupal</a></span></div> <!-- end block content -->
+</div> <!-- end block -->
+  </div>
+</div>
+</div> <!-- end footer wrapper -->
+
+<div style="clear:both"></div>
+<div id="notice"><p>Theme by <a href="http://www.danetsoft.com">Danetsoft</a> and <a href="http://www.danpros.com">Danang Probo Sayekti</a> inspired by <a href="http://www.maksimer.no">Maksimer</a></p></div>
+</div>  </body>
+</html>

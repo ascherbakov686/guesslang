@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>VeryPet</title>
+  <style>
+@import url("https://verypet.stadar.org/modules/system/system.base.css?pw1572");
+</style>
+<style media="screen">
+@import url("https://verypet.stadar.org/sites/all/libraries/owl-carousel/owl.carousel.css?pw1572");
+@import url("https://verypet.stadar.org/sites/all/libraries/owl-carousel/owl.theme.css?pw1572");
+@import url("https://verypet.stadar.org/sites/all/libraries/owl-carousel/owl.transitions.css?pw1572");
+</style>
+<style>
+@import url("https://verypet.stadar.org/sites/all/modules/date/date_api/date.css?pw1572");
+@import url("https://verypet.stadar.org/modules/field/theme/field.css?pw1572");
+@import url("https://verypet.stadar.org/modules/node/node.css?pw1572");
+@import url("https://verypet.stadar.org/sites/all/modules/views/css/views.css?pw1572");
+@import url("https://verypet.stadar.org/sites/all/modules/ckeditor/css/ckeditor.css?pw1572");
+</style>
+<style>
+@import url("https://verypet.stadar.org/sites/all/modules/ctools/css/ctools.css?pw1572");
+@import url("https://verypet.stadar.org/sites/all/modules/lightbox2/css/lightbox.css?pw1572");
+@import url("https://verypet.stadar.org/sites/all/modules/panels/css/panels.css?pw1572");
+@import url("https://verypet.stadar.org/sites/all/modules/panels/plugins/layouts/flexible/flexible.css?pw1572");
+@import url("https://verypet.stadar.org/sites/animalchipdb.stadar.org/files/ctools/css/1962310b6c35d6d94a5e87a11ce0730c.css?pw1572");
+@import url("https://verypet.stadar.org/sites/all/libraries/fontawesome/css/font-awesome.css?pw1572");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@unicorn-fail/drupal-bootstrap-styles@0.0.2/dist/3.3.1/7.x-3.x/drupal-bootstrap.css" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <script src="https://verypet.stadar.org/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script src="https://verypet.stadar.org/misc/jquery-extend-3.4.0.js?v=1.10.2"></script>
+<script src="https://verypet.stadar.org/misc/jquery.once.js?v=1.2"></script>
+<script src="https://verypet.stadar.org/misc/drupal.js?pw1572"></script>
+<script src="https://verypet.stadar.org/sites/all/modules/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script src="https://verypet.stadar.org/sites/all/modules/jquery_update/replace/misc/jquery.form.min.js?v=2.69"></script>
+<script src="https://verypet.stadar.org/misc/ajax.js?v=7.67"></script>
+<script src="https://verypet.stadar.org/sites/all/modules/jquery_update/js/jquery_update.js?v=0.0.1"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.js"></script>
+<script src="https://verypet.stadar.org/sites/all/modules/fb/fb.js?pw1572"></script>
+<script src="https://verypet.stadar.org/sites/all/modules/adsense/contrib/adsense_click/adsense_click.js?pw1572"></script>
+<script src="https://verypet.stadar.org/sites/all/modules/lightbox2/js/lightbox.js?pw1572"></script>
+<script src="https://verypet.stadar.org/sites/all/modules/views/js/base.js?pw1572"></script>
+<script src="https://verypet.stadar.org/sites/all/themes/bootstrap/js/misc/_progress.js?v=7.67"></script>
+<script src="https://verypet.stadar.org/sites/all/modules/views/js/ajax_view.js?pw1572"></script>
+<script src="https://verypet.stadar.org/sites/all/themes/bootstrap/js/misc/ajax.js?pw1572"></script>
+<script src="https://verypet.stadar.org/sites/all/themes/bootstrap/js/modules/views/js/ajax_view.js?pw1572"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bootstrap","theme_token":"DZuFWygCeDc5__4wuySnZlflIV4vXqz40GWC9HrSxA0","jquery_version":"1.10","js":{"sites\/all\/libraries\/owl-carousel\/owl.carousel.min.js":1,"sites\/all\/modules\/owlcarousel\/includes\/js\/owlcarousel.settings.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"https:\/\/cdn.jsdelivr.net\/npm\/bootstrap@3.3.7\/dist\/js\/bootstrap.js":1,"sites\/all\/modules\/fb\/fb.js":1,"sites\/all\/modules\/adsense\/contrib\/adsense_click\/adsense_click.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1,"sites\/all\/themes\/bootstrap\/js\/modules\/views\/js\/ajax_view.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/libraries\/owl-carousel\/owl.carousel.css":1,"sites\/all\/libraries\/owl-carousel\/owl.theme.css":1,"sites\/all\/libraries\/owl-carousel\/owl.transitions.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/flexible\/flexible.css":1,"public:\/\/ctools\/css\/1962310b6c35d6d94a5e87a11ce0730c.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"https:\/\/cdn.jsdelivr.net\/npm\/bootstrap@3.3.7\/dist\/css\/bootstrap.css":1,"https:\/\/cdn.jsdelivr.net\/npm\/@unicorn-fail\/drupal-bootstrap-styles@0.0.2\/dist\/3.3.1\/7.x-3.x\/drupal-bootstrap.css":1}},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false,"useragent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit\/603.3.8 (KHTML, like Gecko) Version\/10.1.2 Safari\/603.3.8"},"owlcarousel":{"owl-carousel-slideshow_block2":{"settings":{"items":5,"itemsDesktop":["1199",4],"itemsDesktopSmall":["979",3],"itemsTablet":["768",2],"itemsTabletSmall":["0",0],"itemsMobile":["479",1],"singleItem":true,"itemsScaleUp":false,"slideSpeed":200,"paginationSpeed":800,"rewindSpeed":1000,"autoPlay":"5000","stopOnHover":false,"navigation":false,"navigationText":["prev","next"],"rewindNav":true,"scrollPerPage":false,"pagination":true,"paginationNumbers":false,"responsive":true,"responsiveRefreshRate":200,"baseClass":"owl-carousel","theme":"owl-theme","lazyLoad":false,"lazyFollow":true,"lazyEffect":"fadeIn","autoHeight":true,"jsonPath":false,"jsonSuccess":false,"dragBeforeAnimFinish":true,"mouseDrag":true,"touchDrag":true,"addClassActive":false,"transitionStyle":false},"views":{"ajax_pagination":0}}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:b475c2a4f931d9846ef24b5db66fb5a8":{"view_name":"slideshow","view_display_id":"slideshow_block","view_args":"","view_path":"home","view_base_path":null,"view_dom_id":"b475c2a4f931d9846ef24b5db66fb5a8","pager_element":0}}},"urlIsAjaxTrusted":{"\/views\/ajax":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html front not-logged-in no-sidebars page-home">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <header id="navbar" role="banner" class="navbar container navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+              <a class="logo navbar-btn pull-left" href="/" title="Home">
+          <img src="https://verypet.stadar.org/sites/animalchipdb.stadar.org/files/verypet.png" alt="Home" />
+        </a>
+      
+      
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+          </div>
+
+          <div class="navbar-collapse collapse" id="navbar-collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first leaf"><a href="/content/what-verypet">What is VeryPet</a></li>
+<li class="leaf"><a href="/content/i-lost-my-pet">I Lost My Pet</a></li>
+<li class="leaf"><a href="/content/i-found-pet">I Found a Pet</a></li>
+<li class="leaf"><a href="/strays">Strays</a></li>
+<li class="last leaf"><a href="/content/about-us">About Us</a></li>
+</ul>                                <ul class="menu nav navbar-nav secondary"><li class="first last leaf"><a href="/register">Login/Register</a></li>
+</ul>                            </nav>
+      </div>
+      </div>
+</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+    
+    <section class="col-sm-12">
+                  <a id="main-content"></a>
+                                                                <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <div class="panel-flexible panels-flexible-2 clearfix" >
+<div class="panel-flexible-inside panels-flexible-2-inside">
+<div class="panels-flexible-region panels-flexible-region-2-center panels-flexible-region-first panels-flexible-region-last">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-2-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-block pane-views-slideshow-slideshow-block"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-slideshow view-id-slideshow view-display-id-slideshow_block view-dom-id-b475c2a4f931d9846ef24b5db66fb5a8">
+        
+  
+  
+      <div class="view-content">
+      <div class="owl-carousel-slideshow_block2"><div class="item-0 item-odd">  
+          <img class="img-responsive" src="https://verypet.stadar.org/sites/animalchipdb.stadar.org/files/styles/slideshow_front/public/slideshow/shutterstock_69153028.jpg?itok=j36E4P3t" width="1180" height="700" alt="" />  </div><div class="item-1 item-even">  
+          <img class="img-responsive" src="https://verypet.stadar.org/sites/animalchipdb.stadar.org/files/styles/slideshow_front/public/slideshow/shutterstock_48489193.jpg?itok=z0aPq0-E" width="1180" height="700" alt="" />  </div><div class="item-2 item-odd">  
+          <img class="img-responsive" src="https://verypet.stadar.org/sites/animalchipdb.stadar.org/files/styles/slideshow_front/public/slideshow/eric-ward-610868-unsplash.jpg?itok=xiR08VP5" width="1180" height="700" alt="" />  </div><div class="item-3 item-even">  
+          <img class="img-responsive" src="https://verypet.stadar.org/sites/animalchipdb.stadar.org/files/styles/slideshow_front/public/slideshow/japheth-mast-329247-unsplash.jpg?itok=l7wp8UZn" width="1180" height="700" alt="" />  </div></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-1"  >
+  
+      
+  
+  <div class="pane-content">
+    <p><span style="font-size:20px; width:70%;">Meet the <strong>VERYPET</strong>, your everyday tool for every pet owner, pet rescuers, animal shelter managers, boarding kennel owners, and veterinarians. </span></p>
+<p><span style="font-size:20px; width:70%; ">Based on a microchip platform database which expands daily you can easily register a pet and track health records or other actions that have been following this pet during his or her life.</span></p>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-system-powered-by"  >
+  
+      
+  
+  <div class="pane-content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+
+  
+  </div>
+  </div>
+</div>
+</div>
+</div>
+
+</section>
+  </div>
+    </section>
+
+    
+  </div>
+</div>
+
+  <footer class="footer container">
+      <div class="region region-footer">
+    <section id="block-block-1" class="block block-block clearfix">
+
+      
+  <p><a href="https://www.freeiconspng.com/img/18039">Facebook Sign In Button Png</a></p>
+
+</section>
+<section id="block-menu-menu-footer" class="block block-menu clearfix">
+
+      
+  <ul class="menu nav"><li class="first last leaf"><a href="/content/privacy-policy">Privacy Policy</a></li>
+</ul>
+</section>
+<section id="block-system-powered-by" class="block block-system clearfix">
+
+      
+  <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>
+</section>
+  </div>
+  </footer>
+    <div class="region region-page-bottom">
+    <div id="fb-root" class="fb_module"></div>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+  jQuery.extend(Drupal.settings, {"fb":{"base_url":"https:\/\/verypet.stadar.org","ajax_event_url":"https:\/\/verypet.stadar.org\/fb\/ajax","is_anonymous":true,"fb_init_settings":{"xfbml":false,"status":false,"oauth":true,"cookie":true,"channelUrl":"https:\/\/verypet.stadar.org\/fb\/channel"},"test_login_status":true,"get_login_status":true,"controls":"","js_sdk_url":"https:\/\/connect.facebook.net\/en_US\/all.js"}});
+
+if (typeof(FB) == 'undefined') {
+  var e = document.createElement('script');
+  e.async = true;
+  e.src = Drupal.settings.fb.js_sdk_url;
+  document.getElementById('fb-root').appendChild(e);
+}
+
+
+//--><!]]>
+
+</script>
+  </div>
+<script src="https://verypet.stadar.org/sites/all/libraries/owl-carousel/owl.carousel.min.js?pw1572"></script>
+<script src="https://verypet.stadar.org/sites/all/modules/owlcarousel/includes/js/owlcarousel.settings.js?pw1572"></script>
+<script src="https://verypet.stadar.org/sites/all/themes/bootstrap/js/bootstrap.js?pw1572"></script>
+</body>
+</html>

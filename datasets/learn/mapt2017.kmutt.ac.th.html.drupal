@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://mapt2017.kmutt.ac.th/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="mapt2017.kmutt.ac.th RSS" href="http://mapt2017.kmutt.ac.th/?q=rss.xml" />
+  <title>mapt2017.kmutt.ac.th</title>
+  <style>
+@import url("http://mapt2017.kmutt.ac.th/modules/system/system.base.css?oxa6zu");
+</style>
+<style>
+@import url("http://mapt2017.kmutt.ac.th/modules/field/theme/field.css?oxa6zu");
+@import url("http://mapt2017.kmutt.ac.th/modules/node/node.css?oxa6zu");
+@import url("http://mapt2017.kmutt.ac.th/sites/all/modules/views/css/views.css?oxa6zu");
+</style>
+<style>
+@import url("http://mapt2017.kmutt.ac.th/sites/all/modules/ctools/css/ctools.css?oxa6zu");
+</style>
+<link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.2/css/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:400,300,700,500" media="all" />
+<style>
+@import url("http://mapt2017.kmutt.ac.th/sites/all/themes/color_glass/css/overrides.css?oxa6zu");
+@import url("http://mapt2017.kmutt.ac.th/sites/all/themes/color_glass/css/main.css?oxa6zu");
+@import url("http://mapt2017.kmutt.ac.th/sites/all/themes/color_glass/css/responsive.css?oxa6zu");
+</style>
+<link type="text/css" rel="stylesheet" href="http://mapt2017.kmutt.ac.th/sites/default/files/color/color_glass-4659b66d/color.css" media="all" />
+<style>
+@import url("http://mapt2017.kmutt.ac.th/sites/default/files/css_injector/css_injector_1.css?oxa6zu");
+@import url("http://mapt2017.kmutt.ac.th/sites/default/files/css_injector/css_injector_4.css?oxa6zu");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="http://mapt2017.kmutt.ac.th/sites/all/modules/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1"></script>
+<script src="http://mapt2017.kmutt.ac.th/misc/jquery.once.js?v=1.2"></script>
+<script src="http://mapt2017.kmutt.ac.th/misc/drupal.js?oxa6zu"></script>
+<script src="//cdn.jsdelivr.net/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+<script src="http://mapt2017.kmutt.ac.th/sites/all/modules/admin_menu/admin_devel/admin_devel.js?oxa6zu"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"color_glass","theme_token":"JzjRjiPxiR8O_aU4f4LmYD2GaFS5NhaG9-MgqeSVwFM","js":{"sites\/all\/themes\/color_glass\/js\/bootstrap.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.9\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.2\/js\/bootstrap.min.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.2\/css\/bootstrap.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.2.0\/css\/font-awesome.min.css":1,"http:\/\/fonts.googleapis.com\/css?family=Roboto:400,300,700,500":1,"sites\/all\/themes\/color_glass\/css\/overrides.css":1,"sites\/all\/themes\/color_glass\/css\/main.css":1,"sites\/all\/themes\/color_glass\/css\/responsive.css":1,"sites\/all\/themes\/color_glass\/css\/color.css":1,"public:\/\/css_injector\/css_injector_1.css":1,"public:\/\/css_injector\/css_injector_4.css":1}},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html front not-logged-in no-sidebars page-node navbar-is-static-top" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+<header id="navbar" role="banner" class="navbar navbar-fixed-top navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+              <a class="logo navbar-btn pull-left" href="/" title="Home">
+          <img src="http://mapt2017.kmutt.ac.th/sites/default/files/mapt2017sm.png" alt="Home" />
+        </a>
+      
+      
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+          </div>
+
+          <div class="navbar-collapse collapse pull-right">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first leaf active"><a href="/" class="active">Home</a></li>
+<li class="leaf"><a href="/?q=news" title="News &amp; Announcement">News</a></li>
+<li class="leaf"><a href="/?q=important-dates">Important Dates</a></li>
+<li class="leaf"><a href="/?q=node/86">Paper Submission</a></li>
+<li class="leaf"><a href="/?q=registration-fees" title="Registration Fees">Registration Fees</a></li>
+<li class="leaf"><a href="/?q=conference-venue" title="Conference Venue">Venue</a></li>
+<li class="last leaf"><a href="/?q=committees" title="Committees">Committees</a></li>
+</ul>                                           
+        </nav>
+      </div>
+      </div>
+</header>
+<section id = "home-welcome" class = "home-welcome home-section"   >
+<div data-type="region" data-name="home_welcome" class="region region-home-welcome">
+    <div id="block-block-1" class="block block-block clearfix">
+
+      
+  <div class="bkg-overlay"></div>
+  <div class="intro-text container">
+    <h1 class = "row main-title text-center">The International Conference on Materials Processing Technology</h1>
+    <p class = "row main-desc text-center">Organized by The Department of Tool and Materials Engineering, King Mongkut’s University of Technology Thonburi (KMUTT), Thailand and The Department of Precision Mechanics, Tokai University, Japan. To be held on <strong>30 November-1 December 2017, in Bangkok, Thailand</strong></p>
+    <div class = "row content-block-group text-center">
+      <div class = "col-sm-4 content-block text-center">
+        <span class = "block-icon-circle hidden-xs"><i class="fa fa-pencil-square-o"></i></span>
+        <h4 class = "block-text"><a href="?q=user">Login</a></h4>
+        <span class = "block-desc">All participants are invited to create an account.<br/>If you are new user ? Please <a href="?q=user/register">Sign up</a> now.
+        </span>
+      </div>
+      <div class = "col-sm-4 content-block text-center">
+        <span class = "block-icon-circle hidden-xs">
+<i class=" fa fa-bookmark"></i></span>
+        <h4 class = "block-text"><a href="?q=node/86" title="How to submit your works ?">Submission</a></h4>
+        <span class = "block-desc">Preparing your work abstract and upload to our server. We take care of your abstract.
+        </span>
+      </div>
+
+
+<div class="col-sm-4 content-block text-center">
+        <span class="block-icon-circle hidden-xs">
+<i class="fa fa-laptop"></i></span>
+<h4 class="block-text">Monitor</h4>
+<p>        <span class="block-desc">Monitoring abstract status and follow instructions until your manuscript has been submitted.</span>
+      </p></div>
+
+
+    </div>
+  </div>
+</div>
+    
+  </div>
+  
+
+</section>
+<!-- Render the Content light green Region -->
+<div id = "home-cta" class = "home-cta home-section"   >
+<div data-type="region" data-name="home_cta" class="region region-home-cta">
+    <div id="block-block-6" class="block block-block clearfix">
+
+      
+  <!--
+<div class="container" style="1px; padding-bottom:10px; border-bottom: solid #E3E3E3;">
+  <a href="path-to-the-image">
+    <figure>
+      <img src="/sites/default/files/tbc-logo-sm.png" alt="">
+    </figure>
+  </a>
+
+  <a href="/sites/default/files/fujilloy-logo.png">
+    <figure>
+      <img src="/sites/default/files/fujilloy-logo.png" alt="">
+    </figure>
+  </a>
+
+  <a href="/sites/default/files/saha-logo.png">
+    <figure>
+      <img src="/sites/default/files/saha-logo.png" alt="">
+    </figure>
+  </a>
+
+  <a href="/sites/default/files/fujilloy-logo.png">
+    <figure>
+      <img src="/sites/default/files/fujilloy-logo.png" alt="">
+    </figure>
+  </a>
+
+</div>
+-->
+
+<!--
+<div class="container" style="1px; padding-bottom:10px; border-bottom: solid #E3E3E3;">
+  <div>
+    <div class="col-sm-12 col-xs-12">
+      <div class="header">
+        <div class="description">
+        <img src="/sites/default/files/kmutt-logo.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="/sites/default/files/tokai-logo.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+      </div>
+    </div>
+
+  </div>
+</div>
+-->
+
+</div>
+<div id="block-views-news-block-1" class="block block-views clearfix">
+
+      
+  <div class="view view-news view-id-news view-display-id-block_1 container view-dom-id-53160ba596f27047136810fc7a8273d3">
+            <div class="view-header">
+      <h3>News &amp; Announcement</h3>    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <article id="node-694" class="node node-article node-promoted node-teaser clearfix" about="/?q=node/694" typeof="sioc:Item foaf:Document">
+    <header>
+            <h2><a href="/?q=node/694">MAPT2017 Images Gallery</a></h2>
+        <span property="dc:title" content="MAPT2017 Images Gallery" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>        <span class="submitted">
+            <span property="dc:date dc:created" content="2018-01-03T07:46:55+07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/?q=user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">thachakrit</span> on Wed, 03/01/2018 - 07:46</span>    </span>
+      </header>
+    <div class="field field-name-field-image field-type-image field-label-hidden">
+        <a href="/?q=node/694"><img typeof="foaf:Image" class="img-responsive" src="http://mapt2017.kmutt.ac.th/sites/default/files/styles/medium/public/field/image/dsc_9216_lr.jpg?itok=bikHMuc5" width="220" height="146" alt="" /></a>  </div>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+        <h2>Images Gallery</h2>
+Thank you for your participation. Happy new year 2018.
+<ul><li>Please visit our <a href="https://drive.google.com/drive/folders/1xelMqI3vQmD5crZMRPzbMWKWIBAYppAb">Images Gallery</a></li>
+</ul>
+
+We hope to see you again next year. 
+
+  </div>
+          <ul class="links list-inline well well-sm"><li class="node-readmore first last"><a href="/?q=node/694" rel="tag" title="MAPT2017 Images Gallery">Read more<span class="element-invisible"> about MAPT2017 Images Gallery</span></a></li>
+</ul>    </article>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <article id="node-693" class="node node-article node-promoted node-teaser clearfix" about="/?q=node/693" typeof="sioc:Item foaf:Document">
+    <header>
+            <h2><a href="/?q=node/693">MAPT2017 Proceeding Book</a></h2>
+        <span property="dc:title" content="MAPT2017 Proceeding Book" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>        <span class="submitted">
+            <span property="dc:date dc:created" content="2017-12-01T11:28:47+07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/?q=user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">thachakrit</span> on Fri, 01/12/2017 - 11:28</span>    </span>
+      </header>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+        <h3>MAPT2017 Proceeding Book</h3>
+MAPT2017 Proceeding Book is available for anyone to download at :
+<ul><li><a href="/DL/MAPT2017-proceeding-publish.pdf">Download the book</a></li>
+<li>Format : PDF</li>
+<li>File size : 143 MB</li>
+</ul>  </div>
+          <ul class="links list-inline well well-sm"><li class="node-readmore first last"><a href="/?q=node/693" rel="tag" title="MAPT2017 Proceeding Book">Read more<span class="element-invisible"> about MAPT2017 Proceeding Book</span></a></li>
+</ul>    </article>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    <article id="node-692" class="node node-article node-promoted node-teaser clearfix" about="/?q=node/692" typeof="sioc:Item foaf:Document">
+    <header>
+            <h2><a href="/?q=node/692">MAPT2017 Updated Program</a></h2>
+        <span property="dc:title" content="MAPT2017 Updated Program" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>        <span class="submitted">
+            <span property="dc:date dc:created" content="2017-11-29T11:18:39+07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/?q=user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">thachakrit</span> on Wed, 29/11/2017 - 11:18</span>    </span>
+      </header>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+        <h3>MAPT2017 Updated Program</h3>
+<ul><li>Overall Program : <a href="/sites/default/files/attachment/41119_2017-11-28_mapt_2017_program_overview.pdf">download</a></li>
+<li>Detailed Program : <a href="/sites/default/files/attachment/41120_2017-11-28_mapt2017_detailed_program.pdf">download</a></li>
+</ul>  </div>
+          <ul class="links list-inline well well-sm"><li class="node-readmore first last"><a href="/?q=node/692" rel="tag" title="MAPT2017 Updated Program">Read more<span class="element-invisible"> about MAPT2017 Updated Program</span></a></li>
+</ul>    </article>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+    <article id="node-625" class="node node-article node-promoted node-teaser clearfix" about="/?q=node/625" typeof="sioc:Item foaf:Document">
+    <header>
+            <h2><a href="/?q=node/625">Copyright</a></h2>
+        <span property="dc:title" content="Copyright" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>        <span class="submitted">
+            <span property="dc:date dc:created" content="2017-10-20T09:24:26+07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/?q=user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">thachakrit</span> on Fri, 20/10/2017 - 09:24</span>    </span>
+      </header>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+        <h3>Copyright Transfer Form for authors</h3>
+<p>Authors can download Copyright Transfer Form by click the attachment link below.<br />
+Please submit the form online via this website (with login)  by <font color="red">October 30, 2017</font></p> 
+<ul><li>Contact : e-mail <a href="mailto:mapt@kmutt.ac.th">mapt@kmutt.ac.th</a></li>
+<li>Download form : <a href="/sites/default/files/attachment/35016_copyright_transfer_form_mapt2017.pdf">Copyright Transfer Form for authors</a> (PDF 219.4 KB)</li>
+</ul>  </div>
+          <ul class="links list-inline well well-sm"><li class="node-readmore first last"><a href="/?q=node/625" rel="tag" title="Copyright">Read more<span class="element-invisible"> about Copyright</span></a></li>
+</ul>    </article>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+    <article id="node-426" class="node node-article node-promoted node-teaser clearfix" about="/?q=node/426" typeof="sioc:Item foaf:Document">
+    <header>
+            <h2><a href="/?q=node/426">Oral Presentation Guidelines</a></h2>
+        <span property="dc:title" content="Oral Presentation Guidelines" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>        <span class="submitted">
+            <span property="dc:date dc:created" content="2017-07-19T22:18:38+07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/?q=user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">thachakrit</span> on Wed, 19/07/2017 - 22:18</span>    </span>
+      </header>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+        <h3>Oral Presentation Guidelines</h3>
+<p>Each presentation will be 15 minutes in length. The presenter should speak for about 12 minutes, allowing for 3 minutes at the end to answer any questions.</p>
+
+<p>The presentation file should be an MS PowerPoint or PDF file and must be loaded onto the conference computer at least 30 minutes prior to the start of the session. Staff can assist with the loading of the presentation file.</p>  </div>
+          <ul class="links list-inline well well-sm"><li class="node-readmore first last"><a href="/?q=node/426" rel="tag" title="Oral Presentation Guidelines">Read more<span class="element-invisible"> about Oral Presentation Guidelines</span></a></li>
+</ul>    </article>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+    <article id="node-418" class="node node-article node-promoted node-teaser clearfix" about="/?q=node/418" typeof="sioc:Item foaf:Document">
+    <header>
+            <h2><a href="/?q=node/418">Extended Full Paper Submission Deadline</a></h2>
+        <span property="dc:title" content="Extended Full Paper Submission Deadline" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>        <span class="submitted">
+            <span property="dc:date dc:created" content="2017-07-14T13:36:04+07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/?q=user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">thachakrit</span> on Fri, 14/07/2017 - 13:36</span>    </span>
+      </header>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+        <h2>Full Paper Submission Deadline of MAPT 2017 is extended to July 31, 2017.</h2>
+  </div>
+          <ul class="links list-inline well well-sm"><li class="node-readmore first last"><a href="/?q=node/418" rel="tag" title="Extended Full Paper Submission Deadline">Read more<span class="element-invisible"> about Extended Full Paper Submission Deadline</span></a></li>
+</ul>    </article>
+  </div>
+  <div class="views-row views-row-7 views-row-odd views-row-last">
+    <article id="node-1" class="node node-article node-promoted node-teaser clearfix" about="/?q=node/1" typeof="sioc:Item foaf:Document">
+    <header>
+            <h2><a href="/?q=node/1">1st Announcement : A Call for Abstracts</a></h2>
+        <span property="dc:title" content="1st Announcement : A Call for Abstracts" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>        <span class="submitted">
+            <span property="dc:date dc:created" content="2017-05-11T23:00:13+07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/?q=user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">thachakrit</span> on Thu, 11/05/2017 - 23:00</span>    </span>
+      </header>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+        <p>Abstract submission is extended to May 31, 2017. Your final manuscript will be considered for inclusion in MAPT2017 proceedings, and for an award for the best manuscript of MAPT2017. The award winner will be announced during MAPT2017.</p>  </div>
+          <ul class="links list-inline well well-sm"><li class="node-readmore first last"><a href="/?q=node/1" rel="tag" title="1st Announcement : A Call for Abstracts">Read more<span class="element-invisible"> about 1st Announcement : A Call for Abstracts</span></a></li>
+</ul>    </article>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div>
+    
+  </div>
+  
+
+</div>
+<!-- Render the Content dark orange Region -->
+<div id = "home-features" class = "home-features home-section"   >
+<div data-type="region" data-name="home_features" class="region region-home-features">
+    <div id="block-block-2" class="block block-block clearfix">
+
+      
+  <div class="container">
+  <div class="row text-center top-header">
+<div class="col-sm-6 col-xs-6">
+<h3>Organized by</h3>
+        <div class="description">
+<br /> 
+        <img src="/sites/default/files/kmutt-logo.png" />                
+        <img src="/sites/default/files/tokai-logo.png" />                
+        </div>
+</div>
+<div class="col-sm-6 col-xs-6">
+<h3>Topics of interest of MAPT 2017</h3>
+<table><tr><td style="text-align: left;">Topics of interest of MAPT 2017 for submission include, but are not limited to: 
+<ul><li>Metal Forming Technology (MFT)</li>
+<li>Powder Metallurgy Technology (PMT)</li>
+<li>Machining &amp; Welding Technology (MWT)</li>
+<li>Surface Engineering Technology (SET) </li>
+<li>Ceramics Processing and Glass Forming Technology (CGPT)</li>
+<li>Composite Processing Technology (CPT)</li>
+<li>Polymer Processing Technology (PPT)</li>
+<li>Materials Science (MS)</li>
+<li>Advanced Technology (AT)</li>
+<li>Nanomaterials (NM)</li>
+</ul></td>
+</tr></table></div>
+<br /> 
+<h3>Important Date</h3>
+<table class="views-table" style="width:100%"><tbody><tr><th class="views-table-width-30">Date</th>
+			<th class="views-table-width-70">Description</th>
+		</tr><tr><td class="views-table-bordered">31 May 2017</td>
+			<td class="views-table-bordered">Abstract Submission Deadline</td>
+		</tr><tr><td class="views-table-bordered">15 June 2017</td>
+			<td class="views-table-bordered">Notification of Abstract Acceptance</td>
+		</tr><tr><td class="views-table-bordered"><strike>15 July 2017</strike> Extended to 31 July 2017</td>
+			<td class="views-table-bordered">Full Paper Submission Deadline</td>
+		</tr><tr><td class="views-table-bordered">15 September 2017</td>
+			<td class="views-table-bordered">Notification Full Paper Acceptance for MAPT2017 Proceedings</td>
+		</tr><tr><td class="views-table-bordered">15 October 2017</td>
+			<td class="views-table-bordered">Full Paper Proceedings Submission Deadline</td>
+		</tr><tr><td class="views-table-bordered">30 October 2017</td>
+			<td class="views-table-bordered">Early Bird Registration Deadline</td>
+		</tr><tr><td class="views-table-bordered">3 November 2017</td>
+			<td class="views-table-bordered">Presenter/Author registration Deadline 
+(to ensure the manuscript will be included in the conference proceedings)</td>
+		</tr><tr><td class="views-table-bordered">30 November-1 December 2017</td>
+			<td class="views-table-bordered">Conference Date</td>
+		</tr></tbody></table><p> </p>
+
+
+
+
+<h3>Conference Venue</h3>
+MAPT 2017 will take place at Ramada Plaza Bangkok Menam Riverside. (<a href="?q=conference-venue">Venue Information</a>)<br />
+Address : 2074 Charoenkrung Road Bangkok 10120 Bangkok, Thailand<br /> <br /><p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7752.334684549841!2d100.50235908400836!3d13.708312650169272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e29895c285c33d%3A0x30b1cd3c7484c992!2zMjA3NCDguIvguK3guKIg4LmA4LiI4Lij4Li04LiN4LiB4Lij4Li44LiHIOC5geC4guC4p-C4hyDguKfguLHguJTguJ7guKPguLDguKLguLLguYTguIHguKMg4LmA4LiC4LiVIOC4muC4suC4h-C4hOC4reC5geC4q-C4peC4oSDguIHguKPguLjguIfguYDguJfguJ7guKHguKvguLLguJnguITguKMgMTAxMjA!5e0!3m2!1sth!2sth!4v1488450701730" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+</p>
+</div>
+</div>
+
+
+
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------
+<div class="container">
+  <div class="row text-center top-header">
+    <h1 class="title">Information</h1>
+    <div class="description">You can now register to MAPT 2016 Conference using MAPT 2016 Registration Form. 
+    Before submitting the registration form, <br />please read information about registration fees and payment. 
+    The deadline for advance registration is ... 2016.
+    </div>
+  </div>
+  <div class="row content-boxes">
+    <div class="col-sm-6 col-xs-12 content-boxes-left">
+      <div class="row content-box text-right">
+        <div class="col-sm-10 col-xs-9 content-box-left">
+          <h4 class="title"><a href="?q=important-dates" title="Important Dates">Important Dates</a></h4>
+          <div class="description">Avoid missing any key events, 
+          please check Important Dates and mark them in your calendar.</div>
+        </div>
+        <div class="col-sm-2 col-xs-3">
+          <span class="icon-box">
+          <span class="icon-inner-box"><i class="fa fa-clock-o"></i></span>
+          </span>
+        </div>
+      </div>
+      <div class="row content-box text-right">
+        <div class="col-sm-10 col-xs-9 content-box-left">
+          <h4 class="title"><a href="?q=registration-fees" title="Registration Fees">Registration Fees</a></h4>
+          <div class="description">Registration fees depend on your registration type. 
+          Feel free to know what types are available.</div>
+        </div>
+        <div class="col-sm-2 col-xs-3">
+          <span class="icon-box">
+          <span class="icon-inner-box"><i class="fa fa-check"></i></span>
+          </span>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-6 col-xs-12 content-boxes-right">
+      <div class="row content-box text-left">
+        <div class="col-sm-2 col-xs-3 icon-boxes">
+          <span class="icon-box">
+          <span class="icon-inner-box"><i class="fa fa-laptop"></i></span>
+          </span>							
+        </div>
+        <div class="col-sm-10 col-xs-9 content-box-right">
+          <h4 class="title"><a href="?q=conference-venue" title="Conference Venue">Conference Venue</a></h4>
+          <div class="description">MAPT 2016 will take place at Takanawa campus of Tokai University, 
+          heart of the city of Tokyo.</div>
+        </div>
+      </div>
+      <div class="row content-box text-left">
+        <div class="col-sm-2 col-xs-3 icon-boxes">
+          <span class="icon-box">
+          <span class="icon-inner-box"><i class="fa fa-cogs"></i></span>
+          </span>							
+        </div>
+        <div class="col-sm-10 col-xs-9 content-box-right">
+          <h4 class="title"><a href="?q=committees" title="Committees">Committees</a></h4>
+          <div class="description">Our committees</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+-------------------------------------------------------------------------------------------------------------------------------------------------------->
+</div>
+    
+  </div>
+  
+
+</div>
+<!-- Render the Content yellow Region -->
+<div id = "home-bottom" class = "home-bottom home-section" >
+<!--
+<div class="container">
+  <div class="row text-center top-header">
+    <h2 class="title">Drupal Site Generator</h2>
+    <div class="description">For busy freelancer, for companies with tons
+    of project. We save your time, money and effort.</div>
+  </div>
+  <div class="row content-boxes">
+    <div class="col-sm-4 col-xs-12 content-box">
+      <div class="header">
+        <span class="icon"><i class="fa fa-desktop"></i></span>
+        <h4 class="title">Web design</h4>
+      </div>
+      <div class="description">Sed tortor mi, gravida in viverra accumsan,
+      congue in nisl quis dignissim.</div>
+    </div>
+    <div class="col-sm-4 col-xs-12 content-box">
+      <div class="header">
+        <span class="icon"><i class="fa fa-line-chart"></i></span>
+        <h4 class="title">Optimization</h4>
+      </div>
+      <div class="description">Sed tortor mi, gravida in viverra accumsan, 
+      congue in nisl quis dignissim.</div>
+    </div>
+    <div class="col-sm-4 col-xs-12 content-box">
+      <div class="header">
+        <span class="icon"><i class="fa fa-magic"></i></span>
+        <h4 class="title">Flash Animation</h4>
+      </div>
+      <div class="description">Sed tortor mi, gravida in viverra accumsan, 
+      congue in nisl quis dignissim.</div>
+    </div>
+  </div>
+</div>
+-->
+</div>
+<footer id = "footer-section" class = "footer-section">
+<div id = "footer-message" class = "footer-message" >
+<div class="container">
+  <div class="block-title footer-message-title row">
+    <h2 class="title"></h2>
+  </div>
+  <div class="block-content footer-message-content row">
+    <div class="row">
+      <div class="col-sm-1 info-icon">
+        <i class="fa fa-info-circle"></i>
+      </div>
+      <div class="col-sm-11">
+        <div class="title">
+MAPT 2017 will take place at Ramada Plaza Bangkok Menam Riverside. 
+Address : 2074 Charoenkrung Road Bangkok 10120 Bangkok, Thailand
+<ul>
+<li>Situated within Bangkok’s central district, the Ramada Plaza Bangkok Menam Riverside enjoys easy access to all business, entertainment and shopping by BTS Skytrain, Chao Phraya Express Boat and Bangkok Expressway. We are only 5 minutes with a leisurely walk or by our complimentary tuk-tuk shuttle to Asia’s largest night bazaar, Asiatique - The Riverfront.</li>
+<li>We also offer frequent, complimentary shuttle boat services to Saphan Taksin Skytrain station, the transportation hub of Skytrain and Express Boat services (Central Pier).</li>
+<li>We are approximately 40 kms (45 minutes) from the Suvarnabhumi International Airport and 33 kms (30 minutes) from Don Muang International Airport</li>
+</ul>
+</div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<div id = "footer-copyright" class = "footer-copyright text-center"   >
+<div data-type="region" data-name="footer_copyright" class="region region-footer-copyright">
+    <div class = "container">
+<div class = "block-content text-center">
+<p>Powered by <a href="http://www.drupal.org">Drupal</a> &amp; <a href="http://www.ideaconnex.com">ideaConnex</a></p>
+</div>
+</div>
+    
+  </div>
+  
+
+</div></footer>
+  <script src="http://mapt2017.kmutt.ac.th/sites/all/themes/color_glass/js/bootstrap.js?oxa6zu"></script>
+</body>
+</html>

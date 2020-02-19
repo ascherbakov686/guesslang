@@ -52,7 +52,7 @@
 <input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
 <div class="item-list"><ul><li class="first"><a href="/innoweb/user/register" title="Create a new user account.">Create new account</a></li>
 <li class="last"><a href="/innoweb/user/password" title="Request new password via e-mail.">Request new password</a></li>
-</ul></div><input type="hidden" name="form_build_id" id="form-9bf88027606a96d71c6642d1622c007c" value="form-9bf88027606a96d71c6642d1622c007c"  />
+</ul></div><input type="hidden" name="form_build_id" id="form-341d9a14cfd0842d7f4ff2a26c366449" value="form-341d9a14cfd0842d7f4ff2a26c366449"  />
 <input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
 
 </div></form>

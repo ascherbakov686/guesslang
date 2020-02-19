@@ -1,0 +1,179 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://kirby4office.asscstudios.net/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="Kirby 4 Office RSS" href="http://kirby4office.asscstudios.net/?q=rss.xml" />
+  <title>Kirby 4 Office</title>
+  <style type="text/css" media="all">
+@import url("http://kirby4office.asscstudios.net/modules/system/system.base.css?ow2gud");
+@import url("http://kirby4office.asscstudios.net/modules/system/system.menus.css?ow2gud");
+@import url("http://kirby4office.asscstudios.net/modules/system/system.messages.css?ow2gud");
+@import url("http://kirby4office.asscstudios.net/modules/system/system.theme.css?ow2gud");
+</style>
+<style type="text/css" media="all">
+@import url("http://kirby4office.asscstudios.net/modules/comment/comment.css?ow2gud");
+@import url("http://kirby4office.asscstudios.net/modules/field/theme/field.css?ow2gud");
+@import url("http://kirby4office.asscstudios.net/modules/node/node.css?ow2gud");
+@import url("http://kirby4office.asscstudios.net/modules/search/search.css?ow2gud");
+@import url("http://kirby4office.asscstudios.net/modules/user/user.css?ow2gud");
+</style>
+<style type="text/css" media="all">
+@import url("http://kirby4office.asscstudios.net/themes/bartik/css/layout.css?ow2gud");
+@import url("http://kirby4office.asscstudios.net/themes/bartik/css/style.css?ow2gud");
+@import url("http://kirby4office.asscstudios.net/themes/bartik/css/colors.css?ow2gud");
+</style>
+<style type="text/css" media="print">
+@import url("http://kirby4office.asscstudios.net/themes/bartik/css/print.css?ow2gud");
+</style>
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://kirby4office.asscstudios.net/themes/bartik/css/ie.css?ow2gud" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="http://kirby4office.asscstudios.net/themes/bartik/css/ie6.css?ow2gud" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://kirby4office.asscstudios.net/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://kirby4office.asscstudios.net/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://kirby4office.asscstudios.net/misc/drupal.js?ow2gud"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bartik","theme_token":"N2SJk49GNjmc4dKSCF2azp6NL1J49n4QlB9cftUxlF4","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"themes\/bartik\/css\/colors.css":1,"themes\/bartik\/css\/print.css":1,"themes\/bartik\/css\/ie.css":1,"themes\/bartik\/css\/ie6.css":1}},"urlIsAjaxTrusted":{"\/?q=node\u0026destination=node":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper"><div id="page">
+
+  <div id="header" class="without-secondary-menu"><div class="section clearfix">
+
+          <a href="/" title="Home" rel="home" id="logo">
+        <img src="http://kirby4office.asscstudios.net/themes/bartik/logo.png" alt="Home" />
+      </a>
+    
+          <div id="name-and-slogan">
+
+                              <h1 id="site-name">
+              <a href="/" title="Home" rel="home"><span>Kirby 4 Office</span></a>
+            </h1>
+                  
+        
+      </div> <!-- /#name-and-slogan -->
+    
+    
+          <div id="main-menu" class="navigation">
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-219 first active"><a href="/" class="active">Home</a></li>
+<li class="menu-309"><a href="/?q=node/1">Issues</a></li>
+<li class="menu-310"><a href="/?q=node/2">About</a></li>
+<li class="menu-317"><a href="/?q=node/13">Gallery</a></li>
+<li class="menu-313"><a href="/?q=node/5">Positions</a></li>
+<li class="menu-314"><a href="/?q=node/6">Media</a></li>
+<li class="menu-315 last"><a href="/?q=node/7">Shop</a></li>
+</ul>      </div> <!-- /#main-menu -->
+    
+    
+  </div></div> <!-- /.section, /#header -->
+
+  
+  
+  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
+
+    
+          <div id="sidebar-first" class="column sidebar"><div class="section">
+          <div class="region region-sidebar-first">
+    <div id="block-user-login" class="block block-user">
+
+    <h2>User login</h2>
+  
+  <div class="content">
+    <form action="/?q=node&amp;destination=node" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/?q=user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/?q=user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-W6IuKinqNSsGF7hcMbgseKveniIbbqqlDW19v838vP8" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+      </div></div> <!-- /.section, /#sidebar-first -->
+    
+    <div id="content" class="column"><div class="section">
+            <a id="main-content"></a>
+                                <div class="tabs">
+                  </div>
+                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-11" class="node node-article node-promoted node-teaser clearfix" about="/?q=node/11" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/?q=node/11">#vote4kirby</a>
+    </h2>
+    <span property="dc:title" content="#vote4kirby" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2016-07-15T00:24:21+00:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/?q=user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">5kcly</span> on Fri, 07/15/2016 - 00:24</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="og:image rdfs:seeAlso" resource="http://kirby4office.asscstudios.net/sites/default/files/styles/medium/public/field/image/kirby4office2.png?itok=UI3fTYG7"><a href="/?q=node/11"><img typeof="foaf:Image" src="http://kirby4office.asscstudios.net/sites/default/files/styles/medium/public/field/image/kirby4office2.png?itok=UI3fTYG7" width="220" height="220" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Show your support for Kirby: <a href="https://www.facebook.com/kirby4office">Facebook</a> <a href="https://twitter.com/kirby4office">Twitter</a> <a href="https://www.instagram.com/kirby4office/">Instagram</a> <a href="http://www.cafepress.com/kirby4office">Store</a></p>
+</div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/?q=node/11" rel="tag" title="#vote4kirby">Read more<span class="element-invisible"> about #vote4kirby</span></a></li>
+<li class="comment_forbidden last"><span><a href="/?q=user/login&amp;destination=node/11%23comment-form">Log in</a> or <a href="/?q=user/register&amp;destination=node/11%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+      <a href="/?q=rss.xml" class="feed-icon" title="Subscribe to Kirby 4 Office RSS"><img typeof="foaf:Image" src="http://kirby4office.asscstudios.net/misc/feed.png" width="16" height="16" alt="Subscribe to Kirby 4 Office RSS" /></a>
+    </div></div> <!-- /.section, /#content -->
+
+    
+  </div></div> <!-- /#main, /#main-wrapper -->
+
+  
+  <div id="footer-wrapper"><div class="section">
+
+    
+          <div id="footer" class="clearfix">
+          <div class="region region-footer">
+    <div id="block-system-powered-by" class="block block-system">
+
+    
+  <div class="content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+</div>
+  </div>
+      </div> <!-- /#footer -->
+    
+  </div></div> <!-- /.section, /#footer-wrapper -->
+
+</div></div> <!-- /#page, /#page-wrapper -->
+  </body>
+</html>

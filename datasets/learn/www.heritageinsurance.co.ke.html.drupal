@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.heritageinsurance.co.ke/sites/all/themes/basic/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="Heritage Insurance Company Ltd among the top 10 in East Africa. Services: medical insurance, domestic package, motor insurance, employer&#039;s liability, all types of coverage for business companies, trendsetter policy, fire cover." />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://www.heritageinsurance.co.ke/" />
+<link rel="shortlink" href="https://www.heritageinsurance.co.ke/" />
+  <title>Heritage Insurance Company Ltd in Kenya and Tanzania offers coverage and indemnity for home, business, motor vehicles, individuals.</title>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAq7HFUhat26xl7fn1nuIvGu1l-uOgya5I"
+  type="text/javascript"></script>
+	<script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0037/5960.js" async="async"></script>
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-592f9dabf0da58d9"></script>
+  <style type="text/css" media="all">
+@import url("https://www.heritageinsurance.co.ke/modules/system/system.base.css?pjx4rk");
+@import url("https://www.heritageinsurance.co.ke/modules/system/system.menus.css?pjx4rk");
+@import url("https://www.heritageinsurance.co.ke/modules/system/system.messages.css?pjx4rk");
+@import url("https://www.heritageinsurance.co.ke/modules/system/system.theme.css?pjx4rk");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.heritageinsurance.co.ke/modules/comment/comment.css?pjx4rk");
+@import url("https://www.heritageinsurance.co.ke/sites/all/modules/contrib/date/date_api/date.css?pjx4rk");
+@import url("https://www.heritageinsurance.co.ke/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?pjx4rk");
+@import url("https://www.heritageinsurance.co.ke/modules/field/theme/field.css?pjx4rk");
+@import url("https://www.heritageinsurance.co.ke/modules/node/node.css?pjx4rk");
+@import url("https://www.heritageinsurance.co.ke/modules/search/search.css?pjx4rk");
+@import url("https://www.heritageinsurance.co.ke/modules/user/user.css?pjx4rk");
+@import url("https://www.heritageinsurance.co.ke/sites/all/modules/contrib/views/css/views.css?pjx4rk");
+@import url("https://www.heritageinsurance.co.ke/sites/all/modules/contrib/ckeditor/css/ckeditor.css?pjx4rk");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.heritageinsurance.co.ke/sites/all/themes/basic/css/tabs.css?pjx4rk");
+@import url("https://www.heritageinsurance.co.ke/sites/all/modules/contrib/ctools/css/ctools.css?pjx4rk");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.heritageinsurance.co.ke/sites/all/themes/basic/css/materialize.min.css?pjx4rk");
+@import url("https://www.heritageinsurance.co.ke/sites/all/themes/basic/css/layouts.css?pjx4rk");
+@import url("https://www.heritageinsurance.co.ke/sites/all/themes/basic/css/contents.css?pjx4rk");
+@import url("https://www.heritageinsurance.co.ke/sites/all/themes/basic/css/easy-responsive-tabs.css?pjx4rk");
+@import url("https://www.heritageinsurance.co.ke/sites/all/themes/basic/css/flexslider.css?pjx4rk");
+@import url("https://www.heritageinsurance.co.ke/sites/all/themes/basic/css/animate.min.css?pjx4rk");
+@import url("https://www.heritageinsurance.co.ke/sites/all/themes/basic/css/uniform.default.css?pjx4rk");
+@import url("https://www.heritageinsurance.co.ke/sites/all/themes/basic/css/jquery.jscrollpane.css?pjx4rk");
+@import url("https://www.heritageinsurance.co.ke/sites/all/themes/basic/css/component.css?pjx4rk");
+</style>
+  <script type="text/javascript" src="https://www.heritageinsurance.co.ke/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.3"></script>
+<script type="text/javascript" src="https://www.heritageinsurance.co.ke/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://www.heritageinsurance.co.ke/misc/drupal.js?pjx4rk"></script>
+<script type="text/javascript" src="https://www.heritageinsurance.co.ke/sites/all/modules/contrib/clientside_validation/jquery-validate/jquery.validate.js?pjx4rk"></script>
+<script type="text/javascript" src="https://www.heritageinsurance.co.ke/sites/all/themes/basic/scripts/easyResponsiveTabs.js?pjx4rk"></script>
+<script type="text/javascript" src="https://www.heritageinsurance.co.ke/sites/all/themes/basic/scripts/custom.js?pjx4rk"></script>
+<script type="text/javascript" src="https://www.heritageinsurance.co.ke/sites/all/themes/basic/scripts/modernizr.custom.js?pjx4rk"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"basic","theme_token":"WeuYXodWU-uZLdnU1T_-atKUXP1PNixQ0y_oyZ-QkCA","js":{"sites\/all\/themes\/basic\/scripts\/materialize.js":1,"sites\/all\/themes\/basic\/scripts\/jquery.jscrollpane.min.js":1,"sites\/all\/themes\/basic\/scripts\/jquery.uniform.js":1,"sites\/all\/themes\/basic\/scripts\/jquery.mousewheel.js":1,"sites\/all\/themes\/basic\/scripts\/jquery.flexslider-min.js":1,"sites\/all\/themes\/basic\/scripts\/jquery.dlmenu.js":1,"sites\/all\/themes\/basic\/scripts\/location.js":1,"sites\/all\/themes\/basic\/scripts\/init.js":1,"sites\/all\/themes\/basic\/scripts\/toucheffects.js":1,"sites\/all\/themes\/basic\/scripts\/footer.js":1,"sites\/all\/modules\/contrib\/clientside_validation\/clientside_validation.ie8.js":1,"sites\/all\/modules\/contrib\/clientside_validation\/clientside_validation.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/clientside_validation\/jquery-validate\/jquery.validate.js":1,"sites\/all\/themes\/basic\/scripts\/easyResponsiveTabs.js":1,"sites\/all\/themes\/basic\/scripts\/custom.js":1,"sites\/all\/themes\/basic\/scripts\/modernizr.custom.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/themes\/basic\/css\/tabs.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/basic\/css\/materialize.min.css":1,"sites\/all\/themes\/basic\/css\/layouts.css":1,"sites\/all\/themes\/basic\/css\/contents.css":1,"sites\/all\/themes\/basic\/css\/easy-responsive-tabs.css":1,"sites\/all\/themes\/basic\/css\/flexslider.css":1,"sites\/all\/themes\/basic\/css\/animate.min.css":1,"sites\/all\/themes\/basic\/css\/uniform.default.css":1,"sites\/all\/themes\/basic\/css\/jquery.jscrollpane.css":1,"sites\/all\/themes\/basic\/css\/component.css":1}},"clientsideValidation":{"forms":{"user-login-form":{"errorPlacement":1,"general":{"errorClass":"error","wrapper":"li","validateTabs":"","scrollTo":1,"scrollSpeed":1000,"disableHtml5Validation":1,"validateOnBlur":1,"validateOnBlurAlways":0,"validateOnKeyUp":1,"validateBeforeAjax":0,"validateOnSubmit":1,"showMessages":0,"errorElement":"label"},"rules":{"name":{"required":true,"messages":{"required":"E-mail or username field is required.","maxlength":"E-mail or username field has to have maximum 60 values."},"maxlength":60},"pass":{"required":true,"messages":{"required":"Password field is required.","maxlength":"Password field has to have maximum 128 values."},"maxlength":128}}}},"general":{"usexregxp":0,"months":{"January":1,"Jan":1,"February":2,"Feb":2,"March":3,"Mar":3,"April":4,"Apr":4,"May":5,"June":6,"Jun":6,"July":7,"Jul":7,"August":8,"Aug":8,"September":9,"Sep":9,"October":10,"Oct":10,"November":11,"Nov":11,"December":12,"Dec":12}},"groups":{"user-login-form":{}}}});
+//--><!]]>
+</script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143518433-1"></script>
+<script>
+	
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-143518433-1');
+</script>
+
+
+	<!-- End of Google Analytics-->
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-1 node-type-home role-anonymous-user" >
+    <div id="page">
+	<div id="cnPortal">
+	<div class="section">
+		<div class="container">
+			<div class="row">
+				<div class="col s12">
+					<div class="cnInner">
+						<div class="cnTop">
+							<div class="cnClose"></div>
+							<span class="titre">Portals</span>
+							<p>Access our wide range of Online Portal. For support, kindly contact us here.</p>
+						</div>
+						<ul class="cnLinks clearfix">
+						<li><a target="_blank" href="https://online.heritageinsurance.co.ke/eInsurance/payment/epay"><div class="conInner"><div class="vAlign"><div class="cnPicto"><img src="https://www.heritageinsurance.co.ke/sites/default/files/epay_online-01.svg" class="ico-domestic"><img src="https://www.heritageinsurance.co.ke/sites/default/files/epay_online-01_0.svg" class="ico-domestic hv"></div><div class="cnDesc"><span>EPAY ONLINE</span></div></div></div></a></li><li><a target="_blank" href="https://online.heritageinsurance.co.ke/eInsurance/home"><div class="conInner"><div class="vAlign"><div class="cnPicto"><img src="https://www.heritageinsurance.co.ke/sites/default/files/e_insurance_pportal-01.svg" class="ico-domestic"><img src="https://www.heritageinsurance.co.ke/sites/default/files/e_insurance_pportal-01_0.svg" class="ico-domestic hv"></div><div class="cnDesc"><span>EINSURANCE PORTAL</span></div></div></div></a></li><li><a target="_blank" href="https://online.libertyhealth.net/account/login"><div class="conInner"><div class="vAlign"><div class="cnPicto"><img src="https://www.heritageinsurance.co.ke/sites/default/files/medical_portal-01.svg" class="ico-domestic"><img src="https://www.heritageinsurance.co.ke/sites/default/files/medical_portal-01_0.svg" class="ico-domestic hv"></div><div class="cnDesc"><span>MEDICAL PORTAL</span></div></div></div></a></li><li><a target="_blank" href="http://online.heritageinsurance.co.ke/TV"><div class="conInner"><div class="vAlign"><div class="cnPicto"><img src="https://www.heritageinsurance.co.ke/sites/default/files/travel_portal-01.svg" class="ico-domestic"><img src="https://www.heritageinsurance.co.ke/sites/default/files/travel_portal-01_0.svg" class="ico-domestic hv"></div><div class="cnDesc"><span>TRAVEL PORTAL</span></div></div></div></a></li><li><a target="_blank" href="https://outlook.office365.com/owa/"><div class="conInner"><div class="vAlign"><div class="cnPicto"><img src="https://www.heritageinsurance.co.ke/sites/default/files/staff_email-01.svg" class="ico-domestic"><img src="https://www.heritageinsurance.co.ke/sites/default/files/staff_email-01_0.svg" class="ico-domestic hv"></div><div class="cnDesc"><span>STAFF EMAIL</span></div></div></div></a></li><li><a target="_blank" href="https://www.heritageinsurance.co.ke/sites/default/files/supplier_prequalification_may_2019.pdf"><div class="conInner"><div class="vAlign"><div class="cnPicto"><img src="https://www.heritageinsurance.co.ke/sites/default/files/procico.svg" class="ico-domestic"><img src="https://www.heritageinsurance.co.ke/sites/default/files/procico.svg" class="ico-domestic hv"></div><div class="cnDesc"><span>Procurement Services</span></div></div></div></a></li>						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div><!--   Portal   -->   
+
+<div id="header">
+	<div class="section">
+		<div class="cnTop">
+			<div class="container">
+				<div class="row">
+					<div class="col s12">
+						<div class="cnInner clearfix">
+							<div class="cnSocial">
+								<ul class="clearfix">
+																		<li><a target="_blank" href="https://www.facebook.com/HeritageKe/"><img src="/sites/all/themes/basic/images/icn/facebook-176.svg" class="cnIcons"></a></li>
+																											<li><a target="_blank" href="http://www.twitter.com/heritage_ke"><img src="/sites/all/themes/basic/images/icn/twitter-154.svg" class="cnIcons"></a></li>
+																										</ul>
+							</div>
+							<div class="cnMoreLinks">
+								<ul class="clearfix">
+									<li><a href="/content/portals" class="mlid-602">Portals</a></li>								</ul>
+							</div>
+						</div>
+					</div>
+				</div><!--   Row   -->
+			</div><!--   Container   -->     
+		</div>
+		<div class="cnBottom">
+			<div class="container">
+				<div class="row">
+					<div class="col s12">
+						<div class="cnInner clearfix">
+							<div class="colLeft">
+								<div id="logo-title">
+									<a href="/"><img src="/sites/all/themes/basic/images/interface/heritage-logo.png" srcset="/sites/all/themes/basic/images/interface/heritage-logo@2x.png 2x, /sites/all/themes/basic/images/interface/heritage-logo@3x.png 3x" class="heritage-logo"></a>
+								</div>
+								<div class="cnMember">
+									<a href="/"><img src="/sites/all/themes/basic/images/interface/member-of.png" srcset="/sites/all/themes/basic/images/interface/member-of@2x.png 2x, /sites/all/themes/basic/images/interface/member-of@3x.png 3x" class="member-of"></a>
+								</div>
+							</div>
+							<div class="colRight">
+								<div class="navigation">
+									<ul class="clearfix">
+									<li class="hasub"><a href="/content/our-group-structure">About Us</a></li><li class="hasub"><a href="/content/all-products">Our Products</a><ul><li class="cnMenuTitle"><h3>Individual</h3></li><li><a href="https://autocorrect.heritageinsurance.co.ke/" target="_blank">Auto Correct</a></li><li><a href="/content/domestic-package">Domestic Package</a></li><li><a href="/content/motor-insurance">Motor Insurance</a></li><li><a href="/content/personal-accident">Personal Accident</a></li><li><a href="/content/travel-insurance">Travel Insurance</a></li><li><a href="/content/all-products#others-individual">Other Products</a></li><li class="cnMenuTitle"><h3>Business</h3></li><li><a href="/content/medical-insurance">Medical Insurance</a></li><li><a href="/content/group-personal-accident">Group Personal Accident</a></li><li><a href="/content/work-injury-benefits-act-wiba-protection">Work Injury Benefits Act (WIBA) Protection</a></li><li><a href="/content/all-products#others-business">Other Products</a></li></ul></li><li class="hasub"><a href="/content/downloads">Downloads</a></li><li class="hasub"><a href="/content/news-events">News &amp; Events</a></li><li class="hasub"><a href="/content/careers">Careers</a></li><li class="hasub"><a href="/content/contact-us">Contact us</a></li>									</ul>
+								</div>
+							</div>
+
+							<div id="mobile-navigation">
+								<div id="dl-menu" class="dl-menuwrapper">
+								<div class="dl-trigger" id="nav-icon">
+									<span></span>
+									<span></span>
+									<span></span>
+								</div>
+								<ul class="dl-menu">
+									<li class="hasSub"><a href="/content/our-group-structure">About Us</a></li><li class="hasSub"><a href="/content/all-products">Our Products</a></li><li class="hasSub"><a href="/content/downloads">Downloads</a></li><li class="hasSub"><a href="/content/news-events">News &amp; Events</a></li><li class="hasSub"><a href="/content/careers">Careers</a></li><li class="hasSub"><a href="/content/contact-us">Contact us</a></li><li><a href="/content/portals" class="mlid-602">Portals</a></li>								</ul>
+								</div>
+							</div>
+
+
+						</div>
+					</div>
+				</div><!--   Row   -->
+			</div><!--   Container   -->    
+		</div>
+	</div><!--   Section   -->
+</div><!--   Header   -->
+
+<div id="sibebar-right">
+    <ul>
+        <li class="icon0"><a href="https://www.heritageinsurance.co.ke/content/our-branches">Find a Branch</a></li><li class="icon1"><a href="https://online.heritageinsurance.co.ke/eInsurance/payment/epay" target="_blank">Make a payment</a></li><li class="icon2"><a href="https://m.me/HeritageKe" target="_blank">Chat with us</a></li>    </ul>
+</div>
+	
+<div class="parallax-container sectionTop">
+    <div class="section">
+        <div class="flexslider">
+            <ul class="slides">
+                <li style="background: url(https://www.heritageinsurance.co.ke/sites/default/files/motor-insu.jpg) top center no-repeat;"><div class="cnOverlay"></div><div class="container"><div class="row"><div class="col s8"><div class="cnInner"></div></div><div class="col s4"><div class="cnInner"><div class="cnRte"><p>Auto Correct motor insurance is a comprehensive motor insurance policy from Heritage Insurance in partnership with experts in the telematics field.</p>
+<a href="https://autocorrect.heritageinsurance.co.ke/" target="_blank">Visit AutoCorrect</a></div></div></div></div></div></li><li style="background: url(https://www.heritageinsurance.co.ke/sites/default/files/1_1.jpg) top center no-repeat;"><div class="cnOverlay"></div><div class="container"><div class="row"><div class="col s8"><div class="cnInner"></div></div><div class="col s4"><div class="cnInner"><div class="cnRte"><p>Our purpose is to improve your life by making your financial freedom possible. We do this by helping you manage your risks, so you're free to focus on what's really important.</p>
+<a href="/content/our-group-structure">READ MORE ABOUT US</a></div></div></div></div></div></li><li style="background: url(https://www.heritageinsurance.co.ke/sites/default/files/2_0.jpg) top center no-repeat;"><div class="cnOverlay"></div><div class="container"><div class="row"><div class="col s8"><div class="cnInner"></div></div><div class="col s4"><div class="cnInner"><div class="cnRte"><p>We offer&nbsp;affordable coverage options for all your motor insurance needs.&nbsp;Get a quick, personalized insurance quote today.</p>
+<a href="/content/contact-us">Get a quote</a></div></div></div></div></div></li><li style="background: url(https://www.heritageinsurance.co.ke/sites/default/files/3_0.jpg) top center no-repeat;"><div class="cnOverlay"></div><div class="container"><div class="row"><div class="col s8"><div class="cnInner"></div></div><div class="col s4"><div class="cnInner"><div class="cnRte"><p>Our Domestic Package helps you protect your home and its contents from perils such as fire, theft and accidental damage. Get a quick, personalized insurance quote today and protect your valued assets with a Domestic Package policy from Heritage Insurance.</p>
+<a href="/content/contact-us">Get a quote</a></div></div></div></div></div></li><li style="background: url(https://www.heritageinsurance.co.ke/sites/default/files/4.jpg) top center no-repeat;"><div class="cnOverlay"></div><div class="container"><div class="row"><div class="col s8"><div class="cnInner"></div></div><div class="col s4"><div class="cnInner"><div class="cnRte"><p>Your employees’&nbsp; health is your&nbsp; biggest and most&nbsp; important asset because a healthy workforce&nbsp; is a more productive workforce.We are here to help you select the best cover for your employees.&nbsp;</p>
+<a href="/content/contact-us">Get a quote</a></div></div></div></div></div></li><li style="background: url(https://www.heritageinsurance.co.ke/sites/default/files/claims.jpg) top center no-repeat;"><div class="cnOverlay"></div><div class="container"><div class="row"><div class="col s8"><div class="cnInner"></div></div><div class="col s4"><div class="cnInner"><div class="cnRte"><p>In the event of an accident or loss necessitating a claim on the policy issued by Heritage Insurance Company, please report the same to us, through your Insurance Broker or Agent as applicable, and provide supporting documents</p>
+<a href="https://www.heritageinsurance.co.ke/sites/default/files/claim_document_checklist.pdf" target="_blank">View claim documents checklist</a></div></div></div></div></div></li>            </ul>
+        </div>
+    </div><!--   Section   -->
+</div><!--   Parallax Container   -->
+
+<div class="section sectionQuickLinks">
+    <div class="container">
+        <div class="row">
+            
+        </div><!--   Row   -->
+    </div><!--   Container   -->
+</div><!--   SectionQuickLinks   -->
+
+<div class="parallax-container sectionFeaturedProducts">
+    <div class="section no-pad-bot">
+        <div class="container">
+            <div class="row">
+                <div class="col s8">
+                    <div class="cnInner">
+                        <div class="cnRte">
+                            <h1>Our featured products</h1>
+                        </div>
+                    </div>
+                </div>
+                <div class="col s4">
+                    <div class="cnInner">
+                        <ul class="cnLinks">
+                            <li><a href="/content/all-products">view all products</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col s12">
+                    <div class="cnInner">
+                        <ul class="featuredProd clearfix">
+                        <li><a href="/content/domestic-package"><div class="conInner"><div class="vAlign"><div class="cnPicto"><img src="https://www.heritageinsurance.co.ke/sites/default/files/domestic_package_4.svg" class="ico-domestic"><img src="https://www.heritageinsurance.co.ke/sites/default/files/domestic_package_2.svg" class="ico-domestic hv"></div><div class="cnDesc"><span>Domestic Package</span></div></div></div></a></li><li><a href="/content/employers-liability"><div class="conInner"><div class="vAlign"><div class="cnPicto"><img src="https://www.heritageinsurance.co.ke/sites/default/files/employers_liability_6.svg" class="ico-domestic"><img src="https://www.heritageinsurance.co.ke/sites/default/files/employers_liability_4.svg" class="ico-domestic hv"></div><div class="cnDesc"><span>Employer's Liability</span></div></div></div></a></li><li><a href="/content/medical-insurance"><div class="conInner"><div class="vAlign"><div class="cnPicto"><img src="https://www.heritageinsurance.co.ke/sites/default/files/medical_insurance_4.svg" class="ico-domestic"><img src="https://www.heritageinsurance.co.ke/sites/default/files/medical_insurance_2.svg" class="ico-domestic hv"></div><div class="cnDesc"><span>Medical Insurance</span></div></div></div></a></li><li><a href="/content/motor-insurance"><div class="conInner"><div class="vAlign"><div class="cnPicto"><img src="https://www.heritageinsurance.co.ke/sites/default/files/motor_insurance_4.svg" class="ico-domestic"><img src="https://www.heritageinsurance.co.ke/sites/default/files/motor_insurance_2.svg" class="ico-domestic hv"></div><div class="cnDesc"><span>Motor Insurance</span></div></div></div></a></li><li><a href="/content/fire-perils-cover"><div class="conInner"><div class="vAlign"><div class="cnPicto"><img src="https://www.heritageinsurance.co.ke/sites/default/files/fire_perils_cover_5.svg" class="ico-domestic"><img src="https://www.heritageinsurance.co.ke/sites/default/files/fire_perils_cover_3.svg" class="ico-domestic hv"></div><div class="cnDesc"><span>Fire & Perils Cover</span></div></div></div></a></li><li><a href="/content/industrial-all-risks"><div class="conInner"><div class="vAlign"><div class="cnPicto"><img src="https://www.heritageinsurance.co.ke/sites/default/files/industrial_all_risks_4.svg" class="ico-domestic"><img src="https://www.heritageinsurance.co.ke/sites/default/files/industrial_all_risks_2.svg" class="ico-domestic hv"></div><div class="cnDesc"><span>Industrial All Risks</span></div></div></div></a></li><li><a href="/content/trendsetter-policy"><div class="conInner"><div class="vAlign"><div class="cnPicto"><img src="https://www.heritageinsurance.co.ke/sites/default/files/trendsetter_policy_4.svg" class="ico-domestic"><img src="https://www.heritageinsurance.co.ke/sites/default/files/trendsetter_policy_2.svg" class="ico-domestic hv"></div><div class="cnDesc"><span>Trendsetter Policy</span></div></div></div></a></li><li><a href="/content/professional-indemnity"><div class="conInner"><div class="vAlign"><div class="cnPicto"><img src="https://www.heritageinsurance.co.ke/sites/default/files/professional_indemnity_7.svg" class="ico-domestic"><img src="https://www.heritageinsurance.co.ke/sites/default/files/professional_indemnity_5.svg" class="ico-domestic hv"></div><div class="cnDesc"><span>Professional Indemnity</span></div></div></div></a></li>                        </ul>
+                    </div>
+                </div>
+            </div><!--   Row   -->
+        </div><!--   Container   -->
+    </div><!--   Section   -->
+    <div class="parallax"><img src="/sites/all/themes/basic/images/interface/background2.jpg"></div>
+</div><!--   Parallax Container   -->
+
+
+<div class="section sectionLatestNews">
+    <div class="container">
+        <div class="row">
+            <div class="col s8">
+                <div class="cnInner">
+                    <div class="cnRte">
+                    <h1>our latest news &amp; events</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col s4">
+                <div class="cnInner">
+                    <ul class="cnLinks">
+                        <li><a href="/content/news-events">view all posts</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col s12">
+                <div class="cnInner">
+                    <ul class="boxNews clearfix">
+                    <li><a href="/content/gcr-revises-and-upgrades-liberty-heritage-insurance-ratings" class="cnTop"><div class="cnOverlay"><span>read article</span></div><div class="cnImg" style="background: url(https://www.heritageinsurance.co.ke/sites/default/files/styles/img311x150/public/ratings.jpg?itok=RhksubM_) center center no-repeat;"></div></a><a href="/content/gcr-revises-and-upgrades-liberty-heritage-insurance-ratings" class="cnBot">GCR revises and upgrades Liberty, Heritage Insurance ratings</a></li><li><a href="/content/liberty-and-heritage-win-big-insurance-awards" class="cnTop"><div class="cnOverlay"><span>read article</span></div><div class="cnImg" style="background: url(https://www.heritageinsurance.co.ke/sites/default/files/styles/img311x150/public/win.jpg?itok=3tWZ_yNN) center center no-repeat;"></div></a><a href="/content/liberty-and-heritage-win-big-insurance-awards" class="cnBot">Liberty and Heritage win big in insurance awards</a></li><li><a href="/content/heritage-insurance-md-named-ceo-year" class="cnTop"><div class="cnOverlay"><span>read article</span></div><div class="cnImg" style="background: url(https://www.heritageinsurance.co.ke/sites/default/files/styles/img311x150/public/kioi3.jpg?itok=M25xmfrB) center center no-repeat;"></div></a><a href="/content/heritage-insurance-md-named-ceo-year" class="cnBot">Heritage Insurance MD named CEO of the Year</a></li>                    </ul>
+                </div>
+            </div>
+        </div><!--   Row   -->
+    </div><!--   Container   -->
+</div><!--   SectionLatestNews   -->
+
+<div class="parallax-container sectionEservices">
+    <div class="section no-pad-bot">
+        <div class="container">
+            <div class="row">
+                <div class="col s8">
+                    <div class="cnInner">
+                        <div class="cnRte">
+                        <h1>e-services</h1>
+                        </div>
+                    </div>
+                </div>
+                <div class="col s4">
+                    <div class="cnInner">
+                        <ul class="cnLinks">
+                        <li><a href="https://online.heritageinsurance.co.ke/eInsurance/payment/epay">Online Payments (Credit/Debit cards)</a></li><li><a href="https://online.heritageinsurance.co.ke/eInsurance/payment/epay">Mobile Payments (MPESA)</a></li>                        </ul>
+                    </div>
+                </div>
+            </div><!--   Row   -->
+        </div><!--   Container   -->
+    </div><!--   Section   -->
+    <div class="parallax"><img src="/sites/all/themes/basic/images/interface/background3.jpg"></div>
+</div><!--   Parallax Container   -->
+	<div id="footer">
+    <div class="footer-top">
+        <div class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col s2">
+                        <div class="cnInner colFirst">
+                            <div class="cnLogo">
+                                <a href="/"><img src="/sites/all/themes/basic/images/interface/heritage-logo1.png" srcset="/sites/all/themes/basic/images/interface/heritage-logo1@2x.png 2x, /sites/all/themes/basic/images/interface/heritage-logo1@3x.png 3x" class="heritage-logo"></a>
+                                <a href="/"><img src="/sites/all/themes/basic/images/interface/member-of-small.png" srcset="/sites/all/themes/basic/images/interface/member-of-small@2x.png 2x, /sites/all/themes/basic/images/interface/member-of-small@3x.png 3x" class="member-of"></a>
+                            </div>
+                            <div class="cnSocial">
+                                <ul class="clearfix">
+                                                                        <li><a target="_blank" href="https://www.facebook.com/HeritageKe/"><img src="/sites/all/themes/basic/images/icn/facebook-blue.svg" class="cnIcons"> <span> @HeritageKe </span> </a></li>
+                                                                                                            <li><a target="_blank" href="http://www.twitter.com/heritage_ke"><img src="/sites/all/themes/basic/images/icn/twitter-blue.svg" class="cnIcons"> <span> @Heritage_KE </span> </a></li>
+                                                                                                        </ul>
+                            </div>
+                            <div class="moreLinks">
+                                <ul class="more">
+                                    <li><a href="/content/portals">Portals</a></li>                                </ul>
+                            </div>
+                            <div class="others">
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col s4">
+                        <div class="cnInner">
+                            <div class="titleTop">
+                                <a href="">our products</a>
+                            </div>
+                                                        <div class="column"><ul><li class="cnMenuTitle"><h3>Individual</h3></li><li><a href="/content/domestic-package">Domestic Package</a></li><li><a href="/content/motor-insurance">Motor Insurance</a></li><li><a href="/content/personal-accident">Personal Accident</a></li><li><a href="/content/travel-insurance">Travel Insurance</a></li><li><a href="/content/all-products#others-individual">Other Products</a></li></ul></div><div class="column"><ul><li class="cnMenuTitle"><h3>Business</h3></li><li><a href="/content/medical-insurance">Medical Insurance</a></li><li><a href="/content/group-personal-accident">Group Personal Accident</a></li><li><a href="/content/work-injury-benefits-act-wiba-protection">Work Injury Benefits Act (WIBA) Protection</a></li><li><a href="/content/medical-insurance">Medical Insurance</a></li><li><a href="/content/group-personal-accident">Group Personal Accident</a></li><li><a href="/content/work-injury-benefits-act-wiba-protection">Work Injury Benefits Act (WIBA) Protection</a></li><li><a href="/content/all-products#others-business">Other Products</a></li><li><a href="/content/whistle-blowing">Whistle Blowing</a></li></ul></div>                        </div>
+                    </div>
+                    <div class="col s4">
+                        <div class="cnInner">
+                            <div class="titleTop">
+                                <a href="/content/news-events">news & events</a>
+                            </div>
+                            <div class="column x2">
+                                <ul>
+                                <li><a href="/content/gcr-revises-and-upgrades-liberty-heritage-insurance-ratings">GCR revises and upgrades Liberty, Heritage Insurance ratings</a></li><li><a href="/content/liberty-and-heritage-win-big-insurance-awards">Liberty and Heritage win big in insurance awards</a></li><li><a href="/content/heritage-insurance-md-named-ceo-year">Heritage Insurance MD named CEO of the Year</a></li><li><a href="/content/heritage-nic-bank-partner-provide-customers-auto-correct-policy">Heritage, NIC Bank partner to provide customers with Auto Correct policy</a></li>                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col s2 colLast">
+                        <div class="cnInner">
+                            <div class="titleTop">
+                                <a href="">RELATED SITES</a>
+                            </div>
+                            <div class="column">
+                                <ul class="external">
+                                    <li><a target="_blank" href="http://www.liberty.co.ke">Liberty Life Kenya</a></li>
+                                    <li><a target="_blank" href="https://www.libertykenya.co.ke/">Liberty Kenya Holdings</a></li>
+                                    <li><a target="_blank" href="http://www.stanlib.com/kenya">Stanlib Kenya</a></li>
+                                    <li><a target="_blank" href="https://www.stanbicbank.co.ke/">Stanbic Bank Kenya</a></li>
+                                    <li><a target="_blank" href="http://www.libertyholdings.co.za">Liberty Holdings</a></li>
+                                    <li><a target="_blank" href="https://autocorrect.heritageinsurance.co.ke/">Auto Correct</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div><!--   Row   -->
+            </div><!--   Container   -->
+        </div><!--   Section   -->
+    </div><!--  Footer Top  -->
+    <div class="footer-bottom">
+        <div class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col s12">
+                        <div class="cnInner">
+                            <p>Copyright © 2019&nbsp;The Heritage Insurance Co. Kenya Ltd. All Rights Reserved. Mamlaka Road, P.O. Box 30390-00100, Nairobi.Kenya Tel: 020 278 3000 / 0711 039 000 / 0734 101 000</p>
+                            <ul>
+                                <li><a href="/content/email-disclaimer">Email Disclaimer</a></li><li><a href="/content/website-disclaimer">Website Disclaimer</a></li><li><a href="/content/privacy-policy">Privacy Policy </a></li><li><a href="/content/terms-conditions-use-heritage-portals">Terms &amp; Conditions (Policy)</a></li>                            </ul>
+                        </div>
+                    </div>
+                </div><!--   Row   -->
+            </div><!--   Container   -->
+        </div><!--   Section   -->
+    </div><!--  Footer Bottom  -->
+</div><!--  Footer  --></div>
+  <script type="text/javascript" src="https://www.heritageinsurance.co.ke/sites/all/themes/basic/scripts/materialize.js?pjx4rk"></script>
+<script type="text/javascript" src="https://www.heritageinsurance.co.ke/sites/all/themes/basic/scripts/jquery.jscrollpane.min.js?pjx4rk"></script>
+<script type="text/javascript" src="https://www.heritageinsurance.co.ke/sites/all/themes/basic/scripts/jquery.uniform.js?pjx4rk"></script>
+<script type="text/javascript" src="https://www.heritageinsurance.co.ke/sites/all/themes/basic/scripts/jquery.mousewheel.js?pjx4rk"></script>
+<script type="text/javascript" src="https://www.heritageinsurance.co.ke/sites/all/themes/basic/scripts/jquery.flexslider-min.js?pjx4rk"></script>
+<script type="text/javascript" src="https://www.heritageinsurance.co.ke/sites/all/themes/basic/scripts/jquery.dlmenu.js?pjx4rk"></script>
+<script type="text/javascript" src="https://www.heritageinsurance.co.ke/sites/all/themes/basic/scripts/location.js?pjx4rk"></script>
+<script type="text/javascript" src="https://www.heritageinsurance.co.ke/sites/all/themes/basic/scripts/init.js?pjx4rk"></script>
+<script type="text/javascript" src="https://www.heritageinsurance.co.ke/sites/all/themes/basic/scripts/toucheffects.js?pjx4rk"></script>
+<script type="text/javascript" src="https://www.heritageinsurance.co.ke/sites/all/themes/basic/scripts/footer.js?pjx4rk"></script>
+<script type="text/javascript" src="https://www.heritageinsurance.co.ke/sites/all/modules/contrib/clientside_validation/clientside_validation.ie8.js?pjx4rk"></script>
+<script type="text/javascript" src="https://www.heritageinsurance.co.ke/sites/all/modules/contrib/clientside_validation/clientside_validation.js?pjx4rk"></script>
+</body>
+</html>

@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="de" dir="ltr" class="no-js"> <![endif]-->
+<!--[if IE 7]> <html class="no-js ie7 oldie" lang="de" dir="ltr" class="no-js"> <![endif]-->
+<!--[if IE 8]> <html class="no-js ie8 oldie" lang="de" dir="ltr" class="no-js"> <![endif]-->
+<!--[if gt IE 8]> <!--><html class="no-js ie6 oldie" lang="de" dir="ltr" class="no-js"> <!--<![endif]-->
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	ZBW Website
+	        - - - - - - - - - - - -
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2019 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+<base href="https://www.zbw.eu">
+
+
+<meta name="generator" content="TYPO3 CMS">
+<meta name="robots" content="index,follow">
+<meta name="description" content="ZBW - Leibniz-Informationszentrum Wirtschaft - Ihr Partner für Forschung und Studium.">
+<meta name="title" content="Startseite">
+<meta name="date" content="2020-02-17">
+
+
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/news/Resources/Public/Css/news-basic.css?1519979943" media="all">
+<link rel="stylesheet" type="text/css" href="/typo3temp/assets/css/06180f1bcb.css?1576665921" media="all">
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/cal/Resources/Public/v2/css/cal.css?1517927543" media="all">
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/ns_twitter/Resources/Public/Css/style.css?1523275325" media="all">
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/ns_twitter/Resources/Public/Css/font-awesome/css/font-awesome.min.css?1523275325" media="all">
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/rx_shariff/Resources/Public/Css/shariff.complete.css?1539784022" media="all">
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/zbw_website/Resources/Public/css/normalize.css?1517927547" media="screen,projection">
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/zbw_website/Resources/Public/css/main.css?1526990842" media="screen,projection">
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/zbw_website/Resources/Public/css/zbw.css?1562591255" media="screen,projection">
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/zbw_website/Resources/Public/css/font.css?1517927547" media="screen,projection">
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/zbw_website/Resources/Public/css/druck.css?1517927547" media="print">
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/zbw_website/Resources/Public/css/jqueryui/jquery-ui.min.css?1517927547" media="all">
+
+
+
+<script src="/typo3conf/ext/zbw_website/Resources/Public/js/libs/modernizr.custom.75114.js?1517927547" type="text/javascript"></script>
+<script src="/typo3conf/ext/zbw_website/Resources/Public/js/libs/jquery-1.11.0.min.js?1517927547" type="text/javascript"></script>
+<script src="/typo3conf/ext/zbw_website/Resources/Public/js/jquery.flexslider-min.js?1517927547" type="text/javascript"></script>
+<script src="/typo3conf/ext/zbw_website/Resources/Public/js/cookieconsent.min.js?1521127483" type="text/javascript"></script>
+
+<script src="/typo3temp/assets/js/bd4d1f63e4.js?1576665921" type="text/javascript"></script>
+
+
+
+<title>Startseite&nbsp;&#124;&nbsp;ZBW</title>    <meta name="viewport" content="width=device-width, initial-scale=1.0" ><style type="text/css">@media (max-width: 768px){body { background-image: url(/fileadmin/_processed_/b/3/csm_bg_kiel_water_f0d4f7ebf7.jpg); }}@media (min-width: 769px){body { background-image: url(/fileadmin/user_upload/bg_kiel_water.jpg); }}</style> 
+<!-- Copyright (c) 2000-2019 etracker GmbH. All rights reserved. -->
+<!-- This material may not be reproduced, displayed, modified or distributed -->
+<!-- without the express prior written permission of the copyright holder. -->
+<!-- etracker tracklet 4.1 -->
+<script type="text/javascript">
+//var et_pagename = "";
+var et_areas = "";
+//var et_target = "";
+//var et_tval = "";
+//var et_tonr = "";
+//var et_tsale = 0;
+//var et_basket = "";
+//var et_cust = 0;
+</script>
+<script id="_etLoader" type="text/javascript" charset="UTF-8" data-respect-dnt="true" data-secure-code="b9xWmg" src="//static.etracker.com/code/e.js"></script>
+<!-- etracker tracklet 4.1 end -->
+    <link rel="shortcut icon" href="https://www.zbw.eu/favicon.ico" type="image/x-icon" />    <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+<script type="text/javascript">
+    window.cookieconsent_options = {
+    	"message":"Cookies helfen uns bei der Bereitstellung unserer Dienste. Durch die Nutzung unserer Dienste erkl&auml;ren Sie sich mit dem Einsatz von Cookies einverstanden.",
+    	"dismiss":"OK",
+    	"learnMore":"Weitere Informationen",
+    	"link":"https://www.zbw.eu/de/datenschutz/",
+    	"theme":"https://www.zbw.eu/typo3conf/ext/zbw_website/Resources/Public/css/cookie-light-bottom.css"};
+</script>
+
+
+<!-- End Cookie Consent plugin -->
+
+<meta property="og:title" content="ZBW - Leibniz-Informationszentrum Wirtschaft" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="http://www.zbw.eu/fileadmin/_migrated/tx_jhopengraphprotocol_uploads/zbw-kiel_01.jpg" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:url" content="http://www.zbw.eu/de/" />
+<meta property="og:site_name" content="ZBW" />
+<meta property="og:description" content="Ihr Partner für Forschung und Studium." />
+<meta property="og:locale" content="de_DE" />
+
+</head>
+<body id="page_3"class="pid_0">
+
+<div id="pagewrap">
+			
+	<div id="header" class="mb4">
+		<div id="topheader">
+			<div id="topleft">				
+				
+  <div id="content_topleft">
+    
+  </div>  
+				
+			</div>
+			<div id="topcenter">
+				<div class="box">
+					<div id="topMenu">
+					&nbsp;<a href="/de/impressum/">Impressum</a>&nbsp;&#124;&nbsp;&nbsp;<a href="/de/ueber-uns/kontakt/">Kontakt</a>&nbsp;&#124;&nbsp;&nbsp;<a href="/de/topmenu/haeufig-gestellte-fragen/" title="Häufig gestellte Fragen zur ZBW">FAQ</a>&nbsp; | <a href="/en/">English</a>
+					</div>
+					<div id="logo">
+					<a href="/de/" title="ZBW - zur Startseite"><img src="/typo3conf/ext/zbw_website/Resources/Public/img/logo.png" width="256" height="45"   alt="" ></a>
+					</div>
+					<div id="slogan">
+						<span>Leibniz-Informationszentrum Wirtschaft</span><p>Ihr Partner für Forschung und Studium</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="headerright">
+			<div id="searchbox" class="box">
+				<form method="post" class="main-search" id="indexedsearch" action="/de/suche/?tx_indexedsearch_pi2%5Baction%5D=search&amp;tx_indexedsearch_pi2%5Bcontroller%5D=Search">
+<div>
+<input type="hidden" name="tx_indexedsearch_pi2[__referrer][@extension]" value="" />
+<input type="hidden" name="tx_indexedsearch_pi2[__referrer][@controller]" value="Standard" />
+<input type="hidden" name="tx_indexedsearch_pi2[__referrer][@action]" value="index" />
+<input type="hidden" name="tx_indexedsearch_pi2[__referrer][arguments]" value="YTowOnt9b20760415cb1d8801801c0d8f20ca8746f4322ff" />
+<input type="hidden" name="tx_indexedsearch_pi2[__referrer][@request]" value="a:3:{s:10:&quot;@extension&quot;;N;s:11:&quot;@controller&quot;;s:8:&quot;Standard&quot;;s:7:&quot;@action&quot;;s:5:&quot;index&quot;;}a7be94c010c4567dfdb9e8ec09f3777b725d4b36" />
+<input type="hidden" name="tx_indexedsearch_pi2[__trustedProperties]" value="a:1:{s:6:&quot;search&quot;;a:1:{s:5:&quot;sword&quot;;i:1;}}ce47b5175c738c106ee1fa89038e315b1e795cbb" />
+</div>
+
+ 
+					<fieldset>
+					<input placeholder="Webseitensuche" id="inputText" type="text" name="tx_indexedsearch_pi2[search][sword]" value="" />
+                    <input type="image" src="/typo3conf/ext/zbw_website/Resources/Public/img/elements/lupe.gif" class="search" title="Suche auf der Webseite starten" alt="Suche auf der Webseite starten" id="inputButton"/>
+                    
+                    </fieldset>
+                </form>
+			</div>
+				
+  <div id="content_topright">
+    
+<div id="c5055" class="frame frame-default frame-type-textmedia frame-layout-0"><header><h2 class="">
+				HINWEIS
+			</h2></header><div class="ce-textpic ce-right ce-intext"><div class="ce-bodytext"><p>Vom 19. bis zum 21. Februar stehen in der ZBW Kiel nicht alle Räume zur Verfügung.</p></div></div></div>
+
+
+  </div>  
+
+				
+		</div>
+	</div>
+	
+	<div id="mainframe"  class="clearfix">
+	<div id="main"  class="clearfix">
+		<nav>
+			<ul id="mainNavi"><li class="mainNaviItem box"><a href="/de/recherchieren/" title="Recherchieren">Recherchieren</a></li><li class="mainNaviItem box"><a href="/de/publizieren/" title="Wirtschaftsforschung Publizieren">Publizieren</a></li><li class="mainNaviItem box"><a href="/de/service/" title="Service">Service</a></li><li class="mainNaviItem box"><a href="/de/forschung/">Forschung</a></li><li class="mainNaviItem box"><a href="/de/wissenstransfer/">Wissenstransfer</a></li><li class="mainNaviItem box"><a href="/de/ueber-uns/" title="Über uns">Über uns</a></li></ul>	
+			
+  <div id="content_left">
+    
+  </div>  
+			
+		</nav>			
+		<div id="content">			
+			<article>
+			
+  <div id="content_main" class="home">
+    
+<div id="c4741" class="frame frame-default frame-type-html frame-layout-0"><div class="teaser"><div class="csc-textpic csc-textpic-intext-right-nowrap"><div style="float:right;"><figure class="csc-textpic-image"><a href="/de/recherchieren/" title="Recherchieren"><img src="/fileadmin/_migrated/pics/recherche_02.jpg" width="242" height="165" alt="Recherchieren"></a></figure></div><div><div class="csc-textpicHeader csc-textpicHeader-25"><h2 class="csc-firstHeader"><a href="/de/recherchieren/" title="Recherchieren">Recherchieren</a></h2></div>
+ Wirtschaftsliteratur weltweit suchen im Fachportal EconBiz: <br><div class="formnobreak"><form name="econbizsearch" class="searchform" method="get" action="http://www.econbiz.de/index.php" target="_blank"><input name="id" value="results" type="hidden"><input name="q" placeholder="In EconBiz suchen" type="text" data-cip-id="cIPJQ342845639"><input src="https://www.zbw.eu/fileadmin/elements/suchen.jpg" alt="Suche in EconBiz" title="Suche in EconBiz, öffnet ein neues Fenster" type="image"></form></div><div class="clearinline mb30"></div><p class="bodytext"><a href="https://www.zbw.eu/de/recherchieren/ausleihe/nutzerausweis/online-anmeldung/" target="_BLANK" title="Online anmelden - Öffnet internen Link in neuem Fenster" data-htmlarea-external="1">Online anmelden &amp; ZBW-Nutzer&ast;in werden<br></a><a data-htmlarea-external="1" title="Login ZBW-Nutzerkonto - Öffnet externen Link in neuem Fenster" class="external-link-new-window" href="https://www.econbiz.de/MyResearch/UserLogin" target="_BLANK">Nutzerkonto einsehen<br></a></p></div></div></div></div>
+
+
+<div id="c4742" class="frame frame-default frame-type-html frame-layout-0"><div class="teaser"><div class="csc-textpic csc-textpic-intext-right-nowrap"><div style="float:right;"><figure class="csc-textpic-image"><a href="/de/publizieren/" title="Publizieren"><img src="/fileadmin/images/publizieren.jpg" width="243" height="165" alt="Publizieren" title="Publizieren"></a></figure></div><div><div class="csc-textpicHeader csc-textpicHeader-25"><h2><a href="/de/publizieren/" title="Publizieren">Publizieren</a></h2></div><article>Eigene Wirtschaftsforschung publizieren</article><div class="clearinline mb20"></div><p class="bodytext"><a href="http://www.econstor.eu/" target="_blank" class="external-link-new-window" title="Zum Repositorium EconStor - Öffnet externen Link in neuem Fenster" data-htmlarea-external="1">Repositorium Econstor</a><br><a href="http://www.wirtschaftsdienst.eu/" class="external-link-new-window" title="Wirtschaftsdienst - Öffnet externen Link in neuem Fenster" data-htmlarea-external="1" target="_blank">Zeitschrift Wirtschaftsdienst</a><br><a href="http://www.intereconomics.eu/" class="external-link-new-window" title="Intereconomics - Öffnet externen Link in neuem Fenster" data-htmlarea-external="1" target="_blank">Zeitschrift Intereconomics</a><br><a href="https://www.iree.eu/" class="external-link-new-window" title="IREE - Öffnet externen Link in neuem Fenster" data-htmlarea-external="1" target="_blank">IREE</a><br><a href="http://journaldata.zbw.eu/" class="external-link-new-window" title="Journal Data Archive - Öffnet externen Link in neuem Fenster" data-htmlarea-external="1" target="_blank">Journal Data Archive</a></p></div></div></div></div>
+
+
+<div id="c4743" class="frame frame-default frame-type-html frame-layout-0"><div class="teaser"><div class="csc-textpic csc-textpic-intext-right-nowrap"><div style="float:right;"><figure class="csc-textpic-image"><a href="/de/service/" title="Service"><img src="/fileadmin/_migrated/pics/service.jpg" width="245" height="165" alt="Service"></a></figure></div><div><div class="csc-textpicHeader csc-textpicHeader-25"><h2><a href="/de/service/" title="Service">Service</a></h2></div>Die ZBW vor Ort nutzen<br>oder sich <span lang="en">online </span>beraten lassen<div class="clearinline mb20"></div><p class="bodytext"><br><a title="Fragen Sie uns! - Öffnet internen Link in diesem Fenster" class="internal-link" href="http://www.zbw.eu/index.php?id=27">Research Guide EconDesk</a><br><a title="ZBW vor Ort: Kiel - Öffnet internen Link in diesem Fenster" class="internal-link" href="http://www.zbw.eu/index.php?id=81">ZBW vor Ort nutzen: Kiel</a><br><a title="ZBW vor Ort: Hamburg - Öffnet internen Link in diesem Fenster" class="internal-link" href="http://www.zbw.eu/index.php?id=82">ZBW vor Ort nutzen: Hamburg</a></p></div></div></div></div>
+
+<div class="sidebox"><div class="csc-default leftbox">
+<div id="c121" class="frame frame-default frame-type-list frame-layout-0"><header><h2 class="">
+				Standort Kiel
+			</h2></header><div class="tx-ttaddress-pi1"><div class="vcard"><div class="title"></div><div class="contactdata"><!-- ###SUBPART_ADR### begin --><div class="adr">
+Düsternbrooker Weg 120
+</div><div class="adr">
+24105 Kiel  
+</div><div class="organization"></div><div class="tel">T: +49-431-8814-555</div><div class="fax">F: +49-431-8814-520</div><!-- ###SUBPART_ADR### end --><div class="openinglabel">Öffnungszeiten</div><div class="opening">Mo - Fr 9:00 - 19:00 h</div><div class="direction"><a href="/de/ueber-uns/kontakt/anfahrt-kiel/">Anfahrt</a></div></div></div></div></div>
+
+</div><div class="csc-default rightbox">
+<div id="c122" class="frame frame-default frame-type-list frame-layout-0"><header><h2 class="">
+				Standort Hamburg
+			</h2></header><div class="tx-ttaddress-pi1"><div class="vcard"><div class="title"></div><div class="contactdata"><!-- ###SUBPART_ADR### begin --><div class="adr">
+Neuer Jungfernstieg 21
+</div><div class="adr">
+20354 Hamburg  
+</div><div class="organization"></div><div class="tel">T: +49-40-42834-219</div><div class="fax">F: +49-40-42834-450</div><!-- ###SUBPART_ADR### end --><div class="openinglabel">Öffnungszeiten</div><div class="opening">Mo - Fr 9:00 - 20:00 h</div><div class="direction"><a href="/de/ueber-uns/kontakt/anfahrt-hamburg/">Anfahrt</a></div></div></div></div></div>
+
+</div></div>
+<div id="c2970" class="frame frame-default frame-type-textmedia frame-layout-98"><div class="ce-textpic ce-center ce-above"><div class="ce-gallery" data-ce-columns="4" data-ce-images="4"><div class="ce-outer"><div class="ce-inner"><div class="ce-row"><div class="ce-column"><figure class="image"><img class="image-embed-item" src="/fileadmin/_processed_/5/2/csm_bmwi_txt_de_fe7fd5fb7e.jpg" width="93" height="62" alt="" /></figure></div><div class="ce-column"><figure class="image"><img class="image-embed-item" src="/fileadmin/_processed_/3/f/csm_sh__94aa5c7a02.jpg" width="102" height="62" alt="" /></figure></div><div class="ce-column"><figure class="image"><img class="image-embed-item" src="/fileadmin/_processed_/0/c/csm_hh__082754eae4.jpg" width="102" height="62" alt="" /></figure></div><div class="ce-column"><figure class="image"><img class="image-embed-item" src="/fileadmin/user_upload/leibniz_de.jpg" width="102" height="62" alt="" /></figure></div></div></div></div></div></div></div>
+
+
+  </div>
+			
+			</article>
+		</div>
+	</div>
+	
+	<aside>
+		
+  <div id="content_right">
+    
+<div id="c64" class="frame frame-default frame-type-list frame-layout-0"><header><h2 class="">
+				ZBW Aktuell
+			</h2></header><div class="news"><!--TYPO3SEARCH_end--><div class="news-list-view bodytext" id="news-container-64"><!--
+	=====================
+		Partials/List/Item.html
+--><div class="article article-home articletype-0" itemscope="itemscope" itemtype="http://schema.org/Article"><!-- header --><div class="header"><h4><a title="Konferenz für Sozial- und Wirtschaftsdaten" href="/de/ueber-uns/aktuelles/meldung/news/konferenz-fuer-sozial-und-wirtschaftsdaten/"><span itemprop="headline">Konferenz für Sozial- und Wirtschaftsdaten</span></a></h4></div><!-- teaser --><div class="teaser-text"><a title="Konferenz für Sozial- und Wirtschaftsdaten" href="/de/ueber-uns/aktuelles/meldung/news/konferenz-fuer-sozial-und-wirtschaftsdaten/"><div itemprop="description"><p>Konferenz für Sozial- und Wirtschaftsdaten</p><p>2. - 3. März 2020 in Berlin</p></div></a></div><!-- date --><span class="news-list-date-home"><time itemprop="datePublished" datetime="2020-02-13">
+					13.02.2020
+				</time></span><!-- first category -->
+				|<span class="news-list-category"> Konferenz</span></div><!--
+	=====================
+		Partials/List/Item.html
+--><div class="article article-home articletype-0" itemscope="itemscope" itemtype="http://schema.org/Article"><!-- header --><div class="header"><h4><a title="German Reproducibility Network" href="/de/ueber-uns/aktuelles/meldung/news/german-reproducibility-network/"><span itemprop="headline">German Reproducibility Network</span></a></h4></div><!-- teaser --><div class="teaser-text"><a title="German Reproducibility Network" href="/de/ueber-uns/aktuelles/meldung/news/german-reproducibility-network/"><div itemprop="description"><p>Treffen der Gründungsmitglieder des German Reproducibility Network mit Beteiligung von </p><p>Prof. Dr. Klaus Tochtermann am 20. Februar 2020 in Berlin</p></div></a></div><!-- date --><span class="news-list-date-home"><time itemprop="datePublished" datetime="2020-02-13">
+					13.02.2020
+				</time></span><!-- first category -->
+				|<span class="news-list-category"> Aktuell</span></div><!--
+	=====================
+		Partials/List/Item.html
+--><div class="article article-home articletype-1" itemscope="itemscope" itemtype="http://schema.org/Article"><!-- header --><div class="header"><h4><a title="ZBW goes Bibliothekartag 2020" href="/de/ueber-uns/veranstaltungen/zbw-goes-bibliothekartag-2020/"><span itemprop="headline">ZBW goes Bibliothekartag 2020</span></a></h4></div><!-- teaser --><div class="teaser-text"><a title="ZBW goes Bibliothekartag 2020" href="/de/ueber-uns/veranstaltungen/zbw-goes-bibliothekartag-2020/"><div itemprop="description"><p>109. Deutscher Bibliothekartag vom 26. - 29.05.2020 in Hannover</p></div></a></div><!-- date --><span class="news-list-date-home"><time itemprop="datePublished" datetime="2020-02-12">
+					12.02.2020
+				</time></span><!-- first category -->
+				|<span class="news-list-category"> Veranstaltungshinweis</span></div><!--
+	=====================
+		Partials/List/Item.html
+--><div class="article article-home articletype-2" itemscope="itemscope" itemtype="http://schema.org/Article"><!-- header --><div class="header"><h4><a title="Barcamp Open Science" target="_blank" href="https://www.open-science-conference.eu/barcamp/"><span itemprop="headline">Barcamp Open Science</span></a></h4></div><!-- teaser --><div class="teaser-text"><a title="Barcamp Open Science" target="_blank" href="https://www.open-science-conference.eu/barcamp/"><div itemprop="description"><p>10. März 2020 in Berlin</p></div></a></div><!-- date --><span class="news-list-date-home"><time itemprop="datePublished" datetime="2020-02-12">
+					12.02.2020
+				</time></span><!-- first category -->
+				|<span class="news-list-category"> Veranstaltungshinweis</span></div><!--
+	=====================
+		Partials/List/Item.html
+--><div class="article article-home articletype-0" itemscope="itemscope" itemtype="http://schema.org/Article"><!-- header --><div class="header"><h4><a title="ZBW erstes deutsches Mitglied bei Open Knowledge Maps" href="/de/ueber-uns/aktuelles/meldung/news/zbw-erstes-deutsches-mitglied-bei-open-knowledge-maps/"><span itemprop="headline">ZBW erstes deutsches Mitglied bei Open Knowledge Maps</span></a></h4></div><!-- teaser --><div class="teaser-text"><a title="ZBW erstes deutsches Mitglied bei Open Knowledge Maps" href="/de/ueber-uns/aktuelles/meldung/news/zbw-erstes-deutsches-mitglied-bei-open-knowledge-maps/"><div itemprop="description"><p>Der gemeinnützige Verein <span lang="en" dir="ltr">Open Knowledge Maps</span> mit Sitz in Wien will das Entdecken und Auffinden wissenschaftlicher Erkenntnisse revolutionieren. Dazu...</p></div></a></div><!-- date --><span class="news-list-date-home"><time itemprop="datePublished" datetime="2020-02-05">
+					05.02.2020
+				</time></span><!-- first category -->
+				|<span class="news-list-category"> Aktuell</span></div><!--
+	=====================
+		Partials/List/Item.html
+--><div class="article article-home articletype-2" itemscope="itemscope" itemtype="http://schema.org/Article"><!-- header --><div class="header"><h4><a title="Machine Learning: So wird die Sacherschließung automatisiert" target="_blank" href="https://www.zbw-mediatalk.eu/de/2020/02/machine-learning-so-wird-die-sacherschliessung-automatisiert/"><span itemprop="headline">Machine Learning: So wird die Sacherschließung automatisiert</span></a></h4></div><!-- teaser --><div class="teaser-text"><a title="Machine Learning: So wird die Sacherschließung automatisiert" target="_blank" href="https://www.zbw-mediatalk.eu/de/2020/02/machine-learning-so-wird-die-sacherschliessung-automatisiert/"><div itemprop="description"><p>Neues aus dem ZBW MediaTalk.</p></div></a></div><!-- date --><span class="news-list-date-home"><time itemprop="datePublished" datetime="2020-02-05">
+					05.02.2020
+				</time></span><!-- first category -->
+				|<span class="news-list-category"> Aktuell</span></div><!--
+	=====================
+		Partials/List/Item.html
+--><div class="article article-home articletype-2" itemscope="itemscope" itemtype="http://schema.org/Article"><!-- header --><div class="header"><h4><a title="Open-Science-Reife: Universitäten in Finnland an der Spitze" target="_blank" href="https://www.zbw-mediatalk.eu/de/2020/01/open-science-reife-universitaeten-in-finnland-an-der-spitze/"><span itemprop="headline">Open-Science-Reife: Universitäten in Finnland an der Spitze</span></a></h4></div><!-- teaser --><div class="teaser-text"><a title="Open-Science-Reife: Universitäten in Finnland an der Spitze" target="_blank" href="https://www.zbw-mediatalk.eu/de/2020/01/open-science-reife-universitaeten-in-finnland-an-der-spitze/"><div itemprop="description"><p>Neues aus dem ZBW MediaTalk.</p></div></a></div><!-- date --><span class="news-list-date-home"><time itemprop="datePublished" datetime="2020-01-30">
+					30.01.2020
+				</time></span><!-- first category -->
+				|<span class="news-list-category"> Aktuell</span></div><a href="/de/ueber-uns/aktuelles/">mehr Nachrichten</a></div><!--TYPO3SEARCH_begin--></div></div>
+
+
+<div id="c465" class="frame frame-default frame-type-textmedia frame-layout-0"><header><h2 class="">
+				die zbw im social web
+			</h2></header><div class="ce-textpic ce-left ce-above"><div class="ce-gallery" data-ce-columns="8" data-ce-images="8"><div class="ce-row"><div class="ce-column"><figure class="image"><a href="http://twitter.com/ZBW_news" title="Twitter ZBW_News"><img class="image-embed-item" title="Twitter ZBW_News" alt="Twitter ZBW_News" src="/fileadmin/_migrated/pics/twitter.gif" width="20" height="20" /></a></figure></div><div class="ce-column"><figure class="image"><a href="https://www.zbw-mediatalk.eu/" title="ZBW MediaTalk Blog"><img class="image-embed-item" title="ZBW MediaTalk Blog" alt="ZBW MediaTalk Blog" src="/fileadmin/images/logos/socialmedia/mediatalk.gif" width="20" height="20" /></a></figure></div><div class="ce-column"><figure class="image"><a href="https://www.facebook.com/ZBWMediaTalk" title="Facebook"><img class="image-embed-item" title="Facebook" alt="Facebook" src="/fileadmin/_migrated/pics/facebook.gif" width="20" height="20" /></a></figure></div><div class="ce-column"><figure class="image"><a href="https://www.linkedin.com/company/zbw---leibniz-informationszentrum-wirtschaft" title="LinkedIn"><img class="image-embed-item" title="LinkedIn" alt="LinkedIn" src="/fileadmin/user_upload/LinkedIn_Icon.gif" width="20" height="20" /></a></figure></div><div class="ce-column"><figure class="image"><a href="http://www.youtube.com/user/DieZBW/videos" title="YouTube"><img class="image-embed-item" title="YouTube" alt="YouTube" src="/fileadmin/_migrated/pics/youtube.gif" width="20" height="20" /></a></figure></div><div class="ce-column"><figure class="image"><a href="http://www.flickr.com/photos/44839709@N07/sets/" title="Flickr"><img class="image-embed-item" title="Flickr" alt="Flickr" src="/fileadmin/_migrated/pics/flickr.jpg" width="20" height="20" /></a></figure></div><div class="ce-column"><figure class="image"><a href="https://www.xing.com/companies/zbw-leibniz-informationszentrumwirtschaft" title="Xing" target="_blank"><img class="image-embed-item" title="Xing" alt="Xing" src="/fileadmin/user_upload/xing.gif" width="20" height="20" /></a></figure></div><div class="ce-column"><figure class="image"><a href="https://100jahre.zbw.eu/podcast/" title="ZBW Podcast" target="_blank"><img class="image-embed-item" title="ZBW Podcast" alt="ZBW Podcast" src="/fileadmin/user_upload/podcast.gif" width="20" height="20" /></a></figure></div></div></div></div></div>
+
+
+  </div>  
+		
+	</aside>
+	</div>
+	
+	<div id="footerframe" class="clearfix">
+	<div id="footerleft">
+		<div id="footer" class="box">
+			<div id="footerMenu">&nbsp;<a href="/de/ueber-uns/presse/" title="Presse" class="">Presse</a>&nbsp;&#124;&nbsp;&nbsp;<a href="/de/ueber-uns/karriere/" title="Karriere" class="">Karriere</a>&nbsp;&#124;&nbsp;&nbsp;<a href="/de/sitemap/" title="Sitemap" class="">Sitemap</a>&nbsp;&#124;&nbsp;&nbsp;<a href="/de/datenschutz/" title="Datenschutz" class="datenschutz">Datenschutz</a>&nbsp;&#124;&nbsp;&nbsp;<a href="/de/impressum/" title="Impressum" class="impressum">Impressum</a>&nbsp;&#124;&nbsp;&nbsp;<a href="/de/interner-bereich/login/" title="Intern" class="">Intern</a>&nbsp;&#124;&nbsp;&nbsp;<a href="/de/rss-feeds/" title="RSS-Feeds" class="rss-feeds">RSS-Feeds</a>&nbsp;</div>
+		</div>
+	</div>
+	
+	</div>
+</div>
+
+<script src="/typo3conf/ext/rx_shariff/Resources/Public/JavaScript/shariff.min.js?1539784022" type="text/javascript"></script>
+<script src="/typo3conf/ext/zbw_website/Resources/Public/js/libs/placeholders.min.js?1517927547" type="text/javascript"></script>
+<script src="/typo3conf/ext/zbw_website/Resources/Public/js/libs/jquery-ui.min.js?1517927547" type="text/javascript"></script>
+<script src="/typo3conf/ext/zbw_website/Resources/Public/js/jquery-accordion.js?1525780663" type="text/javascript"></script>
+<script src="/typo3conf/ext/zbw_website/Resources/Public/js/retina-1.1.0.min.js?1517927547" type="text/javascript"></script>
+
+
+
+</body>
+</html>

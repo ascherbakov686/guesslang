@@ -1,0 +1,194 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="www.borbye.eu RSS" href="http://www.borbye.eu/drupal7/rss.xml" />
+<link rel="shortcut icon" href="http://www.borbye.eu/drupal7/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>www.borbye.eu</title>
+  <style type="text/css" media="all">@import url("http://www.borbye.eu/drupal7/modules/system/system.base.css?mhuf5b");
+@import url("http://www.borbye.eu/drupal7/modules/system/system.menus.css?mhuf5b");
+@import url("http://www.borbye.eu/drupal7/modules/system/system.messages.css?mhuf5b");
+@import url("http://www.borbye.eu/drupal7/modules/system/system.theme.css?mhuf5b");</style>
+<style type="text/css" media="all">@import url("http://www.borbye.eu/drupal7/modules/book/book.css?mhuf5b");
+@import url("http://www.borbye.eu/drupal7/modules/field/theme/field.css?mhuf5b");
+@import url("http://www.borbye.eu/drupal7/modules/node/node.css?mhuf5b");
+@import url("http://www.borbye.eu/drupal7/modules/user/user.css?mhuf5b");
+@import url("http://www.borbye.eu/drupal7/sites/all/modules/views/css/views.css?mhuf5b");</style>
+<style type="text/css" media="all">@import url("http://www.borbye.eu/drupal7/sites/all/modules/ctools/css/ctools.css?mhuf5b");</style>
+<style type="text/css" media="all">@import url("http://www.borbye.eu/drupal7/themes/bartik/css/layout.css?mhuf5b");
+@import url("http://www.borbye.eu/drupal7/themes/bartik/css/style.css?mhuf5b");
+@import url("http://www.borbye.eu/drupal7/sites/default/files/color/bartik-3ab845c6/colors.css?mhuf5b");</style>
+<style type="text/css" media="print">@import url("http://www.borbye.eu/drupal7/themes/bartik/css/print.css?mhuf5b");</style>
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://www.borbye.eu/drupal7/themes/bartik/css/ie.css?mhuf5b" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="http://www.borbye.eu/drupal7/themes/bartik/css/ie6.css?mhuf5b" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://www.borbye.eu/drupal7/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.borbye.eu/drupal7/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.borbye.eu/drupal7/misc/drupal.js?mhuf5b"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/drupal7\/","pathPrefix":"","ajaxPageState":{"theme":"bartik","theme_token":"wngzKoqUynvmggXIAGTZQlQfSQM8CtbyPVFLA0ZemjM","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"themes\/bartik\/css\/colors.css":1,"themes\/bartik\/css\/print.css":1,"themes\/bartik\/css\/ie.css":1,"themes\/bartik\/css\/ie6.css":1}}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in no-sidebars page-node" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper"><div id="page">
+
+  <div id="header" class="without-secondary-menu"><div class="section clearfix">
+
+    
+          <div id="name-and-slogan">
+
+                              <h1 id="site-name">
+              <a href="/drupal7/" title="Home" rel="home"><span>www.borbye.eu</span></a>
+            </h1>
+                  
+        
+      </div> <!-- /#name-and-slogan -->
+    
+      <div class="region region-header">
+    <div id="block-user-login" class="block block-user">
+
+    <h2 class="element-invisible">User login</h2>
+  
+  <div class="content">
+    <form action="/drupal7/node?destination=node" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/drupal7/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/drupal7/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-_C0skLVVibzYbfEaMks9wDENb3Gir2yMhB1HNeXfEtw" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+
+          <div id="main-menu" class="navigation">
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-227 first active"><a href="/drupal7/" title="" class="active">Home</a></li>
+<li class="menu-325"><a href="/drupal7/oenskesedler">Ønskesedler</a></li>
+<li class="menu-347"><a href="http://www.borbye.eu/gallery3" title="">Galleries</a></li>
+<li class="menu-338"><a href="/drupal7/node/8">Notes to self</a></li>
+<li class="menu-324 last"><a href="/drupal7/node/1" title="About this page">About Me</a></li>
+</ul>      </div> <!-- /#main-menu -->
+    
+    
+  </div></div> <!-- /.section, /#header -->
+
+  
+  
+  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
+
+    
+    
+    <div id="content" class="column"><div class="section">
+            <a id="main-content"></a>
+                                <div class="tabs">
+                  </div>
+                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-36" class="node node-pdf node-promoted node-teaser clearfix">
+
+        <h2>
+      <a href="/drupal7/node/36">lalala</a>
+    </h2>
+    
+      <div class="meta submitted">
+            Submitted by <span class="username">tjoff</span> on Tue, 05/22/2012 - 11:30    </div>
+  
+  <div class="content clearfix">
+      </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first last"><a href="/drupal7/node/36" rel="tag" title="lalala">Read more<span class="element-invisible"> about lalala</span></a></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-35" class="node node-pdfpage node-promoted node-teaser clearfix">
+
+        <h2>
+      <a href="/drupal7/node/35">testpdf</a>
+    </h2>
+    
+      <div class="meta submitted">
+            Submitted by <span class="username">tjoff</span> on Tue, 05/15/2012 - 11:00    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><object data="www.borbye.eu/drupal7/sites/default/files/cv/Bolig_til_salg.pdf" type="application/pdf" width="300" height="200">
+  alt : <a href="www.borbye.eu/drupal7/sites/default/files/cv/Bolig_til_salg.pdf">test.pdf</a>
+</object><object data="www.borbye.eu/drupal7/sites/default/files/cv/Bolig_til_salg.pdf#" type="application/pdf" width="100%" height="100%">
+
+<p>It appears your Web browser is not configured to display PDF files. 
+No worries, just <a href="../sites/default/files/cv/Bolig_til_salg.pdf">click here to download the PDF file.</a></p></object></div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first last"><a href="/drupal7/node/35" rel="tag" title="testpdf">Read more<span class="element-invisible"> about testpdf</span></a></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-18" class="node node-page node-promoted node-teaser clearfix">
+
+        <h2>
+      <a href="/drupal7/node/18">Welcome</a>
+    </h2>
+    
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>For now this site hardly contains anything of interest for anyone but myself and some friends and family.</p>
+</div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first last"><a href="/drupal7/node/18" rel="tag" title="Welcome">Read more<span class="element-invisible"> about Welcome</span></a></li>
+</ul>    </div>
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+      <a href="/drupal7/rss.xml" class="feed-icon" title="Subscribe to www.borbye.eu RSS"><img src="http://www.borbye.eu/drupal7/misc/feed.png" width="16" height="16" alt="Subscribe to www.borbye.eu RSS" /></a>
+    </div></div> <!-- /.section, /#content -->
+
+    
+  </div></div> <!-- /#main, /#main-wrapper -->
+
+  
+  <div id="footer-wrapper"><div class="section">
+
+    
+          <div id="footer" class="clearfix">
+          <div class="region region-footer">
+    <div id="block-system-powered-by" class="block block-system">
+
+    
+  <div class="content">
+    <span>Powered by <a href="http://drupal.org">Drupal</a></span>  </div>
+</div>
+  </div>
+      </div> <!-- /#footer -->
+    
+  </div></div> <!-- /.section, /#footer-wrapper -->
+
+</div></div> <!-- /#page, /#page-wrapper -->
+  </body>
+</html>

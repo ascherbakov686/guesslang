@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head>
+<meta charset="utf-8" />
+<link rel="shortcut icon" href="http://www.drtinplaystats.com/sites/default/files/ball.png" type="image/png" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Welcome to DRT | DRT</title>
+<meta name="description" content="Football scanner with in-play prices and statistics.">
+<meta name="keywords" content="football, soccer, trading, markets, inplay, trading football, football trading, sports trading, betting, Betfair, Betdaq, betting exchanges, clive keeling , inplaystats, stats, delayreacttrade">
+<style type="text/css" media="all">
+@import url("http://www.drtinplaystats.com/modules/system/system.base.css?pzz2ma");
+@import url("http://www.drtinplaystats.com/modules/system/system.menus.css?pzz2ma");
+@import url("http://www.drtinplaystats.com/modules/system/system.messages.css?pzz2ma");
+@import url("http://www.drtinplaystats.com/modules/system/system.theme.css?pzz2ma");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.drtinplaystats.com/modules/user/user.css?pzz2ma");
+@import url("http://www.drtinplaystats.com/sites/all/modules/views/css/views.css?pzz2ma");
+@import url("http://www.drtinplaystats.com/sites/all/modules/ckeditor/css/ckeditor.css?pzz2ma");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.drtinplaystats.com/sites/all/themes/scan/css/none.css?pzz2ma");
+@import url("http://www.drtinplaystats.com/sites/all/themes/scan/css/template.css?pzz2ma");
+@import url("http://www.drtinplaystats.com/sites/all/themes/scan/css/style-rtl-off.css?pzz2ma");
+@import url("http://www.drtinplaystats.com/sites/all/modules/ctools/css/ctools.css?pzz2ma");
+@import url("http://www.drtinplaystats.com/sites/all/modules/userloginbar/userloginbar.css?pzz2ma");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.drtinplaystats.com/sites/all/themes/scan/css/style.css?pzz2ma");
+@import url("http://www.drtinplaystats.com/sites/all/themes/scan/css/menus.css?pzz2ma");
+@import url("http://www.drtinplaystats.com/sites/all/themes/scan/css/responsive.css?pzz2ma");
+</style>
+<script type="text/javascript" src="http://www.drtinplaystats.com/sites/default/files/js/js_0RyHJ63yYLuaWsodCPCgSD8dcTIA0dqcDf8-7c2XdBw.js"></script>
+<script type="text/javascript" src="http://www.drtinplaystats.com/sites/default/files/js/js_QcnUA5yJ2yi4qAsX-S8GbjXwXG5MsWFkgkacv5KefQA.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var slideshowSpeed = 20000;
+var slideEffect = "fade";
+jQuery(document).ready(function($) {$('headerimgs').bgimgSlideshow({photos : [{ 
+			"firstline" : "Introduction",
+			"secondline" : "\n\n\n\n\nWelcome to the new, innovative and different Inplay Stats Scanner.\nThis brilliant Scanner will save time and effort ensuring more of that precious time is spent on the important task of making money.\n\nHow often has time been wasted looking up inplay stats and opening various browsers and about to jump on something that stands out to find Betfair have SUSPENDED and a goal has been scored.\nOpportunity gone, profits lost, back to the drawing board.\n\nIt’s happened to us all! Very frustrating indeed.",	
+			"url" :  "join",
+			"image" : "http://www.drtinplaystats.com/sites/default/files/scan/slide/1.jpg",
+			"link" : "<div class=\"pictured\">JOIN<div>"
+		},{ 
+			"firstline" : "The Software",
+			"secondline" : "\n\n\n\n\nWith this tool, however, you will spot instant opportunities in front of you on one page, using just one browser and manage to get on them to lock in profits as the goals fly in the net without the inconvenience of checking other sites in those seconds which can cost you lost £££.\n\nThe tool covers those important aspects of a match inplay. Stats include Shots On Target and Off Target, Corners, Possession, and Red Cards which form an integral part of an assessment on a game that you are trading. The Scanner updates all these statistics automatically as the game is played. Inplay. In real time.\n\nThe tool shows odds at Kick Off that will give you a comparison of the same market prices at any given time inplay. There are also Betfair graphs and much more.",	
+			"url" :  "join",
+			"image" : "http://www.drtinplaystats.com/sites/default/files/scan/slide/2.jpg",
+			"link" : "<div class=\"pictured\">JOIN<div>"
+		},{ 
+			"firstline" : "Examples",
+			"secondline" : "\n\n\n\n\nExample 1\nA trader might spot a game with 7 Shots On Target after 15 minutes.\nHe decides to Back Over 2.5 and 1-1.\n\nExample 2\nYou see an underdog at home having 66% Possession, 4 Shots On Target, 3 Corners to nil.\nYou decide to put a small Back on them at odds of 3.5.\n\nFor more examples check out the video section on this site.",	
+			"url" :  "join",
+			"image" : "http://www.drtinplaystats.com/sites/default/files/scan/slide/3.jpg",
+			"link" : "<div class=\"pictured\">JOIN<div>"
+		},{ 
+			"firstline" : "What Else",
+			"secondline" : "\n\n\n\n\nMembers will also be able to set up the tool as they want to cover their own Strategies. For example, when a game is 0-0 and the draw hits 2.0 a notification sound will notify the user that a game has reached that trigger allowing the trade to be put on instantly via the Betfair price showing on the Scanner tab. Others might choose to Back Over 2.5 when the price hits 3.0 or Back favourite when they are 1 down.\n\nThis tool is a must have addition to the armoury if you’re serious about making money on the betting exchanges. Successful trading is about making correct decisions. It is also about timing. The Inplay Scanner will help you make those all important decisions and quickly, consequently increase your profit potential.\n\nGive it a try for a month and see your trading profits grow.",	
+			"url" :  "join",
+			"image" : "http://www.drtinplaystats.com/sites/default/files/scan/slide/4.jpg",
+			"link" : "<div class=\"pictured\">JOIN<div>"
+		},]});});
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.drtinplaystats.com/sites/default/files/js/js_tbaYBv4XP8qUxe398g2C_oobwWo45aghAf0QCVzhu94.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"scan","theme_token":"QSwm1Cx5I1QKlQXf9VprvQhcdQ2HVhQsBFKnZZiYRHE","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/scan\/js\/teaser.js":1,"sites\/all\/themes\/scan\/js\/moment-1.6.2.min.js":1,"0":1,"sites\/all\/themes\/scan\/js\/script.js":1,"sites\/all\/themes\/scan\/js\/responsive.js":1,"sites\/all\/themes\/scan\/js\/uniform.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/themes\/scan\/css\/none.css":1,"sites\/all\/themes\/scan\/css\/template.css":1,"sites\/all\/themes\/scan\/css\/style-rtl-off.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/userloginbar\/userloginbar.css":1,"sites\/all\/themes\/scan\/css\/style.css":1,"sites\/all\/themes\/scan\/css\/menus.css":1,"sites\/all\/themes\/scan\/css\/responsive.css":1}},"urlIsAjaxTrusted":{"?q=user\u0026destination=node":true}});
+//--><!]]>
+</script>
+
+<!--[if lt IE 9]><script src="/sites/all/themes/scan/js/html5.js"></script><![endif]-->
+
+</head>
+
+<body class="html front not-logged-in one-sidebar sidebar-first page-node">
+
+<!-- Background slideshow-->
+<div id="headerimgs">
+  <div id="headerimg1" style="z-index:-1" class="headerimg"></div>
+  <div id="headerimg2" style="z-index:1" class="headerimg"></div>
+</div>
+
+ <div id="wrap" class="clearfix">
+  <div id="header-wrap">
+    <div id="pre-header" class="clearfix">
+      <div id="logo" class="logo"> 
+        
+        <!-- logo & slogan -->
+        
+                <a href="/" title="inplaytrading.com"><img src="http://www.drtinplaystats.com/sites/default/files/logo.jpg" alt="IPT" /></a>
+        
+        
+        <!-- end. logo & slogan --> 
+        
+      </div>
+                    <div class="features_top_div"> 
+        
+        <!-- features top -->
+		
+				<!-- Slideshow controls -->
+		<div class="fade">
+			<div id="control" class="btn"></div>
+		</div>
+		<div id="back" class="btn-back"></div>
+		<div id="next" class="btn-next"></div>
+		<div id="fullscreen" class="btnf"></div>
+		<!-- end .Slideshow controls --> 
+		        
+                <div class="social_icons">
+          <ul>
+                        <li><a href="http://www.facebook.com/pages/Trading-Football/299450493416641" target="_blank" rel="me"><img src="/sites/all/themes/scan/images/facebook.png" alt="Facebook"/></a></li>
+                                    <li><a href="http://www.twitter.com/footballtraders" target="_blank" rel="me"><img src="/sites/all/themes/scan/images/twitter.png" alt="Twitter"/></a></li>
+                                                <li><a href="http://www.youtube.com/user/Tradingfootballtv" target="_blank" rel="me"><img src="/sites/all/themes/scan/images/youtube.png" alt="YouTube"/></a></li>
+                                  </ul>
+        </div>
+                
+        <!-- end .features top --> 
+        
+        <div class="region region-header-features">
+  
+<div id="block-userloginbar-userloginbar" class="block block-userloginbar">
+
+  
+  
+  
+  <div class="content">
+    <div id="user-login-form"><form action="?q=user&amp;destination=node" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Username" type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="●●●●●●●●" type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<input type="hidden" name="form_build_id" value="form--uE0o2CiyRfH6ecG9QsVbmR_R-r2oivhZ4-QLJmrKrA" />
+<input type="hidden" name="form_id" value="user_login" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div><div class="item-list"><ul><li class="first last"><a href="/user/register" title="Create a new user account.">Register</a></li>
+</ul></div></div></form></div>
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+ </div>
+    </div>
+    <div class="top_line_tb"></div>
+    <header id="header" class="clearfix">
+      <nav id="navigation" role="navigation">
+        <div id="main-menu">
+          <ul class="menu"><li class="first leaf"><a href="/" class="active">Home</a></li>
+<li class="leaf"><a href="/join" title="">Join</a></li>
+<li class="leaf"><a href="/testimonials" title="">Reviews</a></li>
+<li class="leaf"><a href="/faq">FAQ</a></li>
+<li class="leaf"><a href="/videos">Videos</a></li>
+<li class="last leaf"><a href="/contact" title="Contact Us Page">Contact</a></li>
+</ul>        </div>
+         </nav>
+      <div id="header-right"> <div class="region region-header-right">
+  
+<div id="block-block-3" class="block block-block">
+
+  
+  
+  
+  <div class="content">
+    <div id="live">Live Now</div>
+              <div id="teaser">
+              <div id="currg">
+                <div id="teams"></div>
+                <div id="date"></div>
+                <div id="stats"></div>
+              </div>
+              <div id="nextg">
+                <div id="teams"></div>
+                <div id="date"></div>
+                <div id="stats"></div>
+              </div>
+              </div>
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+ </div>
+    </header>
+  </div>
+          <div id="body" class="body" >
+    <div style="float:left">
+      <div id="headertxt"><a href="#" id="firstline"></a> <a href="#" id="secondline"></a> <a href="#" id="link"></a> </div>
+    </div>
+  <div id="sidebar-front" class="complementary"> <div class="region region-sidebar-first">
+  
+<div id="block-block-9" class="block block-block">
+
+  
+  
+  
+  <div class="content">
+    <p class="rtecenter"><a href="https://www.delayreacttrade.com/" target="_blank"><img alt="DRT" src="/images/banners/drt.jpg" style="height:30px; width:200px" title="DRT" /></a></p>
+<p class="rtecenter"><a href="https://www.whatreallywinsmoney.co.uk/non-members-homepage/" target="_blank"><img alt="WhatReallyWinsMoney" src="/images/banners/wrwm.jpg" style="height:46px; width:200px" title="WhatReallyWinsMoney" /></a></p>
+<p class="rtecenter"> </p>
+<p class="rtecenter"> </p>
+<p class="rtecenter"> </p>
+
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+ </div>
+  </div>
+          <footer id="footer-bottom" style="position:absolute;width:1280px;">
+        <div id="footer-area" class="clearfix"> <div class="region region-footer">
+  
+<div id="block-block-11" class="block block-block">
+
+  
+  
+  
+  <div class="content">
+    <p>Copyright InplayTrading © 2014-2019. All Rights Reserved.  <em><a href="http://www.inplaytrading.com/terms">Terms And Conditions.</a>  <a href="http://www.inplaytrading.com/copyright">Copyright Notice.</a></em></p>
+
+  </div>
+  
+</div> <!-- /.block -->
+
+<div id="block-system-powered-by" class="block block-system">
+
+  
+  
+  
+  <div class="content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+ </div>
+  </footer>
+  </div>
+ </body>
+</html>

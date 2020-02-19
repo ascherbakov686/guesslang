@@ -1,0 +1,267 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortcut icon" href="https://parishcourt.gov.jm/sites/all/themes/parishcourt/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>The Parish Courts | Government of Jamaica | The Parish Court</title>
+  <link type="text/css" rel="stylesheet" href="https://parishcourt.gov.jm/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://parishcourt.gov.jm/sites/default/files/css/css_jj3CiW-_ZzBm6p4vS3v4A9NAz9pJxapb3YJXE6RPYQ4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://parishcourt.gov.jm/sites/default/files/css/css_h9JKh3TRWYmAx_FarQqfgF2PQA9Lwy6EG92ZP3ZZS1Q.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+#back-top{right:40px;}#back-top span#button{background-color:#CCCCCC;}#back-top span#button:hover{opacity:1;filter:alpha(opacity = 1);background-color:#777777;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://parishcourt.gov.jm/sites/default/files/css/css_tCXWbU3EXUFKj516_GWE0Gi8rfRWRujbU1jPaNfAJBk.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://parishcourt.gov.jm/sites/default/files/css/css_nJlrh0W5Fbkk7IuyBKhLR1KdBhoHepNbLfov0twVK_U.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://parishcourt.gov.jm/sites/default/files/css/css_f5ax-ZRd9ZTJ0dSLE9BjHwBMNjEkm6S6HQdn163gjdA.css" media="undefined" />
+  <script type="143578d804b27ef3bd0ac02c-text/javascript" src="https://parishcourt.gov.jm/sites/default/files/js/js_qikmINIYTWe4jcTUn8cKiMr8bmSDiZB9LQqvceZ6wlM.js"></script>
+<script type="143578d804b27ef3bd0ac02c-text/javascript" src="https://parishcourt.gov.jm/sites/default/files/js/js_7ueYnAYNgmEluButv0_-dx_654Am9Pm7uYKQb7VdXfI.js"></script>
+<script type="143578d804b27ef3bd0ac02c-text/javascript" src="https://parishcourt.gov.jm/sites/default/files/js/js_IE6ac8MCDEHFgKFXoOdSzMq5RSnP2I3GUqWS1SYS7pA.js"></script>
+<script type="143578d804b27ef3bd0ac02c-text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"parishcourt","theme_token":"DonU_VXDVc_vRusEb_CHl9RFVIjZrrzRYMqhJ-Lwmso","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/scroll_to_top\/scroll_to_top.js":1,"sites\/all\/themes\/parishcourt\/script.js":1,"sites\/all\/themes\/parishcourt\/script.responsive.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/scroll_to_top\/scroll_to_top.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/colorbox\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"0":1,"sites\/all\/themes\/parishcourt\/style.css":1,"sites\/all\/themes\/parishcourt\/style.responsive.css":1,"sites\/all\/themes\/parishcourt\/favicon.ico":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"scroll_to_top":{"label":"Back to top"},"urlIsAjaxTrusted":{"\/":true}});
+//--><!]]>
+</script>
+  <!-- Created by Artisteer v4.1.0.59861 -->
+
+<meta name="viewport" content="initial-scale = 1.0, maximum-scale = 1.0, user-scalable = no, width = device-width">
+
+<!--[if lt IE 9]><script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+<!--[if lte IE 7]><link rel="stylesheet" href="/sites/all/themes/parishcourt/style.ie7.css" media="screen" /><![endif]-->
+
+
+</head>
+<body class="html front not-logged-in no-sidebars page-home" >
+    
+<div id="atx-main">
+	<div id="cito"></div>
+    <div class="atx-sheet clearfix">
+<nav class="atx-nav">
+     
+    <div class="atx-hmenu-extra1">  <div class="region region-extra1">
+    <div class="block block-block" id="block-block-9">
+<div class="atx-article content">
+<!-- Global site tag (gtag.js) - Google Analytics --><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-154012964-1" type="143578d804b27ef3bd0ac02c-text/javascript"></script><script type="143578d804b27ef3bd0ac02c-text/javascript">
+<!--//--><![CDATA[// ><!--
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-154012964-1');
+
+//--><!]]>
+</script></div>
+</div>
+  </div>
+</div>
+  <div class="region region-navigation">
+    <ul class=" atx-hmenu "><li class="first leaf"><a href="/" class="active">Home</a></li>
+<li class="leaf"><a href="/contact">Contact Us</a></li>
+<li class="leaf"><a href="/content/judgments">Judgments</a></li>
+<li class="leaf"><a href="/content/laws-jamaica">Laws of Jamaica</a></li>
+<li class="last leaf"><a href="https://www.gov.jm/" target="_blank">gov.jm</a></li>
+</ul>  </div>
+</nav>
+<header class="atx-header">
+
+    <div class="atx-shapes">
+
+            </div>
+
+
+
+
+                
+                    
+</header>
+<div id="banner1">  <div class="region region-banner1">
+    <div class="block block-block" id="block-block-7">
+<div class="content">
+<p class="rtecenter"> </p>
+<p class="rtecenter"><img alt="" src="https://www.supremecourt.gov.jm/sites/default/files/images/imagenew.png" /> <em><strong>Court List - <a href="https://parishcourt.gov.jm/sites/default/files/St%20James%20Civil%20Division%20feb%2017%202020%20court%20list.pdf">ST. JAMES PARISH COURT - Civil  Division - February 17<sup>th,</sup> 2020</a></strong></em></p>
+<p class="rtecenter"><img alt="" src="https://www.supremecourt.gov.jm/sites/default/files/images/imagenew.png" /> <em><strong>Court List - <a href="https://parishcourt.gov.jm/sites/default/files/St%20James%20Criminal%20Division%20feb%2017%202020%20court%20list.pdf">ST. JAMES PARISH COURT - Criminal  Division - February 17<sup>th,</sup> 2020</a></strong></em></p>
+<p class="rtecenter"><img alt="" src="https://www.supremecourt.gov.jm/sites/default/files/images/imagenew.png" /> <em><strong>Court List - <a href="https://parishcourt.gov.jm/sites/default/files/Portland%20Parish%20Court%20February%2017%2C%202020%20Civil%20Court%20List.pdf">PORTLAND PARISH COURT - Civil  Division - February 17<sup>th,</sup> 2020</a></strong></em></p>
+<p class="rtecenter"><img alt="" src="https://www.supremecourt.gov.jm/sites/default/files/images/imagenew.png" /> <em><strong>Court List - <a href="https://parishcourt.gov.jm/sites/default/files/Portland%20Parish%20Court%20Criminal%20Court%20List%20February%2017%2C%202020.pdf">PORTLAND PARISH COURT - Criminal  Division - February 17<sup>th,</sup> 2020</a></strong></em></p>
+<p class="rtecenter"><img alt="" src="https://www.supremecourt.gov.jm/sites/default/files/images/imagenew.png" /> <em><strong>Court List - <a href="https://parishcourt.gov.jm/sites/default/files/Hanover%20Civil%20courtlist%20feb%2017%202020.pdf">HANOVER PARISH COURT - Civil  Division - February 17<sup>th,</sup> 2020</a></strong></em></p>
+<p class="rtecenter"><img alt="" src="https://www.supremecourt.gov.jm/sites/default/files/images/imagenew.png" /> <em><strong>Court List - <a href="https://parishcourt.gov.jm/sites/default/files/Hanover%20Parish%20Criminal%20Court%20feb%2017%202020.pdf">HANOVER PARISH COURT - Criminal  Division - February 17<sup>rd</sup> 2020</a></strong></em></p>
+<p class="rtecenter"><img alt="" src="https://www.supremecourt.gov.jm/sites/default/files/images/imagenew.png" /> <em><strong>Court List - <a href="https://parishcourt.gov.jm/sites/default/files/Clarendon%20Criminal%20Division%20Feb%2017%202020.pdf">CLARENDON PARISH COURT - Criminal  Division - February 17<sup>th,</sup> 2020</a></strong></em></p>
+<p class="rtecenter"><img alt="" src="https://www.supremecourt.gov.jm/sites/default/files/images/imagenew.png" /> <em><strong>Court List - <a href="https://parishcourt.gov.jm/sites/default/files/Clarendon%20Civil%20Division%20Feb%2017%202020.pdf">CLARENDON PARISH COURT - Civil  Division - February 17<sup>h,</sup> 2020</a></strong></em></p>
+<p class="rtecenter"> </p>
+</div>
+</div>
+  </div>
+</div><div class="atx-layout-wrapper">
+                <div class="atx-content-layout">
+                    <div class="atx-content-layout-row">
+                        <div class="atx-layout-cell atx-sidebar1">  <div class="region region-vnavigation-left">
+    <div class="block block-system block-menu" id="block-system-navigation"><div class="atx-vmenublock clearfix">
+        <div class="atx-vmenublockheader"><h3 class="t">Courts</h3>
+</div>
+        <div class="atx-vmenublockcontent"><ul class=" atx-vmenu "><li class="first collapsed"><a href="/content/corporate-area-pc-criminal-division">Kingston and St. Andrew</a></li>
+<li class="leaf"><a href="/content/st-catherine-pc">St. Catherine PC</a></li>
+<li class="collapsed"><a href="/content/clarendon-pc">Clarendon PC</a></li>
+<li class="leaf"><a href="/content/manchester-pc">Manchester PC</a></li>
+<li class="leaf"><a href="/content/st-elizabeth-pc">St. Elizabeth PC</a></li>
+<li class="leaf"><a href="/content/westmoreland-pc">Westmoreland PC</a></li>
+<li class="collapsed"><a href="/content/hanover-pc">Hanover PC</a></li>
+<li class="collapsed"><a href="/content/st-james-pc">St. James PC</a></li>
+<li class="collapsed"><a href="/content/trelawny-pc">Trelawny PC</a></li>
+<li class="leaf"><a href="/content/st-ann-pc">St. Ann PC</a></li>
+<li class="leaf"><a href="/content/st-mary-pc">St. Mary PC</a></li>
+<li class="collapsed"><a href="/content/portland-pc">Portland PC</a></li>
+<li class="leaf"><a href="/content/st-thomas-pc">St. Thomas PC</a></li>
+<li class="leaf"><a href="/content/family-courts">Family Courts</a></li>
+<li class="leaf"><a href="/content/judicial-conduct-guidelines">Judicial Conduct Guidelines</a></li>
+<li class="last leaf"><a href="/content/protocol-addressing-judicial-officers">Protocol for addressing Judicial Officers</a></li>
+</ul>
+</div>
+</div></div>
+  </div>
+</div>                        <div class="atx-layout-cell atx-content">
+
+
+
+<article class="atx-post atx-article">
+                                
+                                                
+                <div class="atx-postcontent">  <div class="region region-content">
+      <div class="region region-content">
+    <div class="block block-system" id="block-system-main">
+<div class="content">
+<div class="view view-blank view-id-blank view-display-id-page view-dom-id-6bafff24e570dab82ac6bb031c1f85e4">
+        
+  
+  
+  
+  
+  
+  
+  
+  
+</div></div>
+</div>
+<div class="block block-block" id="block-block-2">
+<div class="content">
+<p><img src="https://parishcourt.gov.jm/sites/default/files/images/img-1edit.jpg" width="319px" align="left" /><br />
+Welcome to the website of the Parish Courts (PCs) of Jamaica. This website has been redesigned to provide visitors with general information, including activities of the Courts and to provide a greater insight into how the Parish Court formerly Resident Magistrates’ Courts operate.<br /><br /><br />
+These Courts form an integral part of the judicial system in Jamaica, and their work is geared towards protecting the constitutional right of every Jamaican to equal and due process under the law. The Courts form the backbone of the Jamaican Justice System and is the first and only point of contact for many of our citizens. This court contributes significantly to the administration of justice in Jamaica in the adjudication of a vast number of civil and criminal matters each day.<br /><br /><br />
+The Courts operate in accordance with the rule of law which is vital to any progressive and democratic society.<br /><br /><br />
+It is our objective to make this website both user-friendly and informative. We invite your comments and suggestions, as we strive continually to improve this newly established website in order to convey to our users, relevant and accurate information.</p>
+</div>
+</div>
+  </div>
+  </div>
+</div>
+
+
+</article>
+
+</div>
+                        <div class="atx-layout-cell atx-sidebar2">  <div class="region region-sidebar-right">
+    <div class="block block-search" id="block-search-form">
+<div class="atx-block clearfix">
+        <div class="atx-blockheader"><h3 class="t subject">
+  Search</h3>
+</div>        <div class="atx-blockcontent"><form class="atx-search" action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="" for="edit-search-block-form--2"> Search  </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input class="atx-search-button form-submit atx-button" type="submit" id="edit-submit" name="op" value="Search" /></div><input type="hidden" name="form_build_id" value="form-RYg3UGiIrj271p1V-Oy0pX4Y_EIF9n_Nw8BdJafKRNc" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></div>
+</div></div>
+<div class="block block-menu" id="block-menu-menu-phrase-search">
+<div class="atx-block clearfix">
+        <div class="atx-blockheader"><h3 class="t subject">
+  Phrase Search</h3>
+</div>        <div class="atx-blockcontent"><ul class="menu"><li class="first last leaf"><a href="https://parishcourt.gov.jm/phrase-search">Phrase Search</a></li>
+</ul></div>
+</div></div>
+<div class="block block-menu" id="block-menu-menu-navigaton-2">
+<div class="atx-block clearfix">
+        <div class="atx-blockheader"><h3 class="t subject">
+  Navigation </h3>
+</div>        <div class="atx-blockcontent"><ul class="menu"><li class="first leaf"><a href="https://parishcourt.gov.jm/content/strategic-plan">Strategic Plan</a></li>
+<li class="leaf"><a href="/content/laws-jamaica">Laws of Jamaica</a></li>
+<li class="leaf"><a href="/content/jurisdiction">Jurisdiction</a></li>
+<li class="collapsed"><a href="/content/dress-code">Behaviour Code</a></li>
+<li class="leaf"><a href="/content/judgments">Judgments</a></li>
+<li class="leaf"><a href="/content/court-forms">Court Forms</a></li>
+<li class="leaf"><a href="/content/customer-service-charter">Customer Service Charter</a></li>
+<li class="leaf"><a href="/content/public-education">Public Education</a></li>
+<li class="leaf"><a href="/content/gallery">News In Brief</a></li>
+<li class="leaf"><a href="/content/employment">Employment</a></li>
+<li class="last leaf"><a href="/content/news-room">News Room</a></li>
+</ul></div>
+</div></div>
+<div class="block block-block" id="block-block-3">
+<div class="atx-block clearfix">
+        <div class="atx-blockheader"><h3 class="t subject">
+  Judiciary and Other Links</h3>
+</div>        <div class="atx-blockcontent"><p><span style="font-family:comic sans ms,cursive"><a href="http://courtofappeal.gov.jm" target="_blank">The Court of Appeal</a></span></p>
+<p><span style="font-family:comic sans ms,cursive"><a href="http://supremecourt.gov.jm/" target="_blank">The Supreme Court of Jamaica</a></span></p>
+<p><span style="font-family:comic sans ms,cursive"><a href="http://cms.gov.jm" target="_blank">The Court Management Services</a></span></p>
+<p><span style="font-family:comic sans ms,cursive"><a href="http://moj.gov.jm/" target="_blank">The Ministry of Justice</a></span></p>
+</div>
+</div></div>
+<div class="block block-block" id="block-block-4">
+<div class="atx-block clearfix">
+        <div class="atx-blockheader"><h3 class="t subject">
+  Customer Service</h3>
+</div>        <div class="atx-blockcontent"><p><a href="http://cms.gov.jm/complaints" target="_blank"><img alt="customer complaints image" src="/sites/default/files/images/customer-complaints-image.png" style="height:61px; width:150px" title="Click here for your comments, suggestions, complaints and compliments." /></a></p>
+</div>
+</div></div>
+  </div>
+</div>                    </div>
+                </div>
+            </div><footer class="atx-footer">  <div class="region region-footer-message">
+    <div class="block block-block" id="block-block-1">
+
+                <table align="center" border="0" cellpadding="0" cellspacing="1" style="height:130px; margin-left:110px; width:730px"><tbody><tr><td><span style="color:#FFD700"><strong>More About the Court</strong></span></td>
+<td><span style="color:#FFD700"><strong>Government Links</strong></span></td>
+<td><span style="color:#FFD700"><strong>Useful Links</strong></span></td>
+</tr><tr><td><a href="https://parishcourt.gov.jm/contact"><span style="color:#FFFFFF">Contact Us</span></a></td>
+<td><a href="http://jamaicagazette.gov.jm/" target="_blank"><span style="color:#FFFFFF">Jamaica Gazette</span></a></td>
+<td><a href="http://www.caribbeancourtofjustice.org/" target="_blank"><span style="color:#FFFFFF">Caribbean Court of Justice - CCJ</span></a></td>
+</tr><tr><td><a href="http://moj.gov.jm/laws" target="_blank"><span style="color:#FFFFFF">Laws of Jamaica</span></a></td>
+<td><a href="http://www.japarliament.gov.jm" target="_blank"><span style="color:#FFFFFF">Jamaica Parliament</span></a></td>
+<td><a href="http://www.commonlii.org/resources/2730.html" target="_blank"><span style="color:#FFFFFF">CommonLII</span></a></td>
+</tr><tr><td> </td>
+<td><a href="http://jis.gov.jm/government/links/" target="_blank"><span style="color:#FFFFFF">Government Links (JIS)</span></a></td>
+<td><a href="http://www.jcpc.gov.uk/" target="_blank"><span style="color:#FFFFFF">Judicial Committee - Privy Council</span></a></td>
+</tr><tr><td> </td>
+<td><a href="http://moj.gov.jm" target="_blank"><span style="color:#FFFFFF">Ministry of Justice</span></a></td>
+<td> </td>
+</tr></tbody></table>
+</div>
+  </div>
+</footer>
+
+    </div>
+	<p class="atx-page-footer"> 
+		Copyright © 2016. All Rights Reserved.
+        <span id="atx-footnote-links">Developed by the Information and Communication Technology Division of the <a href="https://cad.gov.jm/">Court Administration Division</a>.</span>
+    </p>
+</div>
+
+
+  <script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="143578d804b27ef3bd0ac02c-|49" defer=""></script></body>
+</html>

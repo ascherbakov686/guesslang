@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://haslgruebler.eu/themes/local/bootstrap/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="haslgruebler.eu RSS" href="https://haslgruebler.eu/rss.xml" />
+  <title>haslgruebler.eu</title>
+  <style>@import url("https://haslgruebler.eu/modules/system/system.base.css?p26o2z");</style>
+<style>@import url("https://haslgruebler.eu/modules/field/theme/field.css?p26o2z");
+@import url("https://haslgruebler.eu/modules/node/node.css?p26o2z");</style>
+<link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.7/css/bootstrap.css" media="all" />
+<style>@import url("https://haslgruebler.eu/themes/local/bootstrap/css/3.3.7/overrides.min.css?p26o2z");</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <script src="https://haslgruebler.eu/modules/local/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script src="https://haslgruebler.eu/misc/jquery.once.js?v=1.2"></script>
+<script src="https://haslgruebler.eu/misc/drupal.js?p26o2z"></script>
+<script src="//cdn.jsdelivr.net/bootstrap/3.3.7/js/bootstrap.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bootstrap","theme_token":"vyME7s5KrhEGK29q_XhWq3pLCE8Xq2IrmlRz-iP2UTQ","js":{"themes\/local\/bootstrap\/js\/bootstrap.js":1,"modules\/local\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.7\/js\/bootstrap.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.7\/css\/bootstrap.css":1,"themes\/local\/bootstrap\/css\/3.3.7\/overrides.min.css":1}},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":"1","popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":"1","tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html front not-logged-in no-sidebars page-node">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <header id="navbar" role="banner" class="navbar container navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      
+              <a class="name navbar-brand" href="/" title="Home">haslgruebler.eu</a>
+      
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+          </div>
+
+          <div class="navbar-collapse collapse" id="navbar-collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first leaf active"><a href="/" class="active">Home</a></li>
+<li class="expanded dropdown"><a href="/node/5" title="" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Stuff <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/activity_tracking_with_zigbee">Activity Tracking with ZigBee</a></li>
+<li class="last leaf"><a href="/darsens" title="">DarSens</a></li>
+</ul></li>
+<li class="collapsed"><a href="/node/12">Service</a></li>
+<li class="leaf"><a href="/impressum.html">Impressum</a></li>
+<li class="last leaf"><a href="/user/login" title="">Login</a></li>
+</ul>                                      </nav>
+      </div>
+      </div>
+</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+    
+    <section class="col-sm-12">
+                  <a id="main-content"></a>
+                                                                <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <article id="node-14" class="node node-article node-promoted node-teaser clearfix" about="/node/14" typeof="sioc:Item foaf:Document">
+    <header>
+            <h2 property="dc:title" datatype=""><a href="/node/14">Jenkins </a></h2>
+                <span class="submitted">
+            <span property="dc:date dc:created" content="2014-05-22T23:06:34+02:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">michael</span> on Thu, 05/22/2014 - 23:06</span>    </span>
+      </header>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>In order to build my software I installed <a target="_blank" href="http://jenkins-ci.org/">Jenkins</a> which I use to build some software of mine like the <a target="_blank" href="https://github.com/mjhas/core">CORE Framework</a> or <a target="_blank" href="https://github.com/mjhas/hpassword ">hpassword</a>. Its located at <span><span><a href="http://build.haslgruebler.eu/">http://build.haslgruebler.eu</a>. </span></span>  It also includes a <a target="_blank" href="http://build.haslgruebler.eu/plugin/repository/everything/">maven repository</a> to serve the build artifacts. <br /><span><span></span><br /></span></p>
+</div></div></div>     <footer>
+     <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/taxonomy/term/23" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">maven</a></div><div class="field-item odd" rel="dc:subject"><a href="/taxonomy/term/24" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">jenkins</a></div><div class="field-item even" rel="dc:subject"><a href="/taxonomy/term/25" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">build</a></div><div class="field-item odd" rel="dc:subject"><a href="/taxonomy/term/26" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">repository</a></div></div></div>     <ul class="links list-inline"><li class="node-readmore first"><a href="/node/14" rel="tag" title="Jenkins ">Read more<span class="element-invisible"> about Jenkins </span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/14%23comment-form">Log in</a> or <a href="/user/register?destination=node/14%23comment-form">register</a> to post comments</span></li>
+</ul>  </footer>
+    </article>
+<article id="node-13" class="node node-article node-promoted node-teaser clearfix" about="/hpassword-news" typeof="sioc:Item foaf:Document">
+    <header>
+            <h2 property="dc:title" datatype=""><a href="/hpassword-news">hpassword - a password changing application</a></h2>
+                <span class="submitted">
+            <span property="dc:date dc:created" content="2014-05-22T22:57:57+02:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">michael</span> on Thu, 05/22/2014 - 22:57</span>    </span>
+      </header>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>I just released the first application using the <a href="https://github.com/mjhas/core">CORE framework</a>. It's a nifty password changing application which I use in conjunction with my puppet <a target="_blank" href="https://github.com/mjhas/mailserver">mailserver</a> setup. </p>
+<p>The source code is available at <a href="https://github.com/mjhas/hpassword">github  </a></p>
+<p>It also features my first debian package, which is based on the <a target="_blank" href="https://packages.debian.org/wheezy/tomcat7">tomcat7</a> package from debian and the <a target="_blank" href="https://github.com/jenkinsci/jenkins">jenkins</a> package </p>
+</div></div></div>     <footer>
+     <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/taxonomy/term/21" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">debian</a></div><div class="field-item odd" rel="dc:subject"><a href="/taxonomy/term/7" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">core</a></div><div class="field-item even" rel="dc:subject"><a href="/taxonomy/term/22" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">hpassword</a></div></div></div>     <ul class="links list-inline"><li class="node-readmore first"><a href="/hpassword-news" rel="tag" title="hpassword - a password changing application">Read more<span class="element-invisible"> about hpassword - a password changing application</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/13%23comment-form">Log in</a> or <a href="/user/register?destination=node/13%23comment-form">register</a> to post comments</span></li>
+</ul>  </footer>
+    </article>
+<article id="node-11" class="node node-article node-promoted node-teaser clearfix" about="/node/11" typeof="sioc:Item foaf:Document">
+    <header>
+            <h2 property="dc:title" datatype=""><a href="/node/11">Playing around with mod_autoindex</a></h2>
+                <span class="submitted">
+            <span property="dc:date dc:created" content="2014-03-16T14:37:25+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">michael</span> on Sun, 03/16/2014 - 14:37</span>    </span>
+      </header>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>I spend a few hours this weekend working on a bootstrap/angular.js frontend for <a target="_blank" href="http://httpd.apache.org/docs/current/mod/mod_autoindex.html">mod_autoindex of apache.</a></p>
+<p>Through bootstrap and angular its optimized for mobility first. It should scale nicely on the any screen. You can also swipe from left to right or right to left in order to move to the next or previous picture. </p>
+
+<p>The code and description how to set it up is hosted at <a href="https://github.com/mjhas/autoindexgallery"><span style="color: #0000ff;"><span style="text-decoration: underline;"><span>github repository</span></span></span></a>. You can have a look at how it looks at my <a href="https://haslgruebler.eu/gallery/">gallery.<span style="color: #0000ff;"><span style="text-decoration: underline;"><span></span></span></span></a></p>
+</div></div></div>     <footer>
+     <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/taxonomy/term/11" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">bootstrap</a></div><div class="field-item odd" rel="dc:subject"><a href="/taxonomy/term/10" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">angularjs</a></div><div class="field-item even" rel="dc:subject"><a href="/taxonomy/term/17" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">jquery</a></div><div class="field-item odd" rel="dc:subject"><a href="/taxonomy/term/18" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">apache</a></div><div class="field-item even" rel="dc:subject"><a href="/taxonomy/term/19" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">mod_autoindex</a></div><div class="field-item odd" rel="dc:subject"><a href="/taxonomy/term/20" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">php</a></div></div></div>     <ul class="links list-inline"><li class="node-readmore first"><a href="/node/11" rel="tag" title="Playing around with mod_autoindex">Read more<span class="element-invisible"> about Playing around with mod_autoindex</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/11%23comment-form">Log in</a> or <a href="/user/register?destination=node/11%23comment-form">register</a> to post comments</span></li>
+</ul>  </footer>
+    </article>
+<article id="node-10" class="node node-article node-promoted node-teaser clearfix" about="/node/10" typeof="sioc:Item foaf:Document">
+    <header>
+            <h2 property="dc:title" datatype=""><a href="/node/10">Bootstrap for blumenhof.net</a></h2>
+                <span class="submitted">
+            <span property="dc:date dc:created" content="2014-01-12T00:07:25+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">michael</span> on Sun, 01/12/2014 - 00:07</span>    </span>
+      </header>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Today I upgraded <span><a href="http://www.blumenhof.net">blumenhof.net</a> to bootstrap 3. The page is responsive and also looks neat on a mobile phone. While at it I also upgraded the <a href="https://github.com/slackero/phpwcms">phpwcms</a> to a recent version. It ended up in me being able to restore the site manually, because the backup I made earlier didn't work because of this nasty <a href="https://github.com/puppetlabs/puppetlabs-mysql/issues/311">bug</a>. On the other hand I now fixed my mysql backups for all servers, because they weren't working ;).</span>Btw for backups I now use <a target="_blank" href="http://www.bacula.org">Bacula</a>, which was a pain to configure in the beginning but works even more smoothly now. </p>
+<p> I also added a few additions to blumenhof.net namely the OpenStreetMap IFrame where I also updated the metadata for blumenhof.net. For google I ended up writing some <a target="_blank" href="https://support.google.com/webmasters/answer/146861">Rich Snippet</a>, so that the poor guys there get some meta data as well. To bad those CMS'WYSIWYG Editors now throw away all extra markup upon saving. So I ended up writing some of the markup manually but I guess it is for the best, because who wants Word Markup in a Web Page. </p>
+
+</div></div></div>     <footer>
+     <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/taxonomy/term/11" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">bootstrap</a></div><div class="field-item odd" rel="dc:subject"><a href="/taxonomy/term/13" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">bacula</a></div><div class="field-item even" rel="dc:subject"><a href="/taxonomy/term/14" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">blumenhof</a></div><div class="field-item odd" rel="dc:subject"><a href="/taxonomy/term/15" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">phpwcms</a></div></div></div>     <ul class="links list-inline"><li class="node-readmore first"><a href="/node/10" rel="tag" title="Bootstrap for blumenhof.net">Read more<span class="element-invisible"> about Bootstrap for blumenhof.net</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/10%23comment-form">Log in</a> or <a href="/user/register?destination=node/10%23comment-form">register</a> to post comments</span></li>
+</ul>  </footer>
+    </article>
+<article id="node-9" class="node node-article node-promoted node-teaser clearfix" about="/core" typeof="sioc:Item foaf:Document">
+    <header>
+            <h2 property="dc:title" datatype=""><a href="/core">CORE Web Framework</a></h2>
+                <span class="submitted">
+            <span property="dc:date dc:created" content="2013-12-27T11:18:13+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">michael</span> on Fri, 12/27/2013 - 11:18</span>    </span>
+      </header>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The CORE Web Framework is a simple Web Framework for building Web Applications based on the following Technologies. <a href="http://getbootstrap.com/"></a></p>
+<ul><li><a href="http://docs.spring.io/spring/docs/3.0.x/reference/mvc.html">Spring Web MVC</a> </li>
+<li><a href="http://www.angularjs.org/">AngularJS</a></li>
+<li><a href="http://getbootstrap.com/">Bootstrap</a></li>
+</ul><p><span style="text-decoration: underline;"><br /></span></p>
+<p><span style="text-decoration: underline;"></span></p>
+<p><span class="no-js"> </span>
+</p><p><span style="text-decoration: none;">The source code is available on github:<a href="https://github.com/mjhas/core"><span>https://github.com/mjhas/core</span></a></span>. Also a sample application is included on github <span style="text-decoration: none;"><a href="https://github.com/mjhas/student"><span>https://github.com/mjhas/student</span></a></span></p>
+
+</div></div></div>     <footer>
+     <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/taxonomy/term/7" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">core</a></div><div class="field-item odd" rel="dc:subject"><a href="/taxonomy/term/8" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">spring</a></div><div class="field-item even" rel="dc:subject"><a href="/taxonomy/term/9" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">java</a></div><div class="field-item odd" rel="dc:subject"><a href="/taxonomy/term/10" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">angularjs</a></div><div class="field-item even" rel="dc:subject"><a href="/taxonomy/term/11" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">bootstrap</a></div><div class="field-item odd" rel="dc:subject"><a href="/taxonomy/term/12" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">web</a></div></div></div>     <ul class="links list-inline"><li class="node-readmore first"><a href="/core" rel="tag" title="CORE Web Framework">Read more<span class="element-invisible"> about CORE Web Framework</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/9%23comment-form">Log in</a> or <a href="/user/register?destination=node/9%23comment-form">register</a> to post comments</span></li>
+</ul>  </footer>
+    </article>
+<article id="node-8" class="node node-article node-promoted node-teaser clearfix" about="/node/8" typeof="sioc:Item foaf:Document">
+    <header>
+            <h2 property="dc:title" datatype=""><a href="/node/8">Puppet Mailserver</a></h2>
+                <span class="submitted">
+            <span property="dc:date dc:created" content="2013-10-05T20:58:42+02:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">michael</span> on Sat, 10/05/2013 - 20:58</span>    </span>
+      </header>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Just want to promote my puppet module for a mailserver in the <a target="_blank" href="http://forge.puppetlabs.com/mjhas/mailserver">forge </a>and on <span><a href="https://github.com/mjhas/mailserver">github</a>. </span></p>
+<p>Featuring:</p>
+
+<ul><li><span>Dovecot for IMAP<br /></span></li>
+<li><span>Postfix for SMTP</span></li>
+<li><span>Clamav for Virus Checking</span></li>
+<li><span>Amavis for Spam/Virus Checking<br /></span></li>
+</ul><p><span><span style="color: #000000;"></span></span></p>
+</div></div></div>     <footer>
+          <ul class="links list-inline"><li class="node-readmore first"><a href="/node/8" rel="tag" title="Puppet Mailserver">Read more<span class="element-invisible"> about Puppet Mailserver</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/8%23comment-form">Log in</a> or <a href="/user/register?destination=node/8%23comment-form">register</a> to post comments</span></li>
+</ul>  </footer>
+    </article>
+<article id="node-7" class="node node-article node-promoted node-teaser clearfix" about="/node/7" typeof="sioc:Item foaf:Document">
+    <header>
+            <h2 property="dc:title" datatype=""><a href="/node/7">Additions to the web page</a></h2>
+                <span class="submitted">
+            <span property="dc:date dc:created" content="2013-10-05T20:49:41+02:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">michael</span> on Sat, 10/05/2013 - 20:49</span>    </span>
+      </header>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>I added my Diploma Thesis and Bachelor Thesis <a href="/darsens"><span style="color: #0000ff;"><span style="text-decoration: underline;">DarSens</span></span></a> and <a href="/activity_tracking_with_zigbee">Activity Tracking with ZigBee. </a></p>
+<p>I also created a <a target="_blank" href="http://at.linkedin.com/in/haslgruebler">LinkedIn Profile</a>.</p>
+</div></div></div>     <footer>
+          <ul class="links list-inline"><li class="node-readmore first"><a href="/node/7" rel="tag" title="Additions to the web page">Read more<span class="element-invisible"> about Additions to the web page</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/7%23comment-form">Log in</a> or <a href="/user/register?destination=node/7%23comment-form">register</a> to post comments</span></li>
+</ul>  </footer>
+    </article>
+<article id="node-2" class="node node-article node-promoted node-teaser clearfix" about="/node/2" typeof="sioc:Item foaf:Document">
+    <header>
+            <h2 property="dc:title" datatype=""><a href="/node/2">New &amp; Noteworthy</a></h2>
+                <span class="submitted">
+            <span property="dc:date dc:created" content="2013-08-25T16:50:28+02:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">michael</span> on Sun, 08/25/2013 - 16:50</span>    </span>
+      </header>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>
+</p><ul><li>
+<p>I also now have done some work on my <span><a href=" https://github.com/mjhas "><span>github account</span></a><span style="color: #000000;"><span>.<span> I worked on two puppet modules, one for <a href=" https://github.com/mjhas/dovecot">dovecot</a> and another for <a href=" https://github.com/mjhas/postfix">postfix</a>. Both module are also available on the <a href="http://forge.puppetlabs.com/mjhas">puppetlabs forge</a></span></span>.  </span></span></p>
+</li>
+<li><span><span style=" color: #000000;">I have upgraded this page from my 7+ year old plain XHTML to </span></span>drupal7
+<ul><li>
+<p><span>    I am using the the drupal7 bootstrap theme. <a href="https://drupal.org/project/bootstrap">https://drupal.org/project/bootstra<span style="color: #000000;">p</span></a></span></p>
+</li>
+</ul></li>
+</ul></div></div></div>     <footer>
+     <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/taxonomy/term/1" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">drupal</a></div><div class="field-item odd" rel="dc:subject"><a href="/taxonomy/term/2" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">github</a></div><div class="field-item even" rel="dc:subject"><a href="/taxonomy/term/3" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">puppet</a></div><div class="field-item odd" rel="dc:subject"><a href="/taxonomy/term/4" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">forge</a></div><div class="field-item even" rel="dc:subject"><a href="/taxonomy/term/5" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">postfix</a></div><div class="field-item odd" rel="dc:subject"><a href="/taxonomy/term/6" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">dovecot</a></div></div></div>     <ul class="links list-inline"><li class="node-readmore first"><a href="/node/2" rel="tag" title="New &amp; Noteworthy">Read more<span class="element-invisible"> about New &amp; Noteworthy</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/2%23comment-form">Log in</a> or <a href="/user/register?destination=node/2%23comment-form">register</a> to post comments</span></li>
+</ul>  </footer>
+    </article>
+
+</section>
+  </div>
+    </section>
+
+    
+  </div>
+</div>
+
+  <footer class="footer container">
+      <div class="region region-footer">
+    <section id="block-system-powered-by" class="block block-system clearfix">
+
+      
+  <span>Powered by <a href="http://drupal.org">Drupal</a></span>&nbsp; | &nbsp;<a href="http://www.oneall.com/services/">Social Login</a> powered by <a href="http://www.oneall.com/">OneAll</a>
+</section>
+  </div>
+  </footer>
+  <script src="https://haslgruebler.eu/themes/local/bootstrap/js/bootstrap.js?p26o2z"></script>
+</body>
+</html>

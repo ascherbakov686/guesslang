@@ -1,0 +1,450 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/welcome" />
+<link rel="shortlink" href="/node/1" />
+<link rel="shortcut icon" href="http://www.chanda-nd.eu/system/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=0.28, maximum-scale=1, user-scalable=yes" />
+  <title>Welcome to CHANDA! | www.chanda-nd.eu</title>
+  <link type="text/css" rel="stylesheet" href="http://www.chanda-nd.eu/sites/chanda-nd.eu/files/public/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.chanda-nd.eu/sites/chanda-nd.eu/files/public/css/css_-TNq6F6EH1K3WcBMUMQP90OkyCq0Lyv1YnyoEj3kxiU.css" media="screen" />
+<style type="text/css" media="print">
+<!--/*--><![CDATA[/*><!--*/
+#sb-container{position:relative;}#sb-overlay{display:none;}#sb-wrapper{position:relative;top:0;left:0;}#sb-loading{display:none;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="http://www.chanda-nd.eu/sites/chanda-nd.eu/files/public/css/css_MYukM1kdbz27h30hH3CltUeIL1eztxaI0eQ8lzVlWuU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.chanda-nd.eu/sites/chanda-nd.eu/files/public/css/css_8ij6xbVIwOxA0YaOj-x7jtk6-i80Xch842pyI_QhZ68.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.chanda-nd.eu/sites/chanda-nd.eu/files/public/css/css_Oqn5hl6XsPnxCHkXNeflHq1zydGoGXUlIGwUOzZLlPI.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+#block-user-login .block-icon{background:transparent url("http://www.chanda-nd.eu/sites/chanda-nd.eu/files/public/styles/icon25/public/block_icons/account_and_control_0.png?itok=b6CVV95Y") center center no-repeat;float:right;height:25px;margin:0 0 0 5px;width:25px;}
+#block-menu-menu-about-chanda .block-icon{background:transparent url("http://www.chanda-nd.eu/sites/chanda-nd.eu/files/public/styles/icon25/public/block_icons/about.png?itok=mNxGPHSZ") center center no-repeat;float:right;height:25px;margin:0 0 0 5px;width:25px;}
+#block-menu-menu-links .block-icon{background:transparent url("http://www.chanda-nd.eu/sites/chanda-nd.eu/files/public/styles/icon25/public/block_icons/link.png?itok=hfHDVAV8") center center no-repeat;float:right;height:25px;margin:0 0 0 5px;width:25px;}
+#block-views-calendar-block-1 .block-icon{background:transparent url("http://www.chanda-nd.eu/sites/chanda-nd.eu/files/public/styles/icon25/public/block_icons/ical.png?itok=IoIFPMcq") center center no-repeat;float:right;height:25px;margin:0 0 0 5px;width:25px;}
+#block-views-news-block-1 .block-icon{background:transparent url("http://www.chanda-nd.eu/sites/chanda-nd.eu/files/public/styles/icon25/public/block_icons/news.png?itok=vPwGNKtR") center center no-repeat;float:right;height:25px;margin:0 0 0 5px;width:25px;}
+
+/*]]>*/-->
+</style>
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="http://www.chanda-nd.eu/sites/all/themes/danland/style.ie6.css?q4gbd4" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://www.chanda-nd.eu/sites/chanda-nd.eu/files/public/js/js_qikmINIYTWe4jcTUn8cKiMr8bmSDiZB9LQqvceZ6wlM.js"></script>
+<script type="text/javascript" src="http://www.chanda-nd.eu/sites/chanda-nd.eu/files/public/js/js_Fs7Pvb10SasPZUWq1PRbrbvY4rJacOm9bxYZKMW7HQs.js"></script>
+<script type="text/javascript" src="http://www.chanda-nd.eu/sites/chanda-nd.eu/files/public/js/js_gipy874U4XstLMfyGir76Jy86pbaI4dleQF4z6ws-UY.js"></script>
+<script type="text/javascript" src="http://www.chanda-nd.eu/sites/chanda-nd.eu/files/public/js/js_tldvky7iic1ITAQrhThfVqKxJVPnX72Xp6Cdny2H8sA.js"></script>
+<script type="text/javascript" src="http://www.chanda-nd.eu/sites/chanda-nd.eu/files/public/js/js_SCc8lM4TEl3XUaEQ0VNxQwbL2EaDAoY38DzBQrCgVB4.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+          Shadowbox.path = "/sites/all/libraries/shadowbox/";
+        
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"chandand","theme_token":"ehldta9PrUFEyMoi0WtwKd9hggRtCiyrXHbosqUEywU","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.effects.core.min.js":1,"sites\/all\/libraries\/shadowbox\/shadowbox.js":1,"sites\/all\/modules\/shadowbox\/shadowbox_auto.js":1,"misc\/jquery.cookie.js":1,"misc\/jquery.form.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/comment_notify\/comment_notify.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/back_to_top\/js\/back_to_top.js":1,"sites\/all\/modules\/extlink\/extlink.js":1,"sites\/all\/themes\/danland\/scripts\/jquery.cycle.all.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/themes\/danland\/scripts\/hoverIntent.js":1,"sites\/all\/themes\/danland\/scripts\/superfish.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/libraries\/shadowbox\/shadowbox.css":1,"0":1,"sites\/all\/modules\/comment_notify\/comment_notify.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/extlink\/extlink.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/back_to_top\/css\/back_to_top.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/date\/date_views\/css\/date_views.css":1,"sites\/all\/themes\/danland\/style.css":1,"sites\/chanda-nd.eu\/themes\/chandand\/local.css":1,"1":1,"2":1,"3":1,"4":1,"5":1,"sites\/all\/themes\/danland\/style.ie6.css":1}},"shadowbox":{"animate":true,"animateFade":true,"animSequence":"wh","auto_enable_all_images":0,"auto_gallery":0,"autoplayMovies":true,"continuous":false,"counterLimit":10,"counterType":"default","displayCounter":true,"displayNav":true,"enableKeys":true,"fadeDuration":0.35,"handleOversize":"resize","handleUnsupported":"link","initialHeight":160,"initialWidth":320,"language":"en","modal":false,"overlayColor":"#000","overlayOpacity":0.8,"resizeDuration":0.55,"showMovieControls":true,"slideshowDelay":0,"viewportPadding":20,"useSizzle":false},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:4983de142d3fe94d337547da4d9aa8ff":{"view_name":"calendar","view_display_id":"block_1","view_args":"2020-02","view_path":"node\/1","view_base_path":"calendar\/month","view_dom_id":"4983de142d3fe94d337547da4d9aa8ff","pager_element":0}}},"urlIsAjaxTrusted":{"\/views\/ajax":true,"\/":true,"\/welcome?destination=node\/1":true},"back_to_top":{"back_to_top_button_trigger":"100","back_to_top_button_text":"Back to top","#attached":{"library":[["system","ui"]]}},"extlink":{"extTarget":0,"extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extIconPlacement":"append","extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto","mailtoLabel":"(link sends e-mail)"}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in two-sidebars page-node page-node- page-node-1 node-type-page" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div  id="layout-type-2">
+
+<div id="whitepage">
+
+<div id="header">
+<div id="header-wrapper">
+	 
+		<div id="logo-wrapper">
+			<div class="logo">
+				<a href="/" title="Home"><img src="http://www.chanda-nd.eu/system/files/logo.png" alt="Home" /></a>
+			</div>
+		</div><!-- end logo wrapper -->
+				<div id="branding-wrapper">
+												<h1 class="site-name"><a href="/" title="www.chanda-nd.eu">www.chanda-nd.eu</a></h1>
+																		<div class='site-slogan'>Solving Challenges in Nuclear Data for the Safety of European Nuclear Facilities</div>
+			        	</div><!-- end branding wrapper -->
+	
+			<div id="search-box">
+			  <div class="region region-search-box">
+    <div id="block-search-form" class="block block-search">
+
+
+<div class="content">
+  <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-cuC0CDP56OArWU4i9gf8UYJGb6Hh4zjq5i9KKmswHMo" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></div> <!-- end block content -->
+</div> <!-- end block -->
+  </div>
+		</div><!-- /search-box -->
+	
+	
+			<div id="authorize">
+      		      <ul><li class="first"><a href="/user">Login</a></li><li><a href="/user/register">Register</a></li></ul>
+		</div>
+	
+      </div><!-- end header-wrapper -->
+</div> <!-- /header -->
+
+<div id="menu">
+<div id="rounded-menu-left"></div>
+       <div id="nav">
+        <ul class="links"><li class="menu-198 first active"><a href="/" title="" class="active">HOME</a></li>
+<li class="menu-357"><a href="/news">NEWS</a></li>
+<li class="menu-337"><a href="/calendar">CALENDAR</a></li>
+<li class="menu-336"><a href="/library">LIBRARY</a></li>
+<li class="menu-362 last"><a href="/contact" title="">CONTACT</a></li>
+</ul>      </div> <!-- end primary -->
+    <div id="rounded-menu-right"></div>
+</div> <!-- end menu -->
+<div style="clear:both"></div>
+
+ 
+<div style="clear:both"></div>
+<div id="wrapper">
+
+    
+          <div id="sidebar-left" class="column sidebar"><div class="section">
+          <div class="region region-sidebar-first">
+    <div id="block-user-login" class="block block-user">
+
+  <h2 class="block-title"><div class="block-icon"></div>User login</h2>
+
+<div class="content">
+  <form action="/welcome?destination=node/1" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<ul><li class="first"><a href="./user/register" title="Request user account.">Request user account</a></li>
+<li class="last"><a href="./user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul><input type="hidden" name="form_build_id" value="form-4r7q9Jqchvhdx-ymweTtjs8ZVlrrtpnIw12yBFMhwZo" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Log in" class="form-submit" /></div></div></form></div> <!-- end block content -->
+</div> <!-- end block -->
+<div id="block-menu-menu-about-chanda" class="block block-menu">
+
+  <h2 class="block-title"><div class="block-icon"></div>About CHANDA</h2>
+
+<div class="content">
+  <ul class="menu"><li class="first leaf"><a href="/documents_partners" title="">Documents for partners</a></li>
+<li class="leaf"><a href="/chanda-amendments" title="">CHANDA Amendments</a></li>
+<li class="leaf"><a href="/partners" title="">Partner institutions</a></li>
+<li class="leaf"><a href="/facilities">Experimental facilities</a></li>
+<li class="last leaf"><a href="http://www.erinda.org/index.php?option=com_content&amp;view=article&amp;id=114&amp;Itemid=89" title="">Transnational access to CHANDA facilities</a></li>
+</ul></div> <!-- end block content -->
+</div> <!-- end block -->
+<div id="block-menu-menu-links" class="block block-menu">
+
+  <h2 class="block-title"><div class="block-icon"></div>External links</h2>
+
+<div class="content">
+  <ul class="menu"><li class="first leaf"><a href="http://win.ciemat.es/chanda" title="">CHANDA (preliminary)</a></li>
+<li class="leaf"><a href="http://www.andes-nd.eu" title="">ANDES</a></li>
+<li class="leaf"><a href="http://www.snetp.eu" title="">SNETP</a></li>
+<li class="last leaf"><a href="http://www.eera-set.eu" title="">EERA</a></li>
+</ul></div> <!-- end block content -->
+</div> <!-- end block -->
+  </div>
+      </div></div> <!-- end sidebar-first -->
+    <div id="content">
+			<a id="main-content"></a>
+						      		      			        				<h1 class="title" id="page-title">
+         			 		Welcome to CHANDA!        				</h1>
+     				       		      		        			<div class="tabs">
+          				        			</div>
+      		      		      				      <div class="content-middle">  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+
+<div class="content">
+  <div id="node-1" class="node node-page clearfix" about="/welcome" typeof="foaf:Document">
+
+      <span property="dc:title" content="Welcome to CHANDA!" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p class="rtejustify">The CHANDA<sup><a href="#meaning">[1]</a></sup> project main objective is to address the challenges in the field of nuclear data for nuclear applications and its acronym stands for solving CHAllenges in Nuclear DAta for the Safety of European Nuclear Facilities. CHANDA is a CP-CSA project from the call Fission-2013-4.1.2  that started on December 1<sup>st</sup>, 2013, with 35 participants from 18 countries for a duration of 48 months and with 5.4 MEuro EU funding.</p>
+<p class="rtejustify">The project has setup an organization that will coordinate the nuclear data research program, and the infrastructures and capabilities of the EU Member States in a stable structure, well integrated with R&amp;D coordination tools (EERA, HORIZON 2020), and with priorities aligned with the SET Plan and the SRAs of the EURATOM Technological Platforms, including the following general objectives:</p>
+<ul><li class="rtejustify">to provide the nuclear data required for the safe and sustainable operation, and development, of existing and new reactors and nuclear fuel cycle facilities,</li>
+<li class="rtejustify">to prepare solutions for the challenges risen by the nuclear data measurements needed by nuclear systems, like the data for highly radioactive, short lived or rare materials,</li>
+<li class="rtejustify">to prepare tools that solve the challenges of quantifying and certifying the accuracy of the results of simulations based on available nuclear data and models (uncertainties),</li>
+<li class="rtejustify">to coordinate the access to existing infrastructures and the development of new ones for the measurement or validation of required nuclear data,</li>
+<li class="rtejustify">to identify and promote synergies with other nuclear data applications.</li>
+</ul><p class="rtejustify">Using these tools will allow EU to upgrade the nuclear data up to the level needed by simulation codes to fulfill present requirements. In particular, the simulations should be able to: reduce the number of expensive experimental validations, to support the new tendencies in safety assessments to use best estimate codes to understand the limits of the plat safety towards extreme operational conditions, to optimize safety and performance of present and future reactors and other radioactive facilities. Other applications will benefit from this accuracy in nuclear data, notably in medical applications to optimize performance and minimize dose of radiation for diagnose and treatment.</p>
+<p class="rtejustify">More information about CHANDA can be found at the <a href="http://www.chanda-nd.eu/documents_partners">Documents for Partners</a> section. The structure and main activities of the CHANDA project can be found <a href="http://www.chanda-nd.eu/main-activities">here</a>.</p>
+<hr /><p class="rtejustify"><a id="meaning" name="meaning"> [1]</a> Chanda is identified within the Buddhist Abhidharma teachings as the state or mental factor of <em>"intention", "interest", or "desire to act"</em>.</p>
+</div></div></div>  </div>
+
+  
+  
+</div>
+</div> <!-- end block content -->
+</div> <!-- end block -->
+  </div>
+</div>
+						
+</div> <!-- end content -->
+
+          <div id="sidebar-right" class="column sidebar"><div class="section">
+          <div class="region region-sidebar-second">
+    <div id="block-views-calendar-block-1" class="block block-views">
+
+  <h2 class="block-title"><a href="/calendar" class="block-title-link"><div class="block-icon"></div>Events</a></h2>
+
+<div class="content">
+  <div class="view view-calendar view-id-calendar view-display-id-block_1 view-dom-id-4983de142d3fe94d337547da4d9aa8ff">
+            <div class="view-header">
+      <div class="date-nav-wrapper clearfix">
+  <div class="date-nav item-list">
+    <div class="date-heading">
+      <h3><a href="http://www.chanda-nd.eu/calendar/month/2020-02" title="View full page month">February 2020</a></h3>
+    </div>
+    <ul class="pager">
+          <li class="date-prev">
+        <a href="http://www.chanda-nd.eu/welcome?mini=2020-01" title="Navigate to previous month" rel="nofollow">&laquo;</a>      </li>
+              <li class="date-next">
+        <a href="http://www.chanda-nd.eu/welcome?mini=2020-03" title="Navigate to next month" rel="nofollow">&raquo;</a>      </li>
+        </ul>
+  </div>
+</div>
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="calendar-calendar"><div class="month-view">
+ 
+<table class="mini">
+  <thead>
+    <tr>
+              <th class="days mon">
+          M        </th>
+              <th class="days tue">
+          T        </th>
+              <th class="days wed">
+          W        </th>
+              <th class="days thu">
+          T        </th>
+              <th class="days fri">
+          F        </th>
+              <th class="days sat">
+          S        </th>
+              <th class="days sun">
+          S        </th>
+          </tr>
+  </thead>
+  <tbody>
+          <tr>
+                  <td id="calendar-2020-01-27" class="mon mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-01-28" class="tue mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-01-29" class="wed mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-01-30" class="thu mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-01-31" class="fri mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-02-01" class="sat mini past has-no-events">
+            <div class="month mini-day-off"> 1 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-02-02" class="sun mini past has-no-events">
+            <div class="month mini-day-off"> 2 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+              </tr>
+          <tr>
+                  <td id="calendar-2020-02-03" class="mon mini past has-no-events">
+            <div class="month mini-day-off"> 3 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-02-04" class="tue mini past has-no-events">
+            <div class="month mini-day-off"> 4 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-02-05" class="wed mini past has-no-events">
+            <div class="month mini-day-off"> 5 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-02-06" class="thu mini past has-no-events">
+            <div class="month mini-day-off"> 6 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-02-07" class="fri mini past has-no-events">
+            <div class="month mini-day-off"> 7 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-02-08" class="sat mini past has-no-events">
+            <div class="month mini-day-off"> 8 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-02-09" class="sun mini past has-no-events">
+            <div class="month mini-day-off"> 9 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+              </tr>
+          <tr>
+                  <td id="calendar-2020-02-10" class="mon mini past has-no-events">
+            <div class="month mini-day-off"> 10 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-02-11" class="tue mini past has-no-events">
+            <div class="month mini-day-off"> 11 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-02-12" class="wed mini past has-no-events">
+            <div class="month mini-day-off"> 12 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-02-13" class="thu mini past has-no-events">
+            <div class="month mini-day-off"> 13 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-02-14" class="fri mini past has-no-events">
+            <div class="month mini-day-off"> 14 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-02-15" class="sat mini past has-no-events">
+            <div class="month mini-day-off"> 15 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-02-16" class="sun mini past has-no-events">
+            <div class="month mini-day-off"> 16 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+              </tr>
+          <tr>
+                  <td id="calendar-2020-02-17" class="mon mini past has-no-events">
+            <div class="month mini-day-off"> 17 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-02-18" class="tue mini past has-no-events">
+            <div class="month mini-day-off"> 18 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-02-19" class="wed mini today has-no-events">
+            <div class="month mini-day-off"> 19 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-02-20" class="thu mini future has-no-events">
+            <div class="month mini-day-off"> 20 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-02-21" class="fri mini future has-no-events">
+            <div class="month mini-day-off"> 21 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-02-22" class="sat mini future has-no-events">
+            <div class="month mini-day-off"> 22 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-02-23" class="sun mini future has-no-events">
+            <div class="month mini-day-off"> 23 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+              </tr>
+          <tr>
+                  <td id="calendar-2020-02-24" class="mon mini future has-no-events">
+            <div class="month mini-day-off"> 24 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-02-25" class="tue mini future has-no-events">
+            <div class="month mini-day-off"> 25 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-02-26" class="wed mini future has-no-events">
+            <div class="month mini-day-off"> 26 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-02-27" class="thu mini future has-no-events">
+            <div class="month mini-day-off"> 27 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-02-28" class="fri mini future has-no-events">
+            <div class="month mini-day-off"> 28 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-02-29" class="sat mini future has-no-events">
+            <div class="month mini-day-off"> 29 </div><div class="calendar-empty">&nbsp;</div>
+          </td>
+                  <td id="calendar-2020-03-01" class="sun mini empty">
+            <div class="calendar-empty">&nbsp;</div>
+          </td>
+              </tr>
+      </tbody>
+</table>
+</div></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></div> <!-- end block content -->
+</div> <!-- end block -->
+<div id="block-views-news-block-1" class="block block-views">
+
+  <h2 class="block-title"><a href="/news" class="block-title-link"><div class="block-icon"></div>Recent news</a></h2>
+
+<div class="content">
+  <div class="view view-news view-id-news view-display-id-block_1 view-dom-id-0cbaf75327b9720ebb22252c14da295f">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-entity-id">        <span class="field-content">The Agenda and Presentations  of the Final CHANDA meeting had been uploaded to the CHANDA... <a href="/" class="views-more-link">(+)</a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-entity-id">        <span class="field-content">The final CHANDA meeting will take place from 16 to 20 April 2018.
+The meeting is... <a href="/" class="views-more-link">(+)</a></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-entity-id">        <span class="field-content">There have been 2 significant updates to the WEB page:
+The description of the proposed... <a href="/" class="views-more-link">(+)</a></span>  </div></li>
+          <li class="views-row views-row-4 views-row-even views-row-last">  
+  <div class="views-field views-field-entity-id">        <span class="field-content">Registering to the General Meeting for 27-30 April, 2015, in Paris is open. The meeting... <a href="/" class="views-more-link">(+)</a></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/news">
+    more news ...  </a>
+</div>
+  
+  
+  
+</div></div> <!-- end block content -->
+</div> <!-- end block -->
+  </div>
+      </div></div> <!-- end sidebar-second -->
+    <div style="clear:both"></div>
+</div> <!-- end wrapper -->
+
+
+
+
+ 
+<div style="clear:both"></div>
+<div id="footer-wrapper">
+<div id="footer">
+   <div class="region region-footer">
+    <div id="block-system-powered-by" class="block block-system">
+
+
+<div class="content">
+  <span>Powered by <a href="https://www.drupal.org">Drupal</a></span></div> <!-- end block content -->
+</div> <!-- end block -->
+  </div>
+</div>
+</div> <!-- end footer wrapper -->
+
+</div>
+  </body>
+</html>

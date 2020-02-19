@@ -1,0 +1,265 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="DHV Careers RSS" href="http://www.dhvcarriere.com/?q=rss.xml" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>DHV Careers</title>
+  <style type="text/css" media="all">
+@import url("http://www.dhvcarriere.com/modules/system/system.base.css?p7aajp");
+@import url("http://www.dhvcarriere.com/modules/system/system.menus.css?p7aajp");
+@import url("http://www.dhvcarriere.com/modules/system/system.messages.css?p7aajp");
+@import url("http://www.dhvcarriere.com/modules/system/system.theme.css?p7aajp");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.dhvcarriere.com/misc/ui/jquery.ui.core.css?p7aajp");
+@import url("http://www.dhvcarriere.com/misc/ui/jquery.ui.theme.css?p7aajp");
+@import url("http://www.dhvcarriere.com/misc/ui/jquery.ui.datepicker.css?p7aajp");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.dhvcarriere.com/modules/comment/comment.css?p7aajp");
+@import url("http://www.dhvcarriere.com/modules/field/theme/field.css?p7aajp");
+@import url("http://www.dhvcarriere.com/modules/node/node.css?p7aajp");
+@import url("http://www.dhvcarriere.com/modules/search/search.css?p7aajp");
+@import url("http://www.dhvcarriere.com/modules/user/user.css?p7aajp");
+@import url("http://www.dhvcarriere.com/sites/all/modules/views/css/views.css?p7aajp");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.dhvcarriere.com/sites/all/modules/ctools/css/ctools.css?p7aajp");
+@import url("http://www.dhvcarriere.com/modules/file/file.css?p7aajp");
+@import url("http://www.dhvcarriere.com/sites/all/modules/webform/css/webform.css?p7aajp");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.dhvcarriere.com/themes/bartik/css/layout.css?p7aajp");
+@import url("http://www.dhvcarriere.com/themes/bartik/css/style.css?p7aajp");
+@import url("http://www.dhvcarriere.com/sites/default/files/color/bartik-f6266d85/colors.css?p7aajp");
+</style>
+<style type="text/css" media="print">
+@import url("http://www.dhvcarriere.com/themes/bartik/css/print.css?p7aajp");
+</style>
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://www.dhvcarriere.com/themes/bartik/css/ie.css?p7aajp" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="http://www.dhvcarriere.com/themes/bartik/css/ie6.css?p7aajp" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://www.dhvcarriere.com/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.dhvcarriere.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.dhvcarriere.com/misc/drupal.js?p7aajp"></script>
+<script type="text/javascript" src="http://www.dhvcarriere.com/misc/ui/jquery.ui.core.min.js?v=1.8.7"></script>
+<script type="text/javascript" src="http://www.dhvcarriere.com/misc/ui/jquery.ui.datepicker.min.js?v=1.8.7"></script>
+<script type="text/javascript" src="http://www.dhvcarriere.com/misc/jquery.cookie.js?v=1.0"></script>
+<script type="text/javascript" src="http://www.dhvcarriere.com/misc/jquery.form.js?v=2.52"></script>
+<script type="text/javascript" src="http://www.dhvcarriere.com/misc/ajax.js?v=7.58"></script>
+<script type="text/javascript" src="http://www.dhvcarriere.com/misc/progress.js?v=7.58"></script>
+<script type="text/javascript" src="http://www.dhvcarriere.com/sites/all/modules/webform/js/webform.js?p7aajp"></script>
+<script type="text/javascript" src="http://www.dhvcarriere.com/modules/file/file.js?p7aajp"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bartik","theme_token":"Jl1aSiaG82pnmokqpbwHY7i6vGUaK6rORykQ9sNHeuY","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.datepicker.min.js":1,"misc\/jquery.cookie.js":1,"misc\/jquery.form.js":1,"misc\/ajax.js":1,"misc\/progress.js":1,"sites\/all\/modules\/webform\/js\/webform.js":1,"modules\/file\/file.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"modules\/file\/file.css":1,"sites\/all\/modules\/webform\/css\/webform.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"themes\/bartik\/css\/colors.css":1,"themes\/bartik\/css\/print.css":1,"themes\/bartik\/css\/ie.css":1,"themes\/bartik\/css\/ie6.css":1}},"urlIsAjaxTrusted":{"\/?q=node\u0026destination=node":true,"\/?q=file\/ajax\/submitted\/immagine\/form-k2YbeKiTATvqCTMkVDJAynyZv_oID4zUc08UZNEngTg":true,"\/?q=file\/ajax\/submitted\/cv_file\/form-k2YbeKiTATvqCTMkVDJAynyZv_oID4zUc08UZNEngTg":true,"\/?q=node\/1":true},"file":{"elements":{"#edit-submitted-immagine-upload":"gif,jpg,jpeg,png","#edit-submitted-cv-file-upload":"pdf"}},"ajax":{"edit-submitted-immagine-upload-button":{"wrapper":"edit-submitted-immagine-ajax-wrapper","effect":"fade","progress":{"type":"throbber","message":null},"event":"mousedown","keypress":true,"prevent":"click","url":"\/?q=file\/ajax\/submitted\/immagine\/form-k2YbeKiTATvqCTMkVDJAynyZv_oID4zUc08UZNEngTg","submit":{"_triggering_element_name":"submitted_immagine_upload_button","_triggering_element_value":"Upload"}},"edit-submitted-cv-file-upload-button":{"wrapper":"edit-submitted-cv-file-ajax-wrapper","effect":"fade","progress":{"type":"throbber","message":null},"event":"mousedown","keypress":true,"prevent":"click","url":"\/?q=file\/ajax\/submitted\/cv_file\/form-k2YbeKiTATvqCTMkVDJAynyZv_oID4zUc08UZNEngTg","submit":{"_triggering_element_name":"submitted_cv_file_upload_button","_triggering_element_value":"Upload"}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper"><div id="page">
+
+  <div id="header" class="without-secondary-menu"><div class="section clearfix">
+
+          <a href="/" title="Home" rel="home" id="logo">
+        <img src="http://www.dhvcarriere.com/sites/default/files/Logo-CentroVacanze-Marche-300x69_0.png" alt="Home" />
+      </a>
+    
+          <div id="name-and-slogan">
+
+                              <h1 id="site-name">
+              <a href="/" title="Home" rel="home"><span>DHV Careers</span></a>
+            </h1>
+                  
+        
+      </div> <!-- /#name-and-slogan -->
+    
+    
+          <div id="main-menu" class="navigation">
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-219 first active"><a href="/" class="active">Home</a></li>
+<li class="menu-358 last"><a href="/?q=node/1" title="Invia il tuo Curriculum">Invia il tuo CV</a></li>
+</ul>      </div> <!-- /#main-menu -->
+    
+    
+  </div></div> <!-- /.section, /#header -->
+
+  
+  
+  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
+
+    
+          <div id="sidebar-first" class="column sidebar"><div class="section">
+          <div class="region region-sidebar-first">
+    <div id="block-user-login" class="block block-user">
+
+    <h2>User login</h2>
+  
+  <div class="content">
+    <form action="/?q=node&amp;destination=node" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/?q=user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/?q=user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-w4gX1E856mz2o-uCKZIbgRkiGMeM3dDRgXb_6FZl_2Y" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+      </div></div> <!-- /.section, /#sidebar-first -->
+    
+    <div id="content" class="column"><div class="section">
+            <a id="main-content"></a>
+                                <div class="tabs">
+                  </div>
+                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1" class="node node-webform node-promoted node-teaser clearfix" about="/?q=node/1" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/?q=node/1">Invia il tuo CV</a>
+    </h2>
+    <span property="dc:title" content="Invia il tuo CV" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2018-03-19T19:42:53+00:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/?q=user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">dajpress100</span> on Mon, 03/19/2018 - 19:42</span>    </div>
+  
+  <div class="content clearfix">
+    <form class="webform-client-form webform-client-form-1" enctype="multipart/form-data" action="/?q=node/1" method="post" id="webform-client-form-1" accept-charset="UTF-8"><div><div  class="form-item webform-component webform-component-textfield webform-component--nome">
+  <label for="edit-submitted-nome">Nome <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" type="text" id="edit-submitted-nome" name="submitted[nome]" value="" size="30" maxlength="128" class="form-text required" />
+</div>
+<div  class="form-item webform-component webform-component-textfield webform-component--cognome">
+  <label for="edit-submitted-cognome">Cognome <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" type="text" id="edit-submitted-cognome" name="submitted[cognome]" value="" size="30" maxlength="128" class="form-text required" />
+</div>
+<div  class="form-item webform-component webform-component-date webform-component--data-di-nascita">
+  <label>Data di Nascita <span class="form-required" title="This field is required.">*</span></label>
+ <div class="webform-container-inline webform-datepicker"><div class="form-item form-type-select form-item-submitted-data-di-nascita-month">
+  <label class="element-invisible" for="edit-submitted-data-di-nascita-month">Month </label>
+ <select class="month form-select" required="required" id="edit-submitted-data-di-nascita-month" name="submitted[data_di_nascita][month]"><option value="" selected="selected">Month</option><option value="1">Jan</option><option value="2">Feb</option><option value="3">Mar</option><option value="4">Apr</option><option value="5">May</option><option value="6">Jun</option><option value="7">Jul</option><option value="8">Aug</option><option value="9">Sep</option><option value="10">Oct</option><option value="11">Nov</option><option value="12">Dec</option></select>
+</div>
+<div class="form-item form-type-select form-item-submitted-data-di-nascita-day">
+  <label class="element-invisible" for="edit-submitted-data-di-nascita-day">Day </label>
+ <select class="day form-select" required="required" id="edit-submitted-data-di-nascita-day" name="submitted[data_di_nascita][day]"><option value="" selected="selected">Day</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>
+</div>
+<div class="form-item form-type-select form-item-submitted-data-di-nascita-year">
+  <label class="element-invisible" for="edit-submitted-data-di-nascita-year">Year </label>
+ <select class="year form-select" required="required" id="edit-submitted-data-di-nascita-year" name="submitted[data_di_nascita][year]"><option value="" selected="selected">Year</option><option value="1970">1970</option><option value="1971">1971</option><option value="1972">1972</option><option value="1973">1973</option><option value="1974">1974</option><option value="1975">1975</option><option value="1976">1976</option><option value="1977">1977</option><option value="1978">1978</option><option value="1979">1979</option><option value="1980">1980</option><option value="1981">1981</option><option value="1982">1982</option><option value="1983">1983</option><option value="1984">1984</option><option value="1985">1985</option><option value="1986">1986</option><option value="1987">1987</option><option value="1988">1988</option><option value="1989">1989</option><option value="1990">1990</option><option value="1991">1991</option><option value="1992">1992</option><option value="1993">1993</option><option value="1994">1994</option><option value="1995">1995</option><option value="1996">1996</option><option value="1997">1997</option><option value="1998">1998</option><option value="1999">1999</option><option value="2000">2000</option><option value="2001">2001</option><option value="2002">2002</option><option value="2003">2003</option><option value="2004">2004</option><option value="2005">2005</option><option value="2006">2006</option><option value="2007">2007</option><option value="2008">2008</option><option value="2009">2009</option><option value="2010">2010</option><option value="2011">2011</option><option value="2012">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option><option value="2017">2017</option><option value="2018">2018</option><option value="2019">2019</option><option value="2020">2020</option><option value="2021">2021</option><option value="2022">2022</option></select>
+</div>
+<input type="image" aria-hidden="true" role="presentation" src="/sites/all/modules/webform/images/calendar.png" class="webform-calendar webform-calendar-start-1970-02-19 webform-calendar-end-2022-02-19 webform-calendar-day-0" alt="Open popup calendar" title="Open popup calendar" />
+</div>
+</div>
+<div  class="form-item webform-component webform-component-textfield webform-component--luogo-di-nascita">
+  <label for="edit-submitted-luogo-di-nascita">Luogo di Nascita <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" type="text" id="edit-submitted-luogo-di-nascita" name="submitted[luogo_di_nascita]" value="" size="60" maxlength="128" class="form-text required" />
+</div>
+<div  class="form-item webform-component webform-component-textfield webform-component--nazione-di-nascita">
+  <label for="edit-submitted-nazione-di-nascita">Nazione di Nascita </label>
+ <input type="text" id="edit-submitted-nazione-di-nascita" name="submitted[nazione_di_nascita]" value="" size="60" maxlength="128" class="form-text" />
+</div>
+<div  class="form-item webform-component webform-component-textfield webform-component--cittadinanza">
+  <label for="edit-submitted-cittadinanza">Cittadinanza <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" type="text" id="edit-submitted-cittadinanza" name="submitted[cittadinanza]" value="" size="60" maxlength="128" class="form-text required" />
+</div>
+<div  class="form-item webform-component webform-component-textfield webform-component--provincia-di-nascita">
+  <label for="edit-submitted-provincia-di-nascita">Provincia di Nascita </label>
+ <input type="text" id="edit-submitted-provincia-di-nascita" name="submitted[provincia_di_nascita]" value="" size="60" maxlength="128" class="form-text" />
+</div>
+<div  class="form-item webform-component webform-component-textfield webform-component--genere">
+  <label for="edit-submitted-genere">Genere </label>
+ <input type="text" id="edit-submitted-genere" name="submitted[genere]" value="" size="60" maxlength="128" class="form-text" />
+</div>
+<div  class="form-item webform-component webform-component-textfield webform-component--stato-civile">
+  <label for="edit-submitted-stato-civile">Stato Civile </label>
+ <input type="text" id="edit-submitted-stato-civile" name="submitted[stato_civile]" value="" size="60" maxlength="128" class="form-text" />
+</div>
+<div id="edit-submitted-immagine-ajax-wrapper"><div  class="form-item webform-component webform-component-file webform-component--immagine">
+  <label for="edit-submitted-immagine-upload">Immagine <span class="form-required" title="This field is required.">*</span></label>
+ <div class="form-managed-file"><input type="file" id="edit-submitted-immagine-upload" name="files[submitted_immagine]" size="22" class="form-file" /><input type="submit" id="edit-submitted-immagine-upload-button" name="submitted_immagine_upload_button" value="Upload" class="form-submit" /><input type="hidden" name="submitted[immagine][fid]" value="0" />
+</div>
+ <div class="description">Files must be less than <strong>2 MB</strong>.<br />Allowed file types: <strong>gif jpg jpeg png</strong>.</div>
+</div>
+</div><div id="edit-submitted-cv-file-ajax-wrapper"><div  class="form-item webform-component webform-component-file webform-component--cv-file">
+  <label for="edit-submitted-cv-file-upload">CV file <span class="form-required" title="This field is required.">*</span></label>
+ <div class="form-managed-file"><input type="file" id="edit-submitted-cv-file-upload" name="files[submitted_cv_file]" size="22" class="form-file" /><input type="submit" id="edit-submitted-cv-file-upload-button" name="submitted_cv_file_upload_button" value="Upload" class="form-submit" /><input type="hidden" name="submitted[cv_file][fid]" value="0" />
+</div>
+ <div class="description">Files must be less than <strong>1 MB</strong>.<br />Allowed file types: <strong>pdf</strong>.</div>
+</div>
+</div><div  class="form-item webform-component webform-component-number webform-component--telefono">
+  <label for="edit-submitted-telefono">Telefono <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" type="text" id="edit-submitted-telefono" name="submitted[telefono]" step="any" class="form-text form-number required" />
+</div>
+<div  class="form-item webform-component webform-component-email webform-component--email">
+  <label for="edit-submitted-email">email <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" class="email form-text form-email required" type="email" id="edit-submitted-email" name="submitted[email]" size="60" />
+</div>
+<input type="hidden" name="details[sid]" />
+<input type="hidden" name="details[page_num]" value="1" />
+<input type="hidden" name="details[page_count]" value="1" />
+<input type="hidden" name="details[finished]" value="0" />
+<input type="hidden" name="form_build_id" value="form-k2YbeKiTATvqCTMkVDJAynyZv_oID4zUc08UZNEngTg" />
+<input type="hidden" name="form_id" value="webform_client_form_1" />
+<div class="form-actions"><input class="webform-submit button-primary form-submit" type="submit" name="op" value="Submit" /></div></div></form>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first last"><a href="/?q=node/1" rel="tag" title="Invia il tuo CV">Read more<span class="element-invisible"> about Invia il tuo CV</span></a></li>
+</ul>    </div>
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+      <a href="/?q=rss.xml" class="feed-icon" title="Subscribe to DHV Careers RSS"><img typeof="foaf:Image" src="http://www.dhvcarriere.com/misc/feed.png" width="16" height="16" alt="Subscribe to DHV Careers RSS" /></a>
+    </div></div> <!-- /.section, /#content -->
+
+    
+  </div></div> <!-- /#main, /#main-wrapper -->
+
+  
+  <div id="footer-wrapper"><div class="section">
+
+    
+          <div id="footer" class="clearfix">
+          <div class="region region-footer">
+    <div id="block-system-powered-by" class="block block-system">
+
+    
+  <div class="content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+</div>
+  </div>
+      </div> <!-- /#footer -->
+    
+  </div></div> <!-- /.section, /#footer-wrapper -->
+
+</div></div> <!-- /#page, /#page-wrapper -->
+  </body>
+</html>

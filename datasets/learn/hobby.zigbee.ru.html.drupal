@@ -1,0 +1,321 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://hobby.zigbee.ru/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="hobby.zigbee.ru RSS" href="http://hobby.zigbee.ru/rss.xml" />
+  <title>hobby.zigbee.ru</title>
+  <style type="text/css" media="all">
+@import url("http://hobby.zigbee.ru/modules/system/system.base.css?pktyvr");
+@import url("http://hobby.zigbee.ru/modules/system/system.menus.css?pktyvr");
+@import url("http://hobby.zigbee.ru/modules/system/system.messages.css?pktyvr");
+@import url("http://hobby.zigbee.ru/modules/system/system.theme.css?pktyvr");
+</style>
+<style type="text/css" media="screen">
+@import url("http://hobby.zigbee.ru/sites/all/libraries/prism/prism.css?pktyvr");
+</style>
+<style type="text/css" media="all">
+@import url("http://hobby.zigbee.ru/modules/comment/comment.css?pktyvr");
+@import url("http://hobby.zigbee.ru/modules/field/theme/field.css?pktyvr");
+@import url("http://hobby.zigbee.ru/modules/node/node.css?pktyvr");
+@import url("http://hobby.zigbee.ru/modules/search/search.css?pktyvr");
+@import url("http://hobby.zigbee.ru/modules/user/user.css?pktyvr");
+@import url("http://hobby.zigbee.ru/modules/forum/forum.css?pktyvr");
+@import url("http://hobby.zigbee.ru/sites/all/modules/views/css/views.css?pktyvr");
+</style>
+<style type="text/css" media="all">
+@import url("http://hobby.zigbee.ru/sites/all/modules/ctools/css/ctools.css?pktyvr");
+@import url("http://hobby.zigbee.ru/sites/all/modules/geshifilter/geshifilter.css?pktyvr");
+</style>
+<style type="text/css" media="all">
+@import url("http://hobby.zigbee.ru/sites/hobby.zigbee.ru/files/color/garland-65dc7948/style.css?pktyvr");
+</style>
+<style type="text/css" media="print">
+@import url("http://hobby.zigbee.ru/themes/garland/print.css?pktyvr");
+</style>
+
+<!--[if lt IE 7]>
+<link type="text/css" rel="stylesheet" href="http://hobby.zigbee.ru/themes/garland/fix-ie.css?pktyvr" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://hobby.zigbee.ru/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://hobby.zigbee.ru/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://hobby.zigbee.ru/misc/drupal.js?pktyvr"></script>
+<script type="text/javascript" src="http://hobby.zigbee.ru/sites/all/libraries/prism/prism.js?pktyvr"></script>
+<script type="text/javascript" src="http://hobby.zigbee.ru/sites/all/modules/prism/js/prism.settings.js?pktyvr"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"garland","theme_token":"KFnYoUExnV6Gse7J6sNOwIoOT_bzkAG64uEl2Lv6Pzc","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/prism\/prism.js":1,"sites\/all\/modules\/prism\/js\/prism.settings.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/libraries\/prism\/prism.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/geshifilter\/geshifilter.css":1,"themes\/garland\/style.css":1,"themes\/garland\/print.css":1,"themes\/garland\/fix-ie.css":1}},"urlIsAjaxTrusted":{"\/node?destination=node":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node fluid-width" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+      
+  <div id="wrapper">
+    <div id="container" class="clearfix">
+
+      <div id="header">
+        <div id="logo-floater">
+                </div>
+
+        <h2 class="element-invisible">Main menu</h2><ul class="links inline main-menu"><li class="menu-807 first"><a href="/car">Автомобили</a></li>
+<li class="menu-159"><a href="/moto" title="">Мотоциклы</a></li>
+<li class="menu-168"><a href="/ra" title="Радиоэлектроника">Радиоэлектроника</a></li>
+<li class="menu-178 last"><a href="/dance" title="Танцы">Танцы</a></li>
+</ul>              </div> <!-- /#header -->
+
+              <div id="sidebar-first" class="sidebar">
+            <div class="region region-sidebar-first">
+    <div id="block-system-navigation" class="block block-system block-menu clearfix">
+
+    <h2 class="title">Navigation</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first collapsed"><a href="/forum">Forums</a></li>
+<li class="last leaf"><a href="/tracker">Recent content</a></li>
+</ul>  </div>
+</div>
+<div id="block-user-login" class="block block-user clearfix">
+
+    <h2 class="title">User login</h2>
+  
+  <div class="content">
+    <form action="/node?destination=node" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-163XC2EuRn5GT7qCAd10JbjrPUthexJBSshVLpI9J0w" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+        </div>
+      
+      <div id="center"><div id="squeeze"><div class="right-corner"><div class="left-corner">
+                              <a id="main-content"></a>
+          <div id="tabs-wrapper" class="clearfix">                                        </div>                                                  <div class="clearfix">
+              <div class="region region-content">
+    <div id="block-system-main" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <div id="node-1" class="node node-page node-promoted node-sticky node-teaser">
+
+  
+        <h2><a href="/about">Коротко о главном</a></h2>
+    
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>На этом сайте никогда не будет идеального порядка. Это своего рода записная книжка. Здесь то, что меня заинтересовало или было мной сделано. Но если вы вдруг решите, что имеет смысл здесь зарегистрироваться, имейте в виду, что аккаунты разблокируются только вручную. Поэтому не забудьте написать, что вас заинтересовало. Иначе запрос просто удалю. Как и любые попытки пропихнуть рекламу очередных супер-тапочек или способов их доставки. И ещё: мне не нравится словосочетание "граммар-наци". При этом я уверен, что и речь, и письменное изложение должны быть грамотными.</p></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first last"><a href="/about" rel="tag" title="Коротко о главном">Read more<span class="element-invisible"> about Коротко о главном</span></a></li>
+</ul></div>
+    
+      </div>
+
+</div>
+<div id="node-174" class="node node-story node-promoted node-teaser">
+
+  
+        <h2><a href="/auto/omega">Автоссылки Омега</a></h2>
+    
+      <span class="submitted">4 October, 2019 - 16:32 — <span class="username">Dmitriy</span></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><a href="https://www.avito.ru/pskov/avtomobili/opel_omega_2001_1824909671">Псков, 2.6АУ, фарш, 175тр</a>, 8-911-370-29-39<br /><a href="https://www.avito.ru/sankt-peterburg/avtomobili/opel_omega_2002_1855402994">СПб, 2.6АУ, фарш, 140тр</a>, +7-958-599-03-05</p>
+
+<p><span style="text-decoration: line-through;"></span></p></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first"><a href="/auto/omega" rel="tag" title="Автоссылки Омега">Read more<span class="element-invisible"> about Автоссылки Омега</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/174%23comment-form">Log in</a> or <a href="/user/register?destination=node/174%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+    
+      </div>
+
+</div>
+<div id="node-72" class="node node-page node-promoted node-teaser">
+
+  
+        <h2><a href="/ra/FreeRTOS/doc/static_menu">FreeRTOS: избранные главы. Перевод документации.</a></h2>
+    
+  
+  <div class="content clearfix">
+    <div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-above"><div class="field-label">Hobby&#039;s category:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/taxonomy/term/21">Programming</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Перевод может содержать ошибки. Читайте первоисточник: <a href="https://www.freertos.org/index.html">The FreeRTOS™ Kernel</a></p></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first last"><a href="/ra/FreeRTOS/doc/static_menu" rel="tag" title="FreeRTOS: избранные главы. Перевод документации.">Read more<span class="element-invisible"> about FreeRTOS: избранные главы. Перевод документации.</span></a></li>
+</ul></div>
+    
+      </div>
+
+</div>
+<div id="node-68" class="node node-story node-promoted node-teaser">
+
+  
+        <h2><a href="/ra/stm32_min_board">Обзор STM32F103C8T6 Minimum System Development Board</a></h2>
+    
+      <span class="submitted">26 November, 2018 - 21:50 — <span class="username">Dmitriy</span></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>Общая информация</h2>
+<p style="text-indent: 2em;">"Сегодня у нас в студии" макетная плата "STM32F103C8T6 ARM STM32 Minimum System Development Board Module For Arduino". Купить на <a href="https://ru.aliexpress.com/item/Free-Shipping-STM32F103C8T6-ARM-STM32-Minimum-System-Development-Board-Module-Forarduino/32525208361.html" target="_blank" title="board" rel="noopener">Aliexpress</a> можно за 100 рублей ( на ноябрь 2018).</p>
+<p style="text-indent: 2em;"> </p></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first"><a href="/ra/stm32_min_board" rel="tag" title="Обзор STM32F103C8T6 Minimum System Development Board">Read more<span class="element-invisible"> about Обзор STM32F103C8T6 Minimum System Development Board</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/68%23comment-form">Log in</a> or <a href="/user/register?destination=node/68%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+    
+      </div>
+
+</div>
+<div id="node-60" class="node node-story node-promoted node-teaser">
+
+  
+        <h2><a href="/ra/components/polymer_capacitor">&quot;Полимерные&quot; конденсаторы</a></h2>
+    
+      <span class="submitted">18 March, 2014 - 00:53 — <span class="username">Dmitriy</span></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><hr /><p><em>Внимание! Данная заметка не является ни справочником, ни источником научно-технической информации, ни официальным обзором.</em></p></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first"><a href="/ra/components/polymer_capacitor" rel="tag" title="&quot;Полимерные&quot; конденсаторы">Read more<span class="element-invisible"> about &quot;Полимерные&quot; конденсаторы</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/60%23comment-form">Log in</a> or <a href="/user/register?destination=node/60%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+    
+      </div>
+
+</div>
+<div id="node-58" class="node node-story node-promoted node-teaser">
+
+  
+        <h2><a href="/node/58">Как я GUI искал</a></h2>
+    
+      <span class="submitted">19 November, 2012 - 23:48 — <span class="username">Dmitriy</span></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>В процессе сотворения ми.., тьху, небольшого устройства с цветным графическим ЖКИ столкнулся я с тем, что информации в сети море, а толковой и нет почти. Посему выложу сюда свою коллекцию ссылок и всякую ерунду на эту тему.</p></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first"><a href="/node/58" rel="tag" title="Как я GUI искал">Read more<span class="element-invisible"> about Как я GUI искал</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/58%23comment-form">Log in</a> or <a href="/user/register?destination=node/58%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+    
+      </div>
+
+</div>
+<div id="node-57" class="node node-story node-promoted node-teaser">
+
+  
+        <h2><a href="/ra/lifepo4_charger">Зарядка для LiFePo4</a></h2>
+    
+      <span class="submitted">30 June, 2012 - 15:43 — <span class="username">Dmitriy</span></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>За основу возьму вот эти проекты:<br /><a href="http://www.seven-segments.com/index.php?action=home">http://www.seven-segments.com/index.php?action=home</a></p>
+</div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first"><a href="/ra/lifepo4_charger" rel="tag" title="Зарядка для LiFePo4">Read more<span class="element-invisible"> about Зарядка для LiFePo4</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/57%23comment-form">Log in</a> or <a href="/user/register?destination=node/57%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+    
+      </div>
+
+</div>
+<div id="node-55" class="node node-story node-promoted node-teaser">
+
+  
+        <h2><a href="/ra/stm32">STM32 интересные ссылки</a></h2>
+    
+      <span class="submitted">30 June, 2012 - 15:39 — <span class="username">Dmitriy</span></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>USB на STM32:<br /><a href="http://easyelectronics.ru/tag/usb">http://easyelectronics.ru/tag/usb</a><br /><a href="http://we.easyelectronics.ru/STM32/stm32-i-usb-chast-1-proekt-dlya-keil.html">http://we.easyelectronics.ru/STM32/stm32-i-usb-chast-1-proekt-dlya-keil.html</a><br /><a href="http://microsin.ru/content/view/1107/44">http://microsin.ru/content/view/1107/44</a><br /><a href="http://microsin.ru/content/view/1108/44/">http://microsin.ru/content/view/1108/44/</a><br /><a href="http://microsin.ru/content/view/1109/44/">http://microsin.ru/content/view/1109/44/</a></p></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first"><a href="/ra/stm32" rel="tag" title="STM32 интересные ссылки">Read more<span class="element-invisible"> about STM32 интересные ссылки</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/55%23comment-form">Log in</a> or <a href="/user/register?destination=node/55%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+    
+      </div>
+
+</div>
+<div id="node-54" class="node node-story node-promoted node-teaser">
+
+  
+        <h2><a href="/ra/a750/soft">Софт</a></h2>
+    
+      <span class="submitted">30 June, 2012 - 15:34 — <span class="username">Dmitriy</span></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Программа для снятия скриншота с экрана <a href="http://4pda.ru/forum/index.php?showtopic=246296">Screenshot ER версия: 2.3.3.7</a><br />
+ </p>
+</div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first"><a href="/ra/a750/soft" rel="tag" title="Софт">Read more<span class="element-invisible"> about Софт</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/54%23comment-form">Log in</a> or <a href="/user/register?destination=node/54%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+    
+      </div>
+
+</div>
+<div id="node-53" class="node node-story node-promoted node-teaser">
+
+  
+        <h2><a href="/ra/a750/t9rus">Русский поиск T9 и русская полоска прокрутки в контактах</a></h2>
+    
+      <span class="submitted">30 June, 2012 - 13:12 — <span class="username">Dmitriy</span></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Русский поиск Т9 и Русская полоска прокрутки в контактах!!!<br />---<br />А как-то настроить обратно на английский можно? (у меня все контакты на латинице)<br />---<br />Вытащить из оригинальной прошивки Contacts.apk (из папки system/app) и framework.jar (из system/framework) и заменить их в прошивке рутэксплорером.Но частично пропадёт и русификация меню контактов.Самое оптимальное-просто зарусить оригинальный Contacts.apk,а framework.jar просто заменить как есть.</p>
+<p>===</p>
+</div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first"><a href="/ra/a750/t9rus" rel="tag" title="Русский поиск T9 и русская полоска прокрутки в контактах">Read more<span class="element-invisible"> about Русский поиск T9 и русская полоска прокрутки в контактах</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/53%23comment-form">Log in</a> or <a href="/user/register?destination=node/53%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+    
+      </div>
+
+</div>
+<h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/node?page=1">2</a></li>
+<li class="pager-item"><a title="Go to page 3" href="/node?page=2">3</a></li>
+<li class="pager-next"><a title="Go to next page" href="/node?page=1">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/node?page=2">last »</a></li>
+</ul></div>  </div>
+</div>
+  </div>
+          </div>
+          <a href="/rss.xml" class="feed-icon" title="Subscribe to hobby.zigbee.ru RSS"><img src="http://hobby.zigbee.ru/misc/feed.png" width="16" height="16" alt="Subscribe to hobby.zigbee.ru RSS" /></a>            <div class="region region-footer">
+    <div id="block-system-powered-by" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+</div>
+  </div>
+      </div></div></div></div> <!-- /.left-corner, /.right-corner, /#squeeze, /#center -->
+
+      
+    </div> <!-- /#container -->
+  </div> <!-- /#wrapper -->
+  </body>
+</html>

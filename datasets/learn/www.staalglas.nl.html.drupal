@@ -37,7 +37,7 @@
 </style>
 <style type="text/css" media="all">
 <!--/*--><![CDATA[/*><!--*/
-.CdkrhMpYTQXqHTAmYBzjndccrbnFwdZOdKEXQxwDZZaUncxZqkOsmpVYhQFLXQII{width:0;height:0;overflow:hidden;}
+.jqHLBAkCmYOzsNPpqkgORcLmyRdazUzQfvYFLFsEvpcGKshwnHwFfcmIEXNEdYvE{width:0;height:0;overflow:hidden;}
 
 /*]]>*/-->
 </style>
@@ -99,7 +99,7 @@
 <script type="text/javascript" src="https://www.staalglas.nl/sites/all/themes/omega/omega/js/omega-mediaqueries.js?q4ckvs"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"nl\/","ajaxPageState":{"theme":"klant","theme_token":"b_d8tDGkSGKliYKf8rU-rNTXkbCeiNq06KdLORdEIjA","js":{"sites\/all\/libraries\/modernizr\/modernizr-custom.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/balupton-history.js\/scripts\/bundled\/html4+html5\/jquery.history.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.effect.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.effect-slide.min.js":1,"public:\/\/languages\/nl_08P4MkIeG7uhlId6-oDa3CFqNqhKAzUquH7dLT_4SXU.js":1,"sites\/all\/modules\/captcha\/captcha.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/occ_statehandler\/js\/waitforimages.js":1,"sites\/all\/modules\/occ_statehandler\/js\/highlight.js":1,"sites\/all\/modules\/occ_statehandler\/js\/ajaxq.js":1,"sites\/all\/modules\/occ_statehandler\/js\/slides.js":1,"sites\/all\/modules\/occ_statehandler\/js\/blend.js":1,"sites\/all\/modules\/occ_statehandler\/js\/bgpos.js":1,"sites\/all\/modules\/occ_statehandler\/js\/statehandler.occ.js":1,"sites\/all\/modules\/webform\/js\/webform.js":1,"sites\/all\/themes\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"0":1,"sites\/all\/modules\/webform\/css\/webform.css":1,"public:\/\/ctools\/css\/d41d8cd98f00b204e9800998ecf8427e.css":1,"sites\/all\/themes\/klant\/css\/global.scss":1,"sites\/all\/themes\/klant\/css\/ie8.scss":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/omega\/omega\/css\/formalize.css":1,"public:\/\/fontyourface\/local_fonts\/eurostileregular-normal-normal\/stylesheet.css":1,"public:\/\/fontyourface\/local_fonts\/myriadpro-normal-normal\/stylesheet.css":1,"sites\/all\/themes\/klant\/css\/global.css":1,"normal::sites\/all\/themes\/klant\/css\/klant-alpha-default.css":1,"normal::sites\/all\/themes\/klant\/css\/klant-alpha-default-normal.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1}},"stateHandler":{"history_js_implementation":"jquery","plugins":[]},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/nl\/contact-staalglas":true},"omega":{"layouts":{"primary":"normal","order":["normal"],"queries":{"normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)"}}}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"nl\/","ajaxPageState":{"theme":"klant","theme_token":"3D_UsKPJGpQOEXx5NH_ASwj1pUClg47FTuZPRO7Fiqo","js":{"sites\/all\/libraries\/modernizr\/modernizr-custom.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/balupton-history.js\/scripts\/bundled\/html4+html5\/jquery.history.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.effect.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.effect-slide.min.js":1,"public:\/\/languages\/nl_08P4MkIeG7uhlId6-oDa3CFqNqhKAzUquH7dLT_4SXU.js":1,"sites\/all\/modules\/captcha\/captcha.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/occ_statehandler\/js\/waitforimages.js":1,"sites\/all\/modules\/occ_statehandler\/js\/highlight.js":1,"sites\/all\/modules\/occ_statehandler\/js\/ajaxq.js":1,"sites\/all\/modules\/occ_statehandler\/js\/slides.js":1,"sites\/all\/modules\/occ_statehandler\/js\/blend.js":1,"sites\/all\/modules\/occ_statehandler\/js\/bgpos.js":1,"sites\/all\/modules\/occ_statehandler\/js\/statehandler.occ.js":1,"sites\/all\/modules\/webform\/js\/webform.js":1,"sites\/all\/themes\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"0":1,"sites\/all\/modules\/webform\/css\/webform.css":1,"public:\/\/ctools\/css\/d41d8cd98f00b204e9800998ecf8427e.css":1,"sites\/all\/themes\/klant\/css\/global.scss":1,"sites\/all\/themes\/klant\/css\/ie8.scss":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/omega\/omega\/css\/formalize.css":1,"public:\/\/fontyourface\/local_fonts\/eurostileregular-normal-normal\/stylesheet.css":1,"public:\/\/fontyourface\/local_fonts\/myriadpro-normal-normal\/stylesheet.css":1,"sites\/all\/themes\/klant\/css\/global.css":1,"normal::sites\/all\/themes\/klant\/css\/klant-alpha-default.css":1,"normal::sites\/all\/themes\/klant\/css\/klant-alpha-default-normal.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1}},"stateHandler":{"history_js_implementation":"jquery","plugins":[]},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/nl\/contact-staalglas":true},"omega":{"layouts":{"primary":"normal","order":["normal"],"queries":{"normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)"}}}});
 //--><!]]>
 </script>
   <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
@@ -164,7 +164,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"nl\/","ajaxPageSta
       <div  about="/nl/staalglas-uw-specialist-veiligheidsglas" typeof="sioc:Item foaf:Document" id="node-voorpagina-6" class="ds-1col node node-voorpagina view-mode-full node-published node-not-promoted node-not-sticky author-solfers odd clearfix clearfix">
 
   
-  <div class="field field-name-sliders field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="view view-banner view-id-banner view-display-id-block_1 view-dom-id-bae547ee92b8dd88f57a546f8382020e">
+  <div class="field field-name-sliders field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="view view-banner view-id-banner view-display-id-block_1 view-dom-id-248b7294676fd7ebd7a992f148a94667">
         
   
   
@@ -218,7 +218,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"nl\/","ajaxPageSta
   <div class="block-inner clearfix">
                 
     <div class="content clearfix">
-      <div class="view view-footer-inhoud view-id-footer_inhoud view-display-id-block_1 view-dom-id-a3b39052f4dff331a5b3d35d59a46ba2">
+      <div class="view view-footer-inhoud view-id-footer_inhoud view-display-id-block_1 view-dom-id-43961d9f91689a7de855c3a2d5f70ee0">
         
   
   
@@ -251,7 +251,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"nl\/","ajaxPageSta
   <div class="block-inner clearfix">
                 
     <div class="content clearfix">
-      <div class="view view-footer-inhoud view-id-footer_inhoud view-display-id-block_2 view-dom-id-7c496e8ef32704ac732851e17fc15fbd">
+      <div class="view view-footer-inhoud view-id-footer_inhoud view-display-id-block_2 view-dom-id-a32f305ff9c62cbc29f72898b41748b0">
         
   
   
@@ -284,7 +284,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"nl\/","ajaxPageSta
   <div class="block-inner clearfix">
                 
     <div class="content clearfix">
-      <div class="view view-footer-inhoud view-id-footer_inhoud view-display-id-block_4 view-dom-id-f73f463a85aea88c982c9f2722e8a046">
+      <div class="view view-footer-inhoud view-id-footer_inhoud view-display-id-block_4 view-dom-id-c6bc743d83c7106824c1c13ed9d86598">
         
   
   
@@ -305,7 +305,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"nl\/","ajaxPageSta
   <div class="block-inner clearfix">
                 
     <div class="content clearfix">
-      <div class="view view-footer view-id-footer view-display-id-block view-dom-id-180697b0f7f83631706403ae5d524e79">
+      <div class="view view-footer view-id-footer view-display-id-block view-dom-id-26cae90989c9714703bdc0c6b399453c">
         
   
   
@@ -350,10 +350,10 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"nl\/","ajaxPageSta
 <input type="hidden" name="details[page_num]" value="1" />
 <input type="hidden" name="details[page_count]" value="1" />
 <input type="hidden" name="details[finished]" value="0" />
-<input type="hidden" name="form_build_id" value="form-Rj5FxcoA3TxidQUOalzOJFCZkRYFQfzLS-RS4hkQ-ow" />
+<input type="hidden" name="form_build_id" value="form-Dhu6P_f2OKeeMt1aLEMe90_9j0XTe2PsI516_wCz7W0" />
 <input type="hidden" name="form_id" value="webform_client_form_11" />
-<div class="CdkrhMpYTQXqHTAmYBzjndccrbnFwdZOdKEXQxwDZZaUncxZqkOsmpVYhQFLXQII"><div class="captcha"><input type="hidden" name="captcha_sid" value="179288" />
-<input type="hidden" name="captcha_token" value="3af3de7a34ceeba5ab66410cb3743bdc" />
+<div class="jqHLBAkCmYOzsNPpqkgORcLmyRdazUzQfvYFLFsEvpcGKshwnHwFfcmIEXNEdYvE"><div class="captcha"><input type="hidden" name="captcha_sid" value="179901" />
+<input type="hidden" name="captcha_token" value="66714b40c3f5713c307c73a0830032f2" />
 <div class="form-item form-type-textfield form-item-captcha-response">
   <label for="edit-captcha-response">message </label>
  <input tabindex="-1" type="text" id="edit-captcha-response" name="captcha_response" value="" size="60" maxlength="128" class="form-text" />

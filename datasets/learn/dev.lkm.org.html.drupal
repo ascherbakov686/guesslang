@@ -1,0 +1,127 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="en" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://dev.lkm.org/sites/all/themes/bootstrap/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Welcome to League of Kansas Municipalities | League of Kansas Municipalities</title>
+  <style>
+@import url("http://dev.lkm.org/modules/system/system.base.css?npujmc");
+</style>
+<style>
+@import url("http://dev.lkm.org/modules/field/theme/field.css?npujmc");
+</style>
+<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" media="all" />
+<style>
+@import url("http://dev.lkm.org/sites/all/themes/bootstrap/css/overrides.css?npujmc");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="http://dev.lkm.org/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script src="http://dev.lkm.org/misc/jquery.once.js?v=1.2"></script>
+<script src="http://dev.lkm.org/misc/drupal.js?npujmc"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bootstrap","theme_token":"GYOuIWazqsb7gq6r4mRBIpDG887C0U6VY0T0meug-T0","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/js\/bootstrap.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/css\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1}},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node navbar-is-fixed-top" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <header id="navbar" role="banner" class="navbar navbar-fixed-top navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+            <a class="logo navbar-btn pull-left" href="/" title="Home">
+        <img src="http://dev.lkm.org/sites/default/files/lkm-logo_0.png" alt="Home" />
+      </a>
+      
+      
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+          <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first last leaf active"><a href="/" class="active">Home</a></li>
+</ul>                                      </nav>
+      </div>
+      </div>
+</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+          <aside class="col-sm-3" role="complementary">
+          <div class="region region-sidebar-first well">
+    <section id="block-user-login" class="block block-user clearfix">
+
+        <h2 class="block-title">User login</h2>
+    
+  <form action="/node?destination=node" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-type-textfield form-item-name form-item form-group">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input class="form-control form-text required" type="text" id="edit-name" name="name" value="" size="15" maxlength="60" />
+</div>
+<div class="form-type-password form-item-pass form-item form-group">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input class="form-control form-text required" type="password" id="edit-pass" name="pass" size="15" maxlength="128" />
+</div>
+<ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul><input type="hidden" name="form_build_id" value="form-q1AQPM9C8QUIHamgW0EY1GJolsisuLewMsxwL20XB6Y" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<button class="btn btn-default form-submit" id="edit-submit" name="op" value="Log in" type="submit">Log in</button>
+</div></form>
+</section> <!-- /.block -->
+  </div>
+      </aside>  <!-- /#sidebar-first -->
+    
+    <section class="col-sm-9">
+                  <a id="main-content"></a>
+                    <h1 class="page-header">Welcome to League of Kansas Municipalities</h1>
+                                                          <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <div id="first-time"><p>No front page content has been created yet.</p></div>
+</section> <!-- /.block -->
+  </div>
+    </section>
+
+    
+  </div>
+</div>
+<footer class="footer container">
+    <div class="region region-footer">
+    <section id="block-system-powered-by" class="block block-system clearfix">
+
+      
+  <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>
+</section> <!-- /.block -->
+  </div>
+</footer>
+  <script src="http://dev.lkm.org/sites/all/themes/bootstrap/js/bootstrap.js?npujmc"></script>
+</body>
+</html>

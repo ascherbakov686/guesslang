@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/?q=home" />
+<link rel="shortlink" href="/?q=node/3" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="shortcut icon" href="https://datepalmgenomehub.abudhabi.nyu.edu/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>Home | Date Palm Genome Hub</title>
+  <style type="text/css" media="all">
+@import url("https://datepalmgenomehub.abudhabi.nyu.edu/modules/system/system.base.css?q5rj16");
+@import url("https://datepalmgenomehub.abudhabi.nyu.edu/modules/system/system.menus.css?q5rj16");
+@import url("https://datepalmgenomehub.abudhabi.nyu.edu/modules/system/system.messages.css?q5rj16");
+@import url("https://datepalmgenomehub.abudhabi.nyu.edu/modules/system/system.theme.css?q5rj16");
+</style>
+<style type="text/css" media="all">
+@import url("https://datepalmgenomehub.abudhabi.nyu.edu/modules/comment/comment.css?q5rj16");
+@import url("https://datepalmgenomehub.abudhabi.nyu.edu/sites/all/modules/date/date_api/date.css?q5rj16");
+@import url("https://datepalmgenomehub.abudhabi.nyu.edu/modules/field/theme/field.css?q5rj16");
+@import url("https://datepalmgenomehub.abudhabi.nyu.edu/modules/node/node.css?q5rj16");
+@import url("https://datepalmgenomehub.abudhabi.nyu.edu/modules/search/search.css?q5rj16");
+@import url("https://datepalmgenomehub.abudhabi.nyu.edu/sites/all/modules/tripal/tripal_core/theme/css/tripal.css?q5rj16");
+@import url("https://datepalmgenomehub.abudhabi.nyu.edu/sites/all/modules/tripal/tripal_feature/theme/css/tripal_feature.css?q5rj16");
+@import url("https://datepalmgenomehub.abudhabi.nyu.edu/sites/all/modules/tripal/tripal_organism/theme/css/tripal_organism.css?q5rj16");
+@import url("https://datepalmgenomehub.abudhabi.nyu.edu/modules/user/user.css?q5rj16");
+@import url("https://datepalmgenomehub.abudhabi.nyu.edu/sites/all/modules/views/css/views.css?q5rj16");
+</style>
+<style type="text/css" media="all">
+@import url("https://datepalmgenomehub.abudhabi.nyu.edu/sites/all/modules/ctools/css/ctools.css?q5rj16");
+</style>
+<style type="text/css" media="all">
+@import url("https://datepalmgenomehub.abudhabi.nyu.edu/sites/all/themes/mayo/css/style.css?q5rj16");
+@import url("https://datepalmgenomehub.abudhabi.nyu.edu/sites/default/files/color/mayo-73d60ee5/colors.css?q5rj16");
+</style>
+<link type="text/css" rel="stylesheet" href="https://datepalmgenomehub.abudhabi.nyu.edu/sites/default/files/mayo/mayo_files/mayo.responsive.layout.css?q5rj16" media="only screen" />
+
+<!--[if IE 8]>
+<link type="text/css" rel="stylesheet" href="https://datepalmgenomehub.abudhabi.nyu.edu/sites/all/themes/mayo/css/ie8.css?q5rj16" media="all" />
+<![endif]-->
+
+<!--[if  IE 7]>
+<link type="text/css" rel="stylesheet" href="https://datepalmgenomehub.abudhabi.nyu.edu/sites/all/themes/mayo/css/ie.css?q5rj16" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="https://datepalmgenomehub.abudhabi.nyu.edu/sites/all/themes/mayo/css/ie6.css?q5rj16" media="all" />
+<![endif]-->
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+body{font-size:87.5%;font-family:Georgia,'Palatino Linotype','Book Antiqua','URW Palladio L',Baskerville,Meiryo,'Hiragino Mincho Pro','MS PMincho',serif;}
+h1,h2,h3,h4,h5{font-family:Georgia,'Palatino Linotype','Book Antiqua','URW Palladio L',Baskerville,Meiryo,'Hiragino Mincho Pro','MS PMincho',serif;}
+
+/*]]>*/-->
+</style>
+  <script type="text/javascript" src="https://datepalmgenomehub.abudhabi.nyu.edu/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://datepalmgenomehub.abudhabi.nyu.edu/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://datepalmgenomehub.abudhabi.nyu.edu/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://datepalmgenomehub.abudhabi.nyu.edu/misc/drupal.js?q5rj16"></script>
+<script type="text/javascript" src="https://datepalmgenomehub.abudhabi.nyu.edu/sites/all/modules/tripal/tripal_core/theme/js/tripal.js?q5rj16"></script>
+<script type="text/javascript" src="https://datepalmgenomehub.abudhabi.nyu.edu/sites/all/modules/tripal/tripal_feature/theme/js/tripal_feature.js?q5rj16"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+ var baseurl  = 'https://datepalmgenomehub.abudhabi.nyu.edu';
+      var isClean  =  0;
+      var tripal_path = '/?q=sites/all/modules/tripal/tripal_core';
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"mayo","theme_token":"WLqAP5352_Td0r5eLaqQ0jGi0W5PksTFZ4KFww2tZtc","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/tripal\/tripal_core\/theme\/js\/tripal.js":1,"sites\/all\/modules\/tripal\/tripal_feature\/theme\/js\/tripal_feature.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"sites\/all\/modules\/tripal\/tripal_core\/theme\/css\/tripal.css":1,"sites\/all\/modules\/tripal\/tripal_feature\/theme\/css\/tripal_feature.css":1,"sites\/all\/modules\/tripal\/tripal_organism\/theme\/css\/tripal_organism.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/mayo\/css\/style.css":1,"sites\/all\/themes\/mayo\/css\/colors.css":1,"public:\/\/mayo\/mayo_files\/mayo.responsive.layout.css":1,"sites\/all\/themes\/mayo\/css\/ie8.css":1,"sites\/all\/themes\/mayo\/css\/ie.css":1,"sites\/all\/themes\/mayo\/css\/ie6.css":1,"0":1,"1":1}},"urlIsAjaxTrusted":{"\/":true,"\/?q=home\u0026destination=node\/3":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-3 node-type-page rc-0" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+
+<div id="page-wrapper" style=" margin-top: 14px; margin-bottom: 14px;">
+  <div id="page" style="padding: 10px;">
+
+    <div id="header" style="filter:;background: url(/sites/default/files/BeachTrees_IMG_1140_94.jpeg) repeat top left;border: none;">
+    <div id="header-watermark" style="">
+    <div class="section clearfix">
+
+              <div id="logo">
+        <a href="/" title="Home" rel="home">
+          <img src="https://datepalmgenomehub.abudhabi.nyu.edu/sites/default/files/fruit_w_white_border_75x75.jpeg" alt="Home" />
+        </a>
+        </div> <!-- /#logo -->
+      
+              <div id="name-and-slogan">
+                                    <div id="site-name"><strong>
+                <a href="/" title="Home" rel="home"><span>Date Palm Genome Hub</span></a>
+              </strong></div>
+                      
+                  </div> <!-- /#name-and-slogan -->
+      
+              <div id="header-searchbox">
+      <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input onblur="if (this.value == &#039;&#039;) { this.value = &#039;search this site&#039;; }" onfocus="if (this.value == &#039;search this site&#039;) { this.value = &#039;&#039;; }" type="text" id="edit-search-block-form--2" name="search_block_form" value="search this site" size="12" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions--2"></div><input type="hidden" name="form_build_id" value="form-Ix-znfvFCRYZzDX-7iMZZeOVjS6qBaew5T1sONN3gus" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>        </div>
+      
+      
+      <div class="clearfix cfie"></div>
+
+      
+    </div> <!-- /.section -->
+    </div> <!-- /#header-watermark -->
+    </div> <!-- /#header -->
+
+          <div id="navigation"><div class="section">
+        <ul id="main-menu" class="links inline clearfix"><li class="menu-219 active-trail first active"><a href="/?q=home" title="Drupal genome site home page." class="active-trail active">Home</a></li>
+<li class="menu-561"><a href="https://datepalmgenomehub.abudhabi.nyu.edu/jbrowse/JBrowse-1.15.4/index.html" title="View the NYU datepalm genome data on JBrowse">JBrowse</a></li>
+<li class="menu-546"><a href="/?q=about" title="About this site">About</a></li>
+<li class="menu-723 last"><a href="/?q=node/12">Downloads</a></li>
+</ul>              </div></div> <!-- /.section, /#navigation -->
+    
+    <div class="clearfix cfie"></div>
+
+    <!-- for nice_menus, superfish -->
+        
+    <!-- space between menus and contents -->
+    <div class="spacer clearfix cfie"></div>
+
+
+    <div id="main-wrapper">
+    <div id="main" class="clearfix" style="">
+
+      
+      
+      
+      <div class="clearfix cfie"></div>
+
+
+      <!-- main content -->
+      <div id="content" class="column"><div class="section">
+
+        
+        
+        <a id="main-content"></a>
+                <h1 class="title" id="page-title">Home</h1>                <div class="tabs clearfix"></div>                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <div id="node-3" class="node node-page clearfix" about="/?q=home" typeof="foaf:Document">
+
+  
+      <span property="dc:title" content="Home" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>This is the home page for the date palm population and evolutionary genomics project at New York University Abu Dhabi.</p>
+<p>The current genome hosted on this website is that of a 4th generation backcross male from a cross with Barhee.  See the About page for additional details.</p>
+<p>More content is coming soon!</p>
+</div></div></div>  </div>
+
+  
+</div>
+
+ <!-- added -->
+
+  </div>
+</div>
+  </div>
+        
+      </div></div> <!-- /.section, /#content -->
+
+      <!-- sidebar (first) -->
+      
+      <!-- sidebar (second) -->
+                    <div id="sidebar-second" class="column sidebar"><div class="section">
+            <div class="region region-sidebar-second">
+    <div id="block-system-navigation" class="block block-system block-menu clearfix">
+
+    <h2>Navigation</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first collapsed"><a href="/?q=ctools_ajax_sample">Chaos Tools AJAX Demo</a></li>
+<li class="last expanded"><a href="/?q=chado" title="Listings of the various biological data available categorized by type.">Search Data</a><ul class="menu"><li class="first leaf"><a href="/?q=chado/analysis">Analyses</a></li>
+<li class="leaf"><a href="/?q=chado/feature" title="A biological sequence or a section of a biological sequence, or a collection of such sections.">Features</a></li>
+<li class="last leaf"><a href="/?q=chado/organism" title="Any living biological entity, such as an animal, plant, fungus, or bacterium.">Organisms</a></li>
+</ul></li>
+</ul>  </div>
+</div>
+<div id="block-user-login" class="block block-user clearfix">
+
+    <h2>User login</h2>
+  
+  <div class="content">
+    <form action="/?q=home&amp;destination=node/3" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/?q=user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/?q=user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-gDUkplM-3LaH5vtxZLh28ZPN8BxjVVuhCYvlU80QaZw" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+        </div></div> <!-- /.section, /#sidebar-second -->
+      
+
+      <div class="clearfix cfie"></div>
+
+      
+      <div class="clearfix cfie"></div>
+
+
+      
+    </div> <!-- /#main -->
+    </div> <!-- /#main-wrapper -->
+
+    <!-- space between contents and footer -->
+    <div id="spacer" class="clearfix cfie"></div>
+
+    <div id="footer-wrapper">
+      
+            <div id="footer"><div class="section">
+          <div class="region region-footer">
+    <div id="block-system-powered-by" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+</div>
+  </div>
+      </div></div> <!-- /.section, /#footer -->
+      
+    </div> <!-- /#footer-wrapper -->
+  </div> <!-- /#page -->
+</div> <!-- /#page-wrapper -->
+  </body>
+</html>

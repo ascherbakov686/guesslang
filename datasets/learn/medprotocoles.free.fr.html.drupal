@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" dir="ltr">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="medprotocoles RSS" href="http://medprotocoles.free.fr/?q=rss.xml" />
+<link rel="shortcut icon" href="/misc/favicon.ico" type="image/x-icon" />
+  <title>medprotocoles</title>
+  <link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?f" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?f" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?f" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?f" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?f" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/ckeditor/ckeditor.css?f" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/forum/forum.css?f" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/bluemarine/style.css?f" />
+    <script type="text/javascript"> </script>
+</head>
+
+<body>
+
+<table border="0" cellpadding="0" cellspacing="0" id="header">
+  <tr>
+    <td id="logo">
+      <a href="/" title="Home"><img src="/themes/bluemarine/logo.png" alt="Home" /></a>      <h1 class='site-name'><a href="/" title="Home">medprotocoles</a></h1>          </td>
+    <td id="menu">
+            <ul class="links" id="navlist"><li class="menu-256 first"><a href="/?q=node/1" title="Aide à la prise en charge">Aide à la prise en charge</a></li>
+<li class="menu-312"><a href="/?q=node/10" title="Etudes">Etudes</a></li>
+<li class="menu-270 last"><a href="/?q=node/5" title="Travaux du service">Travaux du service</a></li>
+</ul>          </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div></div></td>
+  </tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" id="content">
+  <tr>
+    <td id="sidebar-left">
+        <div class="block block-menu" id="block-menu-primary-links">
+    <h2 class="title">Primary links</h2>
+    <div class="content"><ul class="menu"><li class="collapsed first"><a href="/?q=node/1" title="Aide à la prise en charge">Aide à la prise en charge</a></li>
+<li class="leaf"><a href="/?q=node/10" title="Etudes">Etudes</a></li>
+<li class="collapsed last"><a href="/?q=node/5" title="Travaux du service">Travaux du service</a></li>
+</ul></div>
+ </div>
+  <div class="block block-user" id="block-user-0">
+    <h2 class="title">User login</h2>
+    <div class="content"><form action="/?q=node&amp;destination=node"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
+<div class="item-list"><ul><li class="first"><a href="/?q=user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/?q=user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-975c9114e7a844c459a6aca15e1a1e53" value="form-975c9114e7a844c459a6aca15e1a1e53"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+</div>
+ </div>
+    </td>    <td valign="top">
+            <div id="main">
+                <h1 class="title"></h1>
+        <div class="tabs"></div>
+                          <div class="node">
+        <h2 class="title"><a href="/?q=node/10">Etudes</a></h2>    <span class="submitted">Submitted by admin on Tue, 02/19/2013 - 14:26</span>
+    <div class="taxonomy"></div>
+    <div class="content"><p>En cours:</p>
+<p>Ice Cube<br />
+MEWS<br />
+&nbsp;</p>
+<p>Pass&eacute;es:</p>
+<p>&nbsp;</p>
+</div>
+      </div>
+  <div class="node">
+        <h2 class="title"><a href="/?q=node/9">Accueil</a></h2>    <span class="submitted">Submitted by admin on Tue, 02/19/2013 - 14:20</span>
+    <div class="taxonomy"></div>
+    <div class="content"><p>Etudes en cours:</p>
+<ul>
+<li>Ice Cube</li>
+<li>MEWS<br />
+	&nbsp;</li>
+</ul>
+<p>&nbsp;</p>
+</div>
+      </div>
+        <a href="http://medprotocoles.free.fr/?q=rss.xml" class="feed-icon"><img src="/misc/feed.png" alt="Syndicate content" title="medprotocoles RSS" width="16" height="16" /></a>      </div>
+    </td>
+      </tr>
+</table>
+
+<div id="footer">
+      <div class="block block-system" id="block-system-0">
+    <h2 class="title"></h2>
+    <div class="content"><a href="http://drupal.org"><img src="/misc/powered-blue-88x31.png" alt="Powered by Drupal, an open source content management system" title="Powered by Drupal, an open source content management system" width="88" height="31" /></a></div>
+ </div>
+</div>
+</body>
+</html>

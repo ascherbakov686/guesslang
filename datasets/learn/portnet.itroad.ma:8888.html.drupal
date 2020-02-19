@@ -1,0 +1,1661 @@
+﻿
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('html') -->
+<!-- FILE NAME SUGGESTIONS:
+   * html--front.tpl.php
+   * html--node.tpl.php
+   x html.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/system/html.tpl.php' -->
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="PORTNET RSS" href="//portnet.itroad.ma:8888/fr/rss.xml" />
+<link rel="shortcut icon" href="//portnet.itroad.ma:8888/sites/all/themes/portnet/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>PORTNET</title>
+  <link type="text/css" rel="stylesheet" href="//portnet.itroad.ma:8888/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//portnet.itroad.ma:8888/sites/default/files/css/css_wK_6OkTymLeGE8EAA_dnsRvCJEpFx6LktC0tHt1BluE.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="//portnet.itroad.ma:8888/sites/default/files/css/css_cdMT1P3fbbP_miYLuV1P2OfCT0J2DqVMiLJkTX1Zmz0.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//portnet.itroad.ma:8888/sites/default/files/css/css_Zp-EX6dH7bXgD2qfEPYt1s4dcbOUWHEV8ZxO213iv0M.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//portnet.itroad.ma:8888/sites/default/files/css/css_hIiH79QCgM5AzwNMHbAb70SkNwF3W9T0izCTD_uPAgQ.css" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  
+  
+</head>
+<body class="html front not-logged-in no-sidebars page-node i18n-fr" >
+
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Aller au contenu principal</a>
+  </div>
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('page') -->
+<!-- FILE NAME SUGGESTIONS:
+   x page--front.tpl.php
+   * page--node.tpl.php
+   * page.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/system/page--front.tpl.php' -->
+
+<div id="my-welcome-message">
+	</div>
+<section id="video" class="main-slider">
+<div class="item youtube">
+    <iframe class="embed-player slide-media" width="100%" height="650" src="https://www.youtube.com/embed/vMoGf1y7FNE?enablejsapi=1&controls=0&fs=0&iv_load_policy=3&rel=0&showinfo=0&loop=1&playlist=vMoGf1y7FNE&start=2&mute=1" frameborder="0" allowfullscreen></iframe>
+</div>
+</section>
+</div>
+<!-- <link href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.css" rel="stylesheet" media="all"> -->
+<link href="/sites/all/themes/portnet/css/slick.min.css" rel="stylesheet" type="text/css"/>
+<style>
+.slick-slide, .slick-slide::before, .caption {
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+.slick-slide::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+section#video {
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.main-slider.slick-initialized {
+    opacity: 1;
+    visibility: visible;
+
+}
+.slick-slide {
+    position: relative;
+    /*height: 38vw;*/
+}
+.slick-slide::before {
+    background-color: #000;
+    opacity: 0.3;
+    z-index: 1;
+    top: -19px;
+}
+.slick-slide video {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    transform: translate(-50%, -50%);
+}
+.slick-slide iframe {
+    position: relative;
+    pointer-events: none;
+}
+.slick-slide figure {
+    position: relative;
+    height: 100%;
+}
+.slick-slide .slide-image {
+    opacity: 0;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    transition: all 0.8s ease;
+}
+.slick-slide .slide-image.show {
+    opacity: 1;
+}
+.slick-slide .image-entity {
+    width: 100%;
+    opacity: 0;
+    visibility: hidden;
+}
+.slick-slide .loading {
+    position: absolute;
+    top: 44%;
+    left: 0;
+    width: 100%;
+}
+.slick-slide .slide-media {
+    animation: slideOut 0.4s cubic-bezier(0.4, 0.29, 0.01, 1);
+}
+.slick-slide.slick-active {
+    z-index: 1;
+}
+.slick-slide.slick-active .slide-media {
+    animation: slideIn 2.4s cubic-bezier(0.4, 0.29, 0.01, 1);
+}
+.slick-slide.slick-active .caption {
+    opacity: 1;
+    transform: translateY(0);
+    transition: all 0.7s cubic-bezier(0.32, 0.34, 0, 1.62) 0.6s;
+}
+
+</style>
+<script src="/sites/all/themes/portnet/js/jquery-2.2.4.min.js"></script> 
+<script src="/sites/all/themes/portnet/js/slick.min.js"></script>
+<script>
+var slideWrapper = $(".main-slider"),
+    iframes = slideWrapper.find('.embed-player'),
+    lazyImages = slideWrapper.find('.slide-image'),
+    lazyCounter = 0;
+
+// POST commands to YouTube or Vimeo API
+function postMessageToPlayer(player, command) {
+    if (player == null || command == null) return;
+    player.contentWindow.postMessage(JSON.stringify(command), "*");
+}
+
+
+// When the slide is changing
+function playPauseVideo(slick, control){
+    var currentSlide, slideType, startTime, player, video;
+
+    currentSlide = slick.find(".slick-current");
+    slideType = currentSlide.attr("class").split(" ")[1];
+    player = currentSlide.find("iframe").get(0);
+    startTime = currentSlide.data("video-start");
+
+    if (slideType === "vimeo") {
+        switch (control) {
+            case "play":
+                if ((startTime != null && startTime > 0 ) && !currentSlide.hasClass('started')) {
+                    currentSlide.addClass('started');
+                    postMessageToPlayer(player, {
+                        "method": "setCurrentTime",
+                        "value" : startTime
+                    });
+                }
+                postMessageToPlayer(player, {
+                    "method": "play",
+                    "value" : 1
+                });
+                break;
+            case "pause":
+                postMessageToPlayer(player, {
+                    "method": "pause",
+                    "value": 1
+                });
+                break;
+        }
+    } else if (slideType === "youtube") {
+        switch (control) {
+            case "play":
+                postMessageToPlayer(player, {
+                    "event": "command",
+                    "func": "mute"
+                });
+                postMessageToPlayer(player, {
+                    "event": "command",
+                    "func": "playVideo"
+                });
+                break;
+            case "pause":
+                postMessageToPlayer(player, {
+                    "event": "command",
+                    "func": "pauseVideo"
+                });
+                break;
+        }
+    } else if (slideType === "video") {
+        video = currentSlide.children("video").get(0);
+        if (video != null) {
+            if (control === "play"){
+                video.play();
+            } else {
+                video.pause();
+            }
+        }
+    }
+}
+
+// Resize player
+function resizePlayer(iframes, ratio) {
+    if (!iframes[0]) return;
+    var win = $(".main-slider"),
+        width = win.width(),
+        playerWidth,
+        height = win.height(),
+        playerHeight,
+        ratio = ratio || 16/9;
+
+    iframes.each(function(){
+        var current = $(this);
+        if (width / ratio < height) {
+            playerWidth = Math.ceil(height * ratio);
+            current.width(playerWidth).height(height).css({
+                left: (width - playerWidth) / 2,
+                top: 0
+            });
+        } else {
+            playerHeight = Math.ceil(width / ratio);
+            current.width(width).height(playerHeight).css({
+                left: 0,
+                top: (height - playerHeight) / 2
+            });
+        }
+    });
+}
+
+// DOM Ready
+$(function() {
+    // Initialize
+    slideWrapper.on("init", function(slick){
+        slick = $(slick.currentTarget);
+        setTimeout(function(){
+            playPauseVideo(slick,"play");
+        }, 1000);
+        resizePlayer(iframes, 16/9);
+    });
+    slideWrapper.on("beforeChange", function(event, slick) {
+        slick = $(slick.$slider);
+        playPauseVideo(slick,"pause");
+    });
+    slideWrapper.on("afterChange", function(event, slick) {
+        slick = $(slick.$slider);
+        playPauseVideo(slick,"play");
+    });
+    slideWrapper.on("lazyLoaded", function(event, slick, image, imageSource) {
+        lazyCounter++;
+        if (lazyCounter === lazyImages.length){
+            lazyImages.addClass('show');
+            // slideWrapper.slick("slickPlay");
+        }
+    });
+
+    //start the slider
+    slideWrapper.slick({
+        // fade:true,
+        autoplaySpeed:4000,
+        lazyLoad:"progressive",
+        speed:600,
+        arrows:false,
+        dots:false,
+        cssEase:"cubic-bezier(0.87, 0.03, 0.41, 0.9)"
+    });
+});
+// $(".main-slider").css({"position": "absolute", "top": "0"});
+// Resize event
+
+</script>
+<div id="container-header">
+	﻿    <div id="block-cookies">En poursuivant votre navigation sur ce site, vous acceptez l'utilisation de cookies qui assurent le bon fonctionnement de nos services. <button id="block-cookies-bt">J'ai compris.</button></div>
+<header id="header" role="banner" class=" navbar navbar-fixed-top">
+    <div id="header-container1" class=" container navbar-container">
+        <div id="div-account-contact-langages">
+            <div id="div-account-contact">
+                <ul>
+
+                  
+                      <li><a href="http://portnet.itroad.ma:8888/fr/demande-souscription"><i class="fa fa-file" aria-hidden="true"></i>Souscrire à PORTNET</a></li>
+                      <li><a href="http://portnet.itroad.ma:8888/fr/creation-compte"><i class="fa fa-user" aria-hidden="true"></i>Espace privé</a></li>
+                                    <li><a data-toggle="modal" data-target="#myModal_subscribe" href="#"><i class="fa fa-envelope" aria-hidden="true"></i>S'abonner</a></li>
+                                  </ul>
+            </div>
+            <div id="div-langages-search">
+                            <div id="div-langages">
+                    <ul>
+                                                <li><a href="/en">English</a></li>
+                          <li><a href="/fr">Français</a></li>
+                          <li><a href="/ar">العربية</a></li>
+                                          </ul>
+                </div>
+                <div id="div-search">
+                  
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('region') -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--block-search.tpl.php
+   x region.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'modules/system/region.tpl.php' -->
+  <div class="region region-block-search">
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('block') -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--search--form.tpl.php
+   * block--search.tpl.php
+   * block--block-search.tpl.php
+   x block.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/block/block.tpl.php' -->
+<section id="block-search-form" class="block block-search clearfix">
+
+        <form class="search-form form-search content-search" role="search" action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div>
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('search_block_form') -->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/search/search-block-form.tpl.php' -->
+<div>
+      <h2 class="element-invisible">Formulaire de recherche</h2>
+    <div class="input-group"><input title="Indiquer les termes à rechercher" class="custom-search-box form-control form-text" placeholder="Rechercher" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" /><span class="input-group-btn"><button type="submit" class="btn btn-primary"><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span></button></span></div><div class="form-item form-item-custom-search-types form-type-select form-group"><select class="custom-search-selector custom-search-types form-control form-select" id="edit-custom-search-types" name="custom_search_types"><option value="c-all" selected="selected">-Any-</option><option value="c-actualites">Actualites</option><option value="c-appel_d_offre">Appel d&#039;offre</option><option value="c-communiqu_s_de_presse">Communiqués de presse</option><option value="c-event_calendar">Evénements</option><option value="c-guides_des_messages_utilis_s">Guide des messages utilisés</option><option value="c-offres_de_formations">Offres de formations</option><option value="c-page">Page de base</option><option value="c-images">album photos</option></select> <label class="control-label element-invisible" for="edit-custom-search-types">Search for</label>
+</div><div class="form-actions form-wrapper form-group" id="edit-actions--7"><input alt="" class="custom-search-button element-invisible form-submit" type="image" id="edit-submit--7" name="op" src="http://portnet.itroad.ma:8888/sites/default/files/custom_search/search-icon.png" /></div><input type="hidden" name="form_build_id" value="form-1PBU_wNHfnOCI6xI_PoXrdHo-N3oLupChUp_SBs2rMY" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/search/search-block-form.tpl.php' -->
+
+</div></form>
+</section>
+
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/block/block.tpl.php' -->
+
+  </div>
+
+<!-- END OUTPUT from 'modules/system/region.tpl.php' -->
+
+                </div>
+            </div>
+            <div style="clear:both;"></div>
+        </div>
+    </div>
+    <div id="header-container2" class=" container navbar-container">
+        <div class="navbar-header">
+                        <a id="brand" class="navbar-brand navbar-brand-duplicate hidden-xs" href="/fr" title="Accueil">
+                  <!--<img id="logo" src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/logo.png" alt="Accueil" />-->
+                  <img id="logo1" src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/new-logo2_fr.png" alt="Accueil" />
+                  <img style="display:none;" id="logo2" src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/new-logo2_fr.png" alt="Accueil" />
+              </a>
+          
+          
+                        <!-- <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-controls="navbar">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+              </button> -->
+              <a id="logo-mobile" class="" href="http://portnet.itroad.ma:8888"><img  src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/new-logo.png"/></a>
+              <a id="logo-mobile2" class="" style="display:none;" href="#"><img src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/new-logo.png"/></a>
+                  </div>
+
+              <div class="collapse navbar-collapse" id="navbar">
+              <nav role="navigation">
+                                  <ul class="menu nav navbar-nav"><li class="first leaf active active"><a href="/fr" title="" class="active">Accueil</a></li>
+<li class="expanded dropdown"><a href="/fr/mot-du-directeur-general" title="" class="dropdown-toggle" data-toggle="dropdown">Qui sommes-nous? <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/fr/mot-du-directeur-general" title="">Mot du directeur général</a></li>
+<li class="leaf"><a href="/fr/a-propos">A propos</a></li>
+<li class="leaf"><a href="/fr/nos-missions">Nos missions</a></li>
+<li class="leaf"><a href="/fr/nos-valeurs">Nos valeurs</a></li>
+<li class="leaf"><a href="/fr/partenaires">Nos partenaires</a></li>
+<li class="expanded dropdown-submenu"><a href="/fr/organigramme" title="" class="dropdown-toggle" data-toggle="dropdown">Notre équipe</a><ul class="dropdown-menu"><li class="first leaf"><a href="/fr/organigramme">Organigramme</a></li>
+<li class="last leaf"><a href="/fr/recrutement" title="">Recrutement</a></li>
+</ul></li>
+<li class="leaf"><a href="/fr/notre-politique-de-securite">Notre politique de sécurité</a></li>
+<li class="last leaf"><a href="/fr/temoignages">Témoignages</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/fr/abonnement-aux-services-de-portnet-sa" title="" class="dropdown-toggle" data-toggle="dropdown">Offres et services <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/fr/abonnement-aux-services-de-portnet-sa">Abonnement à nos services</a></li>
+<li class="leaf"><a href="/fr/tarification-des-services-offerts-par-portnet-s-a-">Tarification de nos services</a></li>
+<li class="expanded dropdown-submenu"><a href="/fr/paiement-electronique-multicanal" title="" class="dropdown-toggle" data-toggle="dropdown">Services</a><ul class="dropdown-menu"><li class="first leaf"><a href="/fr/notification-automatique-de-lavis-darrivee-marchandises-au-port">Avis d’arrivée des marchandises au port</a></li>
+<li class="leaf"><a href="/fr/demande-dagrements-des-produits-telecoms">Demande d’agréments des produits télécoms</a></li>
+<li class="leaf"><a href="/fr/paiement-electronique-multicanal">Paiement électronique multicanal</a></li>
+<li class="leaf"><a href="/fr/pydirect-0" title="">P@ydirect</a></li>
+<li class="leaf"><a href="/fr/preavis-darrivee-des-conteneurs-au-port">Préavis d&#039;arrivée des conteneurs au port</a></li>
+<li class="last leaf"><a href="/fr/prise-de-rdv-electronique-pour-la-sortie-des-conteneurs-du-port">Prise de RDV électronique pour la sortie des conteneurs du port</a></li>
+</ul></li>
+<li class="leaf"><a href="/fr/maison-des-services">Maison des services</a></li>
+<li class="leaf"><a href="/fr/consulting">Consulting</a></li>
+<li class="leaf"><a href="/fr/Offres-de-formation">Offres de formation</a></li>
+<li class="expanded dropdown-submenu"><a href="/fr/statistiques" title="" class="dropdown-toggle" data-toggle="dropdown">Statistiques et reporting</a><ul class="dropdown-menu"><li class="first last leaf"><a href="/fr/statistiques">Tableaux de bord mensuels</a></li>
+</ul></li>
+<li class="leaf active active"><a href="/fr" title="" class="active">Tracking des navires</a></li>
+<li class="last leaf"><a href="/fr/evaluer-nos-services">Evaluer nos services</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/fr/customer-journey" title="" class="dropdown-toggle" data-toggle="dropdown">Support <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/fr/customer-journey">Customer journey</a></li>
+<li class="expanded dropdown-submenu"><a href="/fr/formalites-import-maritime" title="" class="dropdown-toggle" data-toggle="dropdown">Procédures du commerce international</a><ul class="dropdown-menu"><li class="first leaf"><a href="/fr/formalites-import-maritime">Formalités Import Maritime</a></li>
+<li class="leaf"><a href="/fr/Formalites-export-maritime">Formalités Export Maritime</a></li>
+<li class="leaf"><a href="/fr/formalites-import-aerien">Formalités Import Aérien</a></li>
+<li class="last leaf"><a href="/fr/Formalites-export-a%C3%A9rien">Formalités Export Aérien</a></li>
+</ul></li>
+<li class="leaf"><a href="/fr/support-et-assistance-technique">Support et assistance technique</a></li>
+<li class="leaf"><a href="/fr/guides-utilisateurs">Guides utilisateurs</a></li>
+<li class="leaf"><a href="http://reclamation.portnet.ma/index.php5?page=citoyen.AccueilCitoyen" target="_blank">Demandes d&#039;information</a></li>
+<li class="last leaf"><a href="/fr/faq">Foire aux questions</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/fr/evenements" title="" class="dropdown-toggle" data-toggle="dropdown">Evénements <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/fr/evenements">A venir</a></li>
+<li class="leaf"><a href="/fr/evenements-historiques">Historiques des événements</a></li>
+<li class="last expanded dropdown-submenu"><a href="/fr/search/resume" title="Smart Trade challenge" class="dropdown-toggle" data-toggle="dropdown">Smart Trade challenge</a><ul class="dropdown-menu"><li class="first leaf"><a href="/fr/challenges" title="Challenges">Challenges</a></li>
+<li class="leaf"><a href="/fr/conditions-generales" title="Conditions générales">Conditions générales</a></li>
+<li class="last leaf"><a href="/fr/presentation">Présentation</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/fr/actualites" title="" class="dropdown-toggle" data-toggle="dropdown">Centre des médias <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/fr/actualites">Actualités</a></li>
+<li class="leaf"><a href="/fr/communiques-de-presse">Communiqués de presse</a></li>
+<li class="leaf"><a href="/fr/newsletters">Newsletters</a></li>
+<li class="leaf"><a href="/fr/publication">Publications</a></li>
+<li class="leaf"><a href="/fr/appels-d-offres" title="">Appels d&#039;offres</a></li>
+<li class="last expanded dropdown-submenu"><a href="/fr/galerie-images" title="" class="dropdown-toggle" data-toggle="dropdown">Galerie</a><ul class="dropdown-menu"><li class="first leaf"><a href="/fr/galerie-images" title="">Photos</a></li>
+<li class="last leaf"><a href="/fr/videos" title="">Vidéos</a></li>
+</ul></li>
+</ul></li>
+<li class="last leaf"><a href="/fr/nous-contacter">Nous contacter</a></li>
+</ul>                                                              </nav>
+          </div>
+          </div>
+
+</header>	
+	<div class="container container-login">
+    <div class="login-block col-md-4 col-sm-6 col-xs-12">
+        <div class="login-guichet">
+            <h3>Accès Guichet Unique</h3>
+                      <form target="_blank" method="post" action="https://preprod.portnet.ma/portnet/app/seguridad/user/j_security_check" id="loginForm" name="loginForm" autocomplete="off">
+                <div class="hidden"><input type="text"/><input type="password"/></div>
+                <div class="form-group form_login">
+                    <input class="form-control" id="usr" name="j_username" type="text" placeholder="Utilisateur" autocomplete="off">
+                </div>
+                <div class="form-group form_login">
+                    <input class="form-control" id="pwd" name="j_password" type="password" placeholder="Mot de passe" autocomplete="off" >
+                </div>
+                <ul class="login-links">
+                                      <li><a href="http://portnet.itroad.ma:8888/sites/default/files/devenir_client_portnet_s_a.pdf" target="_blank">Nouveau client ?</a></li>
+                    <li><a href="http://portnet.itroad.ma:8888/sites/default/files/changement_du_mot_de_passe_compte_utilisateur_client_portnet_s_a.pdf" target="_blank">Mot de passe oublié ?</a></li>
+
+                </ul>
+                <!--<button>Connexion</button>-->
+                <input id="submit" name="submit" type="submit" value="Se connecter">
+            </form>
+        </div>
+        <!--<div class="acces">
+			<span class="">
+			Accès Guichet Unique			</span>
+			<img class="" src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/btn_acces.png"/>
+		</div>-->
+    </div>
+  <div class="temoignages_block">
+	<div class="temoignages_block_title">
+		<h2 class="block-title">Témoignages</h2>
+		<div id="minimize-temoignages-home"></div>
+	</div>
+	
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('region') -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--temoignages-home.tpl.php
+   x region.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'modules/system/region.tpl.php' -->
+  <div class="region region-temoignages-home">
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('block') -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--views--t-moignages-home-page-block.tpl.php
+   * block--views.tpl.php
+   * block--temoignages-home.tpl.php
+   x block.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/block/block.tpl.php' -->
+<section id="block-views-t-moignages-home-page-block" class="block block-views clearfix">
+
+        <h2 class="block-title">Testimonials</h2>
+      
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view__t_moignages_home_page__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view--t-moignages-home-page--block.tpl.php
+   * views-view--t-moignages-home-page.tpl.php
+   * views-view.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/temoignages home/views-view--t-moignages-home-page--block.tpl.php' -->
+<div class="view view-t-moignages-home-page view-id-t_moignages_home_page view-display-id-block view-dom-id-8c4de92a125419ccdce8ceaee0161127">
+        
+  
+  
+      <div class="view-content">
+      
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('owlcarousel_views__t_moignages_home_page__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x owlcarousel-views--t-moignages-home-page--block.tpl.php
+   * owlcarousel-views--t-moignages-home-page.tpl.php
+   * owlcarousel-views.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/temoignages home/owlcarousel-views--t-moignages-home-page--block.tpl.php' -->
+<div class="owl-carousel-block39"><div class="item-0 item-odd">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__t_moignages_home_page__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--t-moignages-home-page--block.tpl.php
+   * views-view-fields--t-moignages-home-page.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/temoignages home/views-view-fields--t-moignages-home-page--block.tpl.php' -->
+<div class="item-temoignage-home">
+	<div class="item-temoignage-home-image"><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_t_moignage/public/isidor.jpg?itok=rBbZaCTY" width="130" height="150" alt="" /></div></div>
+	<div class="item-temoignage-home-body">
+		<div class="item-temoignage-home-nom"><strong> ISIDORE  BIYIHA</strong> </div>
+		<div class="item-temoignage-home-fonction">Président de l&#039;AACE</div>
+		<div class="item-temoignage-home-contenu">L'expérience de PORTNET en matiere de guichet Unique est pour nous une réference sachant que cette derniere à démaré bien apres nous mais a pu réalisé une avancée très considérable, c'est dans ce contexte là que nous nous inspirons de l'expérence marocaine dans un cadre d'échange et l'enrichissement mutuel par le biais de l'Alliance Africaine.
+</div>
+	</div>
+	<div class="item-temoignage-home-video">
+		<div class="field-content"></div>			</div>
+	<div class="item-temoignage-home-read-more" >
+	<a href="http://portnet.itroad.ma:8888/fr/temoignages">Lire la suite</a>
+	</div>
+</div>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/temoignages home/views-view-fields--t-moignages-home-page--block.tpl.php' -->
+
+</div><div class="item-1 item-even">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__t_moignages_home_page__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--t-moignages-home-page--block.tpl.php
+   * views-view-fields--t-moignages-home-page.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/temoignages home/views-view-fields--t-moignages-home-page--block.tpl.php' -->
+<div class="item-temoignage-home">
+	<div class="item-temoignage-home-image"><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_t_moignage/public/rachid.jpg?itok=5VyJc0q4" width="130" height="150" alt="" /></div></div>
+	<div class="item-temoignage-home-body">
+		<div class="item-temoignage-home-nom"><strong>Rachid Tahri</strong> </div>
+		<div class="item-temoignage-home-fonction">Président de l&#039;AFFM </div>
+		<div class="item-temoignage-home-contenu">L'arrivée de PortNet a fait du bien ans plusieurs sens, elle a eu le mérite de réunir toutes la commaunauté du Commerce extérieur autour d'un projet structurant qui est le guichet unique des procédures.
+</div>
+	</div>
+	<div class="item-temoignage-home-video">
+		<div class="field-content"></div>			</div>
+	<div class="item-temoignage-home-read-more" >
+	<a href="http://portnet.itroad.ma:8888/fr/temoignages">Lire la suite</a>
+	</div>
+</div>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/temoignages home/views-view-fields--t-moignages-home-page--block.tpl.php' -->
+
+</div><div class="item-2 item-odd">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__t_moignages_home_page__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--t-moignages-home-page--block.tpl.php
+   * views-view-fields--t-moignages-home-page.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/temoignages home/views-view-fields--t-moignages-home-page--block.tpl.php' -->
+<div class="item-temoignage-home">
+	<div class="item-temoignage-home-image"><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_t_moignage/public/abdelkader-amara-ministre-de-l-industrie-maroc_1.jpg?itok=KSYFWobW" width="130" height="150" alt="" /></div></div>
+	<div class="item-temoignage-home-body">
+		<div class="item-temoignage-home-nom"><strong>Abdelkader  Amara</strong> </div>
+		<div class="item-temoignage-home-fonction">Ministre de l’Equipement, du Transport, de la Logistique et de l’Eau - Conférence Annuelle du Guichet Unique PortNet, 12</div>
+		<div class="item-temoignage-home-contenu">‘‘Le Guichet Unique PortNet est véritablement un projet porteur en matière d’efficacité et d’efficience et illustre aussi une véritable rupture avec les pratiques en vigueur dans les différents maillons de la chaîne du commerce extérieur" a précisé M. Abdelkader Amara, Ministre de l’Equipement, du Transport, de la Logistique et de l’Eau lors de la Conférence Annuelle du Guichet Unique PortNet à Rabat.
+</div>
+	</div>
+	<div class="item-temoignage-home-video">
+		<div class="field-content"><a href="https://www.youtube.com/embed/Ho5Z540UJLY?width=640&amp;height=480&amp;autoplay=1&amp;loop=0&amp;showinfo=1&amp;controls=1&amp;autohide=0&amp;iv_load_policy=0&amp;iframe=1&amp;wmode=opaque" class="colorbox-load youtube-field-player" id="youtube-field-player"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/adaptive/public/youtube/Ho5Z540UJLY.jpg?itok=Im7ppIDw" width="100%" height="" alt="Embedded thumbnail for Abdelkader Amara" /></a></div>		<img class="icon-youtube" src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/youtube-icon.png"/>	</div>
+	<div class="item-temoignage-home-read-more" >
+	<a href="http://portnet.itroad.ma:8888/fr/temoignages">Lire la suite</a>
+	</div>
+</div>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/temoignages home/views-view-fields--t-moignages-home-page--block.tpl.php' -->
+
+</div><div class="item-3 item-even">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__t_moignages_home_page__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--t-moignages-home-page--block.tpl.php
+   * views-view-fields--t-moignages-home-page.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/temoignages home/views-view-fields--t-moignages-home-page--block.tpl.php' -->
+<div class="item-temoignage-home">
+	<div class="item-temoignage-home-image"><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_t_moignage/public/mc0_5128.jpg?itok=5ABPuZnz" width="130" height="150" alt="" /></div></div>
+	<div class="item-temoignage-home-body">
+		<div class="item-temoignage-home-nom"><strong>Hassan  Sentissi El Idrissi</strong> </div>
+		<div class="item-temoignage-home-fonction">Président de l’ASMEX - 3ème édition de la Conférence Annuelle du Guichet Unique PortNet, 12 décembre 2017.</div>
+		<div class="item-temoignage-home-contenu">La mise en place du Guichet Unique a vu son impact et son interaction directe avec la compétitivité de notre économie nationale. Il constitue une avancée entre les acteurs clés du commerce extérieur et les apports et les retombées positives de la simplification, et la dématérialisation des procédures du commerce extérieur sur l’économie et sur les entreprises.
+</div>
+	</div>
+	<div class="item-temoignage-home-video">
+		<div class="field-content"></div>			</div>
+	<div class="item-temoignage-home-read-more" >
+	<a href="http://portnet.itroad.ma:8888/fr/temoignages">Lire la suite</a>
+	</div>
+</div>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/temoignages home/views-view-fields--t-moignages-home-page--block.tpl.php' -->
+
+</div><div class="item-4 item-odd">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__t_moignages_home_page__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--t-moignages-home-page--block.tpl.php
+   * views-view-fields--t-moignages-home-page.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/temoignages home/views-view-fields--t-moignages-home-page--block.tpl.php' -->
+<div class="item-temoignage-home">
+	<div class="item-temoignage-home-image"><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_t_moignage/public/capture_4.png?itok=5kXZ-JXV" width="130" height="150" alt="" /></div></div>
+	<div class="item-temoignage-home-body">
+		<div class="item-temoignage-home-nom"><strong>Miriem Bensalah Chaqroun</strong> </div>
+		<div class="item-temoignage-home-fonction">Présidente de la CGEM - Réunion annuelle du CNEA du 24 février 2015</div>
+		<div class="item-temoignage-home-contenu">L’ambitieux projet de PORTNET a enregistré des avancées considérables. Il faut maintenir nos efforts et résoudre les blocages soulevés pour aboutir à l’objectif de « Zéro Papier » dans les démarches à l’import et l’export. Nous sollicitons la poursuite et l’accélération de ces efforts dans la dématérialisation des procédures.
+</div>
+	</div>
+	<div class="item-temoignage-home-video">
+		<div class="field-content"></div>			</div>
+	<div class="item-temoignage-home-read-more" >
+	<a href="http://portnet.itroad.ma:8888/fr/temoignages">Lire la suite</a>
+	</div>
+</div>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/temoignages home/views-view-fields--t-moignages-home-page--block.tpl.php' -->
+
+</div><div class="item-5 item-even">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__t_moignages_home_page__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--t-moignages-home-page--block.tpl.php
+   * views-view-fields--t-moignages-home-page.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/temoignages home/views-view-fields--t-moignages-home-page--block.tpl.php' -->
+<div class="item-temoignage-home">
+	<div class="item-temoignage-home-image"><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_t_moignage/public/omc.png?itok=JMj3rKuu" width="130" height="150" alt="" /></div></div>
+	<div class="item-temoignage-home-body">
+		<div class="item-temoignage-home-nom"><strong>Organisation Mondiale du Commerce</strong> </div>
+		<div class="item-temoignage-home-fonction">Examen de la Politique Commerciale du Maroc - 2 et 4 février 2016</div>
+		<div class="item-temoignage-home-contenu">Les Membres ont félicité le Maroc pour ses réformes de facilitation du commerce, y compris l'introduction de la plate-forme électronique PortNet et l'amélioration du système informatique pour l'administration des douanes
+</div>
+	</div>
+	<div class="item-temoignage-home-video">
+		<div class="field-content"></div>			</div>
+	<div class="item-temoignage-home-read-more" >
+	<a href="http://portnet.itroad.ma:8888/fr/temoignages">Lire la suite</a>
+	</div>
+</div>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/temoignages home/views-view-fields--t-moignages-home-page--block.tpl.php' -->
+
+</div><div class="item-6 item-odd">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__t_moignages_home_page__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--t-moignages-home-page--block.tpl.php
+   * views-view-fields--t-moignages-home-page.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/temoignages home/views-view-fields--t-moignages-home-page--block.tpl.php' -->
+<div class="item-temoignage-home">
+	<div class="item-temoignage-home-image"><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_t_moignage/public/m.rabbah.jpg?itok=WZBlSF_S" width="130" height="150" alt="" /></div></div>
+	<div class="item-temoignage-home-body">
+		<div class="item-temoignage-home-nom"><strong>Aziz Rabbah</strong> </div>
+		<div class="item-temoignage-home-fonction">Ministre de l&#039;Équipement, du Transport et de la Logistique - Rencontre ASMEX-PORTNET, 17 novembre 2015</div>
+		<div class="item-temoignage-home-contenu">La mise en œuvre du guichet unique national PORTNET contribue à l'amélioration du climat des affaires au Maroc et de ce fait au développement de la compétitivité de l'économie nationale, &nbsp;par la&nbsp; réduction des coûts logistiques et des délais d'accomplissement des formalités et des opérations liées à l’import et à l’export des marchandises.
+
+Il constitue aussi un moyen efficace pour faciliter le circuit du commerce extérieur et améliorer la qualité des services rendus au sein des ports et d'optimiser le temps d'attente, surtout des navires, et des délais de manutention et de stockage des marchandises tant au niveau de l'import que de l'export.
+</div>
+	</div>
+	<div class="item-temoignage-home-video">
+		<div class="field-content"></div>			</div>
+	<div class="item-temoignage-home-read-more" >
+	<a href="http://portnet.itroad.ma:8888/fr/temoignages">Lire la suite</a>
+	</div>
+</div>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/temoignages home/views-view-fields--t-moignages-home-page--block.tpl.php' -->
+
+</div><div class="item-7 item-even">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__t_moignages_home_page__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--t-moignages-home-page--block.tpl.php
+   * views-view-fields--t-moignages-home-page.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/temoignages home/views-view-fields--t-moignages-home-page--block.tpl.php' -->
+<div class="item-temoignage-home">
+	<div class="item-temoignage-home-image"><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_t_moignage/public/image1.jpg?itok=MGScKjJX" width="130" height="150" alt="" /></div></div>
+	<div class="item-temoignage-home-body">
+		<div class="item-temoignage-home-nom"><strong>Richard  Morton</strong> </div>
+		<div class="item-temoignage-home-fonction">Secrétaire Général de l’International Port Community System Association - Port Finance International, 13 août 2015 </div>
+		<div class="item-temoignage-home-contenu">Le Maroc dispose d'un guichet unique portuaire et du commerce qui gére le commerce dans tous les ports marocains et par conséquent cela a permis au Maroc de monter en flèche dans le classement de la Banque mondiale de la logistique.
+</div>
+	</div>
+	<div class="item-temoignage-home-video">
+		<div class="field-content"></div>			</div>
+	<div class="item-temoignage-home-read-more" >
+	<a href="http://portnet.itroad.ma:8888/fr/temoignages">Lire la suite</a>
+	</div>
+</div>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/temoignages home/views-view-fields--t-moignages-home-page--block.tpl.php' -->
+
+</div></div>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/temoignages home/owlcarousel-views--t-moignages-home-page--block.tpl.php' -->
+
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/temoignages home/views-view--t-moignages-home-page--block.tpl.php' -->
+
+
+</section>
+
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/block/block.tpl.php' -->
+
+  </div>
+
+<!-- END OUTPUT from 'modules/system/region.tpl.php' -->
+
+</div></div>	 <div id="block-social-networks" class="hidden-sm hidden-xs" >
+	<div id="block-social-networks1"><img src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/icon_earth.png" alt="" />
+	</div>
+	<div id="block-social-networks2" class="hidden-sm hidden-xs" >
+		
+		<a href="https://www.facebook.com/PORTNET-SA-1497372150477848/" target="_blank"><img src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/icon_facebook.png" alt="" /></a>
+		<a href="https://www.linkedin.com/company/portnet/" target="_blank"><img src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/icon_linkedin.png" alt="" /></a>
+		<a href="https://twitter.com/PORTNETSA" target="_blank"><img src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/icon_twitter.png" alt="" /></a>
+		<a href="https://www.youtube.com/channel/UC9vtz2NXQbiVAZ4rFPSOJtA" target="_blank"><img src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/icon_youtube.png" alt="" /></a>
+		<a href="http://portnet.itroad.ma:8888/faq" target="_blank"><img src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/icon_faq.png" alt="" /></a>
+	</div>
+</div> 
+	<a href="#container-body" class="scrollToBottom" style="display: inline;"></a>
+</div>
+<div class="container-fluid main-container">
+    <div class="main-container container">
+        <header role="banner" id="page-header">
+            
+                    </header> <!-- /#page-header -->
+
+        <div class="row">
+            
+            <section class="col-sm-12">
+                                                <a id="main-content"></a>
+                                                		  
+                                                                                                </section>
+            <!---->
+
+        </div>
+    </div>
+</div>
+<div class="container-fluid container-body" id="container-body">
+    <div class="<!--container container-blocks1-->container-fluid container-body">
+        <div id="block-assistance-agenda">
+            <div id="block-assistance">
+
+                <a href="http://portnet.itroad.ma:8888/fr/support-et-assistance-technique">
+                    <div id="block-assistance-body">
+                        <div>
+                            <div id="block-assistance-body-icone"><img src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/block-assistance-icon.png" alt=""/></div>
+                            <div id="block-assistance-body-text">
+                                Assistance                            </div>
+                        </div>
+                    </div>
+                </a>
+                <img id="block-assistance-image" src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/block-assistance-image.jpg" alt="" />
+            </div>
+            <div id="block-agenda">
+                <a href="http://portnet.itroad.ma:8888/fr/evenements">
+                    <div id="block-agenda-body">
+                        <div>
+                            <div id="block-agenda-body-icone"><img src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/block-agenda-icon.png" alt=""/></div>
+                            <div id="block-agenda-body-text">
+                                Evénements							
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                <img id="block-agenda-image" src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/block-agenda-image.jpg" alt="" />
+            </div>
+        </div>
+        <div id="block-services-statistiques">
+            <div id="block-services">
+                <div id="block-services-body">
+                    <div>
+                        <div id="block-services-body-icone"><img src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/block-services-icon.png" alt=""/></div>
+                        <div id="block-services-body-text">						
+                            Offre de services                        </div>
+                        <ul>
+                            <li class="col-lg-4"><a href="http://portnet.itroad.ma:8888/fr/maison-des-services">
+                                    Maison des services                                </a></li>
+                            <li class="col-lg-4"><a href="http://portnet.itroad.ma:8888/fr/consulting">
+                                    Consulting                                </a></li>
+                            <li class="col-lg-4"><a href="http://portnet.itroad.ma:8888/fr/offres-de-formation">
+                                    Offres de formation                                </a></li>
+                        </ul>
+                    </div>
+                </div>
+                <img id="block-services-image" src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/block-services-image.jpg" alt="" />
+            </div>
+            <div id="block-statistiques">
+                <div id="block-statistiques-body">
+                    <div>
+                        <div id="block-statistiques-body-icone"><img src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/block-statistiques-icon.png" alt=""/></div>
+                        <div id="block-statistiques-body-text">
+                            Statistiques et Reporting                        </div>
+                        <ul>
+                            <li class="col-lg-6"><a href="http://portnet.itroad.ma:8888/fr/statistiques">
+                                    Statistiques mensuelles                                </a></li>
+                            <li class="col-lg-6"><a href="#">
+                                    Tableaux de bord                                </a></li>
+                        </ul>
+                    </div>
+                </div>
+                <img id="block-statistiques-image" src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/block-statistiques-image.jpg" alt="" />
+            </div>
+        </div>
+        <div id="block-abonnement-tracking">
+            <div id="block-abonnement">
+                <a href="http://portnet.itroad.ma:8888/fr/abonnement-aux-services-de-portnet-sa">
+                    <div id="block-abonnement-body">
+                        <div>
+                            <div id="block-abonnement-body-icone"><img src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/block-abonnement-icon.png" alt=""/></div>
+                            <div id="block-abonnement-body-text">
+                                Abonnement aux services de PORTNET S.A.                            </div>
+                        </div>
+                    </div>
+                </a>
+                <img id="block-abonnement-image" src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/block-abonnement-image.jpg" alt="" />
+            </div>
+            <div id="block-tracking">
+                <a href="#">
+                    <div id="block-tracking-body">
+                        <div>
+                            <div id="block-tracking-body-icone"><img src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/block-tracking-icon.png" alt=""/></div>
+                            <div id="block-tracking-body-text">
+                                Tracking							
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                <img id="block-tracking-image" src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/block-tracking-image.jpg" alt="" />
+            </div>
+        </div>
+    </div>
+</div>
+<div id="container-diagram2" class="container-fluid container-diagram parallax-window" data-parallax="scroll" data-image-src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/back-process.jpg">
+    <!--<div class="container-fluid container-diagram" id="container-diagram2">-->
+    <div class="container container-blocks1" id="container-blocks1">
+        <div id="process-importation" class="process col-md-3 col-sm-3 col-lg-3 col-xs-12 masque">
+            <a href="http://portnet.itroad.ma:8888/fr/formalites-import-maritime"><img src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/process_import_maritim_fr.jpg" alt=""/></a>
+        </div>
+        <div  id="process-controle" class="process col-md-3 col-sm-3 col-lg-3 col-xs-12 masque">
+            <a href="http://portnet.itroad.ma:8888/fr/Formalites-export-maritime"><img src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/process_export_maritim_fr.jpg" alt=""/></a>
+        </div>
+        <div  id="process-portuaire" class="process col-md-3 col-sm-3 col-lg-3 col-xs-12 masque">
+            <a href="http://portnet.itroad.ma:8888/fr/formalites-import-aerien"><img src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/process_import_aerien_fr.jpg" alt=""/></a>
+        </div>
+        <div id="process-aero" class="process col-md-3 col-sm-3 col-lg-3 col-xs-12 masque">
+            <a href="http://portnet.itroad.ma:8888/fr/Formalites-export-aerien"><img src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/process_export_aerien_fr.jpg" alt=""/></a>
+        </div>
+        <div style="clear:both;"></div>
+    </div>
+    <div class="container container-blocks2">
+        <div id="process-word">
+            <span style="">
+                Votre compétitivité nous inspire            </span>
+            <span class="borderBottom"></span>
+        </div>
+    </div>
+    <div class="container container-partners">
+        <div id="block-partners">
+            <h3 id="block-partners-title">
+                <span>Nos Partenaires</span>
+                <span class="borderBottom"></span>
+            </h3>
+            <div id="block-partners-body">
+                <div class="container-fluid container-caroussel">
+                    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('region') -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--caroussel.tpl.php
+   x region.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'modules/system/region.tpl.php' -->
+  <div class="region region-caroussel">
+    
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('block') -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--views--caroussel-publicit-s-block.tpl.php
+   * block--views.tpl.php
+   * block--caroussel.tpl.php
+   x block.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/block/block.tpl.php' -->
+<section id="block-views-caroussel-publicit-s-block" class="block block-views clearfix">
+
+        
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/views/theme/views-view.tpl.php' -->
+<div class="view view-caroussel-publicit-s view-id-caroussel_publicit_s view-display-id-block view-dom-id-e54965eeaa4d02ca0e73f168a986a440">
+        
+  
+  
+      <div class="view-content">
+      
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('owlcarousel_views') -->
+<!-- BEGIN OUTPUT from 'sites/all/modules/owlcarousel/modules/views/theme/owlcarousel-views.tpl.php' -->
+<div class="owl-carousel-block9"><div class="item-0 item-odd">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='http://www.african-alliance.org/'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/aace_0.png?itok=yryX2i_Y" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-1 item-even">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='http://affm.info/'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/affm.png?itok=yPF3bUw0" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-2 item-odd">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='http://www.amdl.gov.ma/amdl/accueil/'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/amdl.png?itok=WEXV_ciO" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-3 item-even">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='http://www.anp.org.ma/'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/anp-logo_0.png?itok=PFlJ3a0R" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-4 item-odd">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='https://www.anrt.ma/'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/anrt.jpg?itok=Xk3xaZSY" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-5 item-even">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='https://www.apebi.org.ma/'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/apebi-logo.jpg?itok=_LZcw9x2" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-6 item-odd">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='http://www.apram.ma/'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/apram.png?itok=znDPXR6D" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-7 item-even">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='http://asmex.org/asmex/home.mvcx'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/asmex_logo_-_copie.png?itok=eMJmA2fy" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-8 item-odd">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='http://www.atadm.org.ma'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/atadm.png?itok=xC1OHgJ7" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-9 item-even">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='http://www.ausimaroc.com/'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/ausim.png?itok=iJmkvALT" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-10 item-odd">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='http://www.attijariwafabank.com'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/awb.png?itok=6wtmY52D" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-11 item-even">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='https://www.bmcedirect.ma'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/bmce.png?itok=KMKdk0Mq" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-12 item-odd">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='http://www.gbp.ma/Pages/Home.aspx'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/bp.png?itok=AJCI2B2m" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-13 item-even">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='http://www.cgem.ma/'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/cgem_0.png?itok=0dB0hZww" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-14 item-odd">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='http://icdt-oic.org/Fr/Default.aspx'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/cidc.png?itok=PsmRTzWH" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-15 item-even">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='http://www.climatdesaffaires.ma/'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/cnea_1.png?itok=ZwgteLot" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-16 item-odd">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href=''><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/crea_2.png?itok=xEgVAk0W" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-17 item-even">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href=''><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/cri.png?itok=L4UYtYpY" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-18 item-odd">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='http://www.exportmorocco.com/'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/export_morocco.png?itok=PzU-F0gH" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-19 item-even">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='http://www.epcsa.eu/'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/ipcsa.png?itok=ChdsnDo2" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-20 item-odd">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='http://www.sodep.co.ma/'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/marsa_mar.png?itok=UybgM6d5" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-21 item-even">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='https://www.kerix.net/fr/annuaire-entreprise/mass-cereales-almaghreb'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/mass.png?itok=YgMAWr04" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-22 item-odd">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='http://www.equipement.gov.ma/Pages/accueil.aspx'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/metle.jpeg?itok=8CGhEBi-" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-23 item-even">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='https://www.eacce.org.ma/fr/nourriture-du-maroc/'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/foodex.png?itok=Q20YvWXb" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-24 item-odd">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='http://www.oc.gov.ma/portal/'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/oc.png?itok=vafpoKV_" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-25 item-even">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='https://www.oncf.ma'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/oncf.png?itok=sCbjRTZ_" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-26 item-odd">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='http://www.onda.ma/'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/onda.png?itok=6QqZ0HET" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-27 item-even">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='http://www.onssa.gov.ma/'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/onssa.png?itok=DNEtrrhZ" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-28 item-odd">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='http://www.poste.ma/'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/postemaroc.png?itok=u6QY9bB-" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-29 item-even">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='http://www.douane.gov.ma/'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/rmadi.png?itok=zxDuqBAm" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-30 item-odd">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='http://www.mcinet.gov.ma/'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/royaume.png?itok=edCcAwuX" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-31 item-even">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='http://sntlgroup.ma/home/'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/sntl.jpeg?itok=RfQiKOUC" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-32 item-odd">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='https://www.societegenerale.fr/'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/societe-generale_logo.png?itok=uihHMBHD" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-33 item-even">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='http://www.somaport.ma/'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/somaport.png?itok=KUJdYPyw" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-34 item-odd">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='https://www.sosipo.com/'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/sosipo.png?itok=IqA0eZ8d" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div><div class="item-35 item-even">
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('views_view_fields__caroussel_publicit_s__block') -->
+<!-- FILE NAME SUGGESTIONS:
+   x views-view-fields--caroussel-publicit-s--block.tpl.php
+   * views-view-fields--caroussel-publicit-s.tpl.php
+   * views-view-fields.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+<a target='_blank' href='https://www.unece.org/cefact.html'><div class="field-content"><img typeof="foaf:Image" class="img-responsive" src="http://portnet.itroad.ma:8888/sites/default/files/styles/style_partenaire/public/un_cefact.png?itok=XqAIZX5e" width="300" height="200" alt="" /></div></a>
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/views/partenaires home/views-view-fields--caroussel-publicit-s--block.tpl.php' -->
+
+</div></div>
+<!-- END OUTPUT from 'sites/all/modules/owlcarousel/modules/views/theme/owlcarousel-views.tpl.php' -->
+
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+<!-- END OUTPUT from 'sites/all/modules/views/theme/views-view.tpl.php' -->
+
+
+</section>
+
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/block/block.tpl.php' -->
+
+  </div>
+
+<!-- END OUTPUT from 'modules/system/region.tpl.php' -->
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--<div class="container-fluid slider-home-container">-->
+<!--
+<div class="container-fluid slider-home-container parallax-window1" data-parallax="scroll" data-image-src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/parralax.png">
+	</div>
+-->
+
+<div class="container-fluid container-fluid-newsletter parallax-window2" data-parallax="scroll" data-image-src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/back-newsletter.jpg">
+	<div class="container container-newsletter col-sm-12">
+		<h3 id="newsletter-title-stay-connected">Abonnement à la Newsletter</h3>
+					</div>
+</div>
+<!--<div class="container-fluid actualites-home-container">
+	<div class="container">
+			</div>
+</div>-->
+
+<div id="EmplacementDeMaCarte">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3323.2308230329186!2d-7.604863684760471!3d33.59931498073148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda7cd7a579a2003%3A0x659bfe637fb59be8!2sPORTNET+S.A.!5e0!3m2!1sfr!2sma!4v1555429806014!5m2!1sfr!2sma" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
+
+<div id="myModal_subscribe" class="modal fade" role="dialog" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body">
+                <iframe  style="width:  100%; border:  none; height: 550px;" src="https://eepurl.com/c-TG-9"></iframe>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+
+    </div>
+</div>
+<footer id="footer">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12 col-xs-12 mobile-applications" style="padding-top:20px;">
+					<img class="image_portnet_footer" src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/logo-fr.png" alt="" >
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-12 col-xs-12 ">
+				<div class="row" style="margin-top:20px;">
+					<div class="col-sm-3 col-xs-12 sous_menu">
+						<div class=" ">
+							<ul>
+								<h4>Qui sommes-nous ?</h4>
+								<li><a href="http://portnet.itroad.ma:8888/a-propos">A propos</a></li>
+								<li><a href="http://portnet.itroad.ma:8888/nos-missions">Nos missions</a></li>
+								<li><a href="http://portnet.itroad.ma:8888/nos-valeurs">Nos valeurs</a></li>
+								<li><a href="http://portnet.itroad.ma:8888/recrutement">Recrutement</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-sm-3 col-xs-12 sous_menu">
+						<div class="">
+							<ul>
+								<h4>Smart Trade</h4>
+								<li><a href="http://portnet.itroad.ma:8888/abonnement-aux-services-de-portnet-sa">Abonnement aux services de PORTNET S.A.</a></li>
+								<li><a href="http://portnet.itroad.ma:8888/offres-de-formation">Offres de formation</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-sm-3 col-xs-12 sous_menu">
+						<div class="">
+							<ul>
+								<h4>Support</h4>
+								<li><a href="http://portnet.itroad.ma:8888/support-et-assistance-technique">Support et assistance technique</a></li>
+								<li><a href="http://reclamation.portnet.ma/index.php5?page=citoyen.AccueilCitoyen" target="_blank">Demande d'information</a></li>
+								<li><a href="http://portnet.itroad.ma:8888/statistiques">Statistiques et reporting</a></li>
+								<li><a href="#">Tracking</a></li>
+								<li><a href="http://portnet.itroad.ma:8888/faq" target="_blank">FAQ</a></li>
+							</ul>
+							
+						</div>
+					</div>
+					<div class="col-sm-3 col-xs-12 footer_contact">
+						<div >
+							<h4>Contact</h4>
+							<div class="item_contact">
+								<div class="item_contact_icone"><i class="fa fa-map-marker"></i></div>
+								<div class="item_contact_text">Enceinte Portuaire, Bâtiment de la Capitainerie, 2<sup>ème</sup> étage Port de Casablanca, 20000 Casablanca, Maroc</div>
+								<div style="clear:both;"></div>
+							</div>
+							<div class="item_contact">
+								<div class="item_contact_icone"><i class="glyphicon glyphicon-phone-alt"></i></div>
+								<div class="item_contact_text">+212 520 473 102</div>
+								<div style="clear:both;"></div>
+							</div>
+							
+							<div class="item_contact">
+								<div class="item_contact_icone"><i class="fa fa-fax"></i></div>
+								<div class="item_contact_text">+212 520 473 101</div>
+								<div style="clear:both;"></div>
+							</div>
+							<div class="item_contact">
+								<div class="item_contact_icone"><i class="fa fa-inbox"></i></div>
+								<div class="item_contact_text">contact@portnet.ma</div>
+								<div style="clear:both;"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="footer-block col-xs-12 col-sm-12 col-md-12 col-lg-12">
+				<div class="signature col-xs-12 col-sm-12 col-lg-4 col-md-4">
+					<p>&copy; 2020 PORTNET S.A. Tous droits réservés.</p>
+				</div>
+				<div class="condgen col-xs-12 col-sm-12 col-lg-4 col-md-4">
+					<a  style="color:white;text-decoration:underline;" href="http://portnet.itroad.ma:8888/sites/default/files/conditions_generales_portnet.pdf" target="_blank">Conditions générales d'utilisation</a>
+				</div>
+				<div class="social_media_footer col-xs-12 col-sm-12 col-lg-4 col-md-4">
+					
+					<a href="https://www.facebook.com/PORTNET-SA-1497372150477848/" target="_blank"><img src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/icon_facebook.png" alt="" /></a>
+					<a href="https://www.linkedin.com/company/portnet/" target="_blank"><img src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/icon_linkedin.png" alt="" /></a>
+					<a href="https://twitter.com/PORTNETSA" target="_blank"><img src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/icon_twitter.png" alt="" /></a>
+					<a href="https://www.youtube.com/channel/UC9vtz2NXQbiVAZ4rFPSOJtA" target="_blank"><img src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/icon_youtube.png" alt="" /></a>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+<a href="#" class="scrollToTop"></a>
+
+
+
+       
+<!--  pop up -->
+    <div id="myModal" class="modal fade" style="top: 20%;padding-right: 15px;">
+        <div class="modal-dialog">
+            <div class="modal-content" style="border-radius: 0;  " >
+                <div class="modal-body" style="border: none; border: none; margin: 0;padding: 0;">
+                    <div style="text-align: center;" >
+                        <div class="col-sm-12 col-xs-8 popupac" style="; padding: 0;" >
+                            <div class="col-sm-6" style="margin: 0;padding: 0; " >
+                                <a href="https://www.linkedin.com/company/portnet/" target="_blank"><img  style="width: 100%;float: left;" src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/icon_linkedin1.png" alt="" /></a>
+                            </div>
+                            <div class="col-sm-6" style="margin: 0;padding: 0;" >
+
+                                <div class="col-sm-12" style=" margin: 0;padding: 0;" >
+                                    <a href="https://www.facebook.com/PORTNET-SA-1497372150477848/" target="_blank"><img  style="width: 50%;float: left" src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/icon_facebook1.png" alt="" /></a>
+                                    <a href="https://www.youtube.com/channel/UC9vtz2NXQbiVAZ4rFPSOJtA" target="_blank"><img  style="width: 50%;float: left;" src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/icon_youtube1.png" alt="" /></a> </div>
+                                <div class="col-sm-12" style="margin: 0;padding: 0;" >
+                                    <a href="https://twitter.com/PORTNETSA" target="_blank"><img style="width: 50%;float: left;" src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/icon_twitter1.png" alt="" /></a>
+
+                                    <a href="http://portnet.itroad.ma:8888/faq" target="_blank"><img style="width: 50%;" src="http://portnet.itroad.ma:8888/sites/all/themes/portnet/images/icon_faq1.png" alt="" /></a>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-sm-12" >
+                <div class="modal-footer" style="border:none ; text-align: center;">
+                    <button type="button" class="btn btn-lg btn-primary btn_cookie_social" data-dismiss="modal">Plus tard</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<style>
+@media (max-width: 767px){
+    .popupac{
+        margin: 18%;
+    }	
+}
+</style>
+            
+
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/system/page--front.tpl.php' -->
+
+  <script>document.cookie = 'adaptive_image=' + Math.max(screen.width, screen.height) + '; path=/';</script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")</script>
+<script src="//portnet.itroad.ma:8888/sites/default/files/js/js_dWhBODswdXXk1M5Z5nyqNfGljmqwxUwAK9i6D0YSDNs.js"></script>
+<script src="//portnet.itroad.ma:8888/sites/default/files/js/js_BLxotNs2yt7YGlf9QRI9L9AMfdnkQfnN-_ADBTW3SiE.js"></script>
+<script src="//portnet.itroad.ma:8888/sites/default/files/js/js_qodqKl40QZiKgnPWTN8Wla0dTFqrhi9-QbkTRdeh_6k.js"></script>
+<script src="//portnet.itroad.ma:8888/sites/default/files/js/js_VztJBsKtfG3CHfPeVToczKUAuWFVjQrQlJunyzRbyRU.js"></script>
+<script src="//portnet.itroad.ma:8888/sites/default/files/js/js_v89jUZ_l2LR8NzEXW2kWQ6me12tC-jCbLw8O3mpuQ2A.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"fr\/","ajaxPageState":{"theme":"portnet","theme_token":"YltQK7gAtIG64tW9z_g8ag9TsclcHw65zuqPFyIMffo","jquery_version":"1.10","js":{"sites\/all\/libraries\/owl-carousel\/owl.carousel.min.js":1,"sites\/all\/modules\/owlcarousel\/includes\/js\/owlcarousel.settings.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"0":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.min.js":1,"1":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"public:\/\/languages\/fr_C_B9zZEMF4TCX_PuZ0JaV21n71WeJMcysyShR_rrJe4.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/custom_search\/js\/custom_search.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/responsive_menus\/styles\/meanMenu\/jquery.meanmenu.min.js":1,"sites\/all\/modules\/responsive_menus\/styles\/meanMenu\/responsive_menus_mean_menu.js":1,"sites\/all\/modules\/colorbox_node\/colorbox_node.js":1,"sites\/all\/themes\/portnet\/js\/bootstrap.min.js":1,"sites\/all\/themes\/portnet\/js\/jquery.firstVisitPopup.js":1,"sites\/all\/themes\/portnet\/js\/jquery-ui.min.js":1,"sites\/all\/themes\/portnet\/js\/custom.js":1,"sites\/all\/themes\/portnet\/js\/parallax.min.js":1,"sites\/all\/themes\/portnet\/js\/moment.js":1,"sites\/all\/themes\/portnet\/js\/jquery.eventCalendar.js":1,"sites\/all\/themes\/bootstrap\/js\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/libraries\/owl-carousel\/owl.carousel.css":1,"sites\/all\/libraries\/owl-carousel\/owl.theme.css":1,"sites\/all\/libraries\/owl-carousel\/owl.transitions.css":1,"sites\/all\/modules\/adaptive_image\/css\/adaptive-image.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/colorbox_node\/colorbox_node.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/youtube\/css\/youtube.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/custom_search\/custom_search.css":1,"sites\/all\/modules\/responsive_menus\/styles\/meanMenu\/meanmenu.min.css":1,"sites\/all\/themes\/portnet\/css\/bootstrap.min.css":1,"sites\/all\/themes\/portnet\/css\/animate.css":1,"sites\/all\/themes\/portnet\/css\/font-awesome.css":1,"sites\/all\/themes\/portnet\/css\/family.css":1,"sites\/all\/themes\/portnet\/css\/eventCalendar.css":1,"sites\/all\/themes\/portnet\/css\/eventCalendar_theme_responsive.css":1,"sites\/all\/themes\/portnet\/css\/style.css":1,"sites\/all\/themes\/portnet\/css\/style2.css":1,"sites\/all\/themes\/portnet\/css\/style3.css":1,"sites\/all\/themes\/portnet\/css\/nodef_responsive.css":1}},"colorbox":{"opacity":"0.85","current":"{current} sur {total}","previous":"\u00ab Pr\u00e9c.","next":"Suivant \u00bb","close":"Fermer","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"lightbox2":{"rtl":"0","file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"Voir les d\u00e9tails de l\u0026#039;image","node_link_target":false,"image_count":"Image !current sur !total","video_count":"Vid\u00e9o !current sur !total","page_count":"Page !current sur !total","lite_press_x_close":"Appuyez sur \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E pour fermer","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false,"useragent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit\/603.3.8 (KHTML, like Gecko) Version\/10.1.2 Safari\/603.3.8"},"custom_search":{"form_target":"_self","solr":0},"owlcarousel":{"owl-carousel-block39":{"settings":{"items":1,"itemsDesktop":["1199",1],"itemsDesktopSmall":["979",1],"itemsTablet":["768",1],"itemsTabletSmall":["0",0],"itemsMobile":["479",1],"singleItem":true,"itemsScaleUp":false,"slideSpeed":200,"paginationSpeed":200,"rewindSpeed":200,"autoPlay":"30000","stopOnHover":true,"navigation":true,"navigationText":["\u003C","\u003E"],"rewindNav":true,"scrollPerPage":false,"pagination":false,"paginationNumbers":false,"responsive":true,"responsiveRefreshRate":200,"baseClass":"owl-carousel","theme":"owl-theme","lazyLoad":false,"lazyFollow":true,"lazyEffect":"fadeIn","autoHeight":false,"jsonPath":false,"jsonSuccess":false,"dragBeforeAnimFinish":true,"mouseDrag":false,"touchDrag":false,"addClassActive":false,"transitionStyle":false},"views":{"ajax_pagination":0}},"owl-carousel-block9":{"settings":{"items":5,"itemsDesktop":["1199",4],"itemsDesktopSmall":["979",3],"itemsTablet":["768",3],"itemsTabletSmall":["0",0],"itemsMobile":["479",2],"singleItem":false,"itemsScaleUp":false,"slideSpeed":200,"paginationSpeed":800,"rewindSpeed":1000,"autoPlay":"5000","stopOnHover":false,"navigation":false,"navigationText":["\u003C","\u003E"],"rewindNav":true,"scrollPerPage":false,"pagination":false,"paginationNumbers":false,"responsive":true,"responsiveRefreshRate":200,"baseClass":"owl-carousel","theme":"owl-theme","lazyLoad":true,"lazyFollow":true,"lazyEffect":"fadeIn","autoHeight":false,"jsonPath":false,"jsonSuccess":false,"dragBeforeAnimFinish":true,"mouseDrag":false,"touchDrag":false,"addClassActive":false,"transitionStyle":false},"views":{"ajax_pagination":0}}},"views":{"ajax_path":"\/fr\/views\/ajax","ajaxViews":{"views_dom_id:e54965eeaa4d02ca0e73f168a986a440":{"view_name":"caroussel_publicit_s","view_display_id":"block","view_args":"","view_path":"node","view_base_path":null,"view_dom_id":"e54965eeaa4d02ca0e73f168a986a440","pager_element":0}}},"urlIsAjaxTrusted":{"\/fr\/views\/ajax":true,"\/":true},"responsive_menus":[{"selectors":"#navbar","container":"body","trigger_txt":"","close_txt":"X","close_size":"18px","position":"right","media_size":"768","show_children":"1","expand_children":"1","expand_txt":"+","contract_txt":"-","remove_attrs":"1","responsive_menus_style":"mean_menu"}],"colorbox_node":{"width":"600px","height":"600px"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":0,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":0,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+  
+
+<!-- THEME DEBUG -->
+<!-- CALL: theme('region') -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--page-bottom.tpl.php
+   x region.tpl.php
+-->
+<!-- BEGIN OUTPUT from 'modules/system/region.tpl.php' -->
+
+<!-- END OUTPUT from 'modules/system/region.tpl.php' -->
+
+<script src="http://portnet.itroad.ma:8888/sites/default/files/js/js__JoTd9Oxwhsenh2V4oPwBopK_5ZERouXB3otHIn_MrM.js"></script>
+<script src="http://portnet.itroad.ma:8888/sites/default/files/js/js_PsUZFECBunCwJ4mX_UxRXM-OtkUIKjLHPU55njOvc2o.js"></script>
+<script src="http://portnet.itroad.ma:8888/sites/default/files/js/js_OTdL_00eEtQq3wzsUAHLDYwgtcHpzbgUFYeJRcQf8f8.js"></script>
+</body>
+</html>
+
+<!-- END OUTPUT from 'sites/all/themes/portnet/templates/system/html.tpl.php' -->
+

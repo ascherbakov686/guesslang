@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+ <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="web.harker.org RSS" href="http://web.harker.org/?q=rss.xml" />
+<link rel="shortcut icon" href="/themes/danland/favicon.ico" type="image/x-icon" />
+  <title>web.harker.org</title>
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+  <link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?1" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/danland/style.css?1" />
+   <!--[if IE 6]><link rel="stylesheet" href="/themes/danland/style.ie6.css" type="text/css" /><![endif]-->
+  <script type="text/javascript" src="/misc/jquery.js?1"></script>
+<script type="text/javascript" src="/misc/drupal.js?1"></script>
+<script type="text/javascript" src="/themes/danland/scripts/jquery.cycle.all.js?1"></script>
+<script type="text/javascript" src="/themes/danland/scripts/hoverIntent.js?1"></script>
+<script type="text/javascript" src="/themes/danland/scripts/superfish.js?1"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/" });
+//--><!]]>
+</script>
+  <script type="text/javascript">
+jQuery(document).ready(function($) {
+    $('.slideshow').cycle({
+		fx: 'fade' , timeout: 4000, delay: 1000, randomizeEffects: false, requeueOnImageNotLoaded: true, requeueTimeout:  2000});
+});</script>
+<!--[if IE 6]>
+        <script type="text/javascript" src="/themes/danland/scripts/jquery.pngFix.js"></script>
+<![endif]-->
+<!--[if IE 6]>
+<script type="text/javascript">
+    jQuery(document).ready(function($)  {
+        $(document).pngFix();
+    });
+</script>
+<![endif]-->
+<script type="text/javascript">
+  jQuery(document).ready(function($) {
+    $("#superfish ul.menu").superfish({ 
+            delay:       100,                           
+            animation:   {opacity:'show',height:'show'},  
+            speed:       'fast',                          
+            autoArrows:  true,                           
+            dropShadows: true                   
+        });
+  });
+</script> 
+ </head>
+
+<body>
+<div id="header">
+<div id="header-wrapper">
+        <div id="header-first">
+                  </div><!-- /header-first -->
+        <div id="header-middle">
+	  <h1 class="logo-name"><a href="/" title="Home">web.harker.org</a></h1>				        </div><!-- /header-middle -->
+        <div id="search-box">
+                  </div><!-- /search-box -->
+
+	<div id="authorize">
+      <ul><li class="first"><a href="/?q=user">Login</a></li><li><a href="/?q=user/register">Register</a></li></ul>
+	  <a href="http://web.harker.org/?q=rss.xml" class="feed-icon"><img src="/misc/feed.png" alt="Syndicate content" title="web.harker.org RSS" width="16" height="16" /></a>  </div>
+
+      </div><!-- /header-wrapper -->
+
+</div> <!-- /header -->
+<div style="clear:both"></div>
+<div id="menu">
+<div id="rounded-menu-left"></div>
+       <!-- PRIMARY -->
+      <div id="nav">
+        <ul class="links"><li class="menu-114 active-trail first active"><a href="/" title="Home Base" class="active">Home</a></li>
+<li class="menu-115"><a href="/?q=node/1" title="Upper School Clubs">US Clubs</a></li>
+<li class="menu-116"><a href="/?q=node/2" title="Middle School Clubs">MS Clubs</a></li>
+<li class="menu-117 last"><a href="/?q=node/3" title="About">About</a></li>
+</ul>      </div> <!-- /primary -->
+    <div id="rounded-menu-right"></div>
+</div> <!-- end menu -->
+<div style="clear:both"></div>
+
+<div id="slideshow-wrapper">
+<div class="slideshow-inner">
+<div id="slideshow-preface">
+ </div>
+<div class="slideshow">
+<!--<img src="/themes/danland/images/slideshows/logo01.gif" width="950" height="355" alt="slideshow 1"/>-->
+<img src="/themes/danland/images/slideshows/logo02.gif" width="950" height="355" alt="slideshow 2"/>
+<img src="/themes/danland/images/slideshows/logo03.gif" width="950" height="355" alt="slideshow 3"/>
+<img src="/themes/danland/images/slideshows/logo04.gif" width="950" height="355" alt="slideshow 4"/>
+<img src="/themes/danland/images/slideshows/logo05.gif" width="950" height="355" alt="slideshow 5"/>
+<img src="/themes/danland/images/slideshows/logo06.gif" width="950" height="355" alt="slideshow 6"/>
+<img src="/themes/danland/images/slideshows/logo07.gif" width="950" height="355" alt="slideshow 7"/>
+</div>
+</div>
+</div>
+
+ 
+<div style="clear:both"></div>
+<div id="wrapper">
+<div id="content">
+																				      <div class="content-middle">  <div class="node">
+        <h2 class="title"><a href="/?q=node/5">Welcome!</a></h2>    <!--<span class="submitted">Submitted by rmenon on Sat, 08/21/2010 - 20:45</span>-->
+        <div class="content"><p>Hello All!</p>
+<p>Welcome to the all new web.harker.org. The primary purpose of this site is to serve as a gateway to all clubs within Harker. However, this site can serve you in other ways too. Browse around. Don't see your club's site? Take the initiative, talk to your club members and get your site listed. Do you have ideas for the site that you would like to share? Register above with your Harker email and leave your comments and suggestions below. Don't forget, of course, to enjoy the site.</p>
+<p>Sincerely,<br />
+Your <strong><a href="mailto:13ramakrishnanm@students.harker.org">Webmaster</a></strong></p>
+</div>
+      </div>
+</div>
+						
+</div> <!-- end content -->
+
+<div style="clear:both"></div>
+</div> <!-- end wrapper -->
+
+
+
+
+ 
+<div style="clear:both"></div>
+<div id="footer-wrapper">
+<div id="footer">
+ <div id="block-system-0" class="block ">
+
+
+  <div class="content"><a href="http://drupal.org"><img src="/misc/powered-blue-80x15.png" alt="Powered by Drupal, an open source content management system" title="Powered by Drupal, an open source content management system" width="80" height="15" /></a></div>
+</div>
+</div>
+</div> <!-- end footer wrapper -->
+
+<div style="clear:both"></div>
+<div id="notice"><p>Questions, Comments? Contact the <a href="mailto:13ramakrishnanm@students.harker.org">Webmaster</a>: Theme by <a href="http://www.danetsoft.com">Danetsoft</a></p></div>
+</body>
+</html>
+

@@ -1,0 +1,215 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/mat201-syllabus" />
+<link rel="shortlink" href="/node/576" />
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  extensions: ['tex2jax.js'],
+  jax: ['input/TeX','output/HTML-CSS'],
+  tex2jax: {
+    inlineMath: [ ['$','$'], ['\\(','\\)'] ],
+    processEscapes: true,
+    processClass: 'tex2jax',
+    ignoreClass: 'html'
+  },
+  showProcessingMessages: false,
+  messageStyle: 'none'
+});
+</script><link rel="shortcut icon" href="https://mat201dev.math.princeton.edu/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>MAT201 Syllabus | MAT201 DEV PAGE</title>
+  <style type="text/css" media="all">
+@import url("https://mat201dev.math.princeton.edu/modules/system/system.base.css?q56ri1");
+@import url("https://mat201dev.math.princeton.edu/modules/system/system.menus.css?q56ri1");
+@import url("https://mat201dev.math.princeton.edu/modules/system/system.messages.css?q56ri1");
+@import url("https://mat201dev.math.princeton.edu/modules/system/system.theme.css?q56ri1");
+</style>
+<style type="text/css" media="all">
+@import url("https://mat201dev.math.princeton.edu/modules/comment/comment.css?q56ri1");
+@import url("https://mat201dev.math.princeton.edu/modules/field/theme/field.css?q56ri1");
+@import url("https://mat201dev.math.princeton.edu/modules/node/node.css?q56ri1");
+@import url("https://mat201dev.math.princeton.edu/modules/search/search.css?q56ri1");
+@import url("https://mat201dev.math.princeton.edu/modules/user/user.css?q56ri1");
+@import url("https://mat201dev.math.princeton.edu/sites/all/modules/views/css/views.css?q56ri1");
+@import url("https://mat201dev.math.princeton.edu/sites/all/modules/ckeditor/css/ckeditor.css?q56ri1");
+</style>
+<style type="text/css" media="all">
+@import url("https://mat201dev.math.princeton.edu/sites/all/modules/ctools/css/ctools.css?q56ri1");
+@import url("https://mat201dev.math.princeton.edu/sites/all/modules/cas/cas.css?q56ri1");
+</style>
+<style type="text/css" media="all">
+@import url("https://mat201dev.math.princeton.edu/themes/bartik/css/layout.css?q56ri1");
+@import url("https://mat201dev.math.princeton.edu/themes/bartik/css/style.css?q56ri1");
+@import url("https://mat201dev.math.princeton.edu/themes/bartik/css/colors.css?q56ri1");
+</style>
+<style type="text/css" media="print">
+@import url("https://mat201dev.math.princeton.edu/themes/bartik/css/print.css?q56ri1");
+</style>
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="https://mat201dev.math.princeton.edu/themes/bartik/css/ie.css?q56ri1" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="https://mat201dev.math.princeton.edu/themes/bartik/css/ie6.css?q56ri1" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="https://mat201dev.math.princeton.edu/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://mat201dev.math.princeton.edu/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://mat201dev.math.princeton.edu/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://mat201dev.math.princeton.edu/misc/drupal.js?q56ri1"></script>
+<script type="text/javascript" src="https://mat201dev.math.princeton.edu/sites/all/modules/mathjax/mathjax.js?q56ri1"></script>
+<script type="text/javascript" src="https://mat201dev.math.princeton.edu/sites/all/modules/cas/cas.js?q56ri1"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bartik","theme_token":"ugYdf8bdzjqbKzfrVYumes4odOjIMBf9TKktZuXPSzQ","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/mathjax\/mathjax.js":1,"sites\/all\/modules\/cas\/cas.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/mathjax\/2.7.0\/MathJax.js?config=TeX-AMS-MML_HTMLorMML":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/cas\/cas.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"themes\/bartik\/css\/colors.css":1,"themes\/bartik\/css\/print.css":1,"themes\/bartik\/css\/ie.css":1,"themes\/bartik\/css\/ie6.css":1}},"urlIsAjaxTrusted":{"\/mat201-syllabus?destination=node\/576":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-576 node-type-page" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper"><div id="page">
+
+  <div id="header" class="without-secondary-menu"><div class="section clearfix">
+
+          <a href="/" title="Home" rel="home" id="logo">
+        <img src="https://mat201dev.math.princeton.edu/themes/bartik/logo.png" alt="Home" />
+      </a>
+    
+          <div id="name-and-slogan">
+
+                              <div id="site-name">
+              <strong>
+                <a href="/" title="Home" rel="home"><span>MAT201 DEV PAGE</span></a>
+              </strong>
+            </div>
+                  
+        
+      </div> <!-- /#name-and-slogan -->
+    
+    
+          <div id="main-menu" class="navigation">
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-196 first last active"><a href="/" class="active">Home</a></li>
+</ul>      </div> <!-- /#main-menu -->
+    
+    
+  </div></div> <!-- /.section, /#header -->
+
+  
+  
+  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
+
+    
+          <div id="sidebar-first" class="column sidebar"><div class="section">
+          <div class="region region-sidebar-first">
+    <div id="block-user-login" class="block block-user">
+
+    <h2>User login</h2>
+  
+  <div class="content">
+    <form action="/mat201-syllabus?destination=node/576" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-checkbox form-item-cas-identifier">
+ <input type="checkbox" id="edit-cas-identifier" name="cas_identifier" value="1" checked="checked" class="form-checkbox" />  <label class="option" for="edit-cas-identifier">Log in using Princeton NetID </label>
+
+<div class="description">You will be redirected to the secure Princeton login page.</div>
+</div>
+<div id="edit-cas-login-redirection-message" class="form-item form-type-item">
+ You will be redirected to the secure Princeton login page.
+</div>
+<div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<input type="hidden" name="form_build_id" value="form-HsX-d3GszCwWrYIk19q6V3cRs7-vrmJhRA06d_Z0WxU" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<input type="hidden" name="cas.return_to" value="node/576" />
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div><div class="item-list"><ul class="cas-links"><li class="cas-link first"><a href="/%23">Log in using Princeton NetID</a></li>
+<li class="uncas-link last"><a href="/%23"></a></li>
+</ul></div></div></form>  </div>
+</div>
+  </div>
+      </div></div> <!-- /.section, /#sidebar-first -->
+    
+    <div id="content" class="column"><div class="section">
+            <a id="main-content"></a>
+                    <h1 class="title" id="page-title">
+          MAT201 Syllabus        </h1>
+                          <div class="tabs">
+                  </div>
+                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-576" class="node node-page node-full clearfix" about="/mat201-syllabus" typeof="foaf:Document">
+
+      <span property="dc:title" content="MAT201 Syllabus" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div class="tex2jax"><p>At the simplest level, MAT201 extends the technical concepts of <a href="/syllabus/mat201/447"><strong>limits</strong></a>&nbsp;and <strong><a href="/syllabus/mat201/65">continuity</a></strong>, <a href="/syllabus/mat201/473"><strong>derivatives</strong></a>&nbsp;and <a href="/syllabus/mat201/99"><strong>integrals</strong></a>&nbsp; to two and three dimensions where these notions acquire greater technical complexity and reveal subtle complications and deep connections that enrich our understanding of numbers, geometry and functions. Together with its companion course MAT202 (Linear Algebra), this course provides the mathematical foundation for analysis in complex settings where many factors come into play and it develops concepts and problem-solving skills required for physics, biology and economics and all the engineering disciplines. The pace is extremely fast, and assumes a very strong calculus background in the single-variable setting. The main objectives of MAT201 include the following:</p>
+
+<ul>
+	<li>2- and 3-Dimensional Geometry: We start with a quick review of the notion of<a href="/syllabus/mat201/474"> </a><a href="/syllabus/mat201/474"><strong>vectors in two and three dimensions</strong></a>, introduce the <strong><a href="/syllabus/mat201/13">dot product</a></strong>&nbsp;and the <strong><a href="/syllabus/mat201/14">cross-product</a></strong>&nbsp;to describe <strong><a href="/syllabus/mat201/479">lengths</a></strong>, <strong><a href="/syllabus/mat201/480">angles</a></strong>,<strong> <a href="/syllabus/mat201/471">lines and&nbsp;</a></strong><strong><a href="/syllabus/mat201/471">planes</a></strong>&nbsp;and from there move to <strong><a href="/syllabus/mat201/446">elementary surfaces</a>&nbsp;</strong>built from families of <strong><a href="/syllabus/mat201/34">conic sections</a></strong>&nbsp;as an introduction to more <a href="/syllabus/mat201/36"><strong>general curves</strong></a>&nbsp;and <strong><a href="/syllabus/mat201/45">surfaces</a></strong>. We develop the general notions of<strong> <a href="/syllabus/mat201/42">arc length</a></strong>, <strong><a href="/syllabus/mat201/51">surface area</a></strong>&nbsp;and <strong><a href="/syllabus/mat201/105">volume</a>&nbsp;</strong>&nbsp;and learn how to move between various <a href="/syllabus/mat201/2"><strong>coordinate systems</strong></a>&nbsp;where appropriate. We define <a href="/syllabus/mat201/104"><strong>double</strong></a>&nbsp; and <a href="/syllabus/mat201/105"><strong>triple integrals</strong></a>&nbsp;and use them to compute <a href="/syllabus/mat201/106"><strong>areas</strong></a>&nbsp; and <a href="/syllabus/mat201/110"><strong>volumes</strong></a>&nbsp;of 2-dimensional or 3-dimensional regions in space as a prelude to doing calculus on curves and surfaces. The course culminates in a technically demanding treatment of <strong><a href="/syllabus/mat201/112">vector fields</a></strong>, <a href="/syllabus/mat201/126"><strong>line</strong></a>&nbsp;and <a href="/syllabus/mat201/135"><strong>surface integrals</strong></a>&nbsp;and various integration theorems due to <strong><a href="/syllabus/mat201/455">Gauss</a></strong>, <a href="/syllabus/mat201/448"><strong>Green</strong></a>&nbsp;and <a href="/syllabus/mat201/456"><strong>Stokes</strong></a>&nbsp;that <a href="/syllabus/mat201/136"><strong>generalize the Fundamental Theorem of Calculus</strong></a>&nbsp; and provide the language needed for classical mechanics, electricity and magnetism in physics.</li>
+	<li>Applications of the Derivative: We develop the <a href="/syllabus/mat201/69"><strong>derivative</strong></a>&nbsp;as a tool for analyzing the behavior of <strong><a href="/syllabus/mat201/57">multivariable functions</a></strong>, for<strong> <a href="/syllabus/mat201/85">linear approximation</a></strong>&nbsp;and<strong> <a href="/syllabus/mat201/87">error analysis</a></strong>, and to extend <a href="/syllabus/mat201/97"><strong>Taylor's Theorem</strong></a>&nbsp;to functions of more than one variable. This supports a thorough treatment of <a href="/syllabus/mat201/78"><strong>optimization</strong></a>&nbsp;including the method of <strong><a href="/syllabus/mat201/91">Lagrange multipliers</a></strong>. Differential operators including <strong><a href="/syllabus/mat201/116">divergence</a></strong>, <a href="/syllabus/mat201/114"><strong>gradient</strong></a>&nbsp;and <strong><a href="/syllabus/mat201/115">curl</a></strong>&nbsp; are also introduced.</li>
+	<li>Quantitative Reasoning Expertise: All the calculus courses at Princeton place a very high emphasis on learning to think independently and creatively in a mathematical setting. This adds substantially to the difficulty and time-commitment required by the course. Unlike textbook problems that ask you to step through a routine calculation, a typical 201 exam problem requires careful reading, reflection and ingenuity combined with technical fluency that can be acquired only through extensive practice with demanding problems outside of class. Extending your ability to see connections and combine ideas that previously existed in separate mental compartments is a powerful enhancement of your problem-solving potential that this course seeks to help you build through extensive practice with the problems collected here in this archive.</li>
+</ul>
+
+<p>Getting Help: MAT201 is a cumulative course -- the topics build upon themselves throughout the semester. It is extremely important to stay on top of the material. As soon as you find yourself struggling with any of the concepts in class or with the homework problems, you should take advantage of the many resources available to you in the form of instructor office hours, review/problem sessions, individual tutoring, McGraw study halls, etc. Don't hesitate to talk with your instructor or the course head or your director of studies. These classes are very demanding and struggle is normal, even for very strong students. Help is available, and early action can make all the difference!</p>
+
+<p>Notes on Placement: MAT203 covers the same topics as MAT201, but in greater depth with more attention to theoretical analysis, often generalizing from 3-space to n-space. MAT203 places greater emphasis on why rather than how; its homework and exam problems require greater computational fluency and more sophisticated mathematical thinking, skills that are important for advanced work in applied mathematics and physics. EGR192 covers most of the MAT201 material and additionally contains a treatment of <strong><a href="/syllabus/mat201/450">first</a>&nbsp;</strong>and <a href="/syllabus/mat201/451"><strong>second order differential equations</strong></a>, with an emphasis on applications to engineering throughout. Like MAT201, the emphasis in EGR192 is on thorough mastery of standard definitions and techniques as opposed to theoretical innovations.</p>
+
+<p>Because of the very fast pace and depth of the calculus classes at Princeton, we recommend a conservative calculus placement. Many students who could begin in MAT201 instead opt to start in MAT104 to consolidate and deepen their knowledge of single variable calculus before attempting MAT201. Many students in MAT203 have already had a course in multivariable calculus in high school in addition to a strong background in physics. Such students nonetheless find MAT203 to be a very challenging and worthwhile preparation for more advanced work in mathematics, physics or engineering.</p>
+</div></div></div></div><div class="field field-name-field-course field-type-taxonomy-term-reference field-label-above clearfix"><h3 class="field-label">Course: </h3><ul class="links"><li class="taxonomy-term-reference-0"><a href="/taxonomy/term/1" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">MAT201</a></li></ul></div>  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+      
+    </div></div> <!-- /.section, /#content -->
+
+    
+  </div></div> <!-- /#main, /#main-wrapper -->
+
+  
+  <div id="footer-wrapper"><div class="section">
+
+    
+          <div id="footer" class="clearfix">
+          <div class="region region-footer">
+    <div id="block-system-powered-by" class="block block-system">
+
+    
+  <div class="content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+</div>
+  </div>
+      </div> <!-- /#footer -->
+    
+  </div></div> <!-- /.section, /#footer-wrapper -->
+
+</div></div> <!-- /#page, /#page-wrapper -->
+  </body>
+</html>

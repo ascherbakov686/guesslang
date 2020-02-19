@@ -1,0 +1,182 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//FR"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+
+		<!-- Required meta tags -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+		<title>SMIMS</title>
+  <style type="text/css" media="all">
+@import url("http://www.smims.ma/drupal/modules/system/system.base.css?pfggbn");
+@import url("http://www.smims.ma/drupal/modules/system/system.menus.css?pfggbn");
+@import url("http://www.smims.ma/drupal/modules/system/system.messages.css?pfggbn");
+@import url("http://www.smims.ma/drupal/modules/system/system.theme.css?pfggbn");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.smims.ma/drupal/modules/comment/comment.css?pfggbn");
+@import url("http://www.smims.ma/drupal/modules/field/theme/field.css?pfggbn");
+@import url("http://www.smims.ma/drupal/modules/node/node.css?pfggbn");
+@import url("http://www.smims.ma/drupal/modules/search/search.css?pfggbn");
+@import url("http://www.smims.ma/drupal/modules/user/user.css?pfggbn");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.smims.ma/drupal/themes/bartik/css/layout.css?pfggbn");
+@import url("http://www.smims.ma/drupal/themes/bartik/css/style.css?pfggbn");
+@import url("http://www.smims.ma/drupal/themes/bartik/css/colors.css?pfggbn");
+</style>
+<style type="text/css" media="print">
+@import url("http://www.smims.ma/drupal/themes/bartik/css/print.css?pfggbn");
+</style>		
+		
+		
+	</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper"><div id="page">
+
+  <div id="header" class="without-secondary-menu"><div class="section clearfix">
+
+          <a href="?" title="Home" rel="home" id="logo">
+        <img height = "100px" src="assets/img/smims-logo.png" alt="Home" />
+      </a>
+    
+          <div id="name-and-slogan">
+
+                              <h1 id="site-name">
+              <center><a href="index.php"><span>Soci&eacute;t&eacute; Marocaine d'Informatique M&eacute;dicale et Sant&eacute;
+			  <br>The Moroccan society of medical informatics and Health</span></a></center>
+            </h1>
+                  
+        
+      </div> <!-- /#name-and-slogan -->
+    
+    
+          <div id="main-menu" class="navigation">
+        <h2 class="element-invisible">Main menu</h2>
+		<ul id="main-menu-links" class="links clearfix">
+		<li class="menu-219 first last active"><a href="?item=accueil" class="active">Accueil</a></li>
+		<li class="menu-219 first last active"><a href="?item=mission" class="active">Missions</a></li>
+		<li class="menu-219 first last active"><a href="?item=bureau" class="active">Bureau</a></li>
+		<li class="menu-219 first last active"><a href="?item=congres" class="active">Congr&egrave;s</a></li>
+</ul>      
+</div> <!-- /#main-menu -->
+    
+    
+  </div></div> <!-- /.section, /#header -->
+
+  
+  
+  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
+
+    
+
+    
+    <div id="content" class="column">
+		<div class="section">
+			<a id="main-content"></a>
+			<div class="tabs">
+			</div>
+			<div class="region region-content">
+				<div id="block-system-main" class="block block-system">
+					<div class="content">
+<div id="node-1" class="node node-page node-promoted node-teaser clearfix" about="?" typeof="foaf:Document">
+	<h2><a href="?">Recommandations du 4ème Congrès National d&#039;Informatique Médicale - CNIM 2018</a></h2>
+	<div class="content clearfix">
+		<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+			<div class="field-items">
+				<div class="field-item even" property="content:encoded">
+<p>
+	<center>Recommandations du 4e Congrès National d’Informatique Médicale Edition 2018 concernant l’utilisation des technologies d’Information et de communication  dans l’enseignement (TICE)  en santé</center>
+	<ul>
+		<li>1.	Intégrer les TICE dans un cadre pédagogique</li>
+		<li>2.	Encourager l’intégration de ces technologies en formation continue</li>
+		<li>3.	Elargir l’offre de formation en ligne aux autres métiers de la santé</li>
+		<li>4.	Promouvoir le partage des expériences dans le cadre d’un réseau TICE </li>
+		<li>5.	Mutualiser les ressources et  les productions </li>
+		<li>6.	Promouvoir la formation des enseignants en TICE </li>
+		<li>7.	Organiser le prix des meilleures ressources pédagogiques en santé en ligne à l’échelle locale et nationale </li>
+		<li>8.	Sensibiliser et motiver les enseignants en intégrant ces activités dans la grille de leur avancement.</li>
+	</ul>
+</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="link-wrapper">
+		<ul class="links inline">
+			<li class="node-readmore first last"><a href="?item=congres" rel="tag" title="lire_plus">Lire plus<span class="element-invisible">Lire plus</span></a></li>
+		</ul>
+	</div>
+</div>
+    <div id="node-1" class="node node-page node-promoted node-teaser clearfix" about="?" typeof="foaf:Document">
+
+        <h2>
+      <a href="?">4ème Congrès National d&#039;Informatique Médicale - CNIM 2018</a>
+    </h2>
+    <span property="dc:title" content="4ème Congrès National d&#039;Informatique Médicale - CNIM 2018" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>			</p>
+
+<ul>
+	<li><a href="media/cnim2018_programme.pdf" target="_blank">Programme</a></li>
+	<li><a href="media/cnim2018_recueil_abstract.pdf" target="_blank">Recueil des abstracts</a></li>
+	<li><a href="media/cnim2018_recommandations.pdf" target="_blank">Recommandations</a></li>
+</ul>
+			<center>
+				<a href="media/cnim2018_affiche.png" target="_blank"><img width="600px" height="400px" src="media/cnim2018_affiche.png"></a>
+			</center>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="link-wrapper">
+		<ul class="links inline">
+			<li class="node-readmore first last"><a href="?" rel="tag" title="lire_plus">Lire plus<span class="element-invisible">Lire plus</span></a></li>
+		</ul>
+	</div>
+</div>
+	
+					</div>
+				</div>
+			</div>
+		</div>
+	</div> <!-- /.section, /#content -->
+
+    
+  </div></div> <!-- /#main, /#main-wrapper -->
+
+  
+  <div id="footer-wrapper"><div class="section">
+
+    
+          <div id="footer" class="clearfix">
+          <div class="region region-footer">
+    <div id="block-system-powered-by" class="block block-system">
+
+    
+  <div class="content">
+    <span>&copy; Copyright 2018, SMIMS</span>  </div>
+</div>
+  </div>
+      </div> <!-- /#footer -->
+    
+  </div></div> <!-- /.section, /#footer-wrapper -->
+
+</div></div> <!-- /#page, /#page-wrapper -->
+	</body>
+</html>

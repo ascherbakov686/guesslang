@@ -1,0 +1,183 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+  <script type="text/javascript">
+    var c4i_https = "https://climate4impact.eu/impactportal";
+    </script>
+   
+
+   
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Climate impact portal | For exploration, visualization and analysis of climate model data</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" >
+    <meta charset="UTF-8">
+    <meta name="description" content="The aim of C3SMagic is to enhance the use of research data and to support other climate portals. It has been developed within the European projects IS-ENES, IS-ENES2 and CLIPC. Climate4impact is connected to the Earth System Grid Federation, using certificate based authentication, ESGF search, openid, opendap and thredds catalogs. Climate4impact offers web interfaces for searching, visualizing, analyzing, processing and downloading datasets.">
+    <meta name="keywords" content="c3s-magic, SPECS, CMIP5, CMIP6, CORDEX, CLIPC, IS-ENES, WMS, WPS, WCS, ADAGUC, ICCLIM, impact, ESGF, onlineanalysis, research, webprocessing">
+
+    <link rel="icon" type="image/png" href="/impactportal/favicon.ico"/>
+    
+        
+    <link rel="stylesheet" href="/impactportal/js/jquery-ui-1.11.4/jquery-ui.min.css" />
+    <script type="text/javascript" src="/impactportal/js/jquery-1.12.1.min.js"></script>
+    <script type="text/javascript" src="/impactportal/js/fancybox/source/jquery.fancybox.js?v=2.1.4"></script>
+    <link rel="stylesheet" type="text/css" href="/impactportal/js/fancybox/source/jquery.fancybox.css?v=2.1.4" media="screen" />
+    <script type="text/javascript"           src="/impactportal/js/fancyboxinit.js"></script>
+    <link rel="stylesheet" href="/impactportal/styles.css" type="text/css" />
+    <script type="text/javascript" src="/impactportal/js/ImpactJS.js"></script>
+	<script type="text/javascript" src="/impactportal/js/jquery-ui-1.11.4/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="/impactportal/js/jqueryextensions/jquery.dialogextend.min.js"></script>
+  <!--<script type="text/javascript" src="/impactportal/js/jqueryextensions/svg-pan-zoom.min.js"></script>-->
+  
+  
+  
+</head>
+<body>
+	<!-- Header -->
+
+<!-- mode=[c4i] -->
+
+
+<div id="bodycontainer">
+
+
+   
+ 
+  <div class="eimpactheader" style="z-index:2;"> 
+    <div class="logo"><a href="/impactportal/"><img class="headerlogo" src="/impactportal/images/IS-ENES2_logo_small.png" alt="IS-ENES2 Logo"/></a></div>
+    <div style="float: right; margin-top: 0.5em;">
+    <table><tr style="line-height:20px;">
+     <td valign="middle"><a href="https://www.linkedin.com/groups/Climate4Impact-Webportal-8137458?home=&gid=8137458&trk=groups_members-h-logo" target="_blank">
+     <img src="/impactportal/images/logo_in_nav_44x36.png" alt="linked in logo" height="20"/></a></td>
+      <td valign="middle">| <a target="_blank" href="https://is.enes.org/">IS-ENES</a></td>
+       <td valign="middle">| <a href="/impactportal/help/contactexpert.jsp">Contact</a></td>
+        <td class="c4i-mainmenu-login-header" valign="middle">| <a href="/impactportal/account/login.jsp">Sign in</a></td>
+    </tr></table>
+    </div>
+    <h1 style="padding-top:36px;"><a href="/impactportal/index.jsp">
+    <!-- <span >ENES Portal Interface for <br/>the Climate Impact Communities</span> -->
+    <i><span>Exploring climate model data</span></i> 
+    </a></h1>
+  </div>
+  <div class="impactheader"><span></span> </div>
+  <div class="c1"><div class="c2"><div class="impactcontainer">
+ 	
+<div class="topnav">
+	
+
+</div>
+
+<div class="impacttopmenu mainmenu">
+	<ul>
+	<li class="mainmenu-firstli"></li>
+		<li class="sel"><a
+			href="/impactportal/general/index.jsp">Home</a></li>
+		<li ><a
+			href="/impactportal/data/index.jsp">Data discovery</a></li>
+		<li ><a
+			href="/impactportal/downscaling/downscalingdocs.jsp">Downscaling</a></li>
+		<li ><a
+			href="/impactportal/documentation/guidanceandusecases.jsp">Documentation</a></li>
+		<li ><a
+			href="/impactportal/help/index.jsp">Help</a></li>
+		<li ><a
+			href="/impactportal/general/about.jsp">About us</a></li>
+
+		<!-- LOGIN  -->
+		<li class="c4i-mainmenu-login-tab">
+			<a href="/impactportal/account/login.jsp">Sign in</a>
+		</li>
+
+		
+
+	</ul>
+	<span class="searchbox"><input id="searchbox" class="searchbox"
+		type="text" size="16" value=""
+		onkeypress="startSearchKeyPressed(event,this.form)" /></span>
+</div>
+
+<!-- &#160;</p> 
+  </div> -->
+ 	
+ 
+ 
+ 
+
+ 
+
+	<!-- Contents -->
+
+	<div class="impactcontent">
+		<div class="cmscontent">
+			<div><h1 class="title" id="page-title">
+          Welcome to IS-ENES Climate4Impact        </h1>
+                          
+<div class="textstandardleft">
+<p>The aim of Climate4impact is to enhance the use of climate research data. It has been developed within the European projects IS-ENES, IS-ENES2 and CLIPC. Climate4impact is connected to the <a href="http://esgf.llnl.gov/mission.html" target="_new"> Earth System Grid Federation (ESGF) infrastructure</a>, using certificate based authentication, ESGF search, openid, opendap and thredds catalogs. The portal aims to support climate change impact modellers, impact and adaptation consultants, as well anyone else wanting to use climate change data. The portal offers web interfaces for searching, visualizing, analyzing, processing and downloading datasets.</p>
+
+<p class="rteindent1">--&gt; Visualize and download data from global climate models (GCM), regional climate models (RCM) and downscaled high resolution climate data using <a href="/impactportal/data/esgfsearch.jsp">Data discovery</a>. Need some <a href="https://climate4impact.eu/impactportal/help/howto.jsp?q=uc-data-discovery-and-download">help with this tool?</a></p>
+
+<p class="rteindent1">--&gt; Tools like indices calculations, downscaling, subsetting and regridding are available for tailoring data to your needs: goto <a href="/impactportal/account/processing.jsp"> Process data</a>.</p>
+
+<p class="rteindent1">--&gt;Want to know more on how to use climate scenarios, how the climate models model the complex climate system, and see example use cases in several impact and adaptation themes? Go to <a href="http://climate4impact.eu/impactportal/documentation/guidanceandusecases.jsp">guidance on using climate data</a>.</p>
+
+<p class="rteindent1">--&gt;New here? <a href=" https://climate4impact.eu/impactportal//account/login.jsp">Create an account and sign in</a>.</p>
+</div>
+
+<table class="drupal" style="width: 800px; margin-right: auto; margin-left: auto;"><tbody><tr>
+<td><a href="/impactportal/documentation/guidanceandusecases.jsp?q=agriculture_forestry"><div class="tnimage" style="background-image: url(&quot;https://climate4impact.eu/files/agriculture_land_200.jpg&quot;);"><div class="tnimagetext"><p>Agriculture/Forestry</p></div></div></a></td>
+<td><a href="/impactportal/documentation/guidanceandusecases.jsp?q=energy"><div class="tnimage" style="background-image: url(&quot;https://climate4impact.eu/files/energy_200.jpg&quot;);"><div class="tnimagetext"><p>Energy</p></div></div></a></td>
+<td><a href="/impactportal/documentation/guidanceandusecases.jsp?q=health"><div class="tnimage" style="background-image: url(&quot;https://climate4impact.eu/files/health_200.jpg&quot;);"><div class="tnimagetext"><p>Health</p></div></div></a></td>
+<td><a href="/impactportal/documentation/guidanceandusecases.jsp?q=infrastructure_urban"><div class="tnimage" style="background-image: url(&quot;https://climate4impact.eu/files/infrastructure_200.jpg&quot;);"><div class="tnimagetext"><p>Infrastructure/Urban</p></div></div></a></td></tr><tr>
+<td><a href="/impactportal/documentation/guidanceandusecases.jsp?q=marine_coastal"><div class="tnimage" style="background-image: url(&quot;https://climate4impact.eu/files/coastal_200.jpg&quot;);"><div class="tnimagetext"><p>Marine/Coastal</p></div></div></a></td>
+<td><a href="/impactportal/documentation/guidanceandusecases.jsp?q=nature_biodiversity"><div class="tnimage" style="background-image: url(&quot;https://climate4impact.eu/files/biodiversity_200.jpg&quot;);"><div class="tnimagetext"><p>Nature/Biodiversity</p></div></div></a></td>
+<td><a href="/impactportal/documentation/guidanceandusecases.jsp?q=tourism"><div class="tnimage" style="background-image: url(&quot;https://climate4impact.eu/files/tourism_200.jpg&quot;);"><div class="tnimagetext"><p>Tourism</p></div></div></a></td>
+<td><a href="/impactportal/documentation/guidanceandusecases.jsp?q=water_management"><div class="tnimage" style="background-image: url(&quot;https://climate4impact.eu/files/water_management_200.jpg&quot;);"><div class="tnimagetext"><p>Water Management</p></div></div></a></td></tr>
+</tbody></table>
+
+<div class="textstandardleft"><em>Click on one of these images to go to a specific climate change impact and adaptation theme.</em></div></div><script type="text/javascript">
+function edit(url){newwindow=window.open(url,'drupaleditor','width=800,height=600,fullscreen=0,scrollbars=yes,menubar=no,toolbar=yes,titlebar=no');if (window.focus) {newwindow.focus()}return false;}</script>
+
+		</div>
+	</div>
+
+
+
+	<!-- /Contents -->
+	<!-- Footer -->
+</div></div></div>
+
+
+<div class="impactfooter"><span></span> </div> 
+
+  <div class="bottomnav">
+    <p>
+    &#160;
+    
+    </p>
+  </div> 
+  <div class="footerlogos">
+  
+
+   
+    <table class="footerlogos">
+    <tr>
+    <td><a href="http://europa.eu/index_en.htm" target="_blank">
+    <img src="/impactportal/images/EUemblem_small.png" title="European Commission" class="ecLogo" alt="European Commission"></a></td>
+    <td><p>The <a href="http://cordis.europa.eu/projects/index.cfm?fuseaction=app.details&TXT=312979&FRM=1&STP=10&SIC=&PGA=&CCY=&PCY=&SRC=&LNG=en&REF=108647">IS-ENES project</a> has received funding from the European Union's Seventh Framework Programme for research, technological development and demonstration.
+    <br/><br/><a href="/impactportal/general/index.jsp?q=disclaimer">Disclaimer</a>
+    </p>
+    </td>
+    </tr>
+    
+    </table>
+    
+        
+        
+        
+    
+  </div>
+</div>
+</body>
+</html>

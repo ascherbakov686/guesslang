@@ -59,7 +59,7 @@ h1,h2,h3,h4,h5{font-family:Georgia,'Palatino Linotype','Book Antiqua','URW Palla
 <script type="text/javascript" src="http://longtermjobless.com/sites/all/modules/custom_search/js/custom_search.js?p77q0b"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"mayo","theme_token":"_-FSXCSYJIuzHji5qTFv0haPeZjc-fPbaIWSaH_whf4","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/3.1\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/custom_search\/js\/custom_search.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/custom_search\/custom_search.css":1,"sites\/all\/themes\/mayo\/css\/style.css":1,"sites\/all\/themes\/mayo\/css\/colors.css":1,"public:\/\/mayo\/mayo_files\/mayo.responsive.layout.css":1,"sites\/all\/themes\/mayo\/css\/ie8.css":1,"sites\/all\/themes\/mayo\/css\/ie.css":1,"sites\/all\/themes\/mayo\/css\/ie6.css":1,"0":1,"1":1,"public:\/\/css_injector\/css_injector_2.css":1}},"custom_search":{"form_target":"_self","solr":0},"urlIsAjaxTrusted":{"\/":true}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"mayo","theme_token":"CrYz_rxDL_4nEJxUby11BzpUxNT928bXa0wlc9fQEPo","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/3.1\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/custom_search\/js\/custom_search.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/custom_search\/custom_search.css":1,"sites\/all\/themes\/mayo\/css\/style.css":1,"sites\/all\/themes\/mayo\/css\/colors.css":1,"public:\/\/mayo\/mayo_files\/mayo.responsive.layout.css":1,"sites\/all\/themes\/mayo\/css\/ie8.css":1,"sites\/all\/themes\/mayo\/css\/ie.css":1,"sites\/all\/themes\/mayo\/css\/ie6.css":1,"0":1,"1":1,"public:\/\/css_injector\/css_injector_2.css":1}},"custom_search":{"form_target":"_self","solr":0},"urlIsAjaxTrusted":{"\/":true}});
 //--><!]]>
 </script>
 </head>
@@ -96,7 +96,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   <label for="edit-search-block-form--2">Search this site </label>
  <input onblur="if (this.value == &#039;&#039;) { this.value = &#039;search this site&#039;; }" onfocus="if (this.value == &#039;search this site&#039;) { this.value = &#039;&#039;; }" type="text" id="edit-search-block-form--2" name="search_block_form" value="search this site" size="12" maxlength="128" class="form-text" />
 </div>
-<div class="form-actions form-wrapper" id="edit-actions"></div><input type="hidden" name="form_build_id" value="form-rArvf0sJ6L3Of5HbXQ0O-R0R11odgc5fNWEF7DLpOv8" />
+<div class="form-actions form-wrapper" id="edit-actions"></div><input type="hidden" name="form_build_id" value="form-KUqB-rvgGEZIjyCrY-gLEE7vJerG5s3jYzSlnwLh-cE" />
 <input type="hidden" name="form_id" value="search_block_form" />
 </div>
 </div></form>        </div>
@@ -144,7 +144,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
     
   <div class="content">
-    <div class="view view-frontpage view-id-frontpage view-display-id-page_1 view-dom-id-741b96fccf5997a7d9136be7e537103b">
+    <div class="view view-frontpage view-id-frontpage view-display-id-page_1 view-dom-id-e154b511df1d1496b335175fdf5fd2c2">
         
   
   

@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="http://www.hcs.harvard.edu/sites/all/themes/hcs/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="Harvard Computer Society RSS" href="http://www.hcs.harvard.edu/rss.xml" />
+  <title>Harvard Computer Society | People. Technology. Awesome.</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="apple-touch-icon" sizes="57x57" href="/sites/all/themes/hcs/icons/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/sites/all/themes/hcs/icons/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/sites/all/themes/hcs/icons/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/sites/all/themes/hcs/icons/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/sites/all/themes/hcs/icons/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/sites/all/themes/hcs/icons/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/sites/all/themes/hcs/icons/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/sites/all/themes/hcs/icons/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/sites/all/themes/hcs/icons/apple-touch-icon-180x180.png">
+  <link rel="icon" type="image/png" href="/sites/all/themes/hcs/icons/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="/sites/all/themes/hcs/icons/favicon-194x194.png" sizes="194x194">
+  <link rel="icon" type="image/png" href="/sites/all/themes/hcs/icons/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="/sites/all/themes/hcs/icons/android-chrome-192x192.png" sizes="192x192">
+  <link rel="icon" type="image/png" href="/sites/all/themes/hcs/icons/favicon-16x16.png" sizes="16x16">
+  <link rel="manifest" href="/sites/all/themes/hcs/icons/android-chrome-manifest.json">
+  <link rel="shortcut icon" href="/sites/all/themes/hcs/icons/favicon.ico">
+  
+  <!-- Chrome, Firefox OS, Opera and Vivaldi -->
+  <meta name="theme-color" content="#a51c30">
+  <!-- Windows Phone -->
+  <meta name="msapplication-navbutton-color" content="#a51c30">
+  <meta name="msapplication-TileColor" content="#a51c30">
+  <meta name="msapplication-TileImage" content="/sites/all/themes/hcs/icons/mstile-144x144.png">
+  <meta name="msapplication-config" content="/sites/all/themes/hcs/icons/browserconfig.xml">
+  <!-- iOS Safari -->
+  <meta name="apple-mobile-web-app-status-bar-style" content="#a51c30">
+
+  <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="http://www.hcs.harvard.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.hcs.harvard.edu/sites/default/files/css/css_TsVRTbLFUpEZAfw-_bWPJu840QT523CPjUVJ5MRWfyk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.hcs.harvard.edu/sites/default/files/css/css_TPtGLFLa2OT7GF1VG4ZuMcAFRiN5KKoVMyiYgcShpAk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,700italic,400,700|Open+Sans+Condensed:700" media="all" />
+<link type="text/css" rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.hcs.harvard.edu/sites/default/files/css/css_HNzuI4QjcCsVq28GYPFuARcOP3gKsIAKl5tKh8EPwWE.css" media="all" />
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.11/jquery.min.js'>\x3C/script>")</script>
+<script src="http://www.hcs.harvard.edu/sites/default/files/js/js_dWhBODswdXXk1M5Z5nyqNfGljmqwxUwAK9i6D0YSDNs.js"></script>
+<script src="http://www.hcs.harvard.edu/sites/default/files/js/js_rsGiM5M1ffe6EhN-RnhM5f3pDyJ8ZAPFJNKpfjtepLk.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","http://www.hcs.harvard.edu/sites/default/files/googleanalytics/analytics.js?q5s5dc","ga");ga("create", "UA-66789556-1", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script src="https://netdna.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+<script src="http://www.hcs.harvard.edu/sites/default/files/js/js_Vc3_1eOjtZITQI4deabOEOgp7cxdpem5E4k6MVttc-M.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"hcs","theme_token":"hAft2FYXU2KZQNNp_yVIUJPyiMYIC-SC0KqOtm24TKk","js":{"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.11.2\/jquery.min.js":1,"0":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"https:\/\/netdna.bootstrapcdn.com\/bootstrap\/3.3.2\/js\/bootstrap.min.js":1,"sites\/all\/themes\/hcs\/js\/scripts.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/faq\/faq.css":1,"https:\/\/fonts.googleapis.com\/css?family=Open+Sans:300italic,700italic,400,700|Open+Sans+Condensed:700":1,"https:\/\/netdna.bootstrapcdn.com\/bootstrap\/3.3.2\/css\/bootstrap.min.css":1,"sites\/all\/themes\/hcs\/css\/styles.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});</script>
+</head>
+<body class="html front not-logged-in no-sidebars page-node" >
+    
+<div id="front-page">
+
+  <header role="banner">
+
+    <nav role="navigation">
+
+              <a href="/" title="Home" rel="home" id="logo">
+          <img src="http://www.hcs.harvard.edu/sites/all/themes/hcs/source/images/logo.min.svg" alt="Home" />
+        </a>
+      
+              <div id="site-name">
+          <h1>
+            <a href="#front-page">HCS</a>
+          </h1>
+        </div>
+      
+      <div id="menu-button">
+        <span class="icon-bar top-bar"></span>
+        <span class="icon-bar middle-bar"></span>
+        <span class="icon-bar bottom-bar"></span>
+      </div>
+
+              <div id="menu">
+          <ul class="links"><li class="menu-389 first"><a href="/about">About</a></li>
+<li class="menu-1437"><a href="/faq" title="">FAQ</a></li>
+<li class="menu-401"><a href="/contact">Contact</a></li>
+<li class="menu-1112 last"><a href="/sponsors">Sponsors</a></li>
+</ul>        </div>
+      
+      
+    </nav>
+
+    
+  </header>
+
+  <img id="preloader"
+       src="/sites/all/themes/hcs/images/splash.jpg"
+       onload="imageLoaded(true);"
+       onerror="imageLoaded(false);"
+       style="display: none;">
+
+  <section id="splash">
+    <div class="logo">
+      <img src="http://www.hcs.harvard.edu/sites/all/themes/hcs/source/images/logo.min.svg"
+           onload="imageLoaded();"
+           onerror="imageLoaded();">
+      <div class="text">
+        <h1>
+          Harvard<br>
+          Computer<br>
+          Society
+        </h1>
+        <h2>
+          Dedicated to promoting interest in computing and<br>
+          information technologies among members of the<br>
+          Harvard community
+        </h2>
+      </div>
+
+      <a class="next-section-arrow" href="#main"></a>
+    </div>
+
+  </section>
+
+  <div id="loader" class="hidden">
+      <div class="spinner spinner-three-bounce">
+          <div class="bounce1"></div>
+          <div class="bounce2"></div>
+          <div class="bounce3"></div>
+      </div>
+  </div>
+
+  <div id="tabs">
+    <ul>
+      <li class="tab-services"><a href="#services"><span>Services</span></a></li>
+      <li class="tab-news"><a href="#news"><span>News</span></a></li>
+      <li class="tab-events"><a href="#events"><span>Events</span></a></li>
+      <li class="tab-subscribe"><a href="#subscribe"><span>Subscribe</span></a></li>
+    </ul>
+  </div>
+
+  <div id="main">
+
+    <section id="services">
+      <div class="container">
+          <div class="region region-front-page-services">
+    <div id="block-block-1" class="block block-block first last odd">
+
+        <h2 class="block__title block-title">Services</h2>
+    
+  <p>HCS provides several different free computing services to the Harvard community.</p>
+<p>What services are available? Well:</p>
+
+<div class="buttons">
+  <div class="mailing-list">
+    <div class="text-center"><a href="/reset-list-password" class="reset">Forgot your list password?</a></div>
+    <a href="/make-list" class="mail btn btn-default btn-lg" data-toggle="tooltip" data-placement="bottom" title="Efficiently send announcements and start discussions!">
+      <span class="glyphicon glyphicon-envelope"></span>Mailing List
+    </a>
+  </div>
+  <div class="account-request">
+    <div class="text-center"><a href="https://accounts.hcs.harvard.edu" class="reset">Manage your account</a></div>
+    <a href="/account-request" class="acc btn btn-default btn-lg" data-toggle="tooltip" data-placement="bottom" title="Host a website and receive emails for your Harvard student group!">
+      <span class="glyphicon glyphicon-user"></span>HCS Account
+    </a>
+  </div>
+</div>
+
+<p>You can read our <a href="/faq">FAQ</a> or our <a href="/tutorials">Tutorials</a> for more information on what services we provide and how to use them.</p>
+<p>Still have questions or technical issues? No problem! Just e-mail us at systems (at) hcs.harvard.edu.</p>
+<!--<p> Alternatively, come talk to us in person at our weekly <b>office hours</b>. See our <a href="#events">events calendar</a> for more information.</p>-->
+
+</div>
+  </div>
+      </div>
+    </section>
+
+    <section id="news">
+      <div class="container">
+          <div class="region region-front-page-news">
+    <div id="block-views-news-block" class="block block-views first last odd">
+
+        <h2 class="block__title block-title">News</h2>
+    
+  <div class="view view-news view-id-news view-display-id-block view-dom-id-971d905d8f2357fb676cf524022bcea3">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <article class="node-50 node node-news node-promoted node-teaser clearfix" about="/news/datamatch-2015-summary" typeof="sioc:Item foaf:Document">
+
+
+      <span class="date">Feb 28, 2015</span>
+  
+      <a href="/news/datamatch-2015-summary">Datamatch 2015 Summary</a> -
+  
+  Thanks to everybody who signed up for Datamatch in 2015! We had a RECORD 3859 people sign in, with a still record 3553 submitting the survey. 1149 people signed up for waffle dates with their matches at our partner Zinnekin's, and 180 of those people were lucky enough to have their match sign up as well! In years to come, hopefully Datamatch will be responsible for even more happy couples 
+
+
+</article>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <article class="node-49 node node-news node-promoted node-teaser clearfix" about="/news/datamatch-2014-summary" typeof="sioc:Item foaf:Document">
+
+
+      <span class="date">Feb 15, 2014</span>
+  
+      <a href="/news/datamatch-2014-summary">Datamatch 2014 Summary</a> -
+  
+  Here are some stats for Datamatch 2014:
+Signed up: 3672
+Submitted: 3326
+Male: 1598
+Female: 2073
+Freshmen: 1007
+Sophomore: 903
+Junior: 741
+Senior: 750
+Grad: 29
+Alumn: 0
+In a relationship: 327
+This year, we've had a termendous amount of sign-ups, the most as of yet. We hope next year's Datamatch would be just as great!
+
+
+</article>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    <article class="node-9 node node-news node-promoted node-teaser clearfix" about="/news/datamatch-2012-summary" typeof="sioc:Item foaf:Document">
+
+
+      <span class="date">Mar 28, 2012</span>
+  
+      <a href="/news/datamatch-2012-summary">Datamatch 2012 Summary</a> -
+  
+  Dear HCS,
+Datamatch 2012 was a huge success!
+This year, we had 2129 people participate, which was slightly down from last year. However, fun was definitely had by all.
+Here are some aggregated raw Datamatch statistics.
+The first column contains totals, the second, percentages. 
+
+</article>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+    <article class="node-8 node node-news node-promoted node-teaser clearfix" about="/news/datamatch-2011-reflections" typeof="sioc:Item foaf:Document">
+
+
+      <span class="date">Feb 27, 2011</span>
+  
+      <a href="/news/datamatch-2011-reflections">Datamatch 2011 Reflections</a> -
+  
+  Dear HCS,
+Datamatch 2011 was an astounding success. This year, Datamatch had 878 males and 1382 females participating. In case you don't have a slide rule handy, this works out to a total of 2260 participants, making this the most successful Datamatch in memory. Good work, Harvard!
+
+</article>
+  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+    <article class="node-7 node node-news node-promoted node-teaser clearfix" about="/news/hcs-mail-statistics-fall-2010" typeof="sioc:Item foaf:Document">
+
+
+      <span class="date">Jan 12, 2011</span>
+  
+      <a href="/news/hcs-mail-statistics-fall-2010">HCS Mail Statistics (Fall 2010)</a> -
+  
+  One of the Harvard Computer Society's most prominent public services is mail.  HCS hosts 5,000 mailing lists, and 1,700 student-group and user email/web accounts.  We thought the community would find it interesting to see some of our mail statistics for Fall 2010.  We started archiving log data in late September 2010, continuing through the present, with an interruption in mid-November.
+
+</article>
+  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/news">
+    more  </a>
+</div>
+  
+  
+  
+</div>
+</div>
+  </div>
+      </div>
+    </section>
+
+    <section id="events">
+      <div class="container">
+          <div class="region region-front-page-events">
+    <div id="block-block-2" class="block block-block first last odd">
+
+        <h2 class="block__title block-title">Events</h2>
+    
+  <iframe src="https://calendar.google.com/calendar/embed?src=college.harvard.edu_annqsl3ki6c5pnhom50vc6uq0o%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+
+<p>Note that dates are subject to change. <a href="#subscribe">Subscribe</a> to our announce list to receive notifications about our events</p>
+<p>Questions, comments, concerns, random thoughts? Want to lead a seminar for HCS members?<br>Email <script>emailaddress=('events&#64;' + 'hcs&#46;harvard&#46;edu'); document.write('<a href=mailto:' + emailaddress + ' >' + emailaddress + '</a>');</script> and we'll be in touch!</p>
+</div>
+  </div>
+      </div>
+    </section>
+
+    <section id="subscribe">
+      <div class="container">
+          <div class="region region-front-page-subscribe">
+    <div id="block-block-3" class="block block-block first last odd">
+
+        <h2 class="block__title block-title">Subscribe</h2>
+    
+  Subscribe to our mailing lists for the latest on technology at Harvard.
+
+<div id="subscribe-email-wrapper" class="form-group has-feedback">
+<input type="email" class="form-control input-lg" id="subscribe-email" placeholder="Email">
+<span class="glyphicon form-control-feedback" aria-hidden="true"></span>
+</div>
+
+<table class="text-left">
+<tr>
+<td><a href="http://lists.hcs.harvard.edu/mailman/listinfo/hcs-announce"><b>hcs-announce</b></a></td>
+<td>Our announcement list, for hearing about our events.</td>
+<td><button type="button" id="hcs-announce" data-done-text="Done" class="btn btn-primary" autocomplete="off">Subscribe</button></td>
+</tr>
+<tr>
+<td><a href="http://lists.hcs.harvard.edu/mailman/listinfo/hcs-discuss"><b>hcs-discuss</b></a></td>
+<td>Debate about everything from politics to programming languages.</td>
+<td><button type="button" id="hcs-discuss" data-done-text="Done" class="btn btn-primary" autocomplete="off">Subscribe</button></td>
+</tr>
+<tr>
+<td><a href="http://lists.hcs.harvard.edu/mailman/listinfo/hcs-jobs"><b>hcs-jobs</b></a></td>
+<td>Where we advertise job postings people send us.</td>
+<td><button type="button" id="hcs-jobs" data-done-text="Done" class="btn btn-primary" autocomplete="off">Subscribe</button></td>
+</tr>
+<tr>
+<td><a href="http://lists.hcs.harvard.edu/mailman/listinfo/hcs-questions"><b>hcs-questions</b></a></td>
+<td>For newcomers to HCS and technology to ask questions.</td>
+<td><button type="button" id="hcs-questions" data-done-text="Done" class="btn btn-primary" autocomplete="off">Subscribe</button></td>
+</tr>
+</table>
+</div>
+  </div>
+      </div>
+    </section>
+
+    <footer>
+      <div class="centered">
+        <span class="line">&copy; 2020 Harvard Computer Society</span>
+        <span class="line separator">Designed by <a href="http://www.frederickw.com">Frederick Widjaja '17</a></span>
+              </div>
+    </footer>
+
+  </div>
+
+</div>
+
+    <div style="position: absolute; top: -300px; left: -300px;"><a href="http://www.hcs.harvard.edu/hpot/jigsaw.php" tabindex="-1">For non-humans only</a></div>
+</body>
+</html>

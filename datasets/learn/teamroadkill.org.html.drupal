@@ -57,7 +57,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "nice_menus_options": { "delay
  <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
 </div>
 <input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
-<input type="hidden" name="form_build_id" id="form-eWhUK1AT3e_o4f57JQKQr5Ggme-JlEcUT0xs7WrEiWc" value="form-eWhUK1AT3e_o4f57JQKQr5Ggme-JlEcUT0xs7WrEiWc"  />
+<input type="hidden" name="form_build_id" id="form-CRnotA7ijO6X_IgUjwgsBGtgiqLxYFNvCpbztIzJZWs" value="form-CRnotA7ijO6X_IgUjwgsBGtgiqLxYFNvCpbztIzJZWs"  />
 <input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
 </div>
 
@@ -124,7 +124,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "nice_menus_options": { "delay
 
 
   <div class="content">  <div class="node">
-        <h2 class="title"><a href="/road-kill-rules/morning-departing-time-ragbrai-0"></a></h2>            <div class="content"><div class="quotes-quote"><p>Can we wait a little longer, it&#39;s not hot enough yet.</p></div><div class="quotes-author">&mdash; Moneyman</div><div class="clear-block"></div></div>
+        <h2 class="title"><a href="/road-kill-rules/youre-not-lost"></a></h2>            <div class="content"><div class="quotes-quote"><p>You&#39;re not lost if you can find good beer.</p></div><div class="clear-block"></div></div>
 	<div style="clear:both"></div>
       </div>
 </div>
@@ -133,7 +133,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "nice_menus_options": { "delay
 
   <h2>Upcoming Rides</h2>
 
-  <div class="content"><div class="view view-rides view-id-rides view-display-id-block_1 view-dom-id-f463a4bea5e716becca37f1083708a03">
+  <div class="content"><div class="view view-rides view-id-rides view-display-id-block_1 view-dom-id-b72a1839553f2505665007168a63e5ca">
     
   
   
@@ -149,7 +149,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "nice_menus_options": { "delay
 
   <h2>Upcoming Events</h2>
 
-  <div class="content"><div class="view view-events view-id-events view-display-id-block_1 view-dom-id-b8b41defc7140a8e5ca40038a59b3498">
+  <div class="content"><div class="view view-events view-id-events view-display-id-block_1 view-dom-id-f350bc7e5d20ea1733000313e752f31e">
     
   
   
@@ -167,7 +167,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "nice_menus_options": { "delay
 
   <h2>Latest News</h2>
 
-  <div class="content"><div class="view view-stories view-id-stories view-display-id-block_1 view-dom-id-0f6ee99b258b2f12f28fd5340aa78fcb">
+  <div class="content"><div class="view view-stories view-id-stories view-display-id-block_1 view-dom-id-775ed019b46f3eb48828082b68b91b64">
     
   
   
@@ -211,7 +211,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "nice_menus_options": { "delay
 
   <h2>Latest Blog Posts</h2>
 
-  <div class="content"><div class="view view-blogs view-id-blogs view-display-id-block_2 view-dom-id-edacda380609fa465964c55c583eb5c5">
+  <div class="content"><div class="view view-blogs view-id-blogs view-display-id-block_2 view-dom-id-48de267b832672f88b39f2069e5fb5d3">
     
   
   
@@ -264,7 +264,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "nice_menus_options": { "delay
 
   <h2>RAGBRAI Countdown</h2>
 
-  <div class="content"><p align=center>212 days<br />1 hours<br />6 minutes<br /> since RAGBRAI XLVII - 2019</p></div>
+  <div class="content"><p align=center>212 days<br />21 hours<br />42 minutes<br /> since RAGBRAI XLVII - 2019</p></div>
 </div>
           </div>
                 <div style="clear:both"></div>

@@ -1,0 +1,201 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" dir="ltr" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/default/files/favicon.png" type="image/x-icon" />
+  <title>In opbouw | dw10.nl</title>  
+  <link type="text/css" rel="stylesheet" media="all" href="/modules/aggregator/aggregator.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/cck/theme/content-module.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/cck/modules/filefield/filefield.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/ckeditor/ckeditor.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/poll/poll.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/cck/modules/fieldgroup/fieldgroup.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/dw10/style.css?r" />
+  <script type="text/javascript" src="/misc/jquery.js?r"></script>
+<script type="text/javascript" src="/misc/drupal.js?r"></script>
+<script type="text/javascript" src="/themes/dw10/script.js?r"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/" });
+//--><!]]>
+</script>
+  <!--[if IE 6]><link rel="stylesheet" href="/themes/dw10/style.ie6.css" type="text/css" media="screen" /><![endif]-->  
+  <!--[if IE 7]><link rel="stylesheet" href="/themes/dw10/style.ie7.css" type="text/css" media="screen" /><![endif]-->
+  <script type="text/javascript"> </script>
+</head>
+
+<body class="front not-logged-in page-node node-type-page no-sidebars">
+
+<div id="art-page-background-glare-wrapper">
+    <div id="art-page-background-glare"></div>
+</div>
+<div id="art-main">
+    <div class="cleared reset-box"></div>
+<div class="art-box art-sheet">
+    <div class="art-box-body art-sheet-body">
+<div class="art-layout-wrapper">
+    <div class="art-content-layout">
+        <div class="art-content-layout-row">
+<div class="art-layout-cell art-content">              
+                                
+<div id="node-1" class="node page">
+<div class="art-box art-post">
+    <div class="art-box-body art-post-body">
+<div class="art-post-inner art-article">
+<h2 class="art-postheader">In opbouw</h2>
+<div class="art-postcontent">
+<div class="art-article"><p>Hallo Allemaal</p>
+<p>Sorry voor het ongemak, maar heir komt binnenkort de nieuwe site voor DW10</p>
+<p>Tot snel</p>
+</div>
+
+</div>
+<div class="cleared"></div>
+
+</div>
+
+		<div class="cleared"></div>
+    </div>
+</div>
+
+</div></div>
+<div class="art-layout-cell art-sidebar1"><div class="clear-block block block-user" id="block-user-0">
+<div class="art-box art-block">
+      <div class="art-box-body art-block-body">
+  
+    
+
+	    			
+			<div class="art-bar art-blockheader">
+				    <h3 class="t subject">
+						
+			User login			
+			</h3>
+				</div>
+				
+			
+	    
+
+	<div class="art-box art-blockcontent">
+		    <div class="art-box-body art-blockcontent-body">
+		<div class="content">
+		
+			
+<form action="/?q=node/1&amp;destination=node%2F1"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<span class="art-button-wrapper"><span class="art-button-l"></span><span class="art-button-r"></span><input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit art-button"/></span><div class="item-list"><ul><li class="first"><a href="/?q=user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/?q=user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-ff1834337eb47fd613d60598d4f0fa52" value="form-ff1834337eb47fd613d60598d4f0fa52"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+
+	
+		</div>
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+	</div><div class="clear-block block block-user" id="block-user-1">
+<div class="art-box art-block">
+      <div class="art-box-body art-block-body">
+  
+    
+
+	    			
+			<div class="art-bar art-blockheader">
+				    <h3 class="t subject">
+						
+			Navigation			
+			</h3>
+				</div>
+				
+			
+	    
+
+	<div class="art-box art-blockcontent">
+		    <div class="art-box-body art-blockcontent-body">
+		<div class="content">
+		
+			
+<ul class="menu"><li class="leaf first last"><a href="/?q=tracker">Recent posts</a></li>
+</ul>
+	
+		</div>
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+	</div><div class="clear-block block block-system" id="block-system-0">
+<div class="art-box art-block">
+      <div class="art-box-body art-block-body">
+  
+    
+
+	    
+
+	<div class="art-box art-blockcontent">
+		    <div class="art-box-body art-blockcontent-body">
+		<div class="content">
+		
+			
+<a href="http://drupal.org"><img src="/misc/powered-blue-80x15.png" alt="Powered by Drupal, an open source content management system" title="Powered by Drupal, an open source content management system" width="80" height="15" /></a>
+	
+		</div>
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+
+				<div class="cleared"></div>
+		    </div>
+		</div>
+		
+	</div></div>
+        </div>
+    </div>
+</div>
+<div class="cleared"></div>
+
+<div class="art-footer">
+    <div class="art-footer-body">
+        <a href="/?q=rss.xml" class="art-rss-tag-icon"></a>                <div class="art-footer-text">
+                        © DW10                                </div>
+		<div class="cleared"></div>
+    </div>
+</div>
+		<div class="cleared"></div>
+    </div>
+</div>
+<div class="cleared"></div>
+<p class="art-page-footer">Designed by <a href="Efterom">Efterom Computerhulp</a>.</p>
+
+    <div class="cleared"></div>
+</div>
+
+
+</body>
+</html>

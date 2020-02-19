@@ -1,0 +1,429 @@
+<!doctype html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<html lang="en" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="https://www.ideascripting.com/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/node/74" />
+<link rel="canonical" href="/home" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Home Page | IDEAScripting and More</title>
+  <link rel="stylesheet" href="https://www.ideascripting.com/sites/default/files/css/css_RTOEeiYJ8lw3GCVsj52-QDVJIKnTa3uTUUEqyHVCu7I.css" media="all" />
+<link rel="stylesheet" href="https://www.ideascripting.com/sites/default/files/css/css_hPAfOlBxf5KcHMXkZ9hPaVCmXlfxgmvAtqyD71YS-TA.css" media="all" />
+<link rel="stylesheet" href="https://www.ideascripting.com/sites/default/files/css/css_VWGhZkkR4B4tMJA7PC_wov8dAxaI-MS03BCM3K8jjJA.css" media="screen" />
+<link rel="stylesheet" href="https://www.ideascripting.com/sites/default/files/css/css_T-1_6q0lZcT5fFwJTI3FqWhoOg9TEmNPYyLhlHnfpFQ.css" media="all" />
+<link rel="stylesheet" href="https://www.ideascripting.com/sites/default/files/css/css_d8msao3MzlwQ8j_mjsFSuXvn4MAW6HzcM53DowChk2M.css" media="all" />
+<link rel="stylesheet" href="https://www.ideascripting.com/sites/default/files/css/css_u4HiLHR0rbp1C_sccbg6CnEz-JhdWaTvm6f5PBRQpNM.css" media="all" />
+<link rel="stylesheet" href="https://www.ideascripting.com/sites/default/files/css/css_2THG1eGiBIizsWFeexsNe1iDifJ00QRS9uSd03rY9co.css" media="print" />
+<link rel="stylesheet" href="https://www.ideascripting.com/sites/default/files/css/css_nQwtytNsztHNRD8oGYQyyja_LgjxLi44qLISIPyImuw.css" media="all" />
+
+<!--[if lte IE 7]>
+<link rel="stylesheet" href="https://www.ideascripting.com/themes/bartik/css/ie.css?pwxvx5" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link rel="stylesheet" href="https://www.ideascripting.com/themes/bartik/css/ie6.css?pwxvx5" media="all" />
+<![endif]-->
+  <script src="https://www.ideascripting.com/sites/default/files/js/js_vDrW3Ry_4gtSYaLsh77lWhWjIC6ml2QNkcfvfP5CVFs.js"></script>
+<script src="https://www.ideascripting.com/sites/default/files/js/js_LBU0CljDvUIaG_X6L1q9l10QirBaMruNT-xAlHAZGvQ.js"></script>
+<script src="https://www.ideascripting.com/sites/default/files/js/js_Jsy2UqQ_KpjxMJn_lWX6QtAtghsEZNcVGclyWGRqy8E.js"></script>
+<script>
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-116351374-1", {"cookieDomain":"auto"});ga("send", "pageview");
+</script>
+<script src="https://www.ideascripting.com/sites/default/files/js/js_kcjZvAZWc6uSdnT8xz-vvC-pX9MfHYMywHCcE6nmfbg.js"></script>
+<script>
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bartik","theme_token":"KU-PY9rFrokwKUAUJOt0OtOtJFb_aR2meYyhTbIHeX0","js":{"sites\/all\/modules\/menu_minipanels\/js\/menu_minipanels.js":1,"sites\/all\/libraries\/qtip\/jquery.qtip-1.0.0-rc3.min.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/comment_notify\/comment_notify.js":1,"sites\/all\/modules\/codefilter\/codefilter.js":1,"sites\/all\/modules\/project_issue\/js\/project-issue.js":1,"sites\/all\/libraries\/highlightjs\/highlight.pack.js":1,"sites\/all\/modules\/highlightjs\/highlight_js.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/menu_minipanels\/js\/menu_minipanels.callbacks.js":1},"css":{"modules\/field\/system\/system.base.css":1,"modules\/field\/system\/system.menus.css":1,"modules\/field\/system\/system.messages.css":1,"modules\/field\/system\/system.theme.css":1,"sites\/all\/modules\/comment_notify\/comment_notify.css":1,"sites\/all\/modules\/codefilter\/codefilter.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/project_issue\/project_issue.css":1,"sites\/all\/modules\/project\/release\/project_release.css":1,"sites\/all\/modules\/menu_minipanels\/quiz\/quiz.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/project\/package\/project_package.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/highlightjs\/styles\/default.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/rate\/rate.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"public:\/\/ctools\/css\/1b564ea508122a778f3f9bf5d65e0f4b.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/flexible\/flexible.css":1,"public:\/\/ctools\/css\/fe88a336941026027d08e3e58a8987f1.css":1,"public:\/\/ctools\/css\/64d7d0a3c55866afec0187d45d6e1cfe.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"public:\/\/ctools\/css\/a20232fe497daa87a2b6a6aba106ae2f.css":1,"sites\/all\/modules\/menu_minipanels\/css\/menu_minipanels.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"themes\/bartik\/css\/colors.css":1,"themes\/bartik\/css\/print.css":1,"sites\/all\/modules\/highlightjs\/highlight_js.css":1,"themes\/bartik\/css\/ie.css":1,"themes\/bartik\/css\/ie6.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"menuMinipanels":{"panels":{"panel_0":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"bottomLeft","tooltip":"topLeft"}},"show":{"delay":"140","when":{"event":"mouseover"},"effect":{"type":"slide","length":"100"}},"hide":{"delay":"0","effect":{"type":"slide","length":"100"}},"style":{"name":"light","width":{"min":"0","max":"250"},"border":{"width":"3","color":"#d3d3d3","radius":"0"}},"mlid":0},"panel_705":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"bottomLeft","tooltip":"topLeft"}},"show":{"delay":"140","when":{"event":"mouseover"},"effect":{"type":"slide","length":"100"}},"hide":{"delay":"0","effect":{"type":"slide","length":"100"}},"style":{"name":"light","width":{"min":"0","max":"400"},"border":{"width":"3","color":"#d3d3d3","radius":"0"}},"mlid":"705"},"panel_379":{"position":{"target":"false","target_custom":"","type":"absolute","corner":{"target":"bottomLeft","tooltip":"topLeft"}},"show":{"delay":"140","when":{"event":"mouseover"},"effect":{"type":"slide","length":"100"}},"hide":{"delay":"0","effect":{"type":"slide","length":"100"}},"style":{"name":"light","width":{"min":"0","max":"250"},"border":{"width":"3","color":"#d3d3d3","radius":"0"}},"mlid":"379"}}},"urlIsAjaxTrusted":{"\/home?destination=node\/74":true}});
+</script>
+</head>
+<body class="html front not-logged-in two-sidebars page-node page-node- page-node-74 node-type-page" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper"><div id="page">
+
+  <div id="header" class="without-secondary-menu"><div class="section clearfix">
+
+          <a href="/" title="Home" rel="home" id="logo">
+        <img src="https://www.ideascripting.com/sites/default/files/resized_50Picture1.png" alt="Home" />
+      </a>
+    
+          <div id="name-and-slogan">
+
+                              <div id="site-name">
+              <strong>
+                <a href="/" title="Home" rel="home"><span>IDEAScripting and More</span></a>
+              </strong>
+            </div>
+                  
+        
+      </div> <!-- /#name-and-slogan -->
+    
+    
+          <div id="main-menu" class="navigation">
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-380 active-trail first active"><a href="/home" class="active-trail active">Home</a></li>
+<li class="menu-418"><a href="/ideascripts" title="">IDEAScripts</a></li>
+<li class="menu-414"><a href="/IDEASnippets">IDEASnippets</a></li>
+<li class="menu-1047"><a href="/content/videos" class="menu-minipanel menu-minipanel-0">Videos</a></li>
+<li class="menu-705"><a href="/vba-language%20" title="" class="menu-minipanel menu-minipanel-705">VB Language</a></li>
+<li class="menu-1759"><a href="/content/resources" title="Resource pages">Resources</a></li>
+<li class="menu-415"><a href="/Search">Search</a></li>
+<li class="menu-379 last"><a href="/forum" title="" class="menu-minipanel menu-minipanel-379">Forums</a></li>
+</ul>      </div> <!-- /#main-menu -->
+    
+    
+  </div></div> <!-- /.section, /#header -->
+
+  
+  
+  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
+
+    
+          <div id="sidebar-first" class="column sidebar"><div class="section">
+          <div class="region region-sidebar-first">
+    <div id="block-block-3" class="block block-block">
+
+    
+  <div class="content">
+    <p><a href="https://ca.marketplace.audicon.net/ca_en/is-fraud-tool-kit-424.html" title="IS Fraud Tool Kit"><strong><span style="font-size: small;">IS Fraud Tool Kit</span></strong></a></p>
+<p><a href="https://ca.marketplace.audicon.net/ca_en/is-fraud-tool-kit-424.html" title="IS Fraud Tool Kit"><img src="/sites/default/files/FRD_transparent_80x80px.png" alt="IS Fraud Tool Kit" title="IS Fraud Tool Kit" width="80" height="80"></a></p>
+<p><strong><a href="https://ca.marketplace.audicon.net/ca_en/is-multi-file-import-427.html" title="IS Multi File Import">IS Multi File Import</a></strong></p>
+<p><a href="https://ca.marketplace.audicon.net/ca_en/is-multi-file-import-427.html" title="IS Multi File Import"><img src="https://ca.marketplace.audicon.net/media/catalog/product/cache/35/image/136x120/9df78eab33525d08d6e5fb8d27136e95/m/f/mfi_weiss_512x512px_1.png" alt="IS Multi File Import"></a></p>
+<h1 class="productDetail-title"><a href="http://ca.wiley.com/WileyCDA/WileyTitle/productCd-1118779657.html" title="Wiley: Fraud and Fraud Detection"><strong><span style="font-size: small;">Fraud and Fraud Detection: A Data Analytics Approach Using IDEA, + Website</span></strong></a></h1>
+<p><a href="http://ca.wiley.com/WileyCDA/WileyTitle/productCd-1118779657.html" title="Wiley: Fraud and Fraud Detection"><img src="/sites/default/files/1118779657.jpg" alt="Wiley: Fraud and Fraud Detection" title="Wiley: Fraud and Fraud Detection" width="100" height="151"></a></p>
+<p><a href="https://ca.linkedin.com/pub/brian-element/40/205/a93" style="text-decoration: none;"><span style="font: 80% Arial,sans-serif; color: #0783b6;"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png" alt="View Brian Element's LinkedIn profile" width="20" height="15" border="0" style="vertical-align: middle;">&nbsp;View Brian Element's profile</span></a></p>
+<p><a href="https://twitter.com/ideascripting?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ideascripting</a></p>  </div>
+</div>
+<div id="block-user-login" class="block block-user">
+
+    <h2>User login</h2>
+  
+  <div class="content">
+    <form action="/home?destination=node/74" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-0DcyRJnWFpTMMaW5ZlryBLbrV4n51kCc1eNHCiip6Pc" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+      </div></div> <!-- /.section, /#sidebar-first -->
+    
+    <div id="content" class="column"><div class="section">
+            <a id="main-content"></a>
+                    <h1 class="title" id="page-title">
+          Home Page        </h1>
+                          <div class="tabs">
+                  </div>
+                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-74" class="node node-page node-full clearfix" about="/home" typeof="foaf:Document">
+
+      <span property="dc:title" content="Home Page" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><span style="font-size: 13.008px;">Welcome to IDEAScripting.com.&nbsp; I have set-up this site to support </span><a href="http://ideasupport.caseware.com/Default.aspx" title="IDEA Support site" style="font-size: 13.008px;">IDEA</a><span style="font-size: 13.008px;">&nbsp;and IDEAScripting, which is the scripting language used by IDEA.</span></p>
+<p>On the site I have made available some of my scripts that will hopefully help you out in your use of IDEA.&nbsp; I also have IDEAScript snippets that are short pieces of code that I continually reuse in my scripts.&nbsp; There are also several videos, including a series on how to create a simple IDEAScript.&nbsp; I am continually adding items as I have time to create them.</p>
+<p>There is a forum where members can ask questions or post comments.&nbsp; In there I also have several custom functions that can be downloaded and used within IDEA.</p>
+<p><span style="font-size: 13.008px;">I hope you enjoy the site and all comments are welcome.</span></p>
+<p>Thanks</p>
+<p>Brian</p></div></div></div>  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+      
+    </div></div> <!-- /.section, /#content -->
+
+          <div id="sidebar-second" class="column sidebar"><div class="section">
+          <div class="region region-sidebar-second">
+    <div id="block-views-wp-blog-latest-posts-block" class="block block-views">
+
+    <h2>Latest blog posts</h2>
+  
+  <div class="content">
+    <div class="view view-wp-blog-latest-posts view-id-wp_blog_latest_posts view-display-id-block view-dom-id-b6f7ad2fb60ad8ac16b6863613a10341">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/2015/08/03/how-internationalize-and-localize-your-scripts">How to Internationalize and localize your scripts</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content"><em class="placeholder">4 years 6 months</em> ago</span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/2014/02/12/new-idea-site-certification-program-and-auditnet%C2%AE">New IDEA site, Certification program and AuditNet® </a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content"><em class="placeholder">6 years 6 days</em> ago</span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/2013/01/13/idea-v9">IDEA v9</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content"><em class="placeholder">7 years 1 month</em> ago</span>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/2012/09/19/snippets">Snippets</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content"><em class="placeholder">7 years 5 months</em> ago</span>  </div></li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/node/75">Welcome to IDEAScripting.com</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content"><em class="placeholder">7 years 7 months</em> ago</span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-tagclouds-1" class="block block-tagclouds">
+
+    <h2>Tags</h2>
+  
+  <div class="content">
+    <span class='tagclouds-term'><a href="/tags/accounts-payable" class="tagclouds level1" title="">accounts payable</a></span>
+<span class='tagclouds-term'><a href="/tags/benfords-law" class="tagclouds level1" title="">Benford&#039;s Law</a></span>
+<span class='tagclouds-term'><a href="/tags/comments" class="tagclouds level1" title="">Comments</a></span>
+<span class='tagclouds-term'><a href="/tags/comparison" class="tagclouds level1" title="">Comparison</a></span>
+<span class='tagclouds-term'><a href="/tags/dates" class="tagclouds level1" title="">dates</a></span>
+<span class='tagclouds-term'><a href="/tags/export" class="tagclouds level1" title="">Export</a></span>
+<span class='tagclouds-term'><a href="/tags/fraud" class="tagclouds level5" title="">fraud</a></span>
+<span class='tagclouds-term'><a href="/tags/games" class="tagclouds level2" title="">Games</a></span>
+<span class='tagclouds-term'><a href="/tags/statistics" class="tagclouds level1" title="">statistics</a></span>
+<span class='tagclouds-term'><a href="/tags/utility" class="tagclouds level5" title="">Utility</a></span>
+<span class='tagclouds-term'><a href="/tags/v85" class="tagclouds level6" title="">v8.5</a></span>
+  </div>
+</div>
+<div id="block-views-latest-scripts-block" class="block block-views">
+
+    <h2>Latest Scripts / Updates</h2>
+  
+  <div class="content">
+    <div class="view view-latest-scripts view-id-latest_scripts view-display-id-block view-dom-id-ce13c6b10a6d85ebd91e20f2f778d05e">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/ideascript/unlimited-key-extraction-ukx-selection">Unlimited Key eXtraction (UKX) with Selection</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/ideascript/replicate-db">Replicate DB</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/ideascript/unlimited-key-extraction-ukx">Unlimited Key eXtraction (UKX)</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/content/payment-date-vs-due-date">Payment Date vs Due Date</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/ideascript/generate-audit-number">Generate Audit Number</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-forum-new" class="block block-forum">
+
+    <h2>New forum topics</h2>
+  
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="/forum/exporting-database-history" title="2 comments">Exporting Database History</a></li>
+<li><a href="/forum/checking-user-inputs-errors" title="3 comments">Checking user Inputs for errors</a></li>
+<li><a href="/forum/executing-ideascript-certain-day-every-month" title="5 comments">Executing IDEAScript on a certain day every month</a></li>
+<li><a href="/forum/importing-limited-portion-multiple-pdf-having-different-lenght" title="3 comments">Importing limited portion of multiple PDF having different lenght.</a></li>
+<li class="last"><a href="/forum/can-virtual-field-removal-cause-idea-crash" title="3 comments">Can Virtual field removal cause IDEA crash</a></li>
+</ul></div><div class="more-link"><a href="/forum" title="Read the latest forum topics.">More</a></div>  </div>
+</div>
+<div id="block-comment-recent" class="block block-comment">
+
+    <h2>Recent comments</h2>
+  
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="/comment/3421#comment-3421">How is this line &quot;rec</a>&nbsp;<span>19 hours 45 min ago</span></li>
+<li><a href="/comment/3420#comment-3420">Do you happen to have a</a>&nbsp;<span>3 days 16 hours ago</span></li>
+<li><a href="/comment/3419#comment-3419">Thanks klmi, this is the</a>&nbsp;<span>4 days 16 hours ago</span></li>
+<li><a href="/comment/3418#comment-3418">Well it&#039;s not so hard at all.</a>&nbsp;<span>4 days 19 hours ago</span></li>
+<li><a href="/comment/3417#comment-3417">We have looked into that,</a>&nbsp;<span>4 days 22 hours ago</span></li>
+<li><a href="/comment/3416#comment-3416">Have you investigated the</a>&nbsp;<span>5 days 25 min ago</span></li>
+<li><a href="/comment/3415#comment-3415">Here is the full displayIt</a>&nbsp;<span>5 days 14 hours ago</span></li>
+<li><a href="/comment/3414#comment-3414">I&#039;m trying to get the Task</a>&nbsp;<span>5 days 18 hours ago</span></li>
+<li><a href="/comment/3413#comment-3413">You can try to use the</a>&nbsp;<span>5 days 19 hours ago</span></li>
+<li class="last"><a href="/comment/3412#comment-3412">Yes it is in the desplayIt</a>&nbsp;<span>5 days 19 hours ago</span></li>
+</ul></div>  </div>
+</div>
+  </div>
+      </div></div> <!-- /.section, /#sidebar-second -->
+    
+  </div></div> <!-- /#main, /#main-wrapper -->
+
+  
+  <div id="footer-wrapper"><div class="section">
+
+    
+          <div id="footer" class="clearfix">
+          <div class="region region-footer">
+    <div id="block-block-1" class="block block-block">
+
+    
+  <div class="content">
+    <p><span class="yui_3_2_0_66_1343265676793173" style="font-size: 11pt; font-family: 'sans-serif'; color: #ffffff;">IDEA is a trademark of <a href="http://www.caseware.com/" target="_blank" title="CaseWare International Inc."><span style="color: #ffffff;">CaseWare International Inc.</span></a>, used by permission.</span></p><p style="text-align: center;"><span class="yui_3_2_0_66_1343265676793173" style="font-size: x-small; font-family: 'sans-serif'; color: #ffffff;">All material provided on the IDEAScripting website is presented as is without any warranty or guarantee.&nbsp; Anybody using any solution provided on this pages is encouraged to validate the effectiveness and reliability on their own.<br></span></p><p style="text-align: center;"><span class="yui_3_2_0_66_1343265676793173" style="font-size: x-small; font-family: 'sans-serif'; color: #ffffff;">&nbsp;</span></p>  </div>
+</div>
+<div id="block-system-powered-by" class="block block-system">
+
+    
+  <div class="content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+</div>
+  </div>
+      </div> <!-- /#footer -->
+    
+  </div></div> <!-- /.section, /#footer-wrapper -->
+
+</div></div> <!-- /#page, /#page-wrapper -->
+    <div class="region region-page-bottom">
+    <div class="menu-minipanels menu-minipanel-0"><div class="panel-display panel-1col clearfix" id="mini-panel-video_panel_for_menu">
+  <div class="panel-panel panel-col">
+    <div><div class="rounded-corner">
+  <div class="wrap-corner">
+    <div class="t-edge"><div class="l"></div><div class="r"></div></div>
+    <div class="l-edge">
+      <div class="r-edge clearfix">
+        <div class="panel-pane pane-node"  >
+  
+      
+  
+  <div class="pane-content">
+    <div id="node-178" class="node node-page clearfix" about="/content/videos" typeof="foaf:Document">
+
+        <h2>
+      <a href="/content/videos"></a>
+    </h2>
+    <span property="dc:title" content="" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p style="line-height: 7px;"><a href="/content/import-intro-video" title="Import Intro Video">Import</a></p>
+<p style="line-height: 7px;"><a href="/content/analysis-explore-videos" title="Analysis - Explore Videos">Explore</a></p>
+<p style="line-height: 7px;"><a href="/content/analysis-relate-videos" title="Analysis - Relate Videos">Relate</a></p>
+<p style="line-height: 7px;"><a href="/content/analysis-extract-videos" title="Analysis - Extract Videos">Extract</a></p>
+<p style="line-height: 7px;"><a href="/content/ideascript-tutorial-intro" title="IDEAScript Tutorial">IDEAScripting</a></p>
+<p style="line-height: 7px;"><a href="/content/custom-functions-part-1" title="Custom Functions Tutorial">Custom Functions</a></p>
+<p style="line-height: 7px;"><a href="/content/georgia-techs-experience-p-card-fraud" title="Continous Monitoring">Continous Monitoring</a></p>
+<p style="line-height: 7px;"><a href="/content/effective-analytics-made-easy-idea" title="Effective Analytics">Effective Analytics</a></p>
+<p style="line-height: 7px;"><a href="/content/benfords-analysis" title="Benford's Analysis">Benford's Analysis</a></p>
+<p style="line-height: 7px;"><a href="/content/smart-analyzer-solution-idea" title="Smart Analyzer">Smart Analyzer</a></p>
+<p style="line-height: 7px;"><a href="/content/idea-help-videos" title="IDEA Help Videos">IDEA Help Videos</a></p>
+<p style="line-height: 7px;"><a href="/content/idea-related-videos" title="IDEA Related Videos">IDEA Related Videos</a></p>
+<p style="line-height: 7px;"><a href="/content/idea-success-stories" title="IDEA Success Stories">IDEA Success Stories</a></p></div></div></div>  </div>
+
+  
+  
+</div>
+  </div>
+
+  
+  </div>
+      </div>
+    </div>
+    <div class="b-edge"><div class="l"></div><div class="r"></div></div>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</div><div class="menu-minipanels menu-minipanel-705"><div class="panel-flexible panels-flexible-1 clearfix" id="mini-panel-vba_language">
+<div class="panel-flexible-inside panels-flexible-1-inside">
+<div class="panels-flexible-region panels-flexible-region-1-center panels-flexible-region-first panels-flexible-region-last">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-1-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="rounded-corner">
+  <div class="wrap-corner">
+    <div class="t-edge"><div class="l"></div><div class="r"></div></div>
+    <div class="l-edge">
+      <div class="r-edge clearfix">
+        <div class="panel-pane pane-custom pane-1"  >
+  
+      
+  
+  <div class="pane-content">
+    <a href="/array-functions">Array Functions</a> <br/>
+<a href="/conversion-functions">Conversion Functions</a> <br/>
+<a href="/date-functions">Date Functions</a> <br/>
+<a href="/file-functions">File Functions</a> <br/>
+<a href="/math-functions">Math Functions</a> <br/>
+<a href="/other-functions">Other Functions</a> <br/>
+<a href="/procedures">Procedures</a> <br/>
+<a href="/string-functions">String Functions</a><br/> 
+<a href="/variables">Variables</a>   </div>
+
+  
+  </div>
+      </div>
+    </div>
+    <div class="b-edge"><div class="l"></div><div class="r"></div></div>
+  </div>
+</div>
+  </div>
+</div>
+</div>
+</div>
+</div><div class="menu-minipanels menu-minipanel-379"><div class="panel-display panel-1col clearfix" id="mini-panel-panel_for_forum">
+  <div class="panel-panel panel-col">
+    <div><div class="rounded-corner">
+  <div class="wrap-corner">
+    <div class="t-edge"><div class="l"></div><div class="r"></div></div>
+    <div class="l-edge">
+      <div class="r-edge clearfix">
+        <div class="panel-pane pane-node"  >
+  
+      
+  
+  <div class="pane-content">
+    <div id="node-265" class="node node-page clearfix" about="/content/forum-list" typeof="foaf:Document">
+
+        <h2>
+      <a href="/content/forum-list"></a>
+    </h2>
+    <span property="dc:title" content="" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a href="/content/forum-list-links">Forum List</a></p></div></div></div>  </div>
+
+  
+  
+</div>
+  </div>
+
+  
+  </div>
+      </div>
+    </div>
+    <div class="b-edge"><div class="l"></div><div class="r"></div></div>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</div>  </div>
+<script src="https://www.ideascripting.com/sites/default/files/js/js_8HOpH71cDgb-XOi8wOSCmh_anBtLAL8ghKoBTcuG1Os.js"></script>
+</body>
+</html>

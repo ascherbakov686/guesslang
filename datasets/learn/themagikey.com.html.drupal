@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="http://themagikey.com/sites/default/files/map_1.png" type="image/png" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="The MagiKey RSS" href="http://themagikey.com/rss.xml" />
+  <title>The MagiKey</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+  
+  <style>
+@import url("http://themagikey.com/modules/field/theme/field.css?op0vsg");
+@import url("http://themagikey.com/sites/all/modules/logintoboggan/logintoboggan.css?op0vsg");
+@import url("http://themagikey.com/modules/search/search.css?op0vsg");
+@import url("http://themagikey.com/sites/all/modules/ubercart/uc_file/uc_file.css?op0vsg");
+@import url("http://themagikey.com/sites/all/modules/ubercart/uc_order/uc_order.css?op0vsg");
+@import url("http://themagikey.com/sites/all/modules/ubercart/uc_product/uc_product.css?op0vsg");
+@import url("http://themagikey.com/sites/all/modules/ubercart/uc_store/uc_store.css?op0vsg");
+@import url("http://themagikey.com/modules/user/user.css?op0vsg");
+@import url("http://themagikey.com/sites/all/modules/views/css/views.css?op0vsg");
+@import url("http://themagikey.com/sites/all/modules/ckeditor/css/ckeditor.css?op0vsg");
+</style>
+<style>
+@import url("http://themagikey.com/sites/all/modules/colorbox/styles/plain/colorbox_style.css?op0vsg");
+@import url("http://themagikey.com/sites/all/modules/ctools/css/ctools.css?op0vsg");
+</style>
+<style>
+@import url("http://themagikey.com/sites/all/themes/zen/zen-internals/css/styles.css?op0vsg");
+</style>
+  <script src="http://themagikey.com/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.3"></script>
+<script src="http://themagikey.com/misc/jquery.once.js?v=1.2"></script>
+<script src="http://themagikey.com/misc/drupal.js?op0vsg"></script>
+<script src="http://themagikey.com/sites/all/modules/ubercart/uc_file/uc_file.js?op0vsg"></script>
+<script src="http://themagikey.com/sites/all/libraries/colorbox/jquery.colorbox-min.js?op0vsg"></script>
+<script src="http://themagikey.com/sites/all/modules/colorbox/js/colorbox.js?op0vsg"></script>
+<script src="http://themagikey.com/sites/all/modules/colorbox/styles/plain/colorbox_style.js?op0vsg"></script>
+<script src="http://themagikey.com/sites/all/modules/colorbox/js/colorbox_load.js?op0vsg"></script>
+<script src="http://themagikey.com/sites/all/modules/colorbox/js/colorbox_inline.js?op0vsg"></script>
+<script src="http://themagikey.com/sites/all/modules/google_analytics/googleanalytics.js?op0vsg"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-10224731-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"zen","theme_token":"3kWFXZi6dFftdyzKiMSESwpta3QeV8plVSeBRGkrY9w","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/ubercart\/uc_file\/uc_file.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/plain\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"sites\/all\/modules\/ubercart\/uc_file\/uc_file.css":1,"sites\/all\/modules\/ubercart\/uc_order\/uc_order.css":1,"sites\/all\/modules\/ubercart\/uc_product\/uc_product.css":1,"sites\/all\/modules\/ubercart\/uc_store\/uc_store.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/colorbox\/styles\/plain\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/zen\/system.base.css":1,"sites\/all\/themes\/zen\/system.menus.css":1,"sites\/all\/themes\/zen\/system.messages.css":1,"sites\/all\/themes\/zen\/system.theme.css":1,"sites\/all\/themes\/zen\/comment.css":1,"sites\/all\/themes\/zen\/node.css":1,"sites\/all\/themes\/zen\/zen-internals\/css\/styles.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"urlIsAjaxTrusted":{"\/":true,"\/node?destination=node":true}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+<body class="html front not-logged-in no-sidebars page-node" >
+      <p class="skip-link__wrapper">
+      <a href="#main-menu" class="skip-link visually-hidden visually-hidden--focusable" id="skip-link">Jump to navigation</a>
+    </p>
+      
+<div class="layout-center">
+
+  <header class="header" role="banner">
+
+          <a href="/" title="Home" rel="home" class="header__logo"><img src="http://themagikey.com/sites/default/files/banner.gif" alt="Home" class="header__logo-image" /></a>
+    
+    
+    
+    
+  </header>
+
+  <div class="layout-3col layout-swap">
+
+    
+    <main class="layout-3col__full" role="main">
+                  <a href="#skip-link" class="visually-hidden visually-hidden--focusable" id="main-content">Back to top</a>
+                                                
+
+
+<article class="node node-product node-promoted node-sticky node-teaser clearfix node-117" about="/magicensus-deluxe" typeof="sioc:Item foaf:Document">
+
+      <header>
+                    <h2><a href="/magicensus-deluxe">MagiCensus Deluxe</a></h2>
+            <span property="dc:title" content="MagiCensus Deluxe" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+              <p class="submitted">
+                    <span property="dc:date dc:created" content="2011-02-09T19:26:56-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/stienman" typeof="sioc:UserAccount" property="foaf:name" datatype="">stienman</span> on <time pubdate datetime="2011-02-09T19:26:56-05:00">Wed, 02/09/2011 - 19:26</time></span>        </p>
+      
+          </header>
+  
+  <div  class="product-info display-price uc-product-117"><span class="uc-price">$49.99</span></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>MagiCensus Deluxe is our most comprehensive, feature filled product including our interactive Census Tracker and preset extraction forms.  Quickly identify conflicting census information whie making census research fun. Easily gather, record, and analyze family history trees with our full feature geneology program which incudes pedigree, family group sheet, census, and descendancy (including multiple marriages) views and reports.</p></div></div></div><div class="field field-name-uc-product-image field-type-image field-label-hidden"><div class="field-items"></div></div><div  class="product-info sell-price"><span class="uc-price-label">Price:</span> <span class="uc-price">$49.99</span></div><div class="add-to-cart"><form action="/" method="post" id="uc-product-add-to-cart-form-117" accept-charset="UTF-8"><div><input type="hidden" name="qty" value="1" />
+<input type="hidden" name="form_build_id" value="form-eE9bRM-R5uSyCATilkmOCQE7tuU2PqFoY_SW3b7fWXE" />
+<input type="hidden" name="form_id" value="uc_product_add_to_cart_form_117" />
+<div class="form-actions form-wrapper" id="edit-actions"><input class="node-add-to-cart form-submit" type="submit" id="edit-submit-117" name="op" value="Add to cart" /></div></div></form></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/magicensus-deluxe" rel="tag" title="MagiCensus Deluxe">Read more<span class="element-invisible"> about MagiCensus Deluxe</span></a></li>
+</ul>
+  
+</article>
+<article class="node node-page node-promoted node-teaser clearfix node-108" about="/magiphoto" typeof="foaf:Document">
+
+      <header>
+                    <h2><a href="/magiphoto">MagiPhoto</a></h2>
+            <span property="dc:title" content="MagiPhoto" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3><strong><img alt="" src="http://themagikey.com/img/SquareLogo.png" style="float:left; height:150px; margin-left:10px; margin-right:10px; width:150px" />Free Windows App for uploading photos to FamilySearch.org  Download from the windows app store.</strong></h3>
+<table border="1" cellpadding="1" cellspacing="1"><tbody><tr><td><img alt="" src="/img/MainScreenshot.png" style="height:700px; width:420px" /></td>
+<td><img alt="" src="/img/PhotoTagPage.png" style="height:700px; width:420px" /></td>
+</tr><tr><td><img alt="" src="/img/SquareLogo.png" /></td></tr></tbody></table></div></div></div>
+  <ul class="links inline"><li class="node-readmore first last"><a href="/magiphoto" rel="tag" title="MagiPhoto">Read more<span class="element-invisible"> about MagiPhoto</span></a></li>
+</ul>
+  
+</article>
+<article class="node node-product-display node-promoted node-teaser clearfix node-156" about="/content/professional-census-tracking" typeof="sioc:Item foaf:Document">
+
+      <header>
+                    <h2><a href="/content/professional-census-tracking">Professional Census Tracking</a></h2>
+            <span property="dc:title" content="Professional Census Tracking" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+              <p class="submitted">
+                    <span property="dc:date dc:created" content="2014-02-26T09:57:22-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/stienman" typeof="sioc:UserAccount" property="foaf:name" datatype="">stienman</span> on <time pubdate datetime="2014-02-26T09:57:22-05:00">Wed, 02/26/2014 - 09:57</time></span>        </p>
+      
+          </header>
+  
+  
+  <ul class="links inline"><li class="node-readmore first"><a href="/content/professional-census-tracking" rel="tag" title="Professional Census Tracking">Read more<span class="element-invisible"> about Professional Census Tracking</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/156%23comment-form">Log in</a> or <a href="/user/register?destination=node/156%23comment-form">register</a> to post comments</span></li>
+</ul>
+  
+</article>
+<article class="node node-product-display node-promoted node-teaser clearfix node-153" about="/content/magicensus-deluxe-and-4-webinars" typeof="sioc:Item foaf:Document">
+
+      <header>
+                    <h2><a href="/content/magicensus-deluxe-and-4-webinars">MagiCensus Deluxe and 4 Webinars</a></h2>
+            <span property="dc:title" content="MagiCensus Deluxe and 4 Webinars" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+              <p class="submitted">
+                    <span property="dc:date dc:created" content="2013-05-08T17:46:50-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/stienman" typeof="sioc:UserAccount" property="foaf:name" datatype="">stienman</span> on <time pubdate datetime="2013-05-08T17:46:50-04:00">Wed, 05/08/2013 - 17:46</time></span>        </p>
+      
+          </header>
+  
+  
+  <ul class="links inline"><li class="node-readmore first"><a href="/content/magicensus-deluxe-and-4-webinars" rel="tag" title="MagiCensus Deluxe and 4 Webinars">Read more<span class="element-invisible"> about MagiCensus Deluxe and 4 Webinars</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/153%23comment-form">Log in</a> or <a href="/user/register?destination=node/153%23comment-form">register</a> to post comments</span></li>
+</ul>
+  
+</article>
+<article class="node node-product-display node-promoted node-teaser clearfix node-152" about="/content/magitree-deluxe" typeof="sioc:Item foaf:Document">
+
+      <header>
+                    <h2><a href="/content/magitree-deluxe">MagiTree Deluxe</a></h2>
+            <span property="dc:title" content="MagiTree Deluxe" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+              <p class="submitted">
+                    <span property="dc:date dc:created" content="2011-08-06T22:37:37-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/stienman" typeof="sioc:UserAccount" property="foaf:name" datatype="">stienman</span> on <time pubdate datetime="2011-08-06T22:37:37-04:00">Sat, 08/06/2011 - 22:37</time></span>        </p>
+      
+          </header>
+  
+  
+  <ul class="links inline"><li class="node-readmore first"><a href="/content/magitree-deluxe" rel="tag" title="MagiTree Deluxe">Read more<span class="element-invisible"> about MagiTree Deluxe</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/152%23comment-form">Log in</a> or <a href="/user/register?destination=node/152%23comment-form">register</a> to post comments</span></li>
+</ul>
+  
+</article>
+<article class="node node-product-display node-promoted node-teaser clearfix node-154" about="/content/magitree-0" typeof="sioc:Item foaf:Document">
+
+      <header>
+                    <h2><a href="/content/magitree-0">MagiTree</a></h2>
+            <span property="dc:title" content="MagiTree" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+              <p class="submitted">
+                    <span property="dc:date dc:created" content="2011-08-06T21:51:59-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/stienman" typeof="sioc:UserAccount" property="foaf:name" datatype="">stienman</span> on <time pubdate datetime="2011-08-06T21:51:59-04:00">Sat, 08/06/2011 - 21:51</time></span>        </p>
+      
+          </header>
+  
+  
+  <ul class="links inline"><li class="node-readmore first"><a href="/content/magitree-0" rel="tag" title="MagiTree">Read more<span class="element-invisible"> about MagiTree</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/154%23comment-form">Log in</a> or <a href="/user/register?destination=node/154%23comment-form">register</a> to post comments</span></li>
+</ul>
+  
+</article>
+<article class="node node-product-display node-promoted node-teaser clearfix node-151" about="/content/magicensus-deluxe-extended-trial-code-unlocktrial" typeof="sioc:Item foaf:Document">
+
+      <header>
+                    <h2><a href="/content/magicensus-deluxe-extended-trial-code-unlocktrial">MagiCensus Deluxe Extended Trial Code UNLOCKTRIAL</a></h2>
+            <span property="dc:title" content="MagiCensus Deluxe Extended Trial Code UNLOCKTRIAL" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+              <p class="submitted">
+                    <span property="dc:date dc:created" content="2011-06-27T17:16:21-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/stienman" typeof="sioc:UserAccount" property="foaf:name" datatype="">stienman</span> on <time pubdate datetime="2011-06-27T17:16:21-04:00">Mon, 06/27/2011 - 17:16</time></span>        </p>
+      
+          </header>
+  
+  
+  <ul class="links inline"><li class="node-readmore first"><a href="/content/magicensus-deluxe-extended-trial-code-unlocktrial" rel="tag" title="MagiCensus Deluxe Extended Trial Code UNLOCKTRIAL">Read more<span class="element-invisible"> about MagiCensus Deluxe Extended Trial Code UNLOCKTRIAL</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/151%23comment-form">Log in</a> or <a href="/user/register?destination=node/151%23comment-form">register</a> to post comments</span></li>
+</ul>
+  
+</article>
+<article class="node node-product-display node-promoted node-teaser clearfix node-157" about="/content/magicensus-deluxe" typeof="sioc:Item foaf:Document">
+
+      <header>
+                    <h2><a href="/content/magicensus-deluxe">MagiCensus Deluxe</a></h2>
+            <span property="dc:title" content="MagiCensus Deluxe" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+              <p class="submitted">
+                    <span property="dc:date dc:created" content="2011-02-09T19:26:56-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/stienman" typeof="sioc:UserAccount" property="foaf:name" datatype="">stienman</span> on <time pubdate datetime="2011-02-09T19:26:56-05:00">Wed, 02/09/2011 - 19:26</time></span>        </p>
+      
+          </header>
+  
+  
+  <ul class="links inline"><li class="node-readmore first"><a href="/content/magicensus-deluxe" rel="tag" title="MagiCensus Deluxe">Read more<span class="element-invisible"> about MagiCensus Deluxe</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/157%23comment-form">Log in</a> or <a href="/user/register?destination=node/157%23comment-form">register</a> to post comments</span></li>
+</ul>
+  
+</article>
+<article class="node node-product-display node-promoted node-teaser clearfix node-150" about="/content/magicensus" typeof="sioc:Item foaf:Document">
+
+      <header>
+                    <h2><a href="/content/magicensus">MagiCensus</a></h2>
+            <span property="dc:title" content="MagiCensus" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+              <p class="submitted">
+                    <span property="dc:date dc:created" content="2011-02-02T17:48:58-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/stienman" typeof="sioc:UserAccount" property="foaf:name" datatype="">stienman</span> on <time pubdate datetime="2011-02-02T17:48:58-05:00">Wed, 02/02/2011 - 17:48</time></span>        </p>
+      
+          </header>
+  
+  
+  <ul class="links inline"><li class="node-readmore first"><a href="/content/magicensus" rel="tag" title="MagiCensus">Read more<span class="element-invisible"> about MagiCensus</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/150%23comment-form">Log in</a> or <a href="/user/register?destination=node/150%23comment-form">register</a> to post comments</span></li>
+</ul>
+  
+</article>
+<article class="node node-product-display node-promoted node-teaser clearfix node-149" about="/content/one-one-genealogy-help" typeof="sioc:Item foaf:Document">
+
+      <header>
+                    <h2><a href="/content/one-one-genealogy-help">One-on-One Genealogy Help</a></h2>
+            <span property="dc:title" content="One-on-One Genealogy Help" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+              <p class="submitted">
+                    <span property="dc:date dc:created" content="2010-11-16T12:02:56-05:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/stienman" typeof="sioc:UserAccount" property="foaf:name" datatype="">stienman</span> on <time pubdate datetime="2010-11-16T12:02:56-05:00">Tue, 11/16/2010 - 12:02</time></span>        </p>
+      
+          </header>
+  
+  
+  <ul class="links inline"><li class="node-readmore first"><a href="/content/one-one-genealogy-help" rel="tag" title="One-on-One Genealogy Help">Read more<span class="element-invisible"> about One-on-One Genealogy Help</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/149%23comment-form">Log in</a> or <a href="/user/register?destination=node/149%23comment-form">register</a> to post comments</span></li>
+</ul>
+  
+</article>
+<h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/node?page=1">2</a></li>
+<li class="pager-next"><a title="Go to next page" href="/node?page=1">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/node?page=1">last »</a></li>
+</ul></div>      <a href="/rss.xml" class="feed-icon" title="Subscribe to The MagiKey RSS"><img typeof="foaf:Image" src="http://themagikey.com/misc/feed.png" width="16" height="16" alt="Subscribe to The MagiKey RSS" /></a>    </main>
+
+    <div class="layout-swap__top layout-3col__full">
+
+      <a href="#skip-link" class="visually-hidden visually-hidden--focusable" id="main-menu" tabindex="-1">Back to top</a>
+
+              <nav class="main-menu" role="navigation">
+          <h2 class="visually-hidden">Main menu</h2><ul class="navbar clearfix"><li class="menu-198 first active"><a href="/" title="" class="active">Home</a></li>
+<li class="menu-940"><a href="http://themagikey.com/magicensus-deluxe#" title="">Census Tracking</a></li>
+<li class="menu-975"><a href="http://themagikey.com/content/user-account#" title="">Register</a></li>
+<li class="menu-1995 last"><a href="/download-free-trial">Download Free Trial</a></li>
+</ul>        </nav>
+      
+      
+    </div>
+
+    
+    
+  </div>
+
+    <footer class="footer region region-footer" role="contentinfo">
+    <div class="block block-system first last odd" role="complementary" id="block-system-powered-by">
+
+      
+  <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>
+</div>
+  </footer>
+
+</div>
+
+  <div class="region region-bottom">
+    <div class="block block-user first last odd" role="form" id="block-user-login">
+
+        <h2 class="block__title">User login</h2>
+    
+  <form action="/node?destination=node" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username or e-mail <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-AzvTTwWZQJgioHCanOKsUqIDulGwUwW3AfwMOYIkPNo" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>
+</div>
+  </div>
+  </body>
+</html>

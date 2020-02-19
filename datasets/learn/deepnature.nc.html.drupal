@@ -1,0 +1,1279 @@
+<!DOCTYPE html>
+<html  lang="fr" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="https://deepnature.nc/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<script src="https://www.google.com/recaptcha/api.js?hl=fr" async="async" defer="defer"></script>
+<link rel="alternate" type="application/rss+xml" title="Deep Nature RSS" href="https://deepnature.nc/fr/rss.xml" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Deep Nature</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <style>
+@import url("https://deepnature.nc/sites/all/modules/date/date_api/date.css?po8xyg");
+@import url("https://deepnature.nc/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?po8xyg");
+@import url("https://deepnature.nc/modules/field/theme/field.css?po8xyg");
+@import url("https://deepnature.nc/modules/search/search.css?po8xyg");
+@import url("https://deepnature.nc/modules/user/user.css?po8xyg");
+@import url("https://deepnature.nc/sites/all/modules/views/css/views.css?po8xyg");
+@import url("https://deepnature.nc/sites/all/modules/ckeditor/css/ckeditor.css?po8xyg");
+@import url("https://deepnature.nc/sites/all/modules/media/modules/media_wysiwyg/css/media_wysiwyg.base.css?po8xyg");
+</style>
+<style>
+@import url("https://deepnature.nc/sites/all/modules/ctools/css/ctools.css?po8xyg");
+@import url("https://deepnature.nc/sites/all/modules/formblock/formblock.css?po8xyg");
+</style>
+<link type="text/css" rel="stylesheet" href="/sites/all/themes/zen/vendor/bootstrap/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/all/themes/zen/css/default.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/all/themes/zen/css/custom.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/all/themes/zen/vendor/fontawesome/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/all/themes/zen/vendor/fullPage/jquery.fullPage.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/all/themes/zen/vendor/linearicons/style.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/all/themes/zen/vendor/bootstrap/datepicker/bootstrap-datepicker.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/all/themes/zen/vendor/bootstrap/datepicker/bootstrap-datepicker.min.css" media="all" />
+<style>
+@import url("https://deepnature.nc/sites/all/themes/zen/zen-internals/css/styles.css?po8xyg");
+</style>
+  <script src="https://deepnature.nc/sites/all/modules/jquery_update/replace/jquery/2.1/jquery.min.js?v=2.1.4"></script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="//code.jquery.com/jquery-migrate-1.4.1.min.js"></script>
+<script>window.jQuery && window.jQuery.migrateWarnings || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery-migrate/1/jquery-migrate.min.js'>\x3C/script>")</script>
+<script src="https://deepnature.nc/misc/jquery-extend-3.4.0.js?v=2.1.4"></script>
+<script src="https://deepnature.nc/misc/jquery.once.js?v=1.2"></script>
+<script src="https://deepnature.nc/misc/drupal.js?po8xyg"></script>
+<script src="https://deepnature.nc/sites/all/modules/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script src="https://deepnature.nc/sites/default/files/languages/fr_bTEeY8LuNq93L5qyYWgeC8XhjCd2rorl5kfjJubKsEY.js?po8xyg"></script>
+<script src="https://deepnature.nc/sites/all/modules/captcha/captcha.js?po8xyg"></script>
+<script src="https://deepnature.nc/misc/textarea.js?v=7.67"></script>
+<script src="https://www.google.com/recaptcha/api.js?hl=fr"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"fr\/","ajaxPageState":{"theme":"zen","theme_token":"UsbCKEMmgbFp1RhQOnDFKW6vw9Nq3HXlr0I8ToJApPs","js":{"sites\/all\/themes\/zen\/vendor\/bootstrap\/bootstrap.min.js":1,"sites\/all\/themes\/zen\/vendor\/bootstrap\/datepicker\/bootstrap-datepicker.js":1,"sites\/all\/themes\/zen\/vendor\/bootstrap\/datepicker\/bootstrap-datepicker.min.js":1,"sites\/all\/themes\/zen\/vendor\/bootstrap\/datepicker\/bootstrap-datepicker.en-AU.min.js":1,"sites\/all\/themes\/zen\/vendor\/bootstrap\/datepicker\/bootstrap-datepicker.en-GB.min.js":1,"sites\/all\/themes\/zen\/vendor\/bootstrap\/datepicker\/bootstrap-datepicker.fr.min.js":1,"sites\/all\/themes\/zen\/vendor\/bootstrap\/datepicker\/bootstrap-datepicker.fr-CH.min.js":1,"sites\/all\/themes\/zen\/vendor\/bootstrap\/datepicker\/bootstrap-datepicker.ja.min.js":1,"sites\/all\/themes\/zen\/vendor\/fullPage\/vendors\/scrolloverflow.min.js":1,"sites\/all\/themes\/zen\/vendor\/fullPage\/jquery.fullPage.js":1,"sites\/all\/themes\/zen\/js\/fullpagecustom.js":1,"sites\/all\/themes\/zen\/js\/main.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"0":1,"\/\/code.jquery.com\/jquery-migrate-1.4.1.min.js":1,"1":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"public:\/\/languages\/fr_bTEeY8LuNq93L5qyYWgeC8XhjCd2rorl5kfjJubKsEY.js":1,"sites\/all\/modules\/captcha\/captcha.js":1,"misc\/textarea.js":1,"https:\/\/www.google.com\/recaptcha\/api.js?hl=fr":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/formblock\/formblock.css":1,"\/sites\/all\/themes\/zen\/vendor\/bootstrap\/bootstrap.min.css":1,"\/sites\/all\/themes\/zen\/css\/default.css":1,"\/sites\/all\/themes\/zen\/css\/custom.css":1,"\/sites\/all\/themes\/zen\/vendor\/fontawesome\/css\/font-awesome.min.css":1,"\/sites\/all\/themes\/zen\/vendor\/fullPage\/jquery.fullPage.css":1,"\/sites\/all\/themes\/zen\/vendor\/linearicons\/style.css":1,"\/sites\/all\/themes\/zen\/vendor\/bootstrap\/datepicker\/bootstrap-datepicker.css":1,"\/sites\/all\/themes\/zen\/vendor\/bootstrap\/datepicker\/bootstrap-datepicker.min.css":1,"sites\/all\/themes\/zen\/system.base.css":1,"sites\/all\/themes\/zen\/system.menus.css":1,"sites\/all\/themes\/zen\/system.messages.css":1,"sites\/all\/themes\/zen\/system.theme.css":1,"sites\/all\/themes\/zen\/comment.css":1,"sites\/all\/themes\/zen\/node.css":1,"sites\/all\/themes\/zen\/zen-internals\/css\/styles.css":1}},"urlIsAjaxTrusted":{"\/":true}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node i18n-fr path-frontpage" >
+      <p class="skip-link__wrapper">
+      <a href="#main-menu" class="skip-link visually-hidden visually-hidden--focusable" id="skip-link">Jump to navigation</a>
+    </p>
+      <div class="region region-header" style="z-index:110;">
+           <a href="https://deepnature.nc/fr" title="Accueil" rel="home" class="logo frn-hp" style="display: none"><img src="https://deepnature.nc/sites/all/themes/zen/images/icon/logo_top.png" alt="Accueil" class="header__logo-image" /></a>
+      <a href="https://deepnature.nc/content/eng" title="Accueil" rel="home" class="logo en-hp" style="display: none"><img src="https://deepnature.nc/sites/all/themes/zen/images/icon/logo_top.png" alt="Accueil" class="header__logo-image" /></a>
+      <a href="https://deepnature.nc/content/jp" title="Accueil" rel="home" class="logo jpn-hp" style="display: none"><img src="https://deepnature.nc/sites/all/themes/zen/images/icon/logo_top.png" alt="Accueil" class="header__logo-image" /></a>
+    </div>
+
+<header class="navbar navbar-default container-fluid deep-nav" id="navbar" role="banner">
+<div class="region region-navigation">
+<div class="language">
+        <a id="en" href="https://deepnature.nc/content/eng" class="col-language">EN </a> | 
+        <a id="fr" href="https://deepnature.nc/fr" class="col-language">FR</a> | 
+        <a id="ja" href="https://deepnature.nc/content/jp" class="col-language">JP </a> 
+</div>
+<nav role="navigation" aria-labelledby="block-rightsidemenu-menu" id="block-rightsidemenu"> 
+  <h2 class="visually-hidden" id="block-rightsidemenu-menu">Right Side Menu</h2>
+    
+      <ul class="frn-menu menu nav" style="display: none">
+            <li class="li-menu-nav expanded dropdown marginreduce" > 
+                  <a class="inv-cadeau" href="https://deepnature.nc/?id=invitation-cadeau#fr-contactez-nous"><img src="https://deepnature.nc/sites/all/themes/zen/images/icon/invitation-cadeau.png" class="icon-cadeau-position"></a>
+            </li>
+            
+            <li class="li-menu-nav expanded dropdown" >
+                  <a href="https://deepnature.nc/mots-cles/offres-spéciales"><img src="https://deepnature.nc/sites/all/themes/zen/images/icon/offrespeciales.png"></a>
+            </li>
+      </ul>
+      <ul class="eng-menu menu nav" style="display: none">
+            <li class="li-menu-nav expanded dropdown marginreduce" > 
+                  <a class="inv-cadeau" href="https://deepnature.nc/content/eng/?id=invitation-cadeau#fr-contactez-nous"><img src="https://deepnature.nc/sites/all/themes/zen/images/icon/invitation-cadeau_uk.png" class="icon-cadeau-position"></a>
+            </li>
+            
+            <li class="li-menu-nav expanded dropdown" >
+                  <a href="https://deepnature.nc/en/taxonomy/term/13"><img src="https://deepnature.nc/sites/all/themes/zen/images/icon/offrespeciales_uk.png"></a>
+            </li>
+      </ul>
+      <ul class="jpn-menu menu nav" style="display: none">
+            <li class="li-menu-nav expanded dropdown marginreduce" > 
+                  <a class="inv-cadeau" href="https://deepnature.nc/content/jp/?id=invitation-cadeau#fr-contactez-nous"><img src="https://deepnature.nc/sites/all/themes/zen/images/icon/invitation-cadeau_jp.png" class="icon-cadeau-position"></a>
+            </li>
+            
+            <li class="li-menu-nav expanded dropdown" >
+                  <a href="https://deepnature.nc/ja/taxonomy/term/14"><img src="https://deepnature.nc/sites/all/themes/zen/images/icon/offrespeciales_jp.png"></a>
+            </li>
+      </ul>
+  </nav>
+</div>
+
+
+
+   <div class="navbar-collapse " aria-expanded="false" style="">
+      <div class="region region-navigation-collapsible">
+         <nav role="navigation" aria-labelledby="block-deepnature-main-menu-menu" id="block-deepnature-main-menu">
+            <ul class="menu nav navbar-nav nav-bottom dn-navbar-position" id="dnNav_sections_menu2">
+               <li class="expanded dropdown item-pos-0" data-menuanchor="fr-bienvenue-dans-lunivers-du-spa-deep-nature-bruxelles">
+                  <a href="/fr" data-drupal-link-system-path="node/6" class="">Home</a>
+               </li>
+               <li class="expanded dropdown item-pos-1" data-menuanchor="fr-propos-de-nous">
+                  <a href="/#fr-propos-de-nous" data-drupal-link-system-path="node/3">Nos 3 spas</a>
+               </li>
+               <!-- <li class="expanded dropdown item-pos-2">
+                  <a href="#">Réservation rapide</a> -->
+               </li>
+               <li class="expanded dropdown item-pos-3" data-menuanchor="fr-reservez-votre-soin-et-ne-pensez-plus-rien">
+                  <a href="#fr-reservez-votre-soin-et-ne-pensez-plus-rien" data-drupal-link-system-path="node/5">Nos soins</a>
+               </li>
+               <li class="expanded dropdown item-pos-4" data-menuanchor="fr-le-group-deep-nature">
+                  <a href="#fr-le-group-deep-nature" data-drupal-link-system-path="node/39">Le groupe Deep Nature</a>
+               </li>
+               <li class="expanded dropdown item-pos-5" data-menuanchor="fr-plan-dacces">
+                  <a href="#fr-plan-dacces" data-drupal-link-system-path="node/163">Plan d'Accès</a>
+               </li>
+               <li class="expanded dropdown item-pos-6" data-menuanchor="fr-contactez-nous">
+                  <a href="#fr-contactez-nous" data-drupal-link-system-path="node/164">Nous Contacter</a>
+               </li>
+               <li class="expanded dropdown item-pos-7" data-menuanchor="content/spa-attitude">
+                  <a href="content/spa-attitude" data-drupal-link-system-path="node/7">Spa Attitude</a>
+               </li>
+               <li class="expanded dropdown item-pos-8" data-menuanchor="content/mention-legales">
+                  <a href="content/mentions-légales" data-drupal-link-system-path="node/6">Mentions légales</a>
+               </li>
+               <li class="expanded dropdown item-pos-9">
+                  <a href="https://deepnature.nc/content/eng">EN </a>
+                  <a href="/fr">/FR </a>
+                  <a href="https://deepnature.nc/content/jp">/JP </a>
+               </li>
+                <li class="social">
+                  <a href="https://www.facebook.com/deepnaturespanouvellecaledonie/" target="_blank"><i class="fa fa-facebook font-media" aria-hidden="true"></i><span class="social-text">Deep Nature Spa Nouvelle-Caldonie</span></a>
+                </li>
+                <li class="social social-height">
+                  <span>Nouméa</span>
+                  <a href="tel:+3222290073" class="no-pad" style="padding: unset !important;"><span class="lnr lnr-phone-handset font-media"></span> <span class="social-text">+687 26 51 04</span></a>
+                  <a href="mailto:resanoumea@deepnature.fr" class="no-pad " style="padding: unset !important;"><i class="fa fa-envelope font-media" aria-hidden="true"></i><span class="social-text"> resanoumea@deepnature.fr</span></a>
+                </li>
+                <li class="social social-height">
+                  <span>Ile des pins</span>
+                  <a href="tel:+3222290073" class="no-pad " style="padding: unset !important;"><span class="lnr lnr-phone-handset font-media"></span> <span class="social-text">+687 46 15 15</span></a>
+                  <a href="mailto:resaidp@deepnature.fr" class="no-pad "  style="padding: unset !important;"><i class="fa fa-envelope font-media" aria-hidden="true"></i><span class="social-text"> resaidp@deepnature.fr</span></a>
+                </li>
+                <li class="social social-height">
+                  <span>Deva</span>
+                  <a href="tel:+3222290073" class="no-pad " style="padding: unset !important;"><span class="lnr lnr-phone-handset font-media"></span> <span class="social-text">+687 20 70 19</span></a>
+                  <a href="mailto:resadeva@deepnature.fr" class="no-pad " style="padding: unset !important;"><i class="fa fa-envelope font-media" aria-hidden="true"></i><span class="social-text"> resadeva@deepnature.fr</span></a>
+                </li>
+            </ul>
+         </nav>
+         <nav class="frn-menu" role="navigation" aria-labelledby="block-deepnature-main-menu-menu" id="block-deepnature-main-menu-not-front">
+            <ul class="menu nav navbar-nav nav-bottom dn-navbar-position" id="dnNav_sections_menu1">
+               <li class="expanded dropdown item-pos-0 active" data-menuanchor="fr-bienvenue-dans-lunivers-du-spa-deep-nature-bruxelles">
+                  <a href="/#accueil" data-drupal-link-system-path="node/6" class="">Accueil</a>
+               </li>
+               <li class="expanded dropdown item-pos-1" data-menuanchor="fr-propos-de-nous">
+                  <a href="/#fr-propos-de-nous" data-drupal-link-system-path="node/3">Nos 3 spas</a>
+               </li>
+               <!-- <li class="expanded dropdown item-pos-2">
+                  <a href="#" target="_blank">Réservation rapide</a> -->
+               </li>
+               <li class="expanded dropdown item-pos-3" data-menuanchor="fr-reservez-votre-soin-et-ne-pensez-plus-rien">
+                  <a href="/#fr-reservez-votre-soin-et-ne-pensez-plus-rien" data-drupal-link-system-path="node/5">Nos soins</a>
+               </li>
+               <li class="expanded dropdown item-pos-4" data-menuanchor="fr-le-group-deep-nature">
+                  <a href="/#fr-le-group-deep-nature" data-drupal-link-system-path="node/39">Le groupe Deep Nature</a>
+               </li>
+               <li class="expanded dropdown item-pos-5" data-menuanchor="fr-plan-dacces">
+                  <a href="/#fr-plan-dacces" data-drupal-link-system-path="node/163">Plan d'Accès</a>
+               </li>
+               <li class="expanded dropdown item-pos-6" data-menuanchor="fr-contactez-nous">
+                  <a href="/#fr-contactez-nous" data-drupal-link-system-path="node/164">Nous Contacter</a>
+               </li>
+               <li class="expanded dropdown item-pos-7" data-menuanchor="content/spa-attitude">
+                  <a href="/content/spa-attitude" data-drupal-link-system-path="node/7">Spa Attitude</a>
+               </li>
+               <li class="expanded dropdown item-pos-8" data-menuanchor="content/mention-legales">
+                  <a href="/content/mentions-légales" data-drupal-link-system-path="node/6">Mentions légales</a>
+               </li>
+               <li class="expanded dropdown item-pos-9">
+                  <a href="https://deepnature.nc/content/eng" >EN </a>
+                  <a href="/fr" >/FR </a>
+                  <a href="https://deepnature.nc/content/jp" >/JP </a>
+               </li>
+                <li class="social">
+                  <a href="https://www.facebook.com/deepnaturespanouvellecaledonie/" target="_blank"><i class="fa fa-facebook font-media" aria-hidden="true"></i><span class="social-text">Deep Nature Spa Nouvelle-Calédonie</span></a>
+                </li>
+                <li class="social social-height">
+                  <span>Nouméa</span>
+                  </br>
+                  <span class="no-pad" style="padding: unset !important;"><span class="lnr lnr-phone-handset font-media"></span><span class="social-text"> <strong>+687 <span style="font-weight: 1000;">26 51 04</span></strong></span></span>
+                  <a href="mailto:resanoumea@deepnature.fr" class="no-pad " style="padding: unset !important;"><img class="mailsmaller" src="https://deepnature.nc/sites/all/themes/zen/images/icon/mailmenu.png" alt=""></i><span class="social-text"> resanoumea@deepnature.fr</span></a>
+                </li>
+                <li class="social social-height">
+                  <span>Ile des pins</span>
+                  </br>
+                  <span class="no-pad " style="padding: unset !important;"><span class="lnr lnr-phone-handset font-media"></span><span class="social-text"> <strong>+687 <span style="font-weight: 1000;">46 15 15</span></strong></span></span>
+                  <a href="mailto:resaidp@deepnature.fr" class="no-pad " style="padding: unset !important;"><img class="mailsmaller" src="https://deepnature.nc/sites/all/themes/zen/images/icon/mailmenu.png" alt=""></i><span class="social-text"> resaidp@deepnature.fr</span></a>
+                </li>
+                <li class="social social-height">
+                  <span>Deva</span>
+                  </br>
+                  <span class="no-pad " style="padding: unset !important;"><span class="lnr lnr-phone-handset font-media"></span><span class="social-text"> <strong>+687 <span style="font-weight: 1000;">20 70 19</span></strong></span></span>
+                  <a href="mailto:resadeva@deepnature.fr" class="no-pad " style="padding: unset !important;"><img class="mailsmaller" src="https://deepnature.nc/sites/all/themes/zen/images/icon/mailmenu.png" alt=""></i><span class="social-text"> resadeva@deepnature.fr</span></a>
+                </li>
+            </ul>
+         </nav>
+         <nav class="eng-menu" role="navigation" aria-labelledby="block-deepnature-main-menu-menu" id="block-deepnature-main-menu-not-front">
+            <ul class="menu nav navbar-nav nav-bottom dn-navbar-position" id="dnNav_sections_menu1">
+               <li class="expanded dropdown item-pos-0 active" data-menuanchor="fr-bienvenue-dans-lunivers-du-spa-deep-nature-bruxelles">
+                  <a href="/content/eng#accueil" data-drupal-link-system-path="node/6" class="">Home</a>
+               </li>
+               <li class="expanded dropdown item-pos-1" data-menuanchor="fr-propos-de-nous">
+                  <a href="/content/eng#fr-propos-de-nous" data-drupal-link-system-path="node/3">Our 3 Spas</a>
+               </li>
+               <!-- <li class="expanded dropdown item-pos-2">
+                  <a href="#" target="_blank">Réservation rapide</a> -->
+               </li>
+               <li class="expanded dropdown item-pos-3" data-menuanchor="fr-reservez-votre-soin-et-ne-pensez-plus-rien">
+                  <a href="/content/eng#fr-reservez-votre-soin-et-ne-pensez-plus-rien" data-drupal-link-system-path="node/5">Our Treatments</a>
+               </li>
+               <li class="expanded dropdown item-pos-4" data-menuanchor="fr-le-group-deep-nature">
+                  <a href="/content/eng#fr-le-group-deep-nature" data-drupal-link-system-path="node/39">The Deep Nature Group</a>
+               </li>
+               <li class="expanded dropdown item-pos-5" data-menuanchor="fr-plan-dacces">
+                  <a href="/content/eng#fr-plan-dacces" data-drupal-link-system-path="node/163">Locate Us</a>
+               </li>
+               <li class="expanded dropdown item-pos-6" data-menuanchor="fr-contactez-nous">
+                  <a href="/content/eng#fr-contactez-nous" data-drupal-link-system-path="node/164">Contact Us</a>
+               </li>
+               <li class="expanded dropdown item-pos-7" data-menuanchor="content/spa-attitude">
+                  <a href="/en/content/spa-attitude-eng" data-drupal-link-system-path="node/136">Spa Attitude</a>
+               </li>
+               <li class="expanded dropdown item-pos-8" data-menuanchor="content/mention-legales">
+                  <a href="/en/content/mentions-legales-eng" data-drupal-link-system-path="node/138">Legal Mentions</a>
+               </li>
+               <li class="expanded dropdown item-pos-9">
+                  <a href="https://deepnature.nc/content/eng" >EN </a>
+                  <a href="/fr" >/FR </a>
+                  <a href="https://deepnature.nc/content/jp" >/JP </a>
+               </li>
+                <li class="social">
+                  <a href="https://www.facebook.com/deepnaturespanouvellecaledonie/" target="_blank"><i class="fa fa-facebook font-media" aria-hidden="true"></i><span class="social-text">Deep Nature Spa Nouvelle-Calédonie</span></a>
+                </li>
+                <li class="social social-height">
+                  <span>Nouméa</span>
+                  </br>
+                  <span class="no-pad" style="padding: unset !important;"><span class="lnr lnr-phone-handset font-media"></span><span class="social-text"> <strong>+687 <span style="font-weight: 1000;">26 51 04</span></strong></span></span>
+                  <a href="mailto:resanoumea@deepnature.fr" class="no-pad " style="padding: unset !important;"><img class="mailsmaller" src="https://deepnature.nc/sites/all/themes/zen/images/icon/mailmenu.png" alt=""></i><span class="social-text"> resanoumea@deepnature.fr</span></a>
+                </li>
+                <li class="social social-height">
+                  <span>Ile des pins</span>
+                  </br>
+                  <span class="no-pad " style="padding: unset !important;"><span class="lnr lnr-phone-handset font-media"></span><span class="social-text"> <strong>+687 <span style="font-weight: 1000;">46 15 15</span></strong></span></span>
+                  <a href="mailto:resaidp@deepnature.fr" class="no-pad " style="padding: unset !important;"><img class="mailsmaller" src="https://deepnature.nc/sites/all/themes/zen/images/icon/mailmenu.png" alt=""></i><span class="social-text"> resaidp@deepnature.fr</span></a>
+                </li>
+                <li class="social social-height">
+                  <span>Deva</span>
+                  </br>
+                  <span class="no-pad " style="padding: unset !important;"><span class="lnr lnr-phone-handset font-media"></span><span class="social-text"> <strong>+687 <span style="font-weight: 1000;">20 70 19</span></strong></span></span>
+                  <a href="mailto:resadeva@deepnature.fr" class="no-pad " style="padding: unset !important;"><img class="mailsmaller" src="https://deepnature.nc/sites/all/themes/zen/images/icon/mailmenu.png" alt=""></i><span class="social-text"> resadeva@deepnature.fr</span></a>
+                </li>
+            </ul>
+         </nav>
+         <nav class="jpn-menu" role="navigation" aria-labelledby="block-deepnature-main-menu-menu" id="block-deepnature-main-menu-not-front">
+            <ul class="menu nav navbar-nav nav-bottom dn-navbar-position" id="dnNav_sections_menu1">
+               <li class="expanded dropdown item-pos-0 active" data-menuanchor="fr-bienvenue-dans-lunivers-du-spa-deep-nature-bruxelles">
+                  <a href="/content/jp#accueil" data-drupal-link-system-path="node/6" class="">受付</a>
+               </li>
+               <li class="expanded dropdown item-pos-1" data-menuanchor="fr-propos-de-nous">
+                  <a href="/content/jp#fr-propos-de-nous" data-drupal-link-system-path="node/3">3つのスパ</a>
+               </li>
+               <!-- <li class="expanded dropdown item-pos-2">
+                  <a href="#" target="_blank">Réservation rapide</a> -->
+               </li>
+               <li class="expanded dropdown item-pos-3" data-menuanchor="fr-reservez-votre-soin-et-ne-pensez-plus-rien">
+                  <a href="/content/jp#fr-reservez-votre-soin-et-ne-pensez-plus-rien" data-drupal-link-system-path="node/5">トリートメント</a>
+               </li>
+               <li class="expanded dropdown item-pos-4" data-menuanchor="fr-le-group-deep-nature">
+                  <a href="/content/jp#fr-le-group-deep-nature" data-drupal-link-system-path="node/39">ディープネイチャー　グループ</a>
+               </li>
+               <li class="expanded dropdown item-pos-5" data-menuanchor="fr-plan-dacces">
+                  <a href="/content/jp#fr-plan-dacces" data-drupal-link-system-path="node/163">アクセス</a>
+               </li>
+               <li class="expanded dropdown item-pos-6" data-menuanchor="fr-contactez-nous">
+                  <a href="/content/jp#fr-contactez-nous" data-drupal-link-system-path="node/164">連絡先</a>
+               </li>
+               <li class="expanded dropdown item-pos-7" data-menuanchor="content/spa-attitude">
+                  <a href="/ja/content/spa-attitude-jp" data-drupal-link-system-path="node/137">スパのご利用について</a>
+               </li>
+               <li class="expanded dropdown item-pos-8" data-menuanchor="content/mention-legales">
+                  <a href="/ja/content/mentions-legales-jap" data-drupal-link-system-path="node/139">法的通知</a>
+               </li>
+               <li class="expanded dropdown item-pos-9">
+                  <a href="https://deepnature.nc/content/eng" >EN </a>
+                  <a href="/fr" >/FR </a>
+                  <a href="https://deepnature.nc/content/jp" >/JP </a>
+               </li>
+                <li class="social">
+                  <a href="https://www.facebook.com/deepnaturespanouvellecaledonie/" target="_blank"><i class="fa fa-facebook font-media" aria-hidden="true"></i><span class="social-text">Deep Nature Spa Nouvelle-Calédonie</span></a>
+                </li>
+                <li class="social social-height">
+                  <span>Nouméa</span>
+                  </br>
+                  <span class="no-pad" style="padding: unset !important;"><span class="lnr lnr-phone-handset font-media"></span><span class="social-text"> <strong>+687 <span style="font-weight: 1000;">26 51 04</span></strong></span></span>
+                  <a href="mailto:resanoumea@deepnature.fr" class="no-pad " style="padding: unset !important;"><img class="mailsmaller" src="https://deepnature.nc/sites/all/themes/zen/images/icon/mailmenu.png" alt=""></i><span class="social-text"> resanoumea@deepnature.fr</span></a>
+                </li>
+                <li class="social social-height">
+                  <span>Ile des pins</span>
+                  </br>
+                  <span class="no-pad " style="padding: unset !important;"><span class="lnr lnr-phone-handset font-media"></span><span class="social-text"> <strong>+687 <span style="font-weight: 1000;">46 15 15</span></strong></span></span>
+                  <a href="mailto:resaidp@deepnature.fr" class="no-pad " style="padding: unset !important;"><img class="mailsmaller" src="https://deepnature.nc/sites/all/themes/zen/images/icon/mailmenu.png" alt=""></i><span class="social-text"> resaidp@deepnature.fr</span></a>
+                </li>
+                <li class="social social-height">
+                  <span>Deva</span>
+                  </br>
+                  <span class="no-pad " style="padding: unset !important;"><span class="lnr lnr-phone-handset font-media"></span><span class="social-text"> <strong>+687 <span style="font-weight: 1000;">20 70 19</span></strong></span></span>
+                  <a href="mailto:resadeva@deepnature.fr" class="no-pad " style="padding: unset !important;"><img class="mailsmaller" src="https://deepnature.nc/sites/all/themes/zen/images/icon/mailmenu.png" alt=""></i><span class="social-text"> resadeva@deepnature.fr</span></a>
+                </li>
+            </ul>
+         </nav>
+      </div>
+   </div>
+   <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+      <strong>Menu</strong>
+      <span class="icon-bars">
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      </span>
+      </button>
+      
+   </div>
+</header>
+<div id="fullpage" class="main-container">
+    <div class="dn-section section" data-anchor="accueil">
+        <div class="content content-1">
+            <div class="dn-header">
+                <h2>Bienvenue dans l’univers des spas Deep Nature en Nouvelle-Calédonie</h2>
+            </div>
+            <div class=dn-down>
+                <a href="#fr-propos-de-nous"></a>
+            </div>
+
+        </div>
+
+
+    </div>
+    
+        <div class="dn-section section" data-anchor="game">
+            <div class="round-button-game" >
+                <ul class="round-button-wrap">
+                    <li class="round-button-game-logo"><img src="/sites/all/themes/zen/images/background/logo-round-dp.png" alt="logo 5 ans"></li>
+                    <li class="round-button-game-title"><span class="black">5 ans </span><span class="white">de bien-être partagé</span></li>
+                    <li class="round-button-game-subtitle">
+                        <ul>
+                            <li class="round-button-game-st">Du 14 février au 30 avril 2020</li>
+                            <li class="round-button-game-st">Célébrez avec nous plus de <span>2 mois</span></li>
+                            <li class="round-button-game-st">d’animations ANNIVERSAIRE !</li>
+                        </ul>
+                    </li>
+                    <li class="round-button-game-col">
+                        <!-- <ul> -->
+                            <div class="round-button-game-col-st">AU PROGRAMME ! Jeux, offres spéciales 5 ans, défi super fans, concours de selfie…</div>
+                            <div class="round-button-game-col-st">C’est le moment de nous rapprocher ! De nombreux lots à gagner n’attendent que vous  !</div>
+                        <!-- </ul> -->
+                    </li>
+                    <li > <a href="http://5ans.deepnature.nc" target="blank">
+                            <ul class="round-button-game-btn">
+                                <img width="48px" height="48px"src="/sites/all/themes/zen/images/background/button-round-dp.png" alt="boutton d'appel">
+                                <span><ul><li>Découvrez</li><li>nos animations</li></ul></span>
+                            </ul>
+                        </a>
+                    </li> 
+                    <li>
+                        <ul class="round-button-game-social">
+                            <img width="48px" height="48px"src="/sites/all/themes/zen/images/background/button-round-text.png" alt="boutton d'appel">
+                            <a href="https://www.facebook.com/deepnaturespanouvellecaledonie" target="blank"><img width="48px" height="48px"src="/sites/all/themes/zen/images/background/button-round-fb.png" alt="boutton d'appel"></a>
+                            <a href="https://www.instagram.com/deepnaturespanc/" target="blank"><img width="48px" height="48px"src="/sites/all/themes/zen/images/background/button-round-insta.png" alt="boutton d'appel"></a>
+                            <a href="https://twitter.com/deepnaturespanc/" target="blank"><img width="48px" height="48px"src="/sites/all/themes/zen/images/background/button-round-twitter.png" alt="boutton d'appel"></a>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+    <div class="dn-section section" data-anchor="fr-propos-de-nous">
+        <div class="glide glide-default" data-anchor="fr-propos-de-nous-0">
+            <div class="dn-content">
+            <div class="content content-2">
+                <div class="dn-box fr-propos-de-nous-page-box">
+                   <div class="row">
+                      <div class="col-sm-12 col-xs-12">
+                         <div class="group-left">
+                            <div class="dn-title-top">
+                               <h1>3 SPAS DÉDIÉS AU BIEN-ÊTRE </h1>
+                            </div>
+                            <div class="dn-body-top">
+                               <p>DEEP NATURE vous accueille dans 3 lieux d’exception au bord du lagon, au cœur d’une nature luxuriante et vous propose une carte de soins et de massages signature pour des moments de relaxation inoubliables.</p>
+                            </div>
+                            <div class="dn-submenu dn-submenu-custom">
+                                <ul>
+                                    <li class="fr-propos-de-nous-page"><a href="#fr-propos-de-nous/deep-nature-noumea-harmony-spa" data-drupal-link-system-path=""><div class="icon-noumea" id="icon-noumea"></div><div class="text mobileshow">Le Méridien<br>NOUMEA</div></a></li>
+                                    <li class="fr-propos-de-nous-page"><a href="#fr-propos-de-nous/deep-nature-ile-des-pins" data-drupal-link-system-path=""><div class="icon-idp"  id="icon-idp"></div><div class="text mobileshow">Le Méridien<br>Ile des Pins</div></a></li>
+                                    <li class="fr-propos-de-nous-page"><a href="#fr-propos-de-nous/deep-nature-deva" data-drupal-link-system-path=""><div class="icon-deva" id="icon-deva"></div><div class="text mobileshow">Sheraton<br>Deva</div></a></li>
+                                    <li ><a href="#fr-propos-de-nous/fr-en-image" data-drupal-link-system-path=""><div class="active-icon-enimage"></div><div class="text">en images</div></a></li>
+                                    <li ><a href="/temps-forts" data-drupal-link-system-path=""><div class="active-icon-tempforts"></div><div class="text">temps forts</div></a></li>
+                                </ul>
+                            </div>
+                         </div>
+                      </div>
+                      <div class="col-sm-12">
+                         <div class="group-right">
+                            <div class="field field--name-dynamic-block-fieldnode-localnav-right field--type-ds field--label-hidden field--item">
+                               <ul class="menu nav navbar-nav">
+                                  <li class="expanded dropdown item-pos-0">
+                                     <a href="#fr-propos-de-nous/fr-une-equipe-attachee-aux-valeurs-exclusives-de-votre-spa" data-drupal-link-system-path="node/27">Notre equipe</a>
+                                  </li>
+                                  <li class="expanded dropdown item-pos-1">
+                                     <a href="#fr-propos-de-nous/fr-en-image" data-drupal-link-system-path="node/21">En image</a>
+                                  </li>
+                                  <li class="expanded dropdown item-pos-2">
+                                     <a href="#fr-propos-de-nous/fr-un-spa-vraiment-pas-comme-les-autres" data-drupal-link-system-path="node/4">L'Upsite</a>
+                                  </li>
+                               </ul>
+                            </div>
+                         </div>
+                      </div>
+                   </div>
+                </div>
+                </div>
+                <div class=dn-down>
+                    <a href="#fr-reservez-votre-soin-et-ne-pensez-plus-rien"></a>
+                </div>
+            </div>
+        </div>
+        <div class="glide" data-anchor="deep-nature-noumea-harmony-spa">
+            <div class="dn-content">
+            <div class="content content-2-1">
+                <div class="dn-box fr-propos-de-nous-page-box-1">
+                   <div class="row">
+                      <div class="col-sm-12">
+                         <div class="group-left">
+                            <div class="dn-title-top">
+                               <h1 class="text-margintop">DEEP NATURE NOUMÉA HARMONY SPA</h1>
+                            </div>
+                            <div class="dn-body-top">
+                                <p>Le lagon de cette presqu'île calédonienne est le décor fabuleux de l'Hôtel Le Méridien Nouméa Resort & Spa qui arbite le spa Deep Nature et vous propose de vivre des moments de bien-être extraordinaires. Découvrez le spa Deep Nature avec salle de fitness, hammam, sauna, jacuzzi intérieur et extérieur, cabines de soin avec bain de relaxation sur terrasse privatisé. Un lieu de détente incomparable entre ville et nature, au coeur de Nouméa.</p>   
+                            </div>
+                            <a class="dn-button1" href="https://vizor.io/oneshot/deep-nature---spa-noumea" target="_blank">Visite Virtuelle du Spa Deep Nature Nouméa à 360º</a>
+                            <a class="dn-button2" href="https://www.marriott.fr/hotels/travel/noumd-le-meridien-noumea-resort-and-spa/" target="_blank">En savoir plus sur l'hôtel Le Méridien Nouméa</a>
+                            <div class="dn-submenu dn-submenu-custom dn-submenu-custom1">
+                                <ul>
+                                    <li class="fr-propos-de-nous-page"><a href="#fr-propos-de-nous/deep-nature-noumea-harmony-spa" data-drupal-link-system-path=""><div class="icon-noumea-activate" id="icon-noumea"></div></a></li>
+                                    <li class="fr-propos-de-nous-page"><a href="#fr-propos-de-nous/deep-nature-ile-des-pins" data-drupal-link-system-path=""><div class="icon-idp"  id="icon-idp"></div></a></li>
+                                    <li class="fr-propos-de-nous-page"><a href="#fr-propos-de-nous/deep-nature-deva" data-drupal-link-system-path=""><div class="icon-deva" id="icon-deva"></div></a></li>
+                                    <li ><a href="#fr-propos-de-nous/fr-en-image" data-drupal-link-system-path=""><div class="active-icon-enimage"></div><div class="text">en images</div></a></li>
+                                    <li ><a href="/temps-forts" data-drupal-link-system-path=""><div class="active-icon-tempforts"></div><div class="text">temps forts</div></a></li>
+                                </ul>
+                            </div>
+                         </div>
+                      </div>
+                      <div class="col-sm-12">
+                         <div class="group-right">
+                            <div class="field field--name-dynamic-block-fieldnode-localnav-right field--type-ds field--label-hidden field--item">
+                               <ul class="menu nav navbar-nav">
+                                  <li class="expanded dropdown item-pos-0">
+                                     <a href="#fr-propos-de-nous/fr-une-equipe-attachee-aux-valeurs-exclusives-de-votre-spa" data-drupal-link-system-path="node/27">Notre equipe</a>
+                                  </li>
+                                  <li class="expanded dropdown item-pos-1">
+                                     <a href="#fr-propos-de-nous/fr-en-image" data-drupal-link-system-path="node/21">En image</a>
+                                  </li>
+                                  <li class="expanded dropdown item-pos-2">
+                                     <a href="#fr-propos-de-nous/fr-un-spa-vraiment-pas-comme-les-autres" data-drupal-link-system-path="node/4">L'Upsite</a>
+                                  </li>
+                               </ul>
+                            </div>
+                         </div>
+                      </div>
+                   </div>
+                </div>
+                </div>
+                <div class=dn-down>
+                    <a href="#fr-reservez-votre-soin-et-ne-pensez-plus-rien"></a>
+                </div>
+            </div>
+        </div>
+        <div class="glide" data-anchor="deep-nature-ile-des-pins">
+            <div class="dn-content">
+            <div class="content content-2-2">
+                <div class="dn-box fr-propos-de-nous-page-box-2">
+                   <div class="row">
+                      <div class="col-sm-12">
+                         <div class="group-left">
+                            <div class="dn-title-top">
+                               <h1 class="text-margintop">DEEP NATURE ÎLE DES PINS UN CADRE IDYLLIQUE</h1>
+                            </div>
+                            <div class="dn-body-top">
+                                <p>Découvrez l'Ile des Pins, site exceptionnel et naturel en Nouvelle Calédonie et offrez-vous des moments inoubliables au spa Deep Nature du Méridien. Entouré de sable blanc et d'une eau cristalline, ce lieu saura vous enchanter…Havre de bien-être dédié au plaisir et à la relaxation, Deep Nature vous accueille dans un charmant bungalow. Deux cabines de soins dont une double, ainsi qu’un faré extérieur sont à votre disposition pour que chaque minute de votre séjour soit une délicieuse opportunité pour vous ressourcer.</p>    
+                            </div>
+                            <a class="dn-button1" href="https://vizor.io/oneshot/deep-nature---spa-ile-des-pins/" target="_blank" >Visite Virtuelle du Spa Deep Nature Île des Pins à 360º</a>
+                            <a class="dn-button2" href="https://www.marriott.fr/hotels/travel/ilpmd-le-meridien-ile-des-pins/" target="_blank">En savoir plus sur l'hôtel Le Méridien Île des Pins</a>
+                            <div class="dn-submenu dn-submenu-custom dn-submenu-custom1">
+                                <ul>
+                                    <li class="fr-propos-de-nous-page"><a href="#fr-propos-de-nous/deep-nature-noumea-harmony-spa" data-drupal-link-system-path=""><div class="icon-noumea" id="icon-noumea"></div></a></li>
+                                    <li class="fr-propos-de-nous-page"><a href="#fr-propos-de-nous/deep-nature-ile-des-pins" data-drupal-link-system-path=""><div class="icon-idp-activate"  id="icon-idp"></div></a></li>
+                                    <li class="fr-propos-de-nous-page"><a href="#fr-propos-de-nous/deep-nature-deva" data-drupal-link-system-path=""><div class="icon-deva" id="icon-deva"></div></a></li>
+                                    <li ><a href="#fr-propos-de-nous/fr-en-image" data-drupal-link-system-path=""><div class="active-icon-enimage"></div><div class="text">en images</div></a></li>
+                                    <li ><a href="/temps-forts" data-drupal-link-system-path=""><div class="active-icon-tempforts"></div><div class="text">temps forts</div></a></li>
+                                </ul>
+                            </div>
+                         </div>
+                      </div>
+                      <div class="col-sm-12">
+                         <div class="group-right">
+                            <div class="field field--name-dynamic-block-fieldnode-localnav-right field--type-ds field--label-hidden field--item">
+                               <ul class="menu nav navbar-nav">
+                                  <li class="expanded dropdown item-pos-0">
+                                     <a href="#fr-propos-de-nous/fr-une-equipe-attachee-aux-valeurs-exclusives-de-votre-spa" data-drupal-link-system-path="node/27">Notre equipe</a>
+                                  </li>
+                                  <li class="expanded dropdown item-pos-1">
+                                     <a href="#fr-propos-de-nous/fr-en-image" data-drupal-link-system-path="node/21">En image</a>
+                                  </li>
+                                  <li class="expanded dropdown item-pos-2">
+                                     <a href="#fr-propos-de-nous/fr-un-spa-vraiment-pas-comme-les-autres" data-drupal-link-system-path="node/4">L'Upsite</a>
+                                  </li>
+                               </ul>
+                            </div>
+                         </div>
+                      </div>
+                   </div>
+                </div>
+                </div>
+                <div class=dn-down>
+                    <a href="#fr-reservez-votre-soin-et-ne-pensez-plus-rien"></a>
+                </div>
+            </div>
+        </div>
+        <div class="glide" data-anchor="deep-nature-deva">
+            <div class="dn-content">
+            <div class="content content-2-3">
+                <div class="dn-box fr-propos-de-nous-page-box-2">
+                   <div class="row">
+                      <div class="col-sm-12">
+                         <div class="group-left">
+                            <div class="dn-title-top">
+                               <h1 class="text-margintop">DEEP NATURE DEVA<br>UN MONDE À PART</h1>
+                            </div>
+                            <div class="dn-body-top">
+                                <p>Au cœur de l'Hôtel Sheraton New Caledonia Deva Spa & Golf Resort, le spa Deep Nature est un havre de bien-être. En ossature bois, au cœur de la forêt, il est construit sur pilotis pour une évasion complète et une profonde relaxation. Dans un décor magique au bord du lagon, le spa vous offre bassin de relaxation, hammam, sauna, salle de fitness, salle de relaxation climatisée et solarium. Les quatre cabines de soins s’ouvrent sur le lagon ou la montagne, pour une relaxation encore plus intense.</p>    
+                            </div>
+                            <a class="dn-button1" href="https://vizor.io/oneshot/deep-nature---spa-deva" target="_blank">Visite Virtuelle du Spa Deep Nature Deva à 360º</a>
+                            <a class="dn-button2" href="https://www.marriott.fr/hotels/travel/nousi-sheraton-new-caledonia-deva-spa-and-golf-resort/" target="_blank">En savoir plus sur l'hôtel Sheraton Deva</a>
+                            <div class="dn-submenu dn-submenu-custom dn-submenu-custom1">
+                                <ul>
+                                    <li class="fr-propos-de-nous-page"><a href="#fr-propos-de-nous/deep-nature-noumea-harmony-spa" data-drupal-link-system-path=""><div class="icon-noumea" id="icon-noumea"></div></a></li>
+                                    <li class="fr-propos-de-nous-page"><a href="#fr-propos-de-nous/deep-nature-ile-des-pins" data-drupal-link-system-path=""><div class="icon-idp"  id="icon-idp"></div></a></li>
+                                    <li class="fr-propos-de-nous-page"><a href="#fr-propos-de-nous/deep-nature-deva" data-drupal-link-system-path=""><div class="icon-deva-activate" id="icon-deva"></div></a></li>
+                                    <li ><a href="#fr-propos-de-nous/fr-en-image" data-drupal-link-system-path=""><div class="active-icon-enimage" src="https://deepnature.nc/sites/all/themes/zen/images/icon/enimage_white.png" alt=""></div><div class="text">en images</div></a></li>
+                                    <li ><a href="/temps-forts" data-drupal-link-system-path=""><div class="active-icon-tempforts"></div><div class="text">temps forts</div></a></li>
+                                </ul>
+                            </div>
+                         </div>
+                      </div>
+                      <div class="col-sm-12">
+                         <div class="group-right">
+                            <div class="field field--name-dynamic-block-fieldnode-localnav-right field--type-ds field--label-hidden field--item">
+                               <ul class="menu nav navbar-nav">
+                                  <li class="expanded dropdown item-pos-0">
+                                     <a href="#fr-propos-de-nous/fr-une-equipe-attachee-aux-valeurs-exclusives-de-votre-spa" data-drupal-link-system-path="node/27">Notre equipe</a>
+                                  </li>
+                                  <li class="expanded dropdown item-pos-1">
+                                     <a href="#fr-propos-de-nous/fr-en-image" data-drupal-link-system-path="node/21">En image</a>
+                                  </li>
+                                  <li class="expanded dropdown item-pos-2">
+                                     <a href="#fr-propos-de-nous/fr-un-spa-vraiment-pas-comme-les-autres" data-drupal-link-system-path="node/4">L'Upsite</a>
+                                  </li>
+                               </ul>
+                            </div>
+                         </div>
+                      </div>
+                   </div>
+                </div>
+                </div>
+                <div class=dn-down>
+                    <a href="#fr-reservez-votre-soin-et-ne-pensez-plus-rien"></a>
+                </div>
+            </div>
+        </div>
+        <div class="glide" data-anchor="fr-en-image">
+            <div id="myCarousel" class="carousel slide" data-ride="carousel">
+              <a href="#fr-propos-de-nous" class="dn-close"><span class="text-hide">X</span></a>
+              <!-- Wrapper for slides -->
+              <div class="carousel-inner">
+                <div class="item active "><img class="img-carou-slide-aneh" src="https://deepnature.nc/sites/all/themes/zen/images/background/carousel/dev1.jpg"></div>
+                <div class="item"><img class="img-carou-slide-aneh" src="https://deepnature.nc/sites/all/themes/zen/images/background/carousel/dev2.jpg"></div>
+                <div class="item"><img class="img-carou-slide-aneh" src="https://deepnature.nc/sites/all/themes/zen/images/background/carousel/dev3.jpg"></div>
+                <div class="item"><img class="img-carou-slide-aneh"src="https://deepnature.nc/sites/all/themes/zen/images/background/carousel/dev4.jpg"></div>
+                <div class="item"><img class="img-carou-slide-aneh"src="https://deepnature.nc/sites/all/themes/zen/images/background/carousel/idp1.jpg"></div>
+                <div class="item"><img class="img-carou-slide-aneh"src="https://deepnature.nc/sites/all/themes/zen/images/background/carousel/idp2.jpg"></div>
+                <div class="item"><img class="img-carou-slide-aneh"src="https://deepnature.nc/sites/all/themes/zen/images/background/carousel/idp3.jpg"></div>
+                <div class="item"><img class="img-carou-slide-aneh"src="https://deepnature.nc/sites/all/themes/zen/images/background/carousel/nou1.jpg"></div>
+                <div class="item"><img class="img-carou-slide-aneh"src="https://deepnature.nc/sites/all/themes/zen/images/background/carousel/nou2.jpg"></div>
+                <div class="item"><img class="img-carou-slide-aneh"src="https://deepnature.nc/sites/all/themes/zen/images/background/carousel/nou3.jpg"></div>
+                <div class="item"><img class="img-carou-slide-aneh"src="https://deepnature.nc/sites/all/themes/zen/images/background/carousel/nou4.jpg"></div>
+                <div class="item"><img class="img-carou-slide-aneh"src="https://deepnature.nc/sites/all/themes/zen/images/background/carousel/prod.jpg"></div>
+                <div class=dn-down>
+                    <a href="#fr-reservez-votre-soin-et-ne-pensez-plus-rien"></a>
+                </div>
+              </div>
+              <!-- Left and right controls -->
+              <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                <span class="sr-only">Previous</span>
+              </a>
+              <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                <span class="sr-only">Next</span>
+              </a>
+            </div>
+        </div>
+    </div>
+    <div class="dn-section section" data-anchor="fr-reservez-votre-soin-et-ne-pensez-plus-rien">
+        <div class="dn-content">
+        <div class="content content-3">
+            <div class="dn-box de-soins">
+               <div class="row">
+                  <div class="col-sm-12 col-xs-12">
+                     <div class="group-left">
+                        <div class="dn-title-top">
+                           <h1>DES SOINS SUR-MESURE</h1>
+                        </div>
+                        <div class="dn-body-top">
+                           <p>Notre carte de soins a été conçue pour combler vos envies et répondre à vos besoins. Entre massages, soins visage et corps de la marque Algotherm, soins dédiés aux enfants et formules de relaxation… Choisissez et détendez-vous !</p>
+                        </div>
+                        <div class="dn-submenu">
+                            <ul>
+                                <li><a href="/mots-cles/spa" data-drupal-link-system-path=""><div class="active-icon-entreespa"></div><div class="text">Entrées spa</div></a></li>
+                                <li><a href="/mots-cles/soins-du-visage" data-drupal-link-system-path=""><div class="active-icon-vissage"></div><div class="text">Soins du Visage</div></a></li>
+                                <li><a href="/mots-cles/massages" data-drupal-link-system-path=""><div class="active-icon-massage"></div><div class="text">Massages</div></a></li>
+                                <li><a href="/mots-cles/soins-à-deux" data-drupal-link-system-path=""><div class="active-icon-duo"></div><div class="text">Soins duo</div></a></li>
+                                <li><a href="/mots-cles/soins-du-corps" data-drupal-link-system-path=""><div class="active-icon-corp"></div><div class="text">Soins du corps</div></a></li>
+                                <li><a href="/mots-cles/offres-spéciales" data-drupal-link-system-path=""><div class="active-icon-offre"></div><div class="text">Offres Spéciales</div></a></li>
+                            </ul>
+                        </div>
+                        <a href="/pdf/DEEP-NATURE-brochure.pdf" target="_blank" class="dn-button">Télecharger notre carte de soins</a>
+                     </div>
+                  </div>
+                  <div class="col-sm-12">
+                     <div class="group-right">
+                        <div class="field field--name-dynamic-block-fieldnode-localnav-right field--type-ds field--label-hidden field--item">
+                           <ul class="menu nav navbar-nav">
+                              <li class="expanded dropdown item-pos-0">
+                                 <a href="#fr-propos-de-nous/fr-une-equipe-attachee-aux-valeurs-exclusives-de-votre-spa" data-drupal-link-system-path="node/27">Notre equipe</a>
+                              </li>
+                              <li class="expanded dropdown item-pos-1">
+                                 <a href="#fr-propos-de-nous/fr-en-image" data-drupal-link-system-path="node/21">En image</a>
+                              </li>
+                              <li class="expanded dropdown item-pos-2">
+                                 <a href="#fr-propos-de-nous/fr-un-spa-vraiment-pas-comme-les-autres" data-drupal-link-system-path="node/4">L'Upsite</a>
+                              </li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>     
+        </div> 
+        <div class=dn-down>
+            <a href="#fr-le-group-deep-nature"></a>
+        </div>    
+        </div>
+    </div>
+    <div class="dn-section section" data-anchor="fr-le-group-deep-nature">
+        <div class="dn-content">
+            <div class="content content-4">
+                <div class="dn-box fr-le-group-deep-nature-box">
+                   <div class="row">
+                      <div class="col-sm-12 col-xs-12">
+                         <div class="group-left">
+                            <div class="dn-title-top">
+                               <h1>DEEP NATURE</h1>
+                            </div>
+                            <div class="dn-body-top">
+                               <p>Créé en 2004, DEEP NATURE est le premier créateur de spas en France, avec aujourd’hui 54 établissements à travers le monde, entre Chamonix, Paris, Genève, Nouméa et Tahiti. DEEP NATURE a placé le bien-être de ses clients au centre de ses projets, de la conception des lieux à la réalisation de massages signature sur-mesure.
+                               L’exigence, la bienveillance et l’expertise sont les piliers de notre groupe et des valeurs que nous souhaitons faire ressentir à nos clients</p>
+                            </div>
+                            <a class="dn-button" href="https://www.deepnature.fr/fr/" target="_blank">En savoir plus sur Deep Nature</a>
+                         </div>
+                      </div>
+                   </div>
+                </div>        
+            </div>  
+            <div class=dn-down>
+                <a href="#fr-plan-dacces"></a>
+            </div>    
+        </div>
+    </div>
+    <div class="dn-section section" data-anchor="fr-plan-dacces">
+        <div class="glide">
+            <div class="dn-content">
+                <div class="content content-5 content-map">
+                    <div class="dn-box fr-plan-dacces">
+                    <div class="row">
+                        <div class="col-sm-12 col-xs-12">
+                            <div class="group-left">
+                                <div class="dn-title-top">
+                                <h1>COMMENT NOUS TROUVER</h1>
+                                </div>
+                                <div class="dn-submenu khusus">
+                                    <ul class="contact-dn">
+                                        <li><a class="le-meridien-noumea isActive" data-drupal-link-system-path=""><div class="icon-1h active-icon-1h"></div><h5 class="text-uppercase">Le Méridien NOUMEA</h5></a></li>
+                                        <li><a class="le-meridien-iledespins" data-drupal-link-system-path="" href="#fr-plan-dacces/1"> <div class="icon-2h active-icon-2h"></div><h5 class="text-uppercase1">Le Méridien Ile des Pins</h5></a></li>
+                                        <li><a class="le-meridien-sheratondeva" data-drupal-link-system-path="" href="#fr-plan-dacces/2"> <div class="icon-3h active-icon-3h"></div><h5 class="text-uppercase2">Sheraton <br>Deva</h5></a></li>
+                                    </ul>
+                                </div>
+                                <div id="le-meridien-noumea">
+                                    <div class="row">
+                                        <div class="col-md-8">
+                                            <span>ADRESSE DU SPA</span>
+                                            <address>
+
+                                                    <a href="https://www.google.be/maps/dir//Deep+Nature+Spa+Bruxelles,+Quai+des+P%C3%A9niches+70,+1000+Bruxelles/@50.8644339,4.3502319,17z/data=!4m16!1m7!3m6!1s0x47c3c39977a1d68b:0x1196c8b4d675973d!2sDeep+Nature+Spa+Bruxelles!3b1!8m2!3d50.8644305!4d4.3524206!4m7!1m0!1m5!1m1!1s0x47c3c39977a1d68b:0x1196c8b4d675973d!2m2!1d4.3524206!2d50.8644305?hl=fr" target="_blank">
+                                                        Le Méridien Nouméa RESORT & SPA <br>
+                                                        Pointe Magnin, B.P. 1915<br>    
+                                                        98846 Nouméa – Nouvelle Calédonie
+                                                        <br>
+                                                        Email : resanoumea@deepnature.fr
+                                                        <br>
+                                                        <a href="tel:+3222290073">Téléphone : +687 26 51 04 </a>
+                                                    </a>
+                                                </address>
+                                            </div>
+                                        <div class="col-md-4">
+                                            <span>HORAIRES</span>
+
+                                            <p class="horaires-text">Tous les jours <br>
+                                                De 08H45 à 19H00
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="le-meridien-iledespins" class="dn-hidden">
+                                    <div class="row">
+                                        <div class="col-md-8">
+                                            <span>ADRESSE DU SPA</span>
+                                            <address>
+                                            <br>
+                                            <a href="https://www.google.be/maps/dir//Deep+Nature+Spa+Bruxelles,+Quai+des+P%C3%A9niches+70,+1000+Bruxelles/@50.8644339,4.3502319,17z/data=!4m16!1m7!3m6!1s0x47c3c39977a1d68b:0x1196c8b4d675973d!2sDeep+Nature+Spa+Bruxelles!3b1!8m2!3d50.8644305!4d4.3524206!4m7!1m0!1m5!1m1!1s0x47c3c39977a1d68b:0x1196c8b4d675973d!2m2!1d4.3524206!2d50.8644305?hl=fr" target="_blank">
+                                                Le Méridien Ile des Pins<br>
+                                                Baie d’Oro , B.P. 175<br>
+                                                98832 VAO – Nouvelle Calédonie
+                                                <br>
+                                                <a href="tel:+3222290073">Téléphone : +687 46 15 15</a>
+                                                </a>    
+                                                </address>
+                                            </div>
+                                            <div class="col-md-4">
+                                            <span>HORAIRES</span>
+                                            <br>
+                                            <br>
+                                            <p class="horaires-text">Tous les jours <br>
+                                                Sur rendez-vous
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="le-meridien-sheratondeva" class="dn-hidden">
+                                    <div class="row">
+                                        <div class="col-md-8">
+                                            <span>ADRESSE DU SPA</span>
+                                            <address>
+                                            <br>
+                                            <a href="https://www.google.be/maps/dir//Deep+Nature+Spa+Bruxelles,+Quai+des+P%C3%A9niches+70,+1000+Bruxelles/@50.8644339,4.3502319,17z/data=!4m16!1m7!3m6!1s0x47c3c39977a1d68b:0x1196c8b4d675973d!2sDeep+Nature+Spa+Bruxelles!3b1!8m2!3d50.8644305!4d4.3524206!4m7!1m0!1m5!1m1!1s0x47c3c39977a1d68b:0x1196c8b4d675973d!2m2!1d4.3524206!2d50.8644305?hl=fr" target="_blank">
+                                                    Sheraton New Caledonia Deva <br> Spa & Golf Resort<br>
+                                                    Lot 33 Domaine de Déva, B.P. 50<br>     
+                                                    98870 Bourail – Nouvelle Calédonie
+                                                    <br>
+                                                    Email : resadeva@deepnature.fr
+                                                    <br>
+                                                    <a href="tel:+3222290073">Téléphone : +687 20 70 19  </a>
+                                                    </a>
+                                            </address>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <span>HORAIRES</span>
+                                            <br>
+                                            <br>
+                                            <p class="horaires-text">Tous les jours <br>
+                                                De 08H45 à 19H00
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <a class="dn-button" href="https://goo.gl/maps/akedy5i3a3C2" target="_blank">Localiser deep nature nouméa</a>
+                            </div>
+                        </div>
+                    </div>
+                    </div>        
+                </div>
+                <div class=dn-down>
+                    <a href="#fr-contactez-nous"></a>
+                </div>   
+            </div>
+        </div>
+        <div class="glide">
+            <div class="dn-content">
+                <div class="content content-5-1 content-map">
+                    <div class="dn-box fr-plan-dacces1" data-anchor="fr-plan-dacces1">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="group-left">
+                                <div class="dn-title-top">
+                                <h1>COMMENT NOUS TROUVER </h1>
+                                </div>
+                                <div class="dn-submenu khusus">
+                                    <ul class="contact-dn">
+                                    <li><a class="le-meridien-noumea-1" data-drupal-link-system-path=""href="#fr-plan-dacces/"> <div class="icon-1h active-icon-1h"></div><h5 class="text-uppercase">Le Méridien NOUMEA</h5></a></li>
+                                    <li><a class="le-meridien-iledespins-1 isActive" data-drupal-link-system-path=""> <div class="icon-2h active-icon-2h "></div><h5 class="text-uppercase1">Le Méridien Ile des Pins</h5></a></li>
+                                    <li><a class="le-meridien-sheratondeva-1" data-drupal-link-system-path=""href="#fr-plan-dacces/2"> <div class="icon-3h active-icon-3h"></div><h5 class="text-uppercase2">Sheraton <br>Deva</h5></a></li>
+                                    </ul>
+                                </div>
+                                <div id="le-meridien-noumea-1" class="dn-hidden">
+                                    <div class="row">
+                                        <div class="col-md-8">
+                                            <span>ADRESSE DU SPA</span>
+                                            <address>
+                                            <br>
+                                                    <a href="https://www.google.be/maps/dir//Deep+Nature+Spa+Bruxelles,+Quai+des+P%C3%A9niches+70,+1000+Bruxelles/@50.8644339,4.3502319,17z/data=!4m16!1m7!3m6!1s0x47c3c39977a1d68b:0x1196c8b4d675973d!2sDeep+Nature+Spa+Bruxelles!3b1!8m2!3d50.8644305!4d4.3524206!4m7!1m0!1m5!1m1!1s0x47c3c39977a1d68b:0x1196c8b4d675973d!2m2!1d4.3524206!2d50.8644305?hl=fr" target="_blank">
+                                                        Le Méridien Nouméa RESORT & SPA<br>
+                                                        Pointe Magnin, B.P. 1915 <br>   
+                                                        98846 Nouméa – Nouvelle Calédonie
+                                                        <br>
+                                                        Email : resanoumea@deepnature.fr
+                                                        <br>
+                                                        <a href="tel:+3222290073">Téléphone : +687 26 51 04  </a>
+                                                    </a>
+                                                </address>
+                                            </div>
+                                        <div class="col-md-4">
+                                            <span>HORAIRES</span>
+                                            <br>
+                                            <br>
+                                            <p class="horaires-text">Tous les jours <br>
+                                                De 08H45 à 19H00
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="le-meridien-iledespins-1">
+                                    <div class="row">
+                                        <div class="col-md-8">
+                                            <span>ADRESSE DU SPA</span>
+                                            <address>
+
+                                            <a href="https://www.google.be/maps/dir//Deep+Nature+Spa+Bruxelles,+Quai+des+P%C3%A9niches+70,+1000+Bruxelles/@50.8644339,4.3502319,17z/data=!4m16!1m7!3m6!1s0x47c3c39977a1d68b:0x1196c8b4d675973d!2sDeep+Nature+Spa+Bruxelles!3b1!8m2!3d50.8644305!4d4.3524206!4m7!1m0!1m5!1m1!1s0x47c3c39977a1d68b:0x1196c8b4d675973d!2m2!1d4.3524206!2d50.8644305?hl=fr" target="_blank">
+                                                Le Méridien Ile des Pins<br>
+                                                Baie d’Oro , B.P. 175<br>
+                                                98832 VAO – Nouvelle Calédonie
+                                                <br>
+                                                <a href="tel:+3222290073">Téléphone : +687 46 15 15</a>
+                                            </a>
+                                            </address>
+                                            </div>
+                                            <div class="col-md-4">
+                                            <span>HORAIRES</span>
+
+                                            <p class="horaires-text">Tous les jours <br>
+                                                Sur rendez-vous
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="le-meridien-sheratondeva-1" class="dn-hidden">
+                                    <div class="row">
+                                        <div class="col-md-8">
+                                            <span>ADRESSE DU SPA</span>
+                                            <address>
+                                            <br>
+                                            <a href="https://www.google.be/maps/dir//Deep+Nature+Spa+Bruxelles,+Quai+des+P%C3%A9niches+70,+1000+Bruxelles/@50.8644339,4.3502319,17z/data=!4m16!1m7!3m6!1s0x47c3c39977a1d68b:0x1196c8b4d675973d!2sDeep+Nature+Spa+Bruxelles!3b1!8m2!3d50.8644305!4d4.3524206!4m7!1m0!1m5!1m1!1s0x47c3c39977a1d68b:0x1196c8b4d675973d!2m2!1d4.3524206!2d50.8644305?hl=fr" target="_blank">
+                                                    Sheraton New Caledonia Deva<br> Spa & Golf Resort<br>
+                                                    Lot 33 Domaine de Déva, B.P. 50<br>     
+                                                    98870 Bourail – Nouvelle Calédonie
+                                                    <br>
+                                                    Email : resadeva@deepnature.fr
+                                                    <br>
+                                                    <a href="tel:+3222290073">Téléphone : +687 20 70 19  </a>
+                                            </a>
+                                            </address>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <span>HORAIRES</span>
+                                            <br>
+                                            <br>
+                                            <p class="horaires-text">Tous les jours <br>
+                                                De 08H45 à 19H00
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <a class="dn-button" href="https://goo.gl/maps/AZ9iMde6r9m" target="_blank">Localiser deep nature Ile des pins</a>
+                            </div>
+                        </div>
+                    </div>
+                    </div>        
+                </div>
+                <div class=dn-down>
+                    <a href="#fr-contactez-nous"></a>
+                </div>   
+            </div>
+        </div>
+        <div class="glide">
+            <div class="dn-content">
+                <div class="content content-5-2 content-map">
+                    <div class="dn-box fr-plan-dacces2">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="group-left">
+                                <div class="dn-title-top">
+                                <h1>COMMENT NOUS TROUVER </h1>
+                                </div>
+                                <div class="dn-submenu khusus">
+                                    <ul class="contact-dn">
+                                        <li><a class="le-meridien-noumea-2" data-drupal-link-system-path=""href="#fr-plan-dacces/"><div class="icon-1h active-icon-1h"></div><h5 class="text-uppercase">Le Méridien NOUMEA</h5></a></li>
+                                        <li><a class="le-meridien-iledespins-2" data-drupal-link-system-path=""href="#fr-plan-dacces/1"><div class="icon-2h active-icon-2h"></div><h5 class="text-uppercase1">Le Méridien Ile des Pins</h5></a></li>
+                                        <li><a class="le-meridien-sheratondeva-2 isActive" data-drupal-link-system-path=""><div class="icon-3h active-icon-3"></div><h5 class="text-uppercase2">Sheraton <br>Deva</h5></a></li>
+                                    </ul>
+                                </div>
+                                <div id="le-meridien-noumea-2" class="dn-hidden">
+                                    <div class="row">
+                                        <div class="col-md-8">
+                                            <span>ADRESSE DU SPA</span>
+                                            <address>
+                                            <br>
+                                                <a href="https://www.google.be/maps/dir//Deep+Nature+Spa+Bruxelles,+Quai+des+P%C3%A9niches+70,+1000+Bruxelles/@50.8644339,4.3502319,17z/data=!4m16!1m7!3m6!1s0x47c3c39977a1d68b:0x1196c8b4d675973d!2sDeep+Nature+Spa+Bruxelles!3b1!8m2!3d50.8644305!4d4.3524206!4m7!1m0!1m5!1m1!1s0x47c3c39977a1d68b:0x1196c8b4d675973d!2m2!1d4.3524206!2d50.8644305?hl=fr" target="_blank">
+                                                    Le Méridien Nouméa RESORT & SPA<br>
+                                                    Pointe Magnin, B.P. 1915<br>    
+                                                    98846 Nouméa – Nouvelle Calédonie
+                                                    <br>
+                                                    Email : resanoumea@deepnature.fr
+                                                    <br>
+                                                    <a href="tel:+3222290073">Téléphone : +687 26 51 04  </a>
+                                                </a>
+                                            </address>
+                                            </div>
+                                        <div class="col-md-4">
+                                            <span>HORAIRES</span>
+                                            <br>
+                                            <br>
+                                            <p class="horaires-text">Tous les jours <br>
+                                                De 08H45 à 19H00
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="le-meridien-iledespins-2" class="dn-hidden">
+                                    <div class="row">
+                                        <div class="col-md-8">
+                                            <span>ADRESSE DU SPA</span>
+                                            <address>
+                                            <br>
+                                            <a href="https://www.google.be/maps/dir//Deep+Nature+Spa+Bruxelles,+Quai+des+P%C3%A9niches+70,+1000+Bruxelles/@50.8644339,4.3502319,17z/data=!4m16!1m7!3m6!1s0x47c3c39977a1d68b:0x1196c8b4d675973d!2sDeep+Nature+Spa+Bruxelles!3b1!8m2!3d50.8644305!4d4.3524206!4m7!1m0!1m5!1m1!1s0x47c3c39977a1d68b:0x1196c8b4d675973d!2m2!1d4.3524206!2d50.8644305?hl=fr" target="_blank">
+                                                Le Méridien Ile des Pins<br>
+                                                Baie d’Oro , B.P. 175<br>
+                                                98832 VAO – Nouvelle Calédonie
+                                                <br>
+                                                <a href="tel:+3222290073">Téléphone : +687 46 15 15</a>
+                                                </a>
+                                            </address>
+                                            </div>
+                                            <div class="col-md-4">
+                                            <span>HORAIRES</span>
+                                            <br>
+                                            <br>
+                                            <p class="horaires-text">Tous les jours <br>
+                                                Sur rendez-vous
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="le-meridien-sheratondeva-2">
+                                    <div class="row">
+                                        <div class="col-md-8">
+                                            <span>ADRESSE DU SPA</span>
+                                            <address>
+
+                                            <a href="https://www.google.be/maps/dir//Deep+Nature+Spa+Bruxelles,+Quai+des+P%C3%A9niches+70,+1000+Bruxelles/@50.8644339,4.3502319,17z/data=!4m16!1m7!3m6!1s0x47c3c39977a1d68b:0x1196c8b4d675973d!2sDeep+Nature+Spa+Bruxelles!3b1!8m2!3d50.8644305!4d4.3524206!4m7!1m0!1m5!1m1!1s0x47c3c39977a1d68b:0x1196c8b4d675973d!2m2!1d4.3524206!2d50.8644305?hl=fr" target="_blank">
+                                                    Sheraton New Caledonia Deva<br> Spa & Golf Resort<br>
+                                                    Lot 33 Domaine de Déva, B.P. 50<br>     
+                                                    98870 Bourail – Nouvelle Calédonie
+                                                    <br>
+                                                    Email : resadeva@deepnature.fr
+                                                    <br>
+                                                    <a href="tel:+3222290073">Téléphone : +687 20 70 19  </a>
+                                            </a>
+                                            </address>
+                                            </div>
+                                        <div class="col-md-4">
+                                            <span>HORAIRES</span>
+
+                                            <p class="horaires-text">Tous les jours <br>
+                                                De 08H45 à 19H00
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <a class="dn-button" href="https://goo.gl/maps/F3JXR4tpNGU2" target="_blank">Localiser Deep Nature Deva</a>
+                            </div>
+                        </div>
+                    </div>
+                    </div>        
+                </div>
+                <div class=dn-down>
+                    <a href="#fr-contactez-nous"></a>
+                </div>   
+            </div>
+        </div>
+    </div>
+    <div class="dn-section section" data-anchor="fr-contactez-nous">
+        <div class="glide glide-default dn-content fp-scrollable" data-anchor="fr-contactez-nous-0">
+            <div class="content-6 content-contact">
+                <div class="new-box">
+                    <div class="row">
+                        <div class="dn-title-top">
+                            <h1>RÉSERVEZ UN SOIN OU UN BON CADEAU</h1>
+                        </div>
+                        <div class="dn-body-top1">
+                                                    <p>Veuillez sélectionner le spa souhaité :</p>
+                        </div>
+                        <div class="dn-submenu">
+                            <ul>
+                                <li><a class="op-1" data-drupal-link-system-path="" href="#fr-contactez-nous"> <div class="icon-1h active-icon-1h"></div><h5 class="text-uppercase">Le Méridien <br>NOUMEA</h5></a></li>
+                                <li><a class="op-2" data-drupal-link-system-path="" href="#fr-contactez-nous/fr-contactez-nous-1"> <div class="icon-2h active-icon-2h"></div><h5 class="text-uppercase1">Le Méridien <br> Ile des Pins</h5></a></li>
+                                <li><a class="op-3" data-drupal-link-system-path="" href="#fr-contactez-nous/fr-contactez-nous-2"> <div class="icon-3h active-icon-3h"></div><h5 class="text-uppercase2">Sheraton <br>Deva</h5></a></li>
+                            </ul>
+                        </div>
+                        <div class="dn-body-top2">
+                            <p>Vous pouvez contacter Deep Nature Spa Nouméa au +687 26 51 04, par email : resanoumea@deepnature.fr ou en remplissant le formulaire ci-dessous, nous nous ferons un plaisir de vous répondre dans les plus brefs délais.</p>
+                        </div>
+                              <div class="region region-contact">
+    <div class="block block-formblock first last odd" id="block-formblock-contact-site">
+
+        <h2 class="block__title">Contact</h2>
+    
+  <form class="user-info-from-cookie contact-form" action="/" method="post" id="contact-site-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name--2">PRÉNOM <span class="form-required" title="Ce champ est requis.">*</span></label>
+ <input type="text" id="edit-name--2" name="name" value="" size="60" maxlength="255" class="form-text required" />
+</div>
+<input type="hidden" name="form_build_id" value="form-gf2l4HK6xfWHFAOWZZmKlM_A1TCLxrUlIzfNi67vnv4" />
+<input type="hidden" name="form_id" value="contact_site_form" />
+<div class="form-item form-type-textfield form-item-nom">
+  <label for="edit-nom">NOM <span class="form-required" title="Ce champ est requis.">*</span></label>
+ <input type="text" id="edit-nom" name="nom" value="" size="60" maxlength="128" class="form-text required" />
+</div>
+<div class="form-item form-type-textfield form-item-mail">
+  <label for="edit-mail">Courriel <span class="form-required" title="Ce champ est requis.">*</span></label>
+ <input type="text" id="edit-mail" name="mail" value="" size="60" maxlength="255" class="form-text required" />
+</div>
+<div class="form-item form-type-textfield form-item-phone">
+  <label for="edit-phone">TÉLÉPHONE <span class="form-required" title="Ce champ est requis.">*</span></label>
+ <input type="text" id="edit-phone" name="phone" value="" size="60" maxlength="128" class="form-text required" />
+</div>
+<div class="form-item form-type-textfield form-item-date">
+  <label for="edit-date">DATE DU SOIN SOUHAITÉ </label>
+ <input type="text" id="edit-date" name="date" value="" size="60" maxlength="128" class="form-text" />
+</div>
+<div class="form-item form-type-textfield form-item-subject">
+  <label for="edit-subject">Objet </label>
+ <input type="text" id="edit-subject" name="subject" value="Contact" size="60" maxlength="255" class="form-text" />
+</div>
+<div class="form-item form-type-select form-item-type">
+  <label for="edit-type">TYPE DE SOIN SOUHAITÉ </label>
+ <select id="edit-type" name="type" class="form-select"><option value="Choisissez le type de soin ou offrez un cadeau">Choisissez le type de soin ou offrez un cadeau</option><option value="Entrees Spa">Entrees Spa</option><option value="Soins du visage">Soins du visage</option><option value="Massage">Massage</option><option value="Soins Duo">Soins Duo</option><option value="Soins du corps">Soins du corps</option><option value="Offres speciales">Offres speciales</option><option value="Invitation cadeau">Invitation cadeau</option></select>
+</div>
+<div class="form-item form-type-select form-item-cid">
+  <label for="edit-cid">Catégorie <span class="form-required" title="Ce champ est requis.">*</span></label>
+ <select id="edit-cid" name="cid" class="form-select required"><option value="2">Website feedback Ile Des Pins</option><option value="1" selected="selected">Website feedback Noumea</option><option value="3">Website feedback Sheraton Deva</option></select>
+</div>
+<div class="form-item form-type-textarea form-item-message">
+  <label for="edit-message">Message <span class="form-required" title="Ce champ est requis.">*</span></label>
+ <div class="form-textarea-wrapper resizable"><textarea placeholder="Merci de préciser le nom et la durée du soin souhaité, afin de mieux pouvoir vous répondre." id="edit-message" name="message" cols="60" rows="5" class="form-textarea required"></textarea></div>
+</div>
+<fieldset class="captcha form-wrapper"><legend><span class="fieldset-legend">CAPTCHA</span></legend><div class="fieldset-wrapper"><div class="fieldset-description">This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.</div><input type="hidden" name="captcha_sid" value="526649" />
+<input type="hidden" name="captcha_token" value="7c3af0dcdbbca09e8fbe7c189fb86cd1" />
+<input type="hidden" name="captcha_response" value="Google no captcha" />
+<div class="g-recaptcha" data-sitekey="6LdAJ5MUAAAAAH6lghooPy_VVh6osClBuGLWzpKt" data-theme="dark" data-type="image"></div></div></fieldset>
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Envoyer" class="form-submit" /></div></div></form>
+</div>
+  </div>
+                    </div>     
+                </div>    
+            </div>
+        </div>
+        <div class="glide dn-content fp-scrollable" data-anchor="fr-contactez-nous-1">
+            <div class="content-6-1 content-contact">
+                <div class="new-box">
+                    <div class="row">
+                        <div class="dn-title-top">
+                        <h1>RÉSERVEZ UN SOIN OU UN BON CADEAU</h1>
+                        </div>
+                            <div class="dn-body-top1">
+                                                                <p>Veuillez sélectionner le spa souhaité :</p>
+                            </div>
+                        <div class="dn-submenu">
+                            <ul>
+                                <li><a class="op-1" data-drupal-link-system-path="" href="#fr-contactez-nous"> <div class="icon-1h active-icon-1h"></div><h5 class="text-uppercase">Le Méridien <br>NOUMEA</h5></a></li>
+                                <li><a class="op-2" data-drupal-link-system-path="" href="#fr-contactez-nous/fr-contactez-nous-1"> <div class="icon-2h active-icon-2h"></div><h5 class="text-uppercase1">Le Méridien <br> Ile des Pins</h5></a></li>
+                                <li><a class="op-3" data-drupal-link-system-path="" href="#fr-contactez-nous/fr-contactez-nous-2"> <div class="icon-3h active-icon-3h"></div><h5 class="text-uppercase2">Sheraton <br>Deva</h5></a></li>
+                            </ul>
+                        </div>
+                        <div class="dn-body-top2">
+                            <p>Vous pouvez contacter Deep Nature Spa Île-des-Pins au +687 46 15 15, par email : resaidp@deepnature.fr ou en remplissant le formulaire ci-dessous, nous nous ferons un plaisir de vous répondre dans les plus brefs délais.</p>
+                            </div>
+                              <div class="region region-contact">
+      <div class="region region-contact">
+    <div class="block block-formblock first last odd" id="block-formblock-contact-site">
+
+        <h2 class="block__title">Contact</h2>
+    
+  <form class="user-info-from-cookie contact-form" action="/" method="post" id="contact-site-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name--2">PRÉNOM <span class="form-required" title="Ce champ est requis.">*</span></label>
+ <input type="text" id="edit-name--2" name="name" value="" size="60" maxlength="255" class="form-text required" />
+</div>
+<input type="hidden" name="form_build_id" value="form-gf2l4HK6xfWHFAOWZZmKlM_A1TCLxrUlIzfNi67vnv4" />
+<input type="hidden" name="form_id" value="contact_site_form" />
+<div class="form-item form-type-textfield form-item-nom">
+  <label for="edit-nom">NOM <span class="form-required" title="Ce champ est requis.">*</span></label>
+ <input type="text" id="edit-nom" name="nom" value="" size="60" maxlength="128" class="form-text required" />
+</div>
+<div class="form-item form-type-textfield form-item-mail">
+  <label for="edit-mail">Courriel <span class="form-required" title="Ce champ est requis.">*</span></label>
+ <input type="text" id="edit-mail" name="mail" value="" size="60" maxlength="255" class="form-text required" />
+</div>
+<div class="form-item form-type-textfield form-item-phone">
+  <label for="edit-phone">TÉLÉPHONE <span class="form-required" title="Ce champ est requis.">*</span></label>
+ <input type="text" id="edit-phone" name="phone" value="" size="60" maxlength="128" class="form-text required" />
+</div>
+<div class="form-item form-type-textfield form-item-date">
+  <label for="edit-date">DATE DU SOIN SOUHAITÉ </label>
+ <input type="text" id="edit-date" name="date" value="" size="60" maxlength="128" class="form-text" />
+</div>
+<div class="form-item form-type-textfield form-item-subject">
+  <label for="edit-subject">Objet </label>
+ <input type="text" id="edit-subject" name="subject" value="Contact" size="60" maxlength="255" class="form-text" />
+</div>
+<div class="form-item form-type-select form-item-type">
+  <label for="edit-type">TYPE DE SOIN SOUHAITÉ </label>
+ <select id="edit-type" name="type" class="form-select"><option value="Choisissez le type de soin ou offrez un cadeau">Choisissez le type de soin ou offrez un cadeau</option><option value="Entrees Spa">Entrees Spa</option><option value="Soins du visage">Soins du visage</option><option value="Massage">Massage</option><option value="Soins Duo">Soins Duo</option><option value="Soins du corps">Soins du corps</option><option value="Offres speciales">Offres speciales</option><option value="Invitation cadeau">Invitation cadeau</option></select>
+</div>
+<div class="form-item form-type-select form-item-cid">
+  <label for="edit-cid">Catégorie <span class="form-required" title="Ce champ est requis.">*</span></label>
+ <select id="edit-cid" name="cid" class="form-select required"><option value="2">Website feedback Ile Des Pins</option><option value="1" selected="selected">Website feedback Noumea</option><option value="3">Website feedback Sheraton Deva</option></select>
+</div>
+<div class="form-item form-type-textarea form-item-message">
+  <label for="edit-message">Message <span class="form-required" title="Ce champ est requis.">*</span></label>
+ <div class="form-textarea-wrapper resizable"><textarea placeholder="Merci de préciser le nom et la durée du soin souhaité, afin de mieux pouvoir vous répondre." id="edit-message" name="message" cols="60" rows="5" class="form-textarea required"></textarea></div>
+</div>
+<fieldset class="captcha form-wrapper"><legend><span class="fieldset-legend">CAPTCHA</span></legend><div class="fieldset-wrapper"><div class="fieldset-description">This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.</div><input type="hidden" name="captcha_sid" value="526649" />
+<input type="hidden" name="captcha_token" value="7c3af0dcdbbca09e8fbe7c189fb86cd1" />
+<input type="hidden" name="captcha_response" value="Google no captcha" />
+<div class="g-recaptcha" data-sitekey="6LdAJ5MUAAAAAH6lghooPy_VVh6osClBuGLWzpKt" data-theme="dark" data-type="image"></div></div></fieldset>
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Envoyer" class="form-submit" /></div></div></form>
+</div>
+  </div>
+  </div>
+                        </div>
+                    </div>  
+                </div>
+            </div>
+        <div class="glide dn-content fp-scrollable" data-anchor="fr-contactez-nous-2">
+            <div class="content-6-2 content-contact">
+                <div class="new-box">
+                    <div class="row">
+                        <div class="dn-title-top">
+                        <h1>RÉSERVEZ UN SOIN OU UN BON CADEAU</h1>
+                        </div>
+                            <div class="dn-body-top1">
+                                                                <p>Veuillez sélectionner le spa souhaité :</p>
+                            </div>
+                        <div class="dn-submenu">
+                            <ul>
+                                <li><a class="op-1" data-drupal-link-system-path="" href="#fr-contactez-nous"> <div class="icon-1h active-icon-1h"></div><h5 class="text-uppercase">Le Méridien <br>NOUMEA</h5></a></li>
+                                <li><a class="op-2" data-drupal-link-system-path="" href="#fr-contactez-nous/fr-contactez-nous-1"> <div class="icon-2h active-icon-2h"></div><h5 class="text-uppercase1">Le Méridien <br> Ile des Pins</h5></a></li>
+                                <li><a class="op-3" data-drupal-link-system-path="" href="#fr-contactez-nous/fr-contactez-nous-2"> <div class="icon-3h active-icon-3h"></div><h5 class="text-uppercase2">Sheraton <br>Deva</h5></a></li>
+                            </ul>
+                        </div>
+                        <div class="dn-body-top2">
+                            <p>Vous pouvez contacter Deep Nature Spa Deva au +687 20 70 19, par email : resadeva@deepnature.fr ou en remplissant le formulaire ci-dessous, nous nous ferons un plaisir de vous répondre dans les plus brefs délais.</p>
+                            </div>
+                              <div class="region region-contact">
+      <div class="region region-contact">
+      <div class="region region-contact">
+    <div class="block block-formblock first last odd" id="block-formblock-contact-site">
+
+        <h2 class="block__title">Contact</h2>
+    
+  <form class="user-info-from-cookie contact-form" action="/" method="post" id="contact-site-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name--2">PRÉNOM <span class="form-required" title="Ce champ est requis.">*</span></label>
+ <input type="text" id="edit-name--2" name="name" value="" size="60" maxlength="255" class="form-text required" />
+</div>
+<input type="hidden" name="form_build_id" value="form-gf2l4HK6xfWHFAOWZZmKlM_A1TCLxrUlIzfNi67vnv4" />
+<input type="hidden" name="form_id" value="contact_site_form" />
+<div class="form-item form-type-textfield form-item-nom">
+  <label for="edit-nom">NOM <span class="form-required" title="Ce champ est requis.">*</span></label>
+ <input type="text" id="edit-nom" name="nom" value="" size="60" maxlength="128" class="form-text required" />
+</div>
+<div class="form-item form-type-textfield form-item-mail">
+  <label for="edit-mail">Courriel <span class="form-required" title="Ce champ est requis.">*</span></label>
+ <input type="text" id="edit-mail" name="mail" value="" size="60" maxlength="255" class="form-text required" />
+</div>
+<div class="form-item form-type-textfield form-item-phone">
+  <label for="edit-phone">TÉLÉPHONE <span class="form-required" title="Ce champ est requis.">*</span></label>
+ <input type="text" id="edit-phone" name="phone" value="" size="60" maxlength="128" class="form-text required" />
+</div>
+<div class="form-item form-type-textfield form-item-date">
+  <label for="edit-date">DATE DU SOIN SOUHAITÉ </label>
+ <input type="text" id="edit-date" name="date" value="" size="60" maxlength="128" class="form-text" />
+</div>
+<div class="form-item form-type-textfield form-item-subject">
+  <label for="edit-subject">Objet </label>
+ <input type="text" id="edit-subject" name="subject" value="Contact" size="60" maxlength="255" class="form-text" />
+</div>
+<div class="form-item form-type-select form-item-type">
+  <label for="edit-type">TYPE DE SOIN SOUHAITÉ </label>
+ <select id="edit-type" name="type" class="form-select"><option value="Choisissez le type de soin ou offrez un cadeau">Choisissez le type de soin ou offrez un cadeau</option><option value="Entrees Spa">Entrees Spa</option><option value="Soins du visage">Soins du visage</option><option value="Massage">Massage</option><option value="Soins Duo">Soins Duo</option><option value="Soins du corps">Soins du corps</option><option value="Offres speciales">Offres speciales</option><option value="Invitation cadeau">Invitation cadeau</option></select>
+</div>
+<div class="form-item form-type-select form-item-cid">
+  <label for="edit-cid">Catégorie <span class="form-required" title="Ce champ est requis.">*</span></label>
+ <select id="edit-cid" name="cid" class="form-select required"><option value="2">Website feedback Ile Des Pins</option><option value="1" selected="selected">Website feedback Noumea</option><option value="3">Website feedback Sheraton Deva</option></select>
+</div>
+<div class="form-item form-type-textarea form-item-message">
+  <label for="edit-message">Message <span class="form-required" title="Ce champ est requis.">*</span></label>
+ <div class="form-textarea-wrapper resizable"><textarea placeholder="Merci de préciser le nom et la durée du soin souhaité, afin de mieux pouvoir vous répondre." id="edit-message" name="message" cols="60" rows="5" class="form-textarea required"></textarea></div>
+</div>
+<fieldset class="captcha form-wrapper"><legend><span class="fieldset-legend">CAPTCHA</span></legend><div class="fieldset-wrapper"><div class="fieldset-description">This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.</div><input type="hidden" name="captcha_sid" value="526649" />
+<input type="hidden" name="captcha_token" value="7c3af0dcdbbca09e8fbe7c189fb86cd1" />
+<input type="hidden" name="captcha_response" value="Google no captcha" />
+<div class="g-recaptcha" data-sitekey="6LdAJ5MUAAAAAH6lghooPy_VVh6osClBuGLWzpKt" data-theme="dark" data-type="image"></div></div></fieldset>
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Envoyer" class="form-submit" /></div></div></form>
+</div>
+  </div>
+  </div>
+  </div>
+                            </div>
+                        </div>        
+                    </div>    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+  <script src="https://deepnature.nc/sites/all/themes/zen/vendor/bootstrap/bootstrap.min.js?po8xyg"></script>
+<script src="https://deepnature.nc/sites/all/themes/zen/vendor/bootstrap/datepicker/bootstrap-datepicker.js?po8xyg"></script>
+<script src="https://deepnature.nc/sites/all/themes/zen/vendor/bootstrap/datepicker/bootstrap-datepicker.min.js?po8xyg"></script>
+<script src="https://deepnature.nc/sites/all/themes/zen/vendor/bootstrap/datepicker/bootstrap-datepicker.en-AU.min.js?po8xyg"></script>
+<script src="https://deepnature.nc/sites/all/themes/zen/vendor/bootstrap/datepicker/bootstrap-datepicker.en-GB.min.js?po8xyg"></script>
+<script src="https://deepnature.nc/sites/all/themes/zen/vendor/bootstrap/datepicker/bootstrap-datepicker.fr.min.js?po8xyg"></script>
+<script src="https://deepnature.nc/sites/all/themes/zen/vendor/bootstrap/datepicker/bootstrap-datepicker.fr-CH.min.js?po8xyg"></script>
+<script src="https://deepnature.nc/sites/all/themes/zen/vendor/bootstrap/datepicker/bootstrap-datepicker.ja.min.js?po8xyg"></script>
+<script src="https://deepnature.nc/sites/all/themes/zen/vendor/fullPage/vendors/scrolloverflow.min.js?po8xyg"></script>
+<script src="https://deepnature.nc/sites/all/themes/zen/vendor/fullPage/jquery.fullPage.js?po8xyg"></script>
+<script src="https://deepnature.nc/sites/all/themes/zen/js/fullpagecustom.js?po8xyg"></script>
+<script src="https://deepnature.nc/sites/all/themes/zen/js/main.js?po8xyg"></script>
+</body>
+</html>

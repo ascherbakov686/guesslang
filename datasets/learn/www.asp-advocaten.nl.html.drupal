@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8" />
+<link rel="shortcut icon" href="https://www.asp-advocaten.nl/sites/all/themes/asp/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.asp-advocaten.nl/" />
+<link rel="shortlink" href="https://www.asp-advocaten.nl/" />
+<meta property="og:site_name" content="ASP Advocaten" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.asp-advocaten.nl/" />
+<meta property="og:title" content="ASP Advocaten" />
+<title>ASP Advocaten |</title>
+<style type="text/css" media="all">
+@import url("https://www.asp-advocaten.nl/modules/system/system.base.css?q31fwe");
+@import url("https://www.asp-advocaten.nl/modules/system/system.menus.css?q31fwe");
+@import url("https://www.asp-advocaten.nl/modules/system/system.messages.css?q31fwe");
+@import url("https://www.asp-advocaten.nl/modules/system/system.theme.css?q31fwe");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.asp-advocaten.nl/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?q31fwe");
+@import url("https://www.asp-advocaten.nl/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?q31fwe");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.asp-advocaten.nl/sites/all/modules/contrib/simplenews/simplenews.css?q31fwe");
+@import url("https://www.asp-advocaten.nl/modules/comment/comment.css?q31fwe");
+@import url("https://www.asp-advocaten.nl/sites/all/modules/contrib/date/date_api/date.css?q31fwe");
+@import url("https://www.asp-advocaten.nl/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?q31fwe");
+@import url("https://www.asp-advocaten.nl/modules/field/theme/field.css?q31fwe");
+@import url("https://www.asp-advocaten.nl/modules/node/node.css?q31fwe");
+@import url("https://www.asp-advocaten.nl/modules/user/user.css?q31fwe");
+@import url("https://www.asp-advocaten.nl/modules/forum/forum.css?q31fwe");
+@import url("https://www.asp-advocaten.nl/sites/all/modules/contrib/views/css/views.css?q31fwe");
+@import url("https://www.asp-advocaten.nl/sites/all/modules/contrib/ckeditor/css/ckeditor.css?q31fwe");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.asp-advocaten.nl/sites/all/modules/contrib/ctools/css/ctools.css?q31fwe");
+@import url("https://www.asp-advocaten.nl/sites/all/modules/contrib/ctools/css/modal.css?q31fwe");
+@import url("https://www.asp-advocaten.nl/sites/all/modules/contrib/modal_forms/css/modal_forms_popup.css?q31fwe");
+@import url("https://www.asp-advocaten.nl/sites/all/modules/contrib/quote/quote.css?q31fwe");
+@import url("https://www.asp-advocaten.nl/sites/all/modules/contrib/twitter_pull/twitter-pull-listing.css?q31fwe");
+@import url("https://www.asp-advocaten.nl/sites/all/modules/contrib/md_slider/css/animate.css?q31fwe");
+@import url("https://www.asp-advocaten.nl/sites/all/modules/contrib/md_slider/css/md-slider.css?q31fwe");
+@import url("https://www.asp-advocaten.nl/sites/default/files/md-slider-md-slider-5b48b8856de0d-layers.css?q31fwe");
+@import url("https://www.asp-advocaten.nl/sites/all/modules/contrib/md_slider/css/md-slider-style.css?q31fwe");
+@import url("https://www.asp-advocaten.nl/sites/all/modules/contrib/geofield/css/proximity-element.css?q31fwe");
+@import url("https://www.asp-advocaten.nl/sites/all/modules/contrib/eu_cookie_compliance/css/eu_cookie_compliance.css?q31fwe");
+</style>
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+#sliding-popup.sliding-popup-top,#sliding-popup.sliding-popup-top .eu-cookie-withdraw-banner,.eu-cookie-withdraw-tab{background:#662566;}#sliding-popup.sliding-popup-top.eu-cookie-withdraw-wrapper{background:transparent}#sliding-popup .popup-content #popup-text h1,#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text h3,#sliding-popup .popup-content #popup-text p,.eu-cookie-compliance-secondary-button,.eu-cookie-withdraw-tab{color:#fff !important;}.eu-cookie-withdraw-tab{border-color:#fff;}.eu-cookie-compliance-more-button{color:#fff !important;}#sliding-popup.sliding-popup-top{position:fixed;}
+
+/*]]>*/-->
+</style>
+<style type="text/css" media="all">
+@import url("https://www.asp-advocaten.nl/sites/all/themes/asp/css/layout.css?q31fwe");
+@import url("https://www.asp-advocaten.nl/sites/all/themes/asp/style.css?q31fwe");
+@import url("https://www.asp-advocaten.nl/sites/all/themes/asp/css/responsive-style.css?q31fwe");
+</style>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/misc/jquery-extend-3.4.0.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/misc/drupal.js?q31fwe"></script>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/sites/all/modules/contrib/eu_cookie_compliance/js/jquery.cookie-1.4.1.min.js?v=1.4.1"></script>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/sites/all/modules/contrib/jquery_update/replace/misc/jquery.form.min.js?v=2.69"></script>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/misc/ajax.js?v=7.67"></script>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/sites/all/modules/contrib/jquery_update/js/jquery_update.js?v=0.0.1"></script>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/sites/all/modules/contrib/modal_forms/js/modal_forms_login.js?q31fwe"></script>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/sites/all/modules/contrib/modal_forms/js/modal_forms_password.js?q31fwe"></script>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/sites/default/files/languages/nl_awtDmTBWdG2rNnSn2IYF3XWHR2kQ6OZ8ly3PebuSzKs.js?q31fwe"></script>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/misc/progress.js?v=7.67"></script>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/sites/all/modules/contrib/ctools/js/modal.js?q31fwe"></script>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/sites/all/modules/contrib/modal_forms/js/modal_forms_popup.js?q31fwe"></script>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/sites/all/modules/contrib/quote/quote.js?q31fwe"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+//--><!]]>
+</script>
+<script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/sites/all/modules/contrib/md_slider/js/jquery.touchwipe.js?q31fwe"></script>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/sites/all/modules/contrib/md_slider/js/mdvideobox.js?q31fwe"></script>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/sites/all/modules/contrib/md_slider/js/modernizr.js?q31fwe"></script>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/sites/all/modules/contrib/md_slider/js/jquery.easing.js?q31fwe"></script>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/sites/all/modules/contrib/md_slider/js/md-slider.js?q31fwe"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function($) {
+      $(document).ready(function() {
+          effectsIn = Drupal.settings.inEffects;
+          effectsOut = Drupal.settings.outEffects;
+          var options = Drupal.settings.md_slider_options_1;
+          $('#md-slider-1-block').mdSlider(options);
+      });
+    })(jQuery);
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/sites/all/modules/contrib/better_exposed_filters/better_exposed_filters.js?q31fwe"></script>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/misc/autocomplete.js?v=7.67"></script>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/sites/all/modules/contrib/google_analytics/googleanalytics.js?q31fwe"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-22841596-5", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/sites/all/themes/asp/js/custom.js?q31fwe"></script>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/sites/all/themes/asp/js/footable.js?q31fwe"></script>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/sites/all/themes/asp/js/jquerymigrate.js?q31fwe"></script>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/sites/all/themes/asp/js/jquery.wait.js?q31fwe"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"asp","theme_token":"Nj5cr3TChrGK3aigJ8lK1BEsDsswTAw_1jnl8l-njmQ","jquery_version":"1.10","js":{"0":1,"1":1,"sites\/all\/modules\/contrib\/addthis\/addthis.js":1,"sites\/all\/modules\/contrib\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/eu_cookie_compliance\/js\/jquery.cookie-1.4.1.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/contrib\/modal_forms\/js\/modal_forms_login.js":1,"sites\/all\/modules\/contrib\/modal_forms\/js\/modal_forms_password.js":1,"public:\/\/languages\/nl_awtDmTBWdG2rNnSn2IYF3XWHR2kQ6OZ8ly3PebuSzKs.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/modal.js":1,"sites\/all\/modules\/contrib\/modal_forms\/js\/modal_forms_popup.js":1,"sites\/all\/modules\/contrib\/quote\/quote.js":1,"2":1,"\/\/platform.twitter.com\/widgets.js":1,"sites\/all\/modules\/contrib\/md_slider\/js\/jquery.touchwipe.js":1,"sites\/all\/modules\/contrib\/md_slider\/js\/mdvideobox.js":1,"sites\/all\/modules\/contrib\/md_slider\/js\/modernizr.js":1,"sites\/all\/modules\/contrib\/md_slider\/js\/jquery.easing.js":1,"sites\/all\/modules\/contrib\/md_slider\/js\/md-slider.js":1,"3":1,"sites\/all\/modules\/contrib\/better_exposed_filters\/better_exposed_filters.js":1,"misc\/autocomplete.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"4":1,"sites\/all\/themes\/asp\/js\/custom.js":1,"sites\/all\/themes\/asp\/js\/footable.js":1,"sites\/all\/themes\/asp\/js\/jquerymigrate.js":1,"sites\/all\/themes\/asp\/js\/jquery.wait.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/all\/modules\/contrib\/simplenews\/simplenews.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/modal.css":1,"sites\/all\/modules\/contrib\/modal_forms\/css\/modal_forms_popup.css":1,"sites\/all\/modules\/contrib\/quote\/quote.css":1,"sites\/all\/modules\/contrib\/twitter_pull\/twitter-pull-listing.css":1,"sites\/all\/modules\/contrib\/md_slider\/css\/animate.css":1,"sites\/all\/modules\/contrib\/md_slider\/css\/md-slider.css":1,"public:\/\/md-slider-md-slider-5b48b8856de0d-layers.css":1,"sites\/all\/modules\/contrib\/md_slider\/css\/md-slider-style.css":1,"sites\/all\/modules\/contrib\/geofield\/css\/proximity-element.css":1,"sites\/all\/modules\/contrib\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"0":1,"sites\/all\/themes\/asp\/css\/layout.css":1,"sites\/all\/themes\/asp\/style.css":1,"sites\/all\/themes\/asp\/css\/responsive-style.css":1,"sites\/all\/themes\/asp\/footable.core.css":1}},"CToolsModal":{"loadingText":"Bezig met laden...","closeText":"Venster sluiten","closeImage":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022https:\/\/www.asp-advocaten.nl\/sites\/all\/modules\/contrib\/ctools\/images\/icon-close-window.png\u0022 alt=\u0022Venster sluiten\u0022 title=\u0022Venster sluiten\u0022 \/\u003E","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022https:\/\/www.asp-advocaten.nl\/sites\/all\/modules\/contrib\/ctools\/images\/throbber.gif\u0022 alt=\u0022Laden\u0022 title=\u0022Bezig met laden...\u0022 \/\u003E"},"modal-popup-small":{"modalSize":{"type":"fixed","width":300,"height":300},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022https:\/\/www.asp-advocaten.nl\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Bezig met laden...\u0022 title=\u0022Laden\u0022 \/\u003E","closeText":"Sluiten"},"modal-popup-medium":{"modalSize":{"type":"fixed","width":550,"height":450},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022https:\/\/www.asp-advocaten.nl\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Bezig met laden...\u0022 title=\u0022Laden\u0022 \/\u003E","closeText":"Sluiten"},"modal-popup-large":{"modalSize":{"type":"scale","width":0.8,"height":0.8},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022https:\/\/www.asp-advocaten.nl\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Bezig met laden...\u0022 title=\u0022Laden\u0022 \/\u003E","closeText":"Sluiten"},"quote_nest":"2","addthis":{"async":1,"domready":1,"widget_url":"https:\/\/s7.addthis.com\/js\/300\/addthis_widget.jss#pubid=ra-569e0e31db0b1b12\u0026async=1\u0026domready=1","addthis_config":{"pubid":"ra-569e0e31db0b1b12","services_compact":"facebook,facebook_like,linkedin,twitter,more","services_exclude":"","data_track_clickback":true,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"nl","data_ga_property":"UA-22841596-5","data_ga_social":true},"addthis_share":[]},"better_exposed_filters":{"views":{"frontpage":{"displays":{"attachment_1":{"filters":[]},"page":{"filters":[]}}},"nieuws":{"displays":{"block":{"filters":[]}}}},"datepicker":false,"slider":false,"settings":[],"autosubmit":false},"inEffects":["bounceIn","bounceInDown","bounceInUp","bounceInLeft","bounceInRight","fadeIn","fadeInUp","fadeInDown","fadeInLeft","fadeInRight","fadeInUpBig","fadeInDownBig","fadeInLeftBig","fadeInRightBig","flipInX","flipInY","foolishIn","lightSpeedIn","puffIn","rollIn","rotateIn","rotateInDownLeft","rotateInDownRight","rotateInUpLeft","rotateInUpRight","twisterInDown","twisterInUp","swap","swashIn","tinRightIn","tinLeftIn","tinUpIn","tinDownIn","vanishIn"],"outEffects":["bombRightOut","bombLeftOut","bounceOut","bounceOutDown","bounceOutUp","bounceOutLeft","bounceOutRight","fadeOut","fadeOutUp","fadeOutDown","fadeOutLeft","fadeOutRight","fadeOutUpBig","fadeOutDownBig","fadeOutLeftBig","fadeOutRightBig","flipOutX","flipOutY","foolishOut","hinge","holeOut","lightSpeedOut","puffOut","rollOut","rotateOut","rotateOutDownLeft","rotateOutDownRight","rotateOutUpLeft","rotateOutUpRight","rotateDown","rotateUp","rotateLeft","rotateRight","swashOut","tinRightOut","tinLeftOut","tinUpOut","tinDownOut","vanishOut"],"md_slider_options_1":{"fullwidth":false,"transitionsSpeed":800,"width":"660","height":"239","enableDrag":false,"responsive":true,"loop":false,"showLoading":false,"loadingPosition":"bottom","showArrow":false,"showBullet":false,"posBullet":"5","showThumb":false,"posThumb":"1","slideShowDelay":"8000","slideShow":true,"styleBorder":"0","styleShadow":"0","videoBox":false},"urlIsAjaxTrusted":{"\/asp-leden":true,"\/":true},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":1,"popup_hide_agreed":1,"popup_clicking_confirmation":1,"popup_scrolling_confirmation":0,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWij gebruiken cookies op deze site om uw gebruikerservaring te verbeteren\u003C\/h2\u003E\n\u003Cp\u003EDoor op een link op deze pagina te klikken, geeft u ons toestemming om cookies in te stellen.\u003C\/p\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003ENee, ik wil graag meer informatie\u003C\/button\u003E\n          \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EJa, ik ga akkoord\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n                    \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003ENee, ik wil graag meer informatie\u003C\/button\u003E\n          \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EJa, ik ga akkoord\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","mobile_breakpoint":"768","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class=\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EBedankt voor het accepteren van cookies\u003C\/h2\u003E\n\u003Cp\u003EU kunt dit bericht nu verbergen of meer informatie lezen over cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button eu-cookie-compliance-hide-button\u0022\u003EVerbergen\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button-thank-you\u0022 \u003EMeer informatie\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/bezoekers\/cookiebeleid-asp-advocaten","popup_link_new_window":1,"popup_position":true,"popup_language":"nl","store_consent":false,"better_support_for_screen_readers":0,"reload_page":0,"domain":"","popup_eu_only_js":0,"cookie_lifetime":"1","cookie_session":false,"disagree_do_not_show_popup":0,"method":"default","whitelisted_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","withdraw_enabled":false},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});
+//--><!]]>
+</script>
+<!--[if lt IE 9]><script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<link rel="apple-touch-icon" sizes="57x57" href="/sites/all/themes/asp/images/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/sites/all/themes/asp/images/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/sites/all/themes/asp/images/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/sites/all/themes/asp/images/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/sites/all/themes/asp/images/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/sites/all/themes/asp/images/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/sites/all/themes/asp/images/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/sites/all/themes/asp/images/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/sites/all/themes/asp/images/favicons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/sites/all/themes/asp/images/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/sites/all/themes/asp/images/favicons/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/sites/all/themes/asp/images/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/sites/all/themes/asp/images/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/sites/all/themes/asp/images/favicons/manifest.json">
+<link rel="mask-icon" href="/sites/all/themes/asp/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/sites/all/themes/asp/images/favicons/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/sites/all/themes/asp/images/favicons/mstile-144x144.png">
+<meta name="msapplication-config" content="/sites/all/themes/asp/images/favicons/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node">
+    
+<div class="container">
+  <header id="head" role="banner">
+    <hgroup class="seven columns alpha">
+       <div id="logo">
+        <a href="/" title="Home"><img src="https://www.asp-advocaten.nl/sites/all/themes/asp/logo.png" alt="Home"/></a>       </div>
+    </hgroup>
+    
+    <div class="five columns omega" id="headright">
+             <div id="header">
+        <div class="region region-header">
+  <div id="block-menu-menu-menu-bezoekers" class="block block-menu">
+
+        <div class="block-h2" >Home</div>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/" title="" class="active">Home</a></li>
+<li class="leaf"><a href="/letselschade" title="">Letselschade?</a></li>
+<li class="leaf"><a href="/asp-vereniging" title="">ASP Vereniging</a></li>
+<li class="leaf"><a href="/nieuws" title="">Nieuws</a></li>
+<li class="leaf"><a href="/user/login?current=node" title="">Ledenportal</a></li>
+<li class="last leaf"><a href="/bezoekers/contact">Contact</a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+       </div>
+       <div class="clear"></div>
+            </div>
+  </header>
+
+  <div id="left">
+    
+   <div id="content" class="eleven">
+    <div id="breadcrumbs"><strong>U bent hier: </strong>ASP Advocaten</div>
+     <section id="post-content" role="main">
+                                                      <div class="region region-content">
+  <div id="block-md-slider-1" class="block block-md-slider">
+
+      
+  <div class="content">
+    <div id="md-slider-1-block" class="md-slide-items" data-thumb-width='100' data-thumb-height='75'>
+          <div class="md-slide-item slide-1" data-timeout='8000' data-thumb='https://www.asp-advocaten.nl/sites/default/files/styles/md_slider_1_thumb/public/bg-1-paars.jpg?itok=0aM9EYNs'>
+    <div class="md-mainimg"><img src="https://www.asp-advocaten.nl/sites/default/files/bg-1-paars.jpg" alt="" /></div>
+    <div class="md-objects">
+            <div class="md-object text-white-shadow md-layer-1-0-0" data-x='52' data-y='67' data-width='559' data-height='71' data-start='1000' data-stop='8000' data-easein='fadeInDown' data-easeout='keep'>
+                        Bent u slachtoffer van een (bedrijfs)ongeval, misdrijf of medische misser?              </div>
+            <div class="md-object md-layer-1-0-1" data-x='0' data-y='137' data-width='660' data-height='70' data-start='3000' data-stop='8000' data-easein='fadeInUp' data-easeout='keep'>
+                        Neem contact op met een ASP-Advocaat              </div>
+          <div  style="opacity: 0.5;-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=50);filter: alpha(opacity=50);">
+  <div class="md-object md-layer-1-0-2" data-x='0' data-y='0' data-width='660' data-height='239' data-start='0' data-stop='8000' data-easeout='keep'>
+                        <img src="https://www.asp-advocaten.nl/sites/default/files/slider-asp.jpg" alt="slider-asp.jpg" />
+              </div>
+</div>
+        </div>
+</div>
+    </div>
+
+  </div>
+  
+</div> <!-- /.block -->
+<div id="block-views-exp-asp-leden-page-3" class="block block-views asp-leden-zoekblock">
+
+        <div class="block-h2" >Vind uw ASP-Advocaat</div>
+    
+  <div class="content">
+    <form action="/asp-leden" method="get" id="views-exposed-form-asp-leden-page-3" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-naam-wrapper" class="views-exposed-widget views-widget-filter-field_achternaam_value">
+                  <label for="edit-naam">
+            Naam          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-naam">
+ <input type="text" id="edit-naam" name="naam" value="" size="30" maxlength="128" class="form-text form-autocomplete" /><input type="hidden" id="edit-naam-autocomplete" value="https://www.asp-advocaten.nl/index.php?q=autocomplete_filter/field_achternaam_value/asp_leden/page_3/0" disabled="disabled" class="autocomplete" />
+</div>
+        </div>
+                  <div class="description">
+            en/of          </div>
+              </div>
+          <div id="edit-afstand-wrapper" class="views-exposed-widget views-widget-filter-field_geofield_distance">
+                  <label for="edit-afstand">
+            Afstand          </label>
+                        <div class="views-widget">
+          <div  class="geofield-proximity-field-wrapper clearfix"><div class="form-item form-type-geofield-proximity">
+ <div id="edit-afstand"  class="clearfix"><div class="form-item form-type-textfield form-item-afstand-distance">
+  <label class="element-invisible" for="edit-afstand-distance">Afstand </label>
+ <input type="text" id="edit-afstand-distance" name="afstand[distance]" value="15" size="60" maxlength="128" class="form-text" />
+</div>
+<div class="form-item form-type-select form-item-afstand-unit">
+  <label class="element-invisible" for="edit-afstand-unit">Eenheid </label>
+ <select id="edit-afstand-unit" name="afstand[unit]" class="form-select"><option value="6371" selected="selected">Kilometers</option></select>
+</div>
+<span class="geofield-proximity-origin-from">km vanaf</span><div class="form-item form-type-textfield form-item-afstand-origin">
+  <label class="element-invisible" for="edit-afstand-origin">Oorsprong </label>
+ <input class="geofield-proximity-origin form-text" placeholder="Vul een plaats in" type="text" id="edit-afstand-origin" name="afstand[origin]" value="" size="60" maxlength="128" />
+</div>
+</div>
+</div>
+</div>        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-asp-leden" name="" value="Zoeken" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+    <div class="view view-frontpage view-id-frontpage view-display-id-page view-dom-id-85462918986063d11b82c9054bf67240">
+        
+  
+      <div class="attachment attachment-before">
+      <div class="view view-frontpage view-id-frontpage view-display-id-attachment_1">
+        
+  
+  
+      <div class="view-content">
+        <div>
+      
+  <h1>        <span><a href="/asp-letselschadeadvocaten-zetten-zich-in-voor-de-belangen-van-slachtoffers">ASP-letselschadeadvocaten zetten zich in voor de belangen van slachtoffers</a></span>  </h1>  
+  <div class="views-field views-field-field-intro">        <div class="field-content"><p>Wanneer u letselschade heeft opgelopen door iets of iemand, is het vaak lastig om precies te weten waar u naartoe moet en wie u kan helpen. Want waar heeft u recht op? Wanneer kunt u een claim indienen? Hoe verhaalt u materiële of immateriële schade? En hoe zit het met eventuele verzekeringen? De advocaten van de ASP zorgen voor de juiste begeleiding van letselschadeslachtoffers. Ze maken zich sterk voor de compensatie waarop slachtoffers recht hebben.</p>
+</div>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p><strong>Uw leven weer op de rit</strong><br />
+De <a href="https://www.asp-advocaten.nl/asp-vereniging" title="Waarom kiezen voor een ASP-advocaat? Dat vertellen we u graag">ASP</a> begrijpt dat slachtoffers van letselschade vaak kwetsbaar zijn. Een schaderegelingstraject duurt bovendien meestal lang en kan complex zijn. Er zijn tal van juridische, praktische en financiële kwesties die om specialistische kennis en ervaring vragen. De bij de ASP aangesloten letselschadeadvocaten beschikken over deze kennis en ervaring. Hierdoor kunt u uw leven zo snel mogelijk weer op de rit krijgen.</p>
+<p><strong>Maak kennis met een ASP-advocaat</strong><br />
+De ASP staat voor 'advocaten voor...</div>  </div>  
+  <div class="read-more">        <span><a href="/asp-letselschadeadvocaten-zetten-zich-in-voor-de-belangen-van-slachtoffers">lees meer >></a></span>  </div>  
+  <div class="views-field views-field-field-addthis">        <div class="field-content"><div class="addthis_toolbox addthis_default_style addthis_16x16_style " addthis:title="ASP-letselschadeadvocaten zetten zich in voor de belangen van slachtoffers - ASP Advocaten" addthis:url="https://www.asp-advocaten.nl/asp-letselschadeadvocaten-zetten-zich-in-voor-de-belangen-van-slachtoffers"><a class="addthis_button_facebook"></a>
+<a class="addthis_button_linkedin"></a>
+<a class="addthis_button_twitter"></a>
+</div>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <div class="clear"></div>
+    </div>
+  
+  
+</div>    </div>
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="/bezoekers/asp-opent-meldpunt-schildkliermedicijn-thyrax">ASP opent meldpunt Schildkliermedicijn Thyrax</a></span>  </h2>  
+  <div class="views-field views-field-field-intro">        <div class="field-content"><p>PERSBERICHT: Amsterdam, 19 januari 2016 – Eind vorige week heeft medicijnfabrikant Aspen Pharma Trading bekend gemaakt dat het schildkliermedicijn Thyrax Duotab (levothyroxine) per 1 februari 2016 niet meer leverbaar is op de Nederlandse markt. De fabrikant wijt dit aan technische problemen bij de verhuizing van de productielijn van Nederland naar Duitsland. Het College ter Beoordeling van Geneesmiddelen (CBG) heeft aangegeven dit een zeer zorgelijke situatie te vinden.</p>
+</div>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>Het nieuws heeft dan ook voor grote onrust bij patiënten gezorgd. De Vereniging van Advocaten voor Slachtoffers van Personenschade, kortweg ASP genoemd, is benaderd door een aantal van hen, dat het voormelde probleem bij de specialistenvereniging onder de aandacht bracht. Het gaat om de tabletten van 0,025 mg. Deze zullen volgens de fabrikant zelf zo’n 6 tot 9 maanden niet leverbaar zijn. Volgens de Koninklijke Nederlandse Maatschappij ter bevordering der Pharmacie (KNMP) gebruikt de helft...</div>  </div>  
+  <div class="read-more">        <span><a href="/bezoekers/asp-opent-meldpunt-schildkliermedicijn-thyrax">lees meer >></a></span>  </div>  
+  <div class="views-field views-field-field-addthis">        <div class="field-content"><div class="addthis_toolbox addthis_default_style addthis_16x16_style " addthis:title="ASP opent meldpunt Schildkliermedicijn Thyrax - ASP Advocaten" addthis:url="https://www.asp-advocaten.nl/bezoekers/asp-opent-meldpunt-schildkliermedicijn-thyrax"><a class="addthis_button_facebook"></a>
+<a class="addthis_button_linkedin"></a>
+<a class="addthis_button_twitter"></a>
+</div>
+</div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+      
+  <h2 class="views-field views-field-title">        <span class="field-content"><a href="/persoonsgegevens-slachtoffers-in-toekomst-beter-beschermd">Persoonlijke gegevens slachtoffers in toekomst beter beschermd</a></span>  </h2>  
+  <div class="views-field views-field-field-intro">        <div class="field-content"><p>In de toekomst krijgt een verdachte niet meer zomaar persoonlijke gegevens van een slachtoffer. Zo blijkt uit een brief van minister Ard van der Steur (Veiligheid en Justitie) aan de Tweede Kamer.</p>
+</div>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>Nu worden persoonlijke gegevens van slachtoffers nog standaard in het strafdossier gevoegd. Denk hierbij aan de naam van het slachtoffer, zijn of haar telefoonnummer, een rekeningnummer en meer. Hierdoor zien sommige slachtoffers van een vordering af.</p>
+<p>Volgens de ASP komt het nog te vaak voor dat een dader van een strafbaar feit persoonlijke gegevens van een slachtoffer misbruikt. ‘Slachtoffers zijn op dit moment minder snel bereid om een vordering voor de door hen geleden schade in te...</div>  </div>  
+  <div class="read-more">        <span><a href="/persoonsgegevens-slachtoffers-in-toekomst-beter-beschermd">lees meer >></a></span>  </div>  
+  <div class="views-field views-field-field-addthis">        <div class="field-content"><div class="addthis_toolbox addthis_default_style addthis_16x16_style " addthis:title="Persoonlijke gegevens slachtoffers in toekomst beter beschermd - ASP Advocaten" addthis:url="https://www.asp-advocaten.nl/persoonsgegevens-slachtoffers-in-toekomst-beter-beschermd"><a class="addthis_button_facebook"></a>
+<a class="addthis_button_linkedin"></a>
+<a class="addthis_button_twitter"></a>
+</div>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <div class="clear"></div>
+    </div>
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+    </section> <!-- /#main -->
+   </div>
+  </div><!--//left-->
+
+      <div id="sidebar-first" role="complementary" class="sidebar">
+    <div class="region region-sidebar-first">
+  <div id="block-search-api-page-zoeken" class="block block-search-api-page">
+
+        <div class="block-h2" >Zoek op deze website</div>
+    
+  <div class="content">
+    <form action="/" method="post" id="search-api-page-search-form-zoeken" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-keys-1">
+  <label class="element-invisible" for="edit-keys-1">Trefwoorden invoeren </label>
+ <input placeholder="Trefwoorden invoeren" type="text" id="edit-keys-1" name="keys_1" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<input type="hidden" name="id" value="1" />
+<input type="submit" id="edit-submit-1" name="op" value="Zoeken" class="form-submit" /><input type="hidden" name="form_build_id" value="form-gdbynor_DHR5LMJNphZWN4iPZFvz4NV1VgxBdxk6GyY" />
+<input type="hidden" name="form_id" value="search_api_page_search_form_zoeken" />
+</div></form>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-block-3" class="block block-block">
+
+        <div class="block-h2" >Twitter</div>
+    
+  <div class="content">
+    
+<div class="tweets-pulled-listing">
+
+  
+          <ul class="tweets-pulled-listing">
+          <li>
+        <span class="tweet-date">19-02</span>
+        <span class="tweet-text">Steeds meer huidkanker door zonnebaden. Maar de overheid laat weten dat er géén verbod komt op zonnebank <a href="https://t.co/NTXZJ965F0" rel="nofollow" title="https://t.co/NTXZJ965F0">t.co/NTXZJ965F0</a></span>
+
+                
+      </li>
+        </ul>
+    <div class="more-link"><a href="https://twitter.com/ASPadvocaten" title="Alle @ASPadvocaten Twitter berichten" target="_blank">alle berichten &gt;&gt;</a></div>
+  </div>
+
+  </div>
+  
+</div> <!-- /.block -->
+<div id="block-block-9" class="block block-block">
+
+      
+  <div class="content">
+    <h4><a href="/media">ASP in de media &gt;&gt;</a></h4>
+  </div>
+  
+</div> <!-- /.block -->
+<div id="block-block-6" class="block block-block">
+
+        <div class="block-h2" >BASIS Advocaten (Bijstand Aan Slachtoffers In het Strafproces)</div>
+    
+  <div class="content">
+    <p><a href="/asp-leden-BASIS">Bekijk hier de lijst met ASP BASIS Advocaten</a></p>
+  </div>
+  
+</div> <!-- /.block -->
+<div id="block-views-nieuws-block" class="block block-views">
+
+        <div class="block-h2" >Laatste nieuws</div>
+    
+  <div class="content">
+    <div class="view view-nieuws view-id-nieuws view-display-id-block view-dom-id-382231d7b17a2ecfec83d9f3424f84cd">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <h3 class="views-field views-field-title">        <span class="field-content"><a href="/steeds-meer%20huidkanker-door-zonnebaden">Steeds meer huidkanker door zonnebaden</a></span>  </h3>  
+  <div class="views-field views-field-created">        <span class="field-content">Bericht 19 februari 2020</span>  </div>  
+  <div class="views-field views-field-field-intro">        <div class="field-content"><p>Het gebruik van de zonnebank in Nederland moet aan banden worden gelegd. Dat stelt prof. Peter Huijgens op nieuwswebsite AD.nl.</p>
+</div>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>Huijgens is de vertrekkend bestuurder van het Integraal Kankercentrum Nederland (IKNL). De professor pleit al jaren voor een verbod op de zonnebank. Volgens Huijgens moeten we af van het</div>  </div>  
+  <div class="read-more">        <span><a href="/steeds-meer%20huidkanker-door-zonnebaden">lees verder >></a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-block-11" class="block block-block">
+
+      
+  <div class="content">
+    <p class="rtecenter"><u><a href="https://www.asp-advocaten.nl/bezoekers/privacystatement-asp-advocaten" target="_self">Privacyverklaring</a></u>  |  <u><a href="https://www.asp-advocaten.nl/bezoekers/cookiebeleid-asp-advocaten" target="_self">Cookiebeleid</a></u></p>
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+    </div>  <!-- /#sidebar-first -->
+  
+</div>
+
+  <div class="clear"></div>
+  
+     
+  
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+function euCookieComplianceLoadScripts() {}
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var eu_cookie_compliance_cookie_name = "";
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/sites/all/modules/contrib/addthis/addthis.js?q31fwe"></script>
+<script type="text/javascript" src="https://www.asp-advocaten.nl/sites/all/modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.js?q31fwe"></script>
+</body>
+</html>

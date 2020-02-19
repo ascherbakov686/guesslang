@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="404sqn.aafc.org.au RSS" href="http://404sqn.aafc.org.au/rss.xml" />
+<link rel="shortcut icon" href="/misc/favicon.ico" type="image/x-icon" />
+    <title>404sqn.aafc.org.au</title>
+    <link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?K" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?K" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?K" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?K" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?K" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/garland/style.css?K" />
+<link type="text/css" rel="stylesheet" media="print" href="/themes/garland/print.css?K" />
+        <!--[if lt IE 7]>
+      <link type="text/css" rel="stylesheet" media="all" href="/themes/garland/fix-ie.css" />    <![endif]-->
+  </head>
+  <body class="sidebar-left">
+
+<!-- Layout -->
+  <div id="header-region" class="clear-block"></div>
+
+    <div id="wrapper">
+    <div id="container" class="clear-block">
+
+      <div id="header">
+        <div id="logo-floater">
+        <h1><a href="/" title="404sqn.aafc.org.au"><img src="/themes/garland/logo.png" alt="404sqn.aafc.org.au" id="logo" /><span>404sqn.aafc.org.au</span></a></h1>        </div>
+
+                                                    
+      </div> <!-- /header -->
+
+              <div id="sidebar-left" class="sidebar">
+                    <div id="block-user-0" class="clear-block block block-user">
+
+  <h2>User login</h2>
+
+  <div class="content"><form action="/node?destination=node"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-c_Wx21vVVeTAeBiNFoWdbf2RUz6oXMmyLMuxgDwR-i8" value="form-c_Wx21vVVeTAeBiNFoWdbf2RUz6oXMmyLMuxgDwR-i8"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+</div>
+</div>
+        </div>
+      
+      <div id="center"><div id="squeeze"><div class="right-corner"><div class="left-corner">
+                                                                                          <div class="clear-block">
+            <div id="node-1" class="node">
+
+
+  <h2><a href="/node/1" title="Welcome to Drupal on AAFC Unified Hosting!">Welcome to Drupal on AAFC Unified Hosting!</a></h2>
+
+      <span class="submitted">Tue, 09/01/2009 - 10:07 — admin</span>
+  
+  <div class="content clear-block">
+    <p>If you can read this, Drupal has been successfully installed on your AAFC Unified Hosting account.</p>
+<p>Please refer to your Unified Hosting documentation for configuration steps and guides on content creation.</p>
+  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+        </div>
+
+      </div>
+
+</div>
+          </div>
+          <a href="http://404sqn.aafc.org.au/rss.xml" class="feed-icon"><img src="/misc/feed.png" alt="Syndicate content" title="404sqn.aafc.org.au RSS" width="16" height="16" /></a>          <div id="footer"><div id="block-system-0" class="clear-block block block-system">
+
+
+  <div class="content"><a href="http://drupal.org"><img src="/misc/powered-blue-80x15.png" alt="Powered by Drupal, an open source content management system" title="Powered by Drupal, an open source content management system" width="80" height="15" /></a></div>
+</div>
+</div>
+      </div></div></div></div> <!-- /.left-corner, /.right-corner, /#squeeze, /#center -->
+
+      
+    </div> <!-- /container -->
+  </div>
+<!-- /layout -->
+
+    </body>
+</html>

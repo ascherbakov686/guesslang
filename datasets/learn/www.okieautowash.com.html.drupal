@@ -1,0 +1,1391 @@
+<!DOCTYPE html>
+<head>
+
+
+<meta charset="UTF-8">
+	<title>Okie Express Auto Wash</title>
+    <meta name="keywords" content="Okie Express Auto Wash">
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width">
+	<link rel="stylesheet" href="http://www.okieautowash.com/sites/all/themes/creative/css/style.css">
+	<link rel="stylesheet" href="http://www.okieautowash.com/sites/all/themes/creative/css/responsive.css">
+	<link rel="stylesheet" type="text/css" href="http://www.okieautowash.com/sites/all/themes/creative/rs-plugin/css/settings.css" media="screen" />
+	<link href='http://fonts.googleapis.com/css?family=Arimo:400,700%7cVarela+Round' rel='stylesheet' type='text/css'>
+	<script src="http://www.okieautowash.com/sites/all/themes/creative/js/libs/jquery-1.11.2.js"></script>	
+	<script src="http://www.okieautowash.com/sites/all/themes/creative/js/libs/jquery-migrate.min.js"></script>
+	<script src="http://www.okieautowash.com/sites/all/themes/creative/js/libs/modernizr-2.6.2.min.js"></script>
+    
+    <meta name="google-site-verification" content="wqAiSKSgidsTY1sl_jjy29791VkG_f5O73TiKujOXNY" />
+    
+
+</head>
+<body class="html front not-logged-in no-sidebars page-node">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-25552397-12', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    
+<link href="http://www.okieautowash.com/sites/all/themes/creative/css/responsiveslides.css" rel="stylesheet" type="text/css" />
+<link href="http://www.okieautowash.com/sites/all/themes/creative/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+<link href="http://www.okieautowash.com/sites/all/themes/creative/css/foundation.css" rel="stylesheet" type="text/css" />  
+<meta name="google-site-verification" content="wqAiSKSgidsTY1sl_jjy29791VkG_f5O73TiKujOXNY" />
+<style type="text/css">
+  
+ </style>
+</head>
+<body>
+
+	<header>
+    		<div class="width-container">
+          <div class="custom_row menuouterContainer">
+             <div class="column large-2 no_left_right_padding">
+            
+			<h1 id="logo">
+            				<a href="http://www.okieautowash.com" title="Okie Express Auto Wash" rel="home">
+					<img src="http://www.okieautowash.com/sites/default/files/staticimages/okw_headericon_040219.png" alt="Okie Express Auto Wash" width="220">				</a>
+			</h1>
+          </div>
+             
+             <div class="column large-10 no_left_right_padding">
+            
+            
+         <nav>
+				<div class="menu-main-navigation-container">
+					<ul id="menu-main-navigation" class="sf-menu">
+                       <li ><a href="http://www.okieautowash.com">Home</a></li><li ><a href="http://www.okieautowash.com/locations">LOCATIONS</a><ul><li ><a href="http://www.okieautowash.com/car-wash-moore-oklahoma">Moore's Favorite Car Wash</a></li><li ><a href="http://www.okieautowash.com/car-wash-mustang-oklahoma">Mustang's Favorite Car Wash</a></li><li ><a href="http://www.okieautowash.com/car-wash-warr-acres-bethany-oklahoma">Warr Acres & Bethany's Car Wash</a></li><li ><a href="http://www.okieautowash.com/car-wash-edmond-oklahoma">Edmond's Favorite Car Wash</a></li><li ><a href="http://www.okieautowash.com/car-wash-del-city-midwest-city-oklahoma">Del City & Midwest City's Car Wash</a></li><li ><a href="http://www.okieautowash.com/car-wash-norman-oklahoma">Norman's Favorite Car Wash</a></li><li ><a href="http://www.okieautowash.com/car-wash-choctaw-oklahoma">Choctaw's Favorite Car Wash</a></li><li ><a href="http://www.okieautowash.com/car-wash-yukon-oklahoma">Yukon's Favorite Car Wash</a></li><li ><a href="http://www.okieautowash.com/car-wash-south-oklahoma-city">South Oklahoma City's Car Wash</a></li><li ><a href="http://www.okieautowash.com/car-wash-north-oklahoma-city">North Oklahoma City's Car Wash</a></li></li></ul></li><li ><a href="http://www.okieautowash.com/car-wash-clubs">WASH CLUBS</a><ul><li ><a href="http://www.okieautowash.com/unlimited-car-wash-clubs-moore">Car Wash Clubs In Moore</a></li><li ><a href="http://www.okieautowash.com/unlimited-car-wash-clubs-mustang">Car Wash Clubs In Mustang</a></li><li ><a href="http://www.okieautowash.com/unlimited-car-wash-clubs-warr-acres-bethany">Car Wash Clubs In Warr Acres</a></li><li ><a href="http://www.okieautowash.com/unlimited-car-wash-clubs-edmond">Car Wash Clubs In Edmond</a></li><li ><a href="http://www.okieautowash.com/unlimited-car-wash-clubs-del-city-midwest-city">Car Wash Clubs In Del City</a></li><li ><a href="http://www.okieautowash.com/unlimited-car-wash-clubs-norman">Car Wash Clubs In Norman</a></li><li ><a href="http://www.okieautowash.com/unlimited-car-wash-clubs-choctaw">Car Wash Clubs In Choctaw</a></li><li ><a href="http://www.okieautowash.com/unlimited-car-wash-clubs-yukon">Car Wash Clubs In Yukon</a></li><li ><a href="http://www.okieautowash.com/car-wash-clubs-south-oklahoma-city">Car Wash Clubs In South OKC</a></li><li ><a href="http://www.okieautowash.com/car-wash-clubs-north-oklahoma-city">Car Wash Clubs In North OKC</a></li></li></ul></li><li ><a href="http://www.okieautowash.com/car-wash-gift-cards">GIFT CARDS</a></li><li ><a href="http://www.okieautowash.com/car-wash-fundraisers">FUNDRAISERS</a></li><li ><a href="http://www.okieautowash.com/about-us">About Us</a></li><li ><a href="http://www.okieautowash.com/contact-us">CONTACT</a></li><li ><a href="http://www.okieautowash.com/car-wash-news">News</a></li><li ><a href="http://www.okieautowash.com/job-application">Job App</a></li></ul>
+       
+                  <select class="select-menu">
+
+<option value="#">Navigate to...</option><option value="http://www.okieautowash.com"> Home</option><option value="http://www.okieautowash.com/locations"> LOCATIONS</option><option  value="http://www.okieautowash.com/car-wash-moore-oklahoma">--Moore's Favorite Car Wash</option><option  value="http://www.okieautowash.com/car-wash-mustang-oklahoma">--Mustang's Favorite Car Wash</option><option  value="http://www.okieautowash.com/car-wash-warr-acres-bethany-oklahoma">--Warr Acres & Bethany's Car Wash</option><option  value="http://www.okieautowash.com/car-wash-edmond-oklahoma">--Edmond's Favorite Car Wash</option><option  value="http://www.okieautowash.com/car-wash-del-city-midwest-city-oklahoma">--Del City & Midwest City's Car Wash</option><option  value="http://www.okieautowash.com/car-wash-norman-oklahoma">--Norman's Favorite Car Wash</option><option  value="http://www.okieautowash.com/car-wash-choctaw-oklahoma">--Choctaw's Favorite Car Wash</option><option  value="http://www.okieautowash.com/car-wash-yukon-oklahoma">--Yukon's Favorite Car Wash</option><option  value="http://www.okieautowash.com/car-wash-south-oklahoma-city">--South Oklahoma City's Car Wash</option><option  value="http://www.okieautowash.com/car-wash-north-oklahoma-city">--North Oklahoma City's Car Wash</option><option value="http://www.okieautowash.com/car-wash-clubs"> WASH CLUBS</option><option  value="http://www.okieautowash.com/unlimited-car-wash-clubs-moore">--Car Wash Clubs In Moore</option><option  value="http://www.okieautowash.com/unlimited-car-wash-clubs-mustang">--Car Wash Clubs In Mustang</option><option  value="http://www.okieautowash.com/unlimited-car-wash-clubs-warr-acres-bethany">--Car Wash Clubs In Warr Acres</option><option  value="http://www.okieautowash.com/unlimited-car-wash-clubs-edmond">--Car Wash Clubs In Edmond</option><option  value="http://www.okieautowash.com/unlimited-car-wash-clubs-del-city-midwest-city">--Car Wash Clubs In Del City</option><option  value="http://www.okieautowash.com/unlimited-car-wash-clubs-norman">--Car Wash Clubs In Norman</option><option  value="http://www.okieautowash.com/unlimited-car-wash-clubs-choctaw">--Car Wash Clubs In Choctaw</option><option  value="http://www.okieautowash.com/unlimited-car-wash-clubs-yukon">--Car Wash Clubs In Yukon</option><option  value="http://www.okieautowash.com/car-wash-clubs-south-oklahoma-city">--Car Wash Clubs In South OKC</option><option  value="http://www.okieautowash.com/car-wash-clubs-north-oklahoma-city">--Car Wash Clubs In North OKC</option><option value="http://www.okieautowash.com/car-wash-gift-cards"> GIFT CARDS</option><option value="http://www.okieautowash.com/car-wash-fundraisers"> FUNDRAISERS</option><option value="http://www.okieautowash.com/about-us"> About Us</option><option value="http://www.okieautowash.com/contact-us"> CONTACT</option><option value="http://www.okieautowash.com/car-wash-news"> News</option><option value="http://www.okieautowash.com/job-application"> Job App</option>
+</select>
+				</div>
+			</nav>
+           </div>
+          </div> 
+              
+                        
+
+			<!--<nav>
+				<div class="menu-main-navigation-container">
+					<ul id="menu-main-navigation" class="sf-menu">
+						<li class="current-menu-item">
+							<a href="index.html">Home</a>
+						</li>
+						<li>
+							<a href="about.html">About</a>
+						</li>
+						<li>
+							<a href="classes.html">Classes</a>
+							<ul class="sub-menu">
+								<li>
+									<a href="single-class.html">Single Class</a>
+								</li>
+							</ul>	
+						</li>
+						<li>
+							<a href="trainers.html">Trainers</a>
+							<ul class="sub-menu">
+								<li>
+									<a href="trainers-v2.html">Trainers V2</a>
+								</li>
+								<li>
+									<a href="single-trainer.html">Single Trainer</a>
+								</li>								
+							</ul>
+						</li>
+						<li class="menu-item">
+							<a href="#!" class="sf-with-ul">Pages</a>
+							<ul class="sub-menu">
+								<li>
+									<a href="page-columns.html">Columns</a>
+								</li>
+								<li>
+									<a href="page-faq.html">FAQ</a>
+								</li>
+								<li>
+									<a href="page-maps-videos.html">Maps and Videos</a>
+								</li>
+								<li>
+									<a href="page-shortcodes.html">Shortcodes Examples</a>
+								</li>
+							</ul>	
+						</li>
+						<li>
+							<a href="blog.html">News</a>
+						</li>
+						<li>
+							<a href="contact.html">Contact</a>
+						</li>	
+					</ul>
+				</div>
+			</nav> -->
+			<div class="clearfix"></div>
+		</div>
+	</header>
+    
+  <div class="width-container">  
+    
+    
+    
+    <link href="http://www.reliancetruckandequipment.com/sites/all/themes/jandr/css/resCarousel.css" rel="stylesheet" type="text/css">
+         <div class="container">
+                                    <div  class="col-md-12 " id="slider">
+
+                              <div class="region region-slider">
+    <div id="block-md-slider-slider-main" class="block block-md-slider" >
+
+
+  <div class="content">
+    <div id="" class="resCarousel" data-items="1-1-1-1" data-slide="1" data-interval="7000" data-speed="1000" data-animator="lazy">
+              <div class="resCarousel-inner">
+    
+
+                   
+                     <div class="item" style="">
+
+    <div class="md-mainimg22" style="background:url(http://www.okieautowash.com/sites/default/files/staticimages/okw_bigslide_entry_21.jpg)no-repeat;width:100%;height:100%;background-position:center center;background-size:contain;">
+
+       <div class="sliderinnerContaint_outer"  >
+        <div class="sliderinnerContaint"  >
+
+                <div class="sliderTitle"   >
+                        Off May Avenue, Just North Of Memorial Road                </div>
+
+
+
+
+                <div class="sliderDetail"  >
+                      The Home Of The 5-Day Clean Car Guarantee is Now Open!   
+                </div>
+
+          </div>
+     </div>
+          </div>
+
+
+
+  </div>
+                                   
+                                     
+                     <div class="item" style="">
+
+    <div class="md-mainimg22" style="background:url(http://www.okieautowash.com/sites/default/files/staticimages/okw_bigslide_tunnel_21.jpg)no-repeat;width:100%;height:100%;background-position:center center;background-size:contain;">
+
+       <div class="sliderinnerContaint_outer"  >
+        <div class="sliderinnerContaint"  >
+
+                <div class="sliderTitle"   >
+                        Ten Automated Car Wash Locations In Metro OKC                </div>
+
+
+
+
+                <div class="sliderDetail"  >
+                      Home of the 5 Day Clean Car Guarantee. 
+                     
+                                     </div>
+
+          </div>
+     </div>
+          </div>
+
+
+
+  </div>
+                                   
+                                     
+                     <div class="item" style="">
+
+    <div class="md-mainimg22" style="background:url(http://www.okieautowash.com/sites/default/files/staticimages/okw_bigslide_vacuum_21.jpg)no-repeat;width:100%;height:100%;background-position:center center;background-size:contain;">
+
+       <div class="sliderinnerContaint_outer"  >
+        <div class="sliderinnerContaint"  >
+
+                <div class="sliderTitle"   >
+                        Our Vacuums Are FREE With Any Wash Purchase                </div>
+
+
+
+
+                <div class="sliderDetail"  >
+                      Available at all 10 locations.  
+   
+                </div>
+
+          </div>
+     </div>
+          </div>
+
+
+
+  </div>
+                                   
+                   
+                  
+                  
+              </div>
+                    <button class='btn btn-default leftRs'><b><</b></button>
+            <button class='btn btn-default rightRs'><b>></b></button>
+    </div>
+    
+    </div></div>
+     </div></div>
+    
+    </div>
+    
+     <script src="http://www.reliancetruckandequipment.com/sites/all/themes/jandr/js/resCarousel.js"></script>
+     <script>
+          jQuery(document).ready(
+                                  function($)
+                                  {
+                                   $(".sliderinnerContaint_outer").hover(
+  function() {
+  //  alert("Mouse over")
+     $(".btn.btn-default.leftRs").css("display","block");
+     $(".btn.btn-default.rightRs").css("display","block");
+  }, function() {
+   // alert("Mouse out");
+   //$("#" + id + ":hover").length;
+   if($(".btn.btn-default.leftRs:hover").length>0 || $(".btn.btn-default.rightRs:hover").length>0)
+   {
+
+   }
+   else
+   {
+     $(".btn.btn-default.leftRs").css("display","none");
+     $(".btn.btn-default.rightRs").css("display","none");
+    }
+  }
+);
+                                  }
+                                );
+
+                  $(".btn.btn-default.leftRs").hover(
+                                                         function()
+                                                         {
+                                                            $(".btn.btn-default.leftRs").css("display","block");
+                                                         }
+                                                       );
+                     $(".btn.btn-default.rightRs").hover(
+                                                         function()
+                                                         {
+                                                            $(".btn.btn-default.rightRs").css("display","block");
+                                                         }
+                                                       );
+       </script>
+
+
+</div>
+<style type="text/css">
+.sliderTitle,.sliderDetail
+{
+    text-shadow:2px 4px 7px rgba(0,0,0,0.7);
+}
+
+#quick-links span
+{
+  color:#000000 !important;
+}
+#quick-links i
+{
+    color:#006db7 !important;
+}
+header
+{
+background:#fff;
+}
+
+.navbar-header {
+
+    padding-top: 0px !important;
+    padding-left: 0px !important;
+
+}
+.navbar-collapse
+{
+    margin-top:-10px !important;
+}
+.services-negative-top
+{
+    margin-top:0px !important;
+}
+.md-objects2
+{
+    margin-top:10% !important;
+}
+.sliderinnerContaint_outer
+{
+    width:100%;
+    height:560px;
+    position:relative;
+}
+#home-child-pages
+{
+ padding-top:35px !important;
+}
+.sliderinnerContaint
+{
+    position:absolute;
+    bottom:23px;
+    padding:20px;
+    background:rgba(0,0,0,0.4);
+    width:100%;
+    color:#ffffff;
+}
+
+.btn.btn-default.leftRs,.btn.btn-default.rightRs
+{
+    display:none;
+    background:rgba(0,0,0,0.5);
+    color:#ffffff;
+    border-radius: 0px;
+
+padding-left: 10px;
+
+padding-right: 10px;
+}
+.navbar
+{
+    min-height:50px !important;
+}
+.tb-megamenu .nav > li > a
+{
+    line-height:72px !important;
+}
+.heavytruckequip_container
+{
+    padding-left:0px !important;
+}
+.service-list.clearfix li
+{
+    width:25% !important;
+}
+@media only screen and (max-width: 767px) {
+   .sliderinnerContaint
+   {
+     display:none;
+   }
+   .sliderinnerContaint_outer
+   {
+    height:200px;
+   }
+   #block-md-slider-slider-main
+   {
+    margin-top:0px !important;
+   }
+
+   .service-list.clearfix li
+    {
+        width:50% !important;
+    }
+
+}
+</style>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+<style type="text/css">
+  /* -------------------------------------------------- */
+	/*	Projects Carousel
+	/* -------------------------------------------------- */
+
+	.no-js .projects-carousel, .no-js .post-carousel {
+		border-top: 1px solid #efefef;
+		margin: 15px -20px 60px 0;
+		padding: 25px 0 0;
+	}
+		
+		.projects-carousel > li, .post-carousel > li, #portfolio-items > article {
+			float: left;
+			list-style: none;
+			margin: 0 20px 0 0;
+			overflow: hidden;
+			position: relative;
+		}
+		
+		.projects-carousel > li, .post-carousel > li { width: 220px; }
+
+		.projects-carousel, #portfolio-items { font-family: 'Open Sans', 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; }
+		
+		.no-js .post-carousel > li {
+			display: inline-block;
+			float: none;
+		}
+
+		.no-js .projects-carousel > li, .no-js #portfolio-items > article { margin-bottom: 40px; }
+
+		.projects-carousel a, #portfolio-items article a {
+			border-bottom: 1px solid #efefef;
+			display: block;
+			text-align: center;
+		}
+		
+		.projects-carousel a { padding: 20px 0 0; }
+
+		#portfolio-items article a, #portfolio-items article .audio-player, #portfolio-items article .video-player { margin: 0 auto; }
+
+			.projects-carousel img, #portfolio-items article img {
+				background-color: #fff;
+				margin: 0 auto -5px;
+				filter: alpha(opacity=70); /* Fallback for old IE */
+				opacity: 0.7;
+			}
+
+			.no-js .projects-carousel img, .no-js #portfolio-items article img { margin-bottom: 0; }
+
+			.projects-carousel img { margin: -25px auto 20px; }
+
+			.projects-carousel .title, #portfolio-items > article .title {
+				font-weight: 400;
+				margin-bottom: 0;
+			}
+
+			.projects-carousel > li .categories, #portfolio-items > article .categories {
+				color: #aeaeae;
+				display: block;
+				font-style: italic;
+				margin: -1px 0 20px;
+			}
+
+			.projects-carousel a:hover, #portfolio-items > article:hover {
+				background: #f8f8f8;
+				border-bottom: 1px solid #f15a23;
+			}
+
+			.not-ie .projects-carousel a:hover:after, .not-ie #portfolio-items > article:hover:after {
+				background: #f15a23;
+				bottom: -2.5px;
+				content: '';
+				left: 50%;
+				display: block;
+				height: 5px;
+				margin: 0 0 0 -2.5px;
+				-webkit-transform: rotate(45deg);
+				   -moz-transform: rotate(45deg);
+					-ms-transform: rotate(45deg);
+					 -o-transform: rotate(45deg);
+						transform: rotate(45deg);
+				position: absolute;
+				width: 5px;
+			}
+
+			.projects-carousel a:hover img, #portfolio-items > article:hover img {
+				filter: alpha(opacity=100); /* Fallback for old IE */
+				opacity: 1;
+			}
+
+			.projects-carousel a:hover .title, #portfolio-items > article:hover .title { color: #f15a23; }
+
+	/* -------------------------------------------------- */
+	/*	Post Carousel
+	/* -------------------------------------------------- */
+		
+	.post-carousel .entry-meta {
+		float: left;
+		font-style: italic;
+		letter-spacing: -0.5px;
+		line-height: 1.3;
+		margin: 0 12px 0 0;
+		text-align: center;
+		width: 33px;
+	}
+	
+		.post-carousel .entry-meta a {
+			display: block;
+			font-style: normal;
+		}
+		
+		.post-carousel li .post-format { margin: 0; }
+
+		.post-carousel li .date {
+			display: block;
+			margin: 8px 0 0;
+		}
+					
+		.post-carousel .entry-body .title {
+			font-size: 14px;
+			font-weight: 400;
+			margin: 0 0 10px 0;
+		}
+	
+	.post-carousel .entry-body {
+		float: right;
+		margin: 0;
+		width: 175px;
+	}
+
+	.post-carousel .entry-image, .post-carousel .entry-video, .post-carousel .entry-audio, .post-carousel .fluid-width-video-wrapper {
+		margin-bottom: 15px;
+		max-width: 100%;
+		width: 100%;
+	}
+
+	.post-carousel .entry-video, .post-carousel .entry-audio, .post-carousel .fluid-width-video-wrapper { margin-bottom: 15px; }
+
+	.touch-device .post-carousel .entry-audio { margin-top: -8px; }
+
+	/* Image Gallery Slider */
+
+	.post-carousel .image-gallery-slider { margin-bottom: 15px; }
+
+		.post-carousel .image-gallery-slider li { margin: 0; }
+
+			.post-carousel .image-gallery-slider img { margin-bottom: 0; }
+
+	/* -------------------------------------------------- */
+	/*	Projects & Post Carousel Navigation
+	/* -------------------------------------------------- */
+
+	.jcarousel-container {
+	
+		
+		width: 90%;
+        margin-left:auto;
+        margin-right:auto;
+        padding-top:30px;
+
+	}
+
+	.section-title + .jcarousel-container { margin-top: 30px; } 
+	
+		.jcarousel-clip {
+			overflow: hidden;
+			width: 100%;
+		}
+
+			.jcarousel-item {
+				margin: 0 20px 0 0;
+				width: 220px;
+			}
+
+/*		.jcarousel-next, .jcarousel-prev {
+			background: #ddd url(../img/button-arrows.png) no-repeat 0 0;
+			cursor: pointer;
+			height: 19px;
+			position: absolute;
+			right: 0;
+			top: -35px;
+			width: 19px;
+		}
+
+		.jcarousel-prev {
+			background-position: 0 -19px;
+			right: 20px;
+		} */
+        .jcarousel-prev
+        {
+            
+            	background: #ddd url(http://www.okieautowash.com/sites/all/themes/creative/images/button-arrows.png) no-repeat 0 0;
+			cursor: pointer;
+			height: 19px;
+			position: absolute;
+			left: -30px;
+			top: 30%;
+			width: 19px;
+            	background-position: 0 -19px;
+            
+        }
+        
+           .jcarousel-next
+        {
+            
+            	background: #ddd url(http://www.okieautowash.com/sites/all/themes/creative/images/button-arrows.png) no-repeat 0 0;
+			cursor: pointer;
+			height: 19px;
+			position: absolute;
+			right: -30px;
+			top: 30%;
+			width: 19px;
+            
+        }
+
+			.jcarousel-next:hover, .jcarousel-next:focus, .jcarousel-next:active,
+			.jcarousel-prev:hover, .jcarousel-prev:focus, .jcarousel-prev:active {
+				background-color: #1A427D;
+			}
+
+			.jcarousel-next-disabled, .jcarousel-next-disabled:hover,
+			.jcarousel-next-disabled:focus, .jcarousel-next-disabled:active,
+			.jcarousel-prev-disabled, .jcarousel-prev-disabled:hover,
+			.jcarousel-prev-disabled:focus, .jcarousel-prev-disabled:active {
+				background-color: #eee !important;
+				cursor: auto !important;
+			}
+</style>
+
+
+	<div id="main">
+		<div id="home-child-pages" class="home-widget-container">
+			<div class="width-container">
+				<!-- Homepage Child Pages Start -->
+				<h2 class="home-widget">
+                      Oklahoma City’s Favorite Automated Car Wash Has A New Location. We Are Now Open Off May Ave, Just North Of Memorial Road!                </h2>
+           <ul class="projects-carousel">     
+                			
+                   
+          <li class="home-child-boxes column large-2 ">
+                              <div class="home-child-boxes-container"> 
+                                                <a href="car-wash-moore-oklahoma">
+                            							<div class="home-child-image-pro">
+                            								<img src="http://www.okieautowash.com/sites/default/files/staticimages/okw_maps_icon_moore_04.jpg" alt="cardio">
+                            							</div>				
+                            							<h4 class="home-child-title">Moore</h4>
+                            						</a>
+                            						<a href="car-wash-moore-oklahoma" class="ls-sc-button secondary">&laquo;&nbsp;Learn More</a>
+                                 </div>
+                                 </li>    
+                            
+          <li class="home-child-boxes column large-2 ">
+                              <div class="home-child-boxes-container"> 
+                                                <a href="car-wash-mustang-oklahoma">
+                            							<div class="home-child-image-pro">
+                            								<img src="http://www.okieautowash.com/sites/default/files/staticimages/okw_maps_icon_mustang_05.jpg" alt="cardio">
+                            							</div>				
+                            							<h4 class="home-child-title">Mustang</h4>
+                            						</a>
+                            						<a href="car-wash-mustang-oklahoma" class="ls-sc-button secondary">&laquo;&nbsp;Learn More</a>
+                                 </div>
+                                 </li>    
+                            
+          <li class="home-child-boxes column large-2 ">
+                              <div class="home-child-boxes-container"> 
+                                                <a href="car-wash-warr-acres-bethany-oklahoma">
+                            							<div class="home-child-image-pro">
+                            								<img src="http://www.okieautowash.com/sites/default/files/staticimages/okw_maps_icon_warracres_03.jpg" alt="cardio">
+                            							</div>				
+                            							<h4 class="home-child-title">Warr Acres</h4>
+                            						</a>
+                            						<a href="car-wash-warr-acres-bethany-oklahoma" class="ls-sc-button secondary">&laquo;&nbsp;Learn More</a>
+                                 </div>
+                                 </li>    
+                            
+          <li class="home-child-boxes column large-2 ">
+                              <div class="home-child-boxes-container"> 
+                                                <a href="car-wash-edmond-oklahoma">
+                            							<div class="home-child-image-pro">
+                            								<img src="http://www.okieautowash.com/sites/default/files/staticimages/okw_maps_icon_edmond_06.jpg" alt="cardio">
+                            							</div>				
+                            							<h4 class="home-child-title">Edmond</h4>
+                            						</a>
+                            						<a href="car-wash-edmond-oklahoma" class="ls-sc-button secondary">&laquo;&nbsp;Learn More</a>
+                                 </div>
+                                 </li>    
+                            
+          <li class="home-child-boxes column large-2 ">
+                              <div class="home-child-boxes-container"> 
+                                                <a href="car-wash-del-city-midwest-city-oklahoma">
+                            							<div class="home-child-image-pro">
+                            								<img src="http://www.okieautowash.com/sites/default/files/staticimages/okw_maps_icon_delcity_02.jpg" alt="cardio">
+                            							</div>				
+                            							<h4 class="home-child-title">Del City</h4>
+                            						</a>
+                            						<a href="car-wash-del-city-midwest-city-oklahoma" class="ls-sc-button secondary">&laquo;&nbsp;Learn More</a>
+                                 </div>
+                                 </li>    
+                            
+          <li class="home-child-boxes column large-2 ">
+                              <div class="home-child-boxes-container"> 
+                                                <a href="car-wash-norman-oklahoma">
+                            							<div class="home-child-image-pro">
+                            								<img src="http://www.okieautowash.com/sites/default/files/staticimages/okw_maps_icon_norman_03.jpg" alt="cardio">
+                            							</div>				
+                            							<h4 class="home-child-title">Norman</h4>
+                            						</a>
+                            						<a href="car-wash-norman-oklahoma" class="ls-sc-button secondary">&laquo;&nbsp;Learn More</a>
+                                 </div>
+                                 </li>    
+                            
+          <li class="home-child-boxes column large-2 ">
+                              <div class="home-child-boxes-container"> 
+                                                <a href="car-wash-choctaw-oklahoma">
+                            							<div class="home-child-image-pro">
+                            								<img src="http://www.okieautowash.com/sites/default/files/staticimages/okw_maps_icon_choctaw_04.jpg" alt="cardio">
+                            							</div>				
+                            							<h4 class="home-child-title">Choctaw</h4>
+                            						</a>
+                            						<a href="car-wash-choctaw-oklahoma" class="ls-sc-button secondary">&laquo;&nbsp;Learn More</a>
+                                 </div>
+                                 </li>    
+                            
+          <li class="home-child-boxes column large-2 ">
+                              <div class="home-child-boxes-container"> 
+                                                <a href="car-wash-yukon-oklahoma">
+                            							<div class="home-child-image-pro">
+                            								<img src="http://www.okieautowash.com/sites/default/files/staticimages/okw_maps_icon_yukon_04.jpg" alt="cardio">
+                            							</div>				
+                            							<h4 class="home-child-title">Yukon</h4>
+                            						</a>
+                            						<a href="car-wash-yukon-oklahoma" class="ls-sc-button secondary">&laquo;&nbsp;Learn More</a>
+                                 </div>
+                                 </li>    
+                            
+          <li class="home-child-boxes column large-2 ">
+                              <div class="home-child-boxes-container"> 
+                                                <a href="car-wash-south-oklahoma-city">
+                            							<div class="home-child-image-pro">
+                            								<img src="http://www.okieautowash.com/sites/default/files/staticimages/okw_maps_icon_SI44_05.jpg" alt="cardio">
+                            							</div>				
+                            							<h4 class="home-child-title">SW 104th & I-44</h4>
+                            						</a>
+                            						<a href="car-wash-south-oklahoma-city" class="ls-sc-button secondary">&laquo;&nbsp;Learn More</a>
+                                 </div>
+                                 </li>    
+                            
+          <li class="home-child-boxes column large-2 ">
+                              <div class="home-child-boxes-container"> 
+                                                <a href="car-wash-north-oklahoma-city">
+                            							<div class="home-child-image-pro">
+                            								<img src="http://www.okieautowash.com/sites/default/files/staticimages/okw_maps_icon_nmay_02.jpg" alt="cardio">
+                            							</div>				
+                            							<h4 class="home-child-title">North OKC</h4>
+                            						</a>
+                            						<a href="car-wash-north-oklahoma-city" class="ls-sc-button secondary">&laquo;&nbsp;Learn More</a>
+                                 </div>
+                                 </li>    
+                                				
+			
+		
+			
+				
+			
+				<div class="clearfix"></div>
+            </ul>    
+				<!-- Homepage Child Pages End -->
+			</div><!-- close .width-container -->
+		</div>	
+        
+        
+
+
+                                   	<div id="trainer-slider-wrapper2">	
+                                    <!--flexslider  fiziko-slider-pro-->
+                    					<div class="">      
+                                       <ul class="slides" id="slider4">
+                                         
+                                  
+                                        <li>
+        <div class="custom_row">
+          <div class="middlecontainer carwashclub_outer">
+             <div class="column large-6 no_left_right_padding">
+                    <div class="custom_row">
+                        <div class="car_wash_club_title">
+                          5-Day Clean Car Guarantee
+                        </div>
+                    </div>
+                    <div class="custom_row">
+                       <div class="car_wash_club_detail">
+                         <p style="text-align: justify;">
+                           Just purchase an Ultimate Wash, Everything Wash, Hot Wax & Shine or The Manager's Special wash package and save your receipt. Then, come see us again within five days of your car wash purchase and we'll wash it for FREE! Even if it doesn't rain. No big deal, no questions, no problem, simply scan your receipt at the automated entry terminal and we will be happy to wash it at no charge.
+                         </p>
+                       </div>
+                    </div>
+                    
+                   <div class="custom_row">
+                        <div class="custom_row car_wash_club_buttton">
+                                  <a href="http://www.okieautowash.com/node/29" class="MyBlueButton" >&raquo; More Info</a>
+                                </div>                        
+                   </div> 
+                
+             </div>
+             <div class="column large-6 no_left_right_padding"> 
+                <div class="carclubImageOuter">
+                <img src="http://www.okieautowash.com/sites/default/files/okw_featslider_cleancarguarantee.png" style="height:370px" />
+                </div> 
+             </div>
+          </div>
+        </div>
+      </li> 
+                                       
+                                        <li>
+        <div class="custom_row">
+          <div class="middlecontainer carwashclub_outer">
+             <div class="column large-6 no_left_right_padding">
+                    <div class="custom_row">
+                        <div class="car_wash_club_title">
+                          Car Washes Say It Best
+                        </div>
+                    </div>
+                    <div class="custom_row">
+                       <div class="car_wash_club_detail">
+                         <p style="text-align: justify;">
+                           We've all been there: you need a last minute gift or that person you need a gift for already has everything and oh the humanity... Stop. Take a deep breath and think about how nice it is to drive around in a clean car. Then, give the gift of cleanliness with gift cards from Okie Express. Available in any dollar amount, our gift cards are valid at all Okie Express Auto Wash locations. 
+                         </p>
+                       </div>
+                    </div>
+                    
+                   <div class="custom_row">
+                        <div class="custom_row car_wash_club_buttton">
+                                  <a href="http://www.okieautowash.com/node/28" class="MyBlueButton" >&raquo; More Info</a>
+                                </div>                        
+                   </div> 
+                
+             </div>
+             <div class="column large-6 no_left_right_padding"> 
+                <div class="carclubImageOuter">
+                <img src="http://www.okieautowash.com/sites/default/files/okw_featslider_giftcards.png" style="height:370px" />
+                </div> 
+             </div>
+          </div>
+        </div>
+      </li> 
+                                       
+                                        <li>
+        <div class="custom_row">
+          <div class="middlecontainer carwashclub_outer">
+             <div class="column large-6 no_left_right_padding">
+                    <div class="custom_row">
+                        <div class="car_wash_club_title">
+                          Be A Part Of Our Team
+                        </div>
+                    </div>
+                    <div class="custom_row">
+                       <div class="car_wash_club_detail">
+                         <p style="text-align: justify;">
+                           Okie Express Auto Wash is always looking for customer service minded individuals to join our team. We offer a great working environment with an excellent opportunity for advancement. As we open new washes, new opportunities become available. Stop by today and ask a manager for an application. Okie Auto Wash is an equal opportunity employer.
+
+
+
+                         </p>
+                       </div>
+                    </div>
+                    
+                   <div class="custom_row">
+                        <div class="custom_row car_wash_club_buttton">
+                                  <a href="http://www.okieautowash.com/node/27" class="MyBlueButton" >&raquo; More Info</a>
+                                </div>                        
+                   </div> 
+                
+             </div>
+             <div class="column large-6 no_left_right_padding"> 
+                <div class="carclubImageOuter">
+                <img src="http://www.okieautowash.com/sites/default/files/okw_featslider_teamwork.png" style="height:370px" />
+                </div> 
+             </div>
+          </div>
+        </div>
+      </li> 
+                                       
+                                        <li>
+        <div class="custom_row">
+          <div class="middlecontainer carwashclub_outer">
+             <div class="column large-6 no_left_right_padding">
+                    <div class="custom_row">
+                        <div class="car_wash_club_title">
+                          We Put The Fun In Fundraiser
+                        </div>
+                    </div>
+                    <div class="custom_row">
+                       <div class="car_wash_club_detail">
+                         <p style="text-align: justify;">
+                           Fundraising not only raises money for your non-profit organization but it can make a fun team building exercise too. Okie Express Auto Wash features several different types of fundraiser optiions and since we wash the cars, there's no need to worry about soap, hoses and water sources. Talk to your local manager today about your funding goals today.
+                         </p>
+                       </div>
+                    </div>
+                    
+                   <div class="custom_row">
+                        <div class="custom_row car_wash_club_buttton">
+                                  <a href="http://www.okieautowash.com/node/26" class="MyBlueButton" >&raquo; More Info</a>
+                                </div>                        
+                   </div> 
+                
+             </div>
+             <div class="column large-6 no_left_right_padding"> 
+                <div class="carclubImageOuter">
+                <img src="http://www.okieautowash.com/sites/default/files/okw_featslider_fundraiser.png" style="height:370px" />
+                </div> 
+             </div>
+          </div>
+        </div>
+      </li> 
+                                       </ul></div></div>
+
+
+	
+    <div style="clear: both;">&nbsp;</div>
+
+   
+            
+      <div class="custom_row latestnewsSection">
+         <div class="middlecontainer">
+             <div class="column large-8 no_left_right_padding">
+                <div class="custom_row">
+                    <div class="news_section_title">
+                      <b>Now Open Off N. May Ave!</b>
+                    </div>
+                </div>
+                <div class="custom_row newsdetailcontainer">
+                    <div class="column large-6 no_left_right_padding newsdetailContainer">
+                  
+                       Stop by our new location off May Ave, just north of Memorial Road! Like our other locations, we are open seven days a week and celebrate FREE Towel Tuesdays, giving you a FREE microfiber towel with your wash purchase on Tuesdays!                     
+                    </div>
+                    <div class="column large-6 no_left_right_padding">
+                        <div class="new_section_img">
+                        <img style="width:280px;" src="http://www.okieautowash.com/sites/default/files/staticimages/okw_news_280x185_veteransday.jpg">                         
+                        </div>
+                    </div>
+                </div>
+                <div class="custom_row">
+                   <div class="news_section_more_button">
+                      <a href="" class="MyBlueButton"  >&raquo;&nbsp;</a>
+                   </div>
+                </div>
+                
+             </div>
+             
+             <div class="column large-4 no_left_right_padding">
+               <div class="addContainer">
+               
+                <div class="custom_row"><img style="max-height:245px;" src="http://www.okieautowash.com/sites/default/files/staticimages/okw_ad_watersavers.jpg" ></div> <div class="custom_row"><img style="max-height:70px;" src="http://www.okieautowash.com/sites/default/files/staticimages/okw_ad_simoniz.jpg" ></div>               
+               </div>
+             </div>
+             
+         </div>
+      </div>      	
+	<!--	<div id="training-posts-home" class="home-widget-container">		
+			<div class="training-posts-img">
+             
+               			
+			</div>
+			<div class="training-slider">
+				<h2 class="home-widget"></h2>
+				<p class="home-widget-caption">
+                                    </p>
+                
+			  <a style="width: 5%;" class="progression-button training-sign-up trainers trainingbutton" href=""></a>
+                
+			</div>	
+			<div class="clearfix"></div>
+		</div> -->
+
+		<div class="custom_row bellowNewsContainer">
+          <div class="middlecontainer"> 
+                <div class="column large-4 no_left_right_padding ">
+                  <div class="bottomDetailSection">
+                   <div class="custom_row">
+                      <div class="footer_above_title">
+                        <b>Soon With 10 Metro Locations To Serve You</b>
+                      </div>                  
+                   </div>
+                   
+                   <div class="custom_row">
+                      <div class="footer_above_details">
+                        <p align="justify">
+                                  Thanks to our loyal customers, Okie Express has expanded with new locations in the Oklahoma City metro area. We will be open any day now off N. May Ave, just north of Memorial Road and also have locations in Moore, Mustang, Warr Acres, Edmond, Del City, Norman, Choctaw, Yukon and south Oklahoma City. Open 7 days a week.   
+                        </p>
+                      </div>
+                   </div>
+                  <!--  <div class="custom_row">
+                      <div class="fotter_above_button">
+                         <a href="23%" class="MyBlueButton">&raquo;&nbsp;Learn More</a>
+                      </div>
+                   </div> -->
+                  </div>
+                </div>
+                
+                   <div class="column large-4 no_left_right_padding ">
+                    <div class="bottomDetailSection">
+                   <div class="custom_row">
+                      <div class="footer_above_title">
+                        <b>We’ll Get You In And Out In About Three Minutes</b>
+                      </div>                  
+                   </div>
+                   
+                   <div class="custom_row">
+                      <div class="footer_above_details">
+                        <p align="justify">
+                                  Why do it yourself when we can do it for you in just three minutes? Okie Express Auto Wash offers several great wash packages and can have you in and out in three minutes. Our state-of-the-art automated car washes not only offer you a great shine, but also a quick, hassle-free experience. Soon with 10 metro locations.    
+                        </p>
+                      </div>
+                   </div>
+                  <!--  <div class="custom_row">
+                      <div class="fotter_above_button">
+                         <a href="23%" class="MyBlueButton">&raquo;&nbsp;Learn More</a>
+                      </div>
+                   </div> -->
+                   </div>
+                </div>
+                
+                
+                      <div class="column large-4 no_left_right_padding ">
+                          <div class="bottomDetailSection">
+                   <div class="custom_row">
+                      <div class="footer_above_title">
+                        <b>You Don't Even Have To Get Out Of Your Car</b>
+                      </div>                  
+                   </div>
+                   
+                   <div class="custom_row">
+                      <div class="footer_above_details">
+                        <p align="justify">
+                         Our customers love the convenience of remaining in the car during the wash process and kids love to watch the large soft cloth brushes and soapy bubbles. Just sit back and enjoy the show. It could be a great time to catch up on text messages or just gather your thoughts while your vehicle is gently massaged to its shiny luster.   
+                        </p>
+                      </div>
+                   </div>
+                   <!--<div class="custom_row">
+                      <div class="fotter_above_button">
+                         <a href="23%" class="MyBlueButton">&raquo;&nbsp;Learn More</a>
+                      </div>
+                   </div> -->
+                  </div>   
+                </div>
+             </div>   
+        </div>
+        
+	<!--	<div id="trainers-home-pro" class="home-widget-container">
+			<div class="width-container">
+				<div class="content-boxed-fiziko grid3column-progression">
+					<div class="featured-media">
+                                                   
+						<a href="23%" class="hover-gradient">
+						          <img src="http://www.okieautowash.com/sites/default/files/staticimages/okw_608x496_white.jpg" alt="okw_608x496_white.jpg">						</a>
+						<div class="gradient-overlay"></div>
+						<div class="featured-media-overlay">
+							<div class="trainer-name">Soon With 10 Metro Locations To Serve You</div>
+					
+						</div>
+					</div>
+					<div class="trainers-content-index">
+						<p class="summary">
+							Thanks to our loyal customers, Okie Express has expanded with new locations in the Oklahoma City metro area. We will be open any day now off N. May Ave, just north of Memorial Road and also have locations in Moore, Mustang, Warr Acres, Edmond, Del City, Norman, Choctaw, Yukon and south Oklahoma City. Open 7 days a week. 
+						</p>
+
+						<div class="trainers-sep"></div>
+						
+		
+                        
+						<div class="clearfix"></div>						
+						  <a class="progression-button training-sign-up trainers" href="23%">Learn More</a>
+					    </div>
+				</div>
+                
+				<div class="content-boxed-fiziko grid3column-progression">
+					<div class="featured-media">
+                                                           
+						<a href="23%" class="hover-gradient">
+							<img src="http://www.okieautowash.com/sites/default/files/staticimages/okw_608x496_white.jpg" alt="okw_608x496_white.jpg">						</a>
+						<div class="gradient-overlay"></div>
+						<div class="featured-media-overlay">
+							<div class="trainer-name">We’ll Get You In And Out In About Three Minutes</div>
+	
+						</div>
+					</div>
+					<div class="trainers-content-index">
+						<p class="summary">
+                             Why do it yourself when we can do it for you in just three minutes? Okie Express Auto Wash offers several great wash packages and can have you in and out in three minutes. Our state-of-the-art automated car washes not only offer you a great shine, but also a quick, hassle-free experience. Soon with 10 metro locations.							 
+						</p>
+
+						<div class="trainers-sep"></div>
+						
+		
+						<div class="clearfix"></div>
+						
+						<a class="progression-button training-sign-up trainers" href="23%">Learn More</a>
+					</div>
+				</div>
+				<div class="content-boxed-fiziko grid3column-progression lastcolumn-progression">
+					<div class="featured-media">
+                      
+                           						<a href="23%" class="hover-gradient">
+							<img src="http://www.okieautowash.com/sites/default/files/staticimages/okw_608x496_white.jpg" alt="okw_608x496_white.jpg">						</a>
+						<div class="gradient-overlay"></div>
+						<div class="featured-media-overlay">
+							<div class="trainer-name">You Don't Even Have To Get Out Of Your Car</div>
+						
+						</div>
+					</div>
+					<div class="trainers-content-index">
+						<p class="summary">
+							 Our customers love the convenience of remaining in the car during the wash process and kids love to watch the large soft cloth brushes and soapy bubbles. Just sit back and enjoy the show. It could be a great time to catch up on text messages or just gather your thoughts while your vehicle is gently massaged to its shiny luster. 
+						</p>
+
+						<div class="trainers-sep"></div>
+						
+			
+                        
+						<div class="clearfix"></div>						
+						 <a class="progression-button training-sign-up trainers" href="23%">Learn More</a>
+					    </div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		</div> -->
+        			
+	<div class="clearfix"></div>
+	</div><!-- close #main -->
+
+  <div class="custom_row footer_above_container ">
+    <div class="middlecontainer">
+         <div class="custom_row">
+            <div class="footer_middle_centercontainer">
+                <div class="column large-3 no_left_right_padding">
+                  <div class="footer_above_logo_sec">
+                  <img style="height:140px" src="http://www.okieautowash.com/sites/default/files/staticimages/okw_logo_foodbank_white.png">                  
+                   </div>
+                </div>
+                <div class="column large-9 no_left_right_padding">
+                   <div class="custom_row">
+                      <div class="foot_ab_title">
+                       Helping Regional Food Bank Of Oklahoma                      </div>
+                   </div>
+                    <div class="custom_row">
+                      <div class="foot_ab_sh_detail">
+                      Together, with your help, we have helped provide over 500,000 meals.                      </div>
+                   </div>
+                    <div class="custom_row">
+                      <div class="foot_ab_sh_button">
+                        <a href="/helping-regional-food-bank-of-oklahoma" class="MyYellowButton">Learn more about how you can help</a>
+                      </div>
+                   </div>
+                   
+                </div>
+              </div>  
+         </div>
+    </div>
+  </div>
+<!--	<div class="custom_row ">
+     <div style="background-color: rgb(255, 65, 2);background:url(http://www.okieautowash.com/sites/default/files/staticimages/okw_logo_foodbank_white.png)no-repeat center center / cover;width:100%;min-height:460px">
+        <div class="middlecontainer">
+      	   <div style="width: 100%;height:460px;vertical-align:middle;text-align:center;">
+	
+                               
+                     <h2 style="padding-top: 150px !important;color:#ffffff" >Helping Regional Food Bank Of Oklahoma</h2>
+                <p class="home-widget-caption"> Together, with your help, we have helped provide over 500,000 meals.</p>                
+                <a class="ls-sc-button fiziko-footer-button" href="/helping-regional-food-bank-of-oklahoma">Learn more about how you can help</a>
+			    <div class="clearfix"></div>
+                
+                             </div>
+        </div>
+          </div>
+    </div> 	-->
+    
+    <style type="text/css">
+    .ls-sc-button.fiziko-footer-button
+      {
+           background-color: #ffffff;
+    border: 0 none;
+    border-radius: 3px;
+    color: #ff4102;
+    font-size: 16px;
+    margin: -10px 0 0 30px;
+    padding: 14px 25px;
+      }
+    </style>
+    <script type="text/javascript">
+ 
+                 
+                  
+                                           
+                      
+     
+    </script>
+	
+
+    	<div id="widget-area">
+		<div class="width-container footer-4-column">
+			<div id="pyre_classes_media-widget-feat-2" class="widget pyre_classes_media-feat">
+				<h6 class="widget-title">Location</h6>
+				<div class="classes-widget-pro">	
+					<div>
+					<a href="http://www.okieautowash.com/car-wash-moore-oklahoma">Moore, Oklahoma</a><br/><a href="http://www.okieautowash.com/car-wash-mustang-oklahoma">Mustang, Oklahoma</a><br/><a href="http://www.okieautowash.com/car-wash-warr-acres-bethany-oklahoma">Warr Acres, Oklahoma</a><br/><a href="http://www.okieautowash.com/car-wash-edmond-oklahoma">Edmond, Oklahoma</a><br/><a href="http://www.okieautowash.com/car-wash-del-city-midwest-city-oklahoma">Del City, Oklahoma</a><br/><a href="http://www.okieautowash.com/car-wash-norman-oklahoma">Norman, Oklahoma</a><br/><a href="http://www.okieautowash.com/car-wash-choctaw-oklahoma">Choctaw, Oklahoma</a><br/><a href="http://www.okieautowash.com/car-wash-yukon-oklahoma">Yukon, Oklahoma</a><br/><a href="http://www.okieautowash.com/car-wash-south-oklahoma-city">South Oklahoma City</a><br/><a href="http://www.okieautowash.com/car-wash-north-oklahoma-city">North Oklahoma City</a><br/>
+					</div>						
+				</div>
+			</div>
+			
+			<div id="hours-widget-feat-2" class="widget hours-widget">
+				<h6 class="widget-title">Hours</h6>
+				<div class="hours-widget-pro">	
+					<div>
+						<span>Open Daily 7:00am - 8:00pm</span><br />
+						<span>Warr Acres 8:00am - 8:00pm</span><br />
+					</div>	
+                    <div style="margin-top:20px;">
+                    <img src="http://www.okieautowash.com/sites/default/files/staticimages/okw_footericon_040219.png" alt="Okie Express Auto Wash" width="120">
+                    </div>
+                    					
+				</div>
+			</div>	
+			
+			<div id="support-widget-feat-2" class="widget support-widget">
+				<h6 class="widget-title">Support</h6>
+				<div class="support-widget-pro">	
+					<div>
+					<a href="http://www.okieautowash.com/contact-us">Contact Us</a><br/><a href="http://www.okieautowash.com/node">FAQs</a><br/><a href="http://www.okieautowash.com/node">Terms & Conditions</a><br/>
+					</div>						
+				</div>
+			</div>	
+
+			<div id="newsletter-widget-feat-2" class="widget newsletter-widget">
+				<h6 class="widget-title">Sign Up To Our Newsletter</h6>
+				<div class="newletter-container"><!-- Begin MailChimp Signup Form -->
+					<div id="mc_embed_signup2">
+                      <div id="responseContainer"></div>
+                      <form action="http://www.okieautowash.com/subscribe-email" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" novalidate="">
+                      <input type="hidden" name="req_type" value="subscribeEmail">
+                           <div class="mc-field-group"> <label for="mce-EMAIL">Enter Your Email Address </label> 
+                      <input type="text" value="" name="EMAIL" style="color:#000000 !important" />
+                      
+                      </div>
+                      <div id="mce-responses" class="clear">
+                      <div class="response" id="mce-error-response" style="display:none">
+                      </div>
+                      </div>
+                      <div style="position: absolute; left: -5000px;">
+                      <input type="text" name="b_1a06aa3bca8613232881e8a6e_2f5a556941" tabindex="-1" value=""></div>
+                    
+                     
+                      <a id="mc-embedded-subscribe" href="#" class="mybuttonClass">&laquo; Sign Up</a>
+                      
+                      </form>
+                   </div>
+					<!--End mc_embed_signup-->
+				</div>
+			</div>	
+		</div>
+		<div class="clearfix"></div>
+	</div>
+
+	<footer>
+		<div id="copyright">
+			<div class="width-container">
+				<div id="copyrigh-text">© 2015-2020 Okie Express Auto Wash Website By: Six One Six Studios</div>
+			<!--	<div class="footer-social-icons">
+					<div class="social-ico">
+						<a href="http://www.facebook.com" target="_blank"><i class="fa fa-facebook"></i></a>
+						<a href="http://www.twitter.com" target="_blank"><i class="fa fa-twitter"></i></a>
+						<a href="" target="_blank"><i class="fa fa-google-plus"></i></a>
+						<a href="" target="_blank"><i class="fa fa-linkedin"></i></a>
+						<a href="http://www.instagram.com" target="_blank"><i class="fa fa-instagram"></i></a>
+					</div>
+				</div> -->
+			</div><!-- close .width-container -->
+			<div class="clearfix"></div>			
+		</div><!-- close #copyright -->
+	</footer>
+    
+      <script src="http://www.okieautowash.com/sites/all/themes/creative/js/jquery_latest_min.js"></script> 
+      <script src="http://www.okieautowash.com/sites/all/themes/creative/js/jquery-form.js"></script>
+    <script type="text/javascript">
+    
+        (function($)
+         {
+                   $("#mc-embedded-subscribe").click(
+                                                                    function(e)
+                                                                    {
+                                                                       e.preventDefault();  
+                                                                       $("#mc-embedded-subscribe-form").ajaxForm(
+                                                                                      {
+                                                                                        target: "#responseContainer", 
+                                                                                            async:false,
+                                                                                             success: function() 
+                                                                                                      {
+                                                                                                        
+                                                                                                      }
+                                                                                       });
+                                                                            $("#mc-embedded-subscribe-form").submit();              
+                                                                    }
+                                                                  );
+            
+         }
+         )(jQuery);
+  
+    </script>
+    
+                     	
+<script src="http://www.okieautowash.com/sites/all/themes/creative/js/plugins.js"></script>
+<script src="http://www.okieautowash.com/sites/all/themes/creative/js/script.js"></script>
+<script src="http://www.okieautowash.com/sites/all/themes/creative/js/libs/jquery-ui.min.js"></script>
+
+  <script src="http://www.okieautowash.com/sites/all/themes/creative/js/jquery_latest_min.js"></script> 
+<script src="http://www.okieautowash.com/sites/all/themes/creative/js/responsiveslides.js"></script>
+
+
+<script type="text/javascript">
+    (function($) {
+    $(function ()     
+    {
+      
+          // Slideshow 4
+          $("#slider4").responsiveSlides(
+                                          {
+                                            auto: false,
+                                            pager: true,
+                                            nav: false,
+                                            speed: 500,
+                                            namespace: "callbacks",
+                                            before: function () 
+                                                        {
+                                                          $('.events').append("<li>before event fired.</li>");
+                                                        },
+                                            after: function () 
+                                                        {
+                                                          $('.events').append("<li>after event fired.</li>");
+                                                        }
+                                           }
+                                         );
+      
+
+              $(".select-menu").change(
+                                        function()
+                                        {
+                                            var redirec_val=$(this).val();
+                                            window.location.href=redirec_val;
+                                        }  
+                                      );
+            
+
+    });
+               })(jQuery);  
+  </script> 
+</script>
+
+
+
+<!-- RevSlider -->
+<script src="http://www.okieautowash.com/sites/all/themes/creative/js/revolution-slider.js"></script>
+<script type="text/javascript" src="http://www.okieautowash.com/sites/all/themes/creative/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+<script type="text/javascript" src="http://www.okieautowash.com/sites/all/themes/creative/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+<!-- End RevSlider -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script src="http://www.okieautowash.com/sites/all/themes/creative/js/jquery.easing-1.3.min.js"></script>
+	<script src="http://www.okieautowash.com/sites/all/themes/creative/js/jquery.fancybox.pack.js"></script>
+	<script src="http://www.okieautowash.com/sites/all/themes/creative/js/jquery.smartStartSlider.min.js"></script>
+	<script src="http://www.okieautowash.com/sites/all/themes/creative/js/jquery.jcarousel.min.js"></script>
+	<script src="http://www.okieautowash.com/sites/all/themes/creative/js/jquery.cycle.all.min.js"></script>
+
+
+	<script src="http://www.okieautowash.com/sites/all/themes/creative/js/pro_custom.js"></script>
+
+
+<style type="text/css">
+.trainer-name
+{
+  padding-left:10px;
+  padding-right:10px;
+}
+
+.callbacks_tabs
+{
+    margin:0px !important;
+    padding:0px !important;
+} 
+
+</style>
+  </body>
+</html>

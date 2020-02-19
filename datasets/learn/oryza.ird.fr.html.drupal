@@ -98,7 +98,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/" });
 <input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
 <div class="item-list"><ul><li class="first"><a href="/?q=user/register" title="Create a new user account.">Create new account</a></li>
 <li class="last"><a href="/?q=user/password" title="Request new password via e-mail.">Request new password</a></li>
-</ul></div><input type="hidden" name="form_build_id" id="form-c1fd16b11a7756c896bf87a35818b993" value="form-c1fd16b11a7756c896bf87a35818b993"  />
+</ul></div><input type="hidden" name="form_build_id" id="form-8b72150e8bf77bf9ef788e0d8165e77a" value="form-8b72150e8bf77bf9ef788e0d8165e77a"  />
 <input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
 
 </div></form>

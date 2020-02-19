@@ -1,0 +1,304 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+
+
+
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Bibliographic Ontology Specification | The Bibliographic Ontology</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <link type="text/css" rel="stylesheet" media="all" href="modules/node/node.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/defaults.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/system.css_" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/system/system-menus.css" />
+<link type="text/css" rel="stylesheet" media="all" href="modules/user/user.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/cck/theme/content-module.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/cck/modules/fieldgroup/fieldgroup.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/all/modules/views/css/views.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/bibliontology.com/themes/pixture_reloaded/layout.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/bibliontology.com/files/color/pixture_reloaded-f01d082d/style.css" />
+<link type="text/css" rel="stylesheet" media="all" href="sites/bibliontology.com/themes/pixture_reloaded/sf/css/superfish.css" />
+  <!--[if IE]>
+          <link type="text/css" rel="stylesheet" media="all" href="/sites/bibliontology.com/themes/pixture_reloaded/ie.css" >
+      <![endif]-->
+	<script type="text/javascript" src="misc/jquery.js"></script>
+<script type="text/javascript" src="misc/drupal.js"></script>
+<script type="text/javascript" src="sites/bibliontology.com/themes/pixture_reloaded/sf/js/superfish.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/" });
+//--><!]]>
+</script>
+      <script type="text/javascript">
+      $(document).ready(function() {
+        $('#superfish-inner ul').superfish();
+      });
+    </script>
+    
+	<!--script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js"></script-->  
+	<script type="text/javascript" src="sites/bibliontology.com/menu/menu.js"></script>  
+	<link rel="stylesheet" type="text/css" href="sites/bibliontology.com/menu/menu.css" media="screen, projection, tv" />		
+	  
+  
+</head>
+<body id="pixture-reloaded" class="front not-logged-in page-node node-type-page one-sidebar sidebar-left with-logo">
+
+
+
+
+<!--withsf-->
+  <div id="skip-to-content"><a href="#main-content">Skip to Content</a></div>
+
+    <div id="page" style="width: 85%;">
+
+      <div id="header">
+
+                  <div id="logo">
+            <a href="/" title="Home" rel="home">
+              <img src="sites/bibliontology.com/files/images/bibliontology210.png" alt="Home" id="logo-image" />
+            </a>
+          </div>
+        
+        <div id="head-elements">
+
+          
+          <div id="branding">
+                                  </div> <!-- /#branding -->
+
+        </div> <!-- /#head-elements -->
+
+                  <!-- Primary || Superfish -->
+          <div id="superfish">
+            <div id="superfish-inner">
+              <ul class="menu"><li class="leaf first"><a href="news.html" title="">News</a></li>
+<li class="leaf active-trail"><a href="specification.html" title="Bibliographic Ontology Specification" class="active">Specification</a></li>
+<li class="expanded"><a href="changelog.html" title="Changelog">Changelog</a><ul class="menu"><li class="leaf first"><a href="changelog.html" title="">Changelog</a></li>
+<li class="leaf"><a href="nextchanges.html" title="">Next changes</a></li>
+<li class="leaf last"><a href="changelog/historical-svn.html" title="">Historical (GIT)</a></li>
+</ul></li>
+<li class="leaf"><a href="examples.html" title="">Examples</a></li>
+<li class="leaf"><a href="community.html" title="Community">Community</a></li>
+<li class="leaf last"><a href="login.html" title="Login">Login</a></li>
+</ul>            </div> <!-- / inner -->
+          </div> <!-- /primary || superfish -->
+        
+    </div> <!--/#header -->
+
+    
+    <div id="main" class="clear-block no-header-blocks">
+
+      <div id="content"><div id="content-inner">
+
+        
+        
+        <div id="content-header">
+                    <a name="main-content" id="main-content"></a>
+          <h1 class="title">Bibliographic Ontology Specification</h1>          					                  </div> <!-- /#content-header -->
+
+        <div id="content-area">
+          <div class="node node-type-page front-node" id="node-2">
+  <div class="node-inner-0"><div class="node-inner-1">
+    <div class="node-inner-2"><div class="node-inner-3">
+
+      
+      
+      
+      
+      
+      <div class="content clearfix">
+        <div style="position: relative;">
+<h2>Specification Document - 4 November 2009</h2>
+<dl>
+<dt>Latest version:</dt>
+<dd> <a href="#">http://purl.org/ontology/bibo/</a> </dd>
+<dt>Last update:</dt>
+<dd>2009/11/04<br /></dd>
+<dt>Revision:</dt>
+<dd>Revision: 1.3 </dd>
+<dt>Editor:</dt>
+<dd><a title="Frederick Gisson" href="http://fgiasson.com/">Fr&eacute;d&eacute;rick Giasson</a> - <a title="Structured Dynamics LLC" href="http://www.structureddynamics.com/">Structured Dynamics</a></dd>
+<dt>Authors:</dt>
+<dd><a href="#">Bruce D'Arcus</a> </dd>
+<dd><a title="Frederick Giasson" href="http://fgiasson.com/">Fr&eacute;d&eacute;rick Giasson</a> - <a title="Structured Dynamics LLC" href="http://www.structureddynamics.com/">Structured Dynamics</a></dd>
+<dd>&nbsp;</dd>
+</dl>
+<p class="copyright">Copyright &copy; 2008-2013 by Structured Dynamics LLC.</p>
+<h2>&nbsp;</h2>
+<p><a href="http://creativecommons.org/licenses/by/1.0/"><img style="border: 0pt none ; float: right;" src="http://creativecommons.org/images/button_somerights.gif" alt="Creative Commons License" /></a>This work is licensed under a <a href="http://creativecommons.org/licenses/by/1.0/">Creative Commons License</a>. This copyright applies to the <em>Bibliographic Ontology Specification</em> and accompanying documentation and does not apply to Bibliographic Ontology data formats, ontology terms, or technology. Regarding underlying technology, Bibliographic Ontology relies heavily on W3C's <a href="http://www.w3.org/RDF/">RDF</a> technology, an open Web standard that can be freely used by anyone.</p>
+<hr />
+<div>
+<h2><a id="sec-abstract" class="mozTocH2" name="sec-abstract"></a>Abstract</h2>
+<p>The Bibliographic Ontology Specification provides main concepts and  properties for describing citations and bibliographic references (i.e.  quotes, books, articles, etc) on the Semantic Web.</p>
+</div>
+<hr />
+<h2><a id="sec-status" class="mozTocH2" name="sec-status"></a>Status of This Document</h2>
+<p><strong>NOTE:</strong> <em>This section describes the status of this document at the time of its publication. Other documents may supersede this document.</em></p>
+<p>This specification is an evolving document. This document is generated by a machine-readable <a href="http://code.google.com/p/bibotools/source/browse/bibo-ontology/trunk/bibo.n3">Bibliographic Ontology</a> expressed in RDF/XML with a specification template.</p>
+<p>Authors welcome suggestions on the <a href="http://code.google.com/p/bibotools/source/browse/bibo-ontology/tags/1.0/bibo.n3">Bibliographic Ontology</a> and this document. This document may be updated or added to based on implementation experience, but no commitment is made by the authors regarding future updates.</p>
+<p>&nbsp;</p>
+<h2 id="toc"><a id="sec-toc" class="mozTocH2" name="sec-toc"></a>Table of Contents</h2>
+<ul>
+<li><a href="#sec-intro">Introduction</a>
+<ul>
+<li><a href="#sec-notation">Terminology and Notation</a></li>
+</ul>
+</li>
+<li><a href="#sec-background">Background</a></li>
+<li><a href="#sec-vocab">The Bibliographic Ontology Description</a>
+<ul>
+<li><a href="#sec-evolution">Evolution and Extension of Bibliographic Ontology</a></li>
+<li><a href="#sec-standards">Bibliographic Ontology and Standards</a></li>
+<li><a href="#sec-sioc-rdf">Bibliographic Ontology and RDF</a></li>
+</ul>
+</li>
+<li><a href="#sec-documentation">The Bibliographic Ontology Documentation</a></li>
+</ul>
+<hr />
+<h2>&nbsp;</h2>
+<h2><a id="sec-intro" class="mozTocH2" name="sec-intro"></a>Introduction</h2>
+<p>The Bibliographic Ontology describe bibliographic things on the semantic Web in RDF. This ontology can be used as a citation ontology, as a document classification ontology, or simply as a way to describe any kind of document in RDF. It has been inspired by many existing document description metadata formats, and can be used as a common ground for converting other bibliographic data sources.</p>
+<p>&nbsp;</p>
+<h2><a id="sec-notation" class="mozTocH3" name="sec-notation"></a>Terminology and Notation</h2>
+<p>&nbsp;</p>
+<p>Namespace URIs of the general form "http://www.example.com/." represents some application-dependent or context-dependent URI as defined in RFC 2396 [<a href="#ref-rfc2396">RFC 2396</a>].</p>
+<p>The XML Namespace URI that MUST be used by implementations of this specification is:</p>
+<ul>
+<li><strong>http://purl.org/ontology/bibo/</strong></li>
+<p> <strong><br /></strong> </p></ul>
+<h2><a id="sec-background" class="mozTocH2" name="sec-background"></a>Background</h2>
+<p>The Bibliographic Ontology is an effort of <a href="http://fgiasson.com/">Fr&eacute;d&eacute;rcick Giasson</a> and <a href="#">Bruce D'Arcus</a> to express citations and bibliographic relations using <a href="http://www.w3.org/RDF/">RDF</a> and to query that same information using the <a href="http://www.w3.org/TR/rdf-sparql-query/">SPARQL query language for RDF</a>.</p>
+<p>The specific contents of the Bibliographic Ontology are detailed in the <a href="http://code.google.com/p/bibotools/source/browse/bibo-ontology/tags/1.0/bibo.n3">Bibliographic Ontology namespace document</a>.</p>
+<p>&nbsp;</p>
+<h2><a id="sec-vocab" class="mozTocH2" name="sec-vocab"></a>The Bibliographic Ontology  Description</h2>
+<p>This specification serves as the Bibliographic Ontology "namespace document". As such it describes the Bibliographic Ontology and the terms (<a href="http://www.w3.org/RDF/">RDF</a> classes and properties) that constitute it, so that <a href="http://www.w3.org/2001/sw/">Semantic Web</a> applications can use those terms in a variety of RDF-compatible document formats and applications.</p>
+<p>This document presents the Bibliographic Ontology as a <a href="http://www.w3.org/2001/sw/">Semantic Web</a> vocabulary or <em>Ontology</em>. The Bibliographic Ontology is straightforward, pragmatic and designed to allow simultaneous deployment and extension, and is therefore intended for widescale use.</p>
+<p>&nbsp;</p>
+<h2><a id="sec-evolution" class="mozTocH3" name="sec-evolution"></a>Evolution and Extension of the Bibliographic Ontology</h2>
+<p> The Bibliographic Ontology is identified by the namespace URI 'http://purl.org/ontology/bibo/'.
+</p><p>Revisions and extensions of Bibliographic Ontology are conducted through edits to the namespace document, which by convention is published in the Web at the namespace URI.</p>
+<p>The properties and types defined here provide some basic  concepts for use in Bibliographic Ontology descriptions. Other vocabularies (e.g. the <a href="http://dublincore.org/">Dublin Core</a> metadata elements for simple bibliographic description, <a href="http://xmlns.com/foaf/0.1/">FOAF</a>, etc.) can also be mixed in with the Bibliographic Ontology terms, as can local extensions. The Bibliographic Ontology is designed to be extended, and modules may be added at a later date.</p>
+<p>&nbsp;</p>
+<h2><a id="sec-evolution" class="mozTocH3" name="sec-modules"></a>Bibliographic Ontology Modules</h2>
+<p> Bibliographic Ontology modules may be used to extend the ontology and avoid making the base ontology too complex.<br />
+<h3>&nbsp;</h3>
+<h2><a id="sec-standards" class="mozTocH3" name="sec-standards"></a>The Bibliographic Ontology  and Standards</h2>
+</p><p>It is important to understand that the <em>Bibliographic Ontology</em> as specified in this document is not a standard  in the sense of <a href="#">ISO Standardisation</a>,  or that associated with <a href="http://www.w3.org/Consortium/Process/">W3C Process</a>.</p>
+<p>The Bibliographic Ontology  depends heavily on W3C's standards work, specifically on XML, XML Namespaces, RDF, and OWL.  All the <em>Bibliographic Ontology documents</em> must be well-formed RDF/XML documents.</p>
+<p>This specification contributes an ontology, the "Bibliographic Ontology ", to the Semantic Web, specifying it using W3C's <a href="http://www.w3.org/RDF/">Resource Description Framework</a> (RDF). As such, the Bibliographic Ontology adopts by reference both a syntax (using XML), a data model (RDF graphs) and a mathematically grounded definition for the rules that underpin the RDF design.</p>
+<p>&nbsp;</p>
+<h2><a id="sec-sioc-rdf" class="mozTocH2" name="sec-sioc-rdf"></a>The Bibliographic Ontology and RDF</h2>
+<p>Why does the Bibliographic Ontology use <a href="http://www.w3.org/RDF/">RDF</a>?</p>
+<p>The Bibliographic Ontology is an application of the Resource Description Framework (RDF) because the subject area we're describing &ndash; citations and bibliographic references-- has so many competing requirements that a standalone format would not capture them or would lead to trying to describe these requirements in a number of incompatible formats. By using RDF, the Bibliographic Ontology gains a powerful extensibility mechanism, allowing Bibliographic-Ontology-based descriptions to be mixed with claims made in any other RDF vocabulary.</p>
+<p>The Bibliographic Ontology as an ontology cannot incorporate everything we might want to talk about that is related to citations and bibliographic references. Instead of covering all topics within the Bibliographic Ongoloty itself, we describe the basic topics and build into a larger framework - RDF - that allows us to take advantage of work elsewhere on more specific description vocabularies.</p>
+<p>RDF provides the Bibliographic Ontology with a way to mix together different descriptive vocabularies in a consistent way. Vocabularies can be created by different communities and groups as appropriate and mixed together as required, without needing any centralized agreement on how terms from different vocabularies can be written down in XML or N3.</p>
+<p>Check the Ontology namespaces referenced section to find some ontologies that ca be use in conjonction with the Bibliographic Ontology.</p>
+<p>There are mechanisms for saying which RDF properties are connected to which classes, and how different classes are related to each other, using RDF Syntax and OWL. These can be quite general (all RDF properties by default come from an rdf:Resource for example) or very specific and precise (for example by using <a href="http://www.w3.org/2001/sw/WebOnt/">OWL</a> constructs). This is another form of self-documentation, which allows you to connect different vocabularies together as you please.</p>
+<p>In summary then, RDF is self-documenting in ways which enable the creation and combination of vocabularies in a devolved manner. This is particularly important for an ontology which describes communities, since online communities connect to many other domains of interest, which it would be impossible (as well as suboptimal) for a single group to describe adequately in non-geological time.</p>
+<p>RDF is usually written using the XML or <a href="http://www.w3.org/DesignIssues/Notation3">N3</a> syntaxes. If you want to process the data, you will need to use one of the many RDF toolkits available, such as Jena (Java) or Redland (C).</p>
+<p>More information about RDF can be found in the <a title="RDF Primer" href="http://www.w3.org/TR/rdf-primer/">RDF Primer</a>.</p>
+<h2><a id="sec-documentation" class="mozTocH2" name="sec-documentation"></a>The Bibliographic Ontology Documentation</h2>
+<div style="border: 1px solid #003399; padding: 10px; background-color: #ffff99; text-align: center; margin: 10px 50px;"><strong>To best way to read the specification is by loading the ontology into Prot&eacute;g&eacute;</strong>
+<ol>
+<li style="text-align: left;"><a href="#">Download Prot&eacute;g&eacute;</a></li>
+<li style="text-align: left;">Open Prot&eacute;g&eacute;</li>
+<li style="text-align: left;">Click Menu: "File -&gt; Open From URL...</li>
+<li style="text-align: left;">Use that URL:&nbsp; <a href="#" title="#">https://raw.github.com/structureddynamics/Bibliographic-Ontology-BIBO/ma...</a></li>
+</ol>
+</div>
+</div>
+      </div>
+
+      
+    </div></div>
+  </div></div>
+</div> <!-- /node -->        </div>
+
+        
+        
+      </div></div> <!-- /#content-inner, /#content -->
+
+              <div id="sidebar-left" class="region region-left">
+          <div id="block-user-1" class="block block-user region-odd even region-count-1 count-2">
+  <div class="block-inner">
+
+      <h2 class="block-title">Navigation</h2>
+  
+    <div class="block-content">
+      <div class="block-content-inner">
+        <ul class="menu"><li class="leaf first last"><a href="tracker.html">Recent posts</a></li>
+</ul>      </div>
+    </div>
+  </div>
+</div> <!-- /block -->        </div> <!-- /#sidebar-left -->
+      
+      
+    </div> <!-- #main -->
+
+    <div id="footer" class="region region-footer">
+      <div id="block-system-0" class="block block-system region-odd odd region-count-1 count-3">
+  <div class="block-inner">
+
+  
+    <div class="block-content">
+      <div class="block-content-inner">
+        <a href="http://drupal.org/"><img src="misc/powered-blue-80x15.png" alt="Powered by Drupal, an open source content management system" title="Powered by Drupal, an open source content management system" width="80" height="15" /></a>      </div>
+    </div>
+  </div>
+</div> <!-- /block --><div id="block-block-1" class="block block-block region-even even region-count-2 count-4">
+  <div class="block-inner">
+
+  
+    <div class="block-content">
+      <div class="block-content-inner">
+        <script type="text/javascript">
+var sc_project=2439015; 
+var sc_invisible=1; 
+var sc_security="e153b018"; 
+</script><script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script><p><noscript><br />
+<div><br />
+class="statcounter"><a title="joomla analytics"><br />
+href="http://www.statcounter.com/joomla/"<br />
+target="_blank"><img class="statcounter"><br />
+src="http://c.statcounter.com/2439015/0/e153b018/1/"<br />
+alt="joomla analytics" ></a>
+<p></p></div><br></noscript></p>
+      </div>
+    </div>
+  </div>
+</div> <!-- /block -->      <div id="footer-message">
+        <div align="center"><small>Copyright © 2008-2012. The Bibliographic Ontology. All content available via <a href="http://creativecommons.org/licenses/by-sa/3.0/us/" rel="license">Creative Commons Attribution-Share Alike 3.0 &nbsp;<img src="http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png" alt="Creative Commons License" width="60" height="21" /></a><br>Site hosted by <a href="http://structureddynamics.com/"><img src="sites/bibliontology.com/files/icons/sd-favicon.png" alt="Structured Dynamics LLC" /> Structured Dynamics LLC</a>.</small><br></div>
+      </div> <!-- /#footer-message -->
+    </div> <!-- /#footer -->
+
+  </div> <!--/#page -->
+
+  
+    
+	<div id="sdMenu">
+	  <script type="text/javascript">
+	    var menuHtmlPageUrl = "sites/bibliontology.com/menu/sdmenu.html";		
+	  </script>
+	</div>
+    <script type="text/javascript">
+	  function postRenderingFixes()
+	  {
+	    if(!$.browser.msie)
+		{
+		  jQuery('.bsub').css("margin-top", "-17px");
+		}
+	  }
+	</script>  
+
+</body>
+</html>
+
+
+
+
+
+

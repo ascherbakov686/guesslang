@@ -1,0 +1,375 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-int" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="/ruxitagentjs_ICA2SVfqru_10185200212095618.js" data-dtconfig="rid=RID_2418|rpid=-1496561637|domain=hennessy.com|reportUrl=/rb_bf56713mkh|app=76a9a2c838b6efbe|srms=1,1,,,|uxrgcm=100,25,300,3;100,25,300,3|featureHash=ICA2SVfqru|dpvc=1|lastModification=1581906733801|dtVersion=10185200212095618|tp=500,50,0,1|rdnt=1|uxrgce=1|uxdcw=1500|bp=2|agentUri=/ruxitagentjs_ICA2SVfqru_10185200212095618.js"></script><link rel="alternate" type="application/rss+xml" title="Data-Hpi RSS" href="https://data-hpi.hennessy.com/en-int/rss.xml" />
+<link rel="shortcut icon" href="https://data-hpi.hennessy.com/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>Data-Hpi | Backoffice HPI mini-site</title>
+  <style type="text/css" media="all">
+@import url("https://data-hpi.hennessy.com/modules/system/system.base.css?q2rf6k");
+@import url("https://data-hpi.hennessy.com/modules/system/system.menus.css?q2rf6k");
+@import url("https://data-hpi.hennessy.com/modules/system/system.messages.css?q2rf6k");
+@import url("https://data-hpi.hennessy.com/modules/system/system.theme.css?q2rf6k");
+</style>
+<style type="text/css" media="all">
+@import url("https://data-hpi.hennessy.com/modules/comment/comment.css?q2rf6k");
+@import url("https://data-hpi.hennessy.com/modules/field/theme/field.css?q2rf6k");
+@import url("https://data-hpi.hennessy.com/modules/node/node.css?q2rf6k");
+@import url("https://data-hpi.hennessy.com/modules/search/search.css?q2rf6k");
+@import url("https://data-hpi.hennessy.com/modules/user/user.css?q2rf6k");
+@import url("https://data-hpi.hennessy.com/sites/all/modules/contrib/views/css/views.css?q2rf6k");
+@import url("https://data-hpi.hennessy.com/sites/all/modules/contrib/ckeditor/css/ckeditor.css?q2rf6k");
+</style>
+<style type="text/css" media="all">
+@import url("https://data-hpi.hennessy.com/sites/all/modules/contrib/ctools/css/ctools.css?q2rf6k");
+@import url("https://data-hpi.hennessy.com/sites/paradis-imperial/modules/language_switcher/language_switcher.css?q2rf6k");
+</style>
+<style type="text/css" media="all">
+@import url("https://data-hpi.hennessy.com/themes/bartik/css/layout.css?q2rf6k");
+@import url("https://data-hpi.hennessy.com/themes/bartik/css/style.css?q2rf6k");
+@import url("https://data-hpi.hennessy.com/themes/bartik/css/colors.css?q2rf6k");
+</style>
+<style type="text/css" media="print">
+@import url("https://data-hpi.hennessy.com/themes/bartik/css/print.css?q2rf6k");
+</style>
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="https://data-hpi.hennessy.com/themes/bartik/css/ie.css?q2rf6k" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="https://data-hpi.hennessy.com/themes/bartik/css/ie6.css?q2rf6k" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="https://data-hpi.hennessy.com/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://data-hpi.hennessy.com/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://data-hpi.hennessy.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://data-hpi.hennessy.com/misc/drupal.js?q2rf6k"></script>
+<script type="text/javascript" src="https://data-hpi.hennessy.com/sites/paradis-imperial/modules/language_switcher/language_switcher.js?q2rf6k"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en-int\/","ajaxPageState":{"theme":"bartik","theme_token":"udiXmpw3ZeesOtCLYyhKVnvqa9oa_XtwOW3kKuR3Dzk","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/paradis-imperial\/modules\/language_switcher\/language_switcher.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/paradis-imperial\/modules\/language_switcher\/language_switcher.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"themes\/bartik\/css\/colors.css":1,"themes\/bartik\/css\/print.css":1,"themes\/bartik\/css\/ie.css":1,"themes\/bartik\/css\/ie6.css":1}},"languages":["en-int","fr","es-mx","vi","ru-ru","jp","cn-asia","en-ca","en-eu","en-gb","en-africa","en-asia","fr-ca","int-eu","uk-ua","us-us"],"urlIsAjaxTrusted":{"\/en-int\/node?destination=node":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node i18n-en-int" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div class="region region-page-top">
+    <!-- monitoring -->  </div>
+  <div id="page-wrapper"><div id="page">
+
+  <div id="header" class="without-secondary-menu"><div class="section clearfix">
+
+          <a href="/en-int" title="Home" rel="home" id="logo">
+        <img src="https://data-hpi.hennessy.com/themes/bartik/logo.png" alt="Home" />
+      </a>
+    
+          <div id="name-and-slogan">
+
+                              <h1 id="site-name">
+              <a href="/en-int" title="Home" rel="home"><span>Data-Hpi</span></a>
+            </h1>
+                  
+                  <div id="site-slogan">
+            Backoffice HPI mini-site          </div>
+        
+      </div> <!-- /#name-and-slogan -->
+    
+    
+          <div id="main-menu" class="navigation">
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-219 first last active"><a href="/en-int" class="active">Home</a></li>
+</ul>      </div> <!-- /#main-menu -->
+    
+    
+  </div></div> <!-- /.section, /#header -->
+
+  
+  
+  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
+
+    
+          <div id="sidebar-first" class="column sidebar"><div class="section">
+          <div class="region region-sidebar-first">
+    <div id="block-user-login" class="block block-user">
+
+    <h2>User login</h2>
+  
+  <div class="content">
+    <form action="/en-int/node?destination=node" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/en-int/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/en-int/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-ffwfFkNjZ_mWkPaI7eb4IODyxqW7fDzKAeM_CIFummo" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+      </div></div> <!-- /.section, /#sidebar-first -->
+    
+    <div id="content" class="column"><div class="section">
+            <a id="main-content"></a>
+                                <div class="tabs">
+                  </div>
+                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-122" class="node node-hpi-home-transverse node-promoted node-teaser en-int clearfix" about="/en-int/hennessyparadisimperial/campaign" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/en-int/hennessyparadisimperial/campaign">Hpi Home&amp;Transverse en-int</a>
+    </h2>
+    <span property="dc:title" content="Hpi Home&amp;Transverse en-int" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="form-item form-type-item">
+  <label>Language </label>
+ en-int
+</div>
+  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/en-int/hennessyparadisimperial/campaign" rel="tag" title="Hpi Home&amp;Transverse en-int">Read more<span class="element-invisible"> about Hpi Home&amp;Transverse en-int</span></a></li>
+<li class="comment_forbidden"><span><a href="/en-int/user/login?destination=comment/reply/122%23comment-form">Log in</a> or <a href="/en-int/user/register?destination=comment/reply/122%23comment-form">register</a> to post comments</span></li>
+<li class="translation_es-mx"><a href="/es-mx/hennessyparadisimperial/campaign" title="Hpi Home&amp;Transverse es" class="translation-link">es-mx</a></li>
+<li class="translation_vi"><a href="/vi/hennessyparadisimperial/campaign" title="Hpi Home&amp;Transverse vi" class="translation-link">vi</a></li>
+<li class="translation_ru-ru"><a href="/ru-ru/hennessyparadisimperial/campaign" title="Hpi Home&amp;Transverse ru" class="translation-link">ru-ru</a></li>
+<li class="translation_jp"><a href="/jp/hennessyparadisimperial/campaign" title="Hpi Home&amp;Transverse jp" class="translation-link">jp</a></li>
+<li class="translation_cn-asia"><a href="/cn-asia/hennessyparadisimperial/campaign" title="Hpi Home&amp;Transverse cn-asia" class="translation-link">cn-asia</a></li>
+<li class="translation_fr-ca"><a href="/fr-ca/hennessyparadisimperial/campagne" title="Hpi Home&amp;Transverse fr" class="translation-link">fr-ca</a></li>
+<li class="translation_en-gb"><a href="/en-gb/hennessyparadisimperial/campaign" title="Hpi Home&amp;Transverse en-int" class="translation-link">en-gb</a></li>
+<li class="translation_en-ca"><a href="/en-ca/hennessyparadisimperial/campaign" title="Hpi Home&amp;Transverse en-int" class="translation-link">en-ca</a></li>
+<li class="translation_en-eu"><a href="/en-eu/hennessyparadisimperial/campaign" title="Hpi Home&amp;Transverse en-int" class="translation-link">en-eu</a></li>
+<li class="translation_en-africa"><a href="/en-africa/hennessyparadisimperial/campaign" title="Hpi Home&amp;Transverse en-int" class="translation-link">en-africa</a></li>
+<li class="translation_en-asia"><a href="/en-asia/hennessyparadisimperial/campaign" title="Hpi Home&amp;Transverse en-int" class="translation-link">en-asia</a></li>
+<li class="translation_int-eu"><a href="/int-eu/hennessyparadisimperial/campaign" title="Hpi Home&amp;Transverse en-int" class="translation-link">int-eu</a></li>
+<li class="translation_uk-ua"><a href="/uk-ua/hennessyparadisimperial/campaign" title="Hpi Home&amp;Transverse en-int" class="translation-link">uk-ua</a></li>
+<li class="translation_us-us"><a href="/us-us/hennessyparadisimperial/campaign" title="Hpi Home&amp;Transverse en-int" class="translation-link">us-us</a></li>
+<li class="translation_fr last"><a href="/fr/hennessyparadisimperial/campagne" title="Hpi Home&amp;Transverse fr" class="translation-link">fr</a></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-121" class="node node-hpi-questions node-promoted node-teaser en-int clearfix" about="/en-int/hennessyparadisimperial/how-should-i-keep-it" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/en-int/hennessyparadisimperial/how-should-i-keep-it">QUESTION - #5 - HOW SHOULD I KEEP IT ? </a>
+    </h2>
+    <span property="dc:title" content="QUESTION - #5 - HOW SHOULD I KEEP IT ? " class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="form-item form-type-item">
+  <label>Language </label>
+ en-int
+</div>
+  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/en-int/hennessyparadisimperial/how-should-i-keep-it" rel="tag" title="QUESTION - #5 - HOW SHOULD I KEEP IT ? ">Read more<span class="element-invisible"> about QUESTION - #5 - HOW SHOULD I KEEP IT ? </span></a></li>
+<li class="translation_es-mx"><a href="/es-mx/hennessyparadisimperial/como-se-debe-conservar" title="QUESTION - #5 - HOW SHOULD I KEEP IT ? ES" class="translation-link">es-mx</a></li>
+<li class="translation_vi"><a href="/vi/hennessyparadisimperial/toi-nen-bao-quan-ruou-nhu-nao" title="QUESTION - #5 - HOW SHOULD I KEEP IT ? VI" class="translation-link">vi</a></li>
+<li class="translation_ru-ru"><a href="/ru-ru/hennessyparadisimperial/how-much-it" title="QUESTION - #5 - HOW SHOULD I KEEP IT ? RU" class="translation-link">ru-ru</a></li>
+<li class="translation_jp"><a href="/jp/hennessyparadisimperial/how-much-it" title="QUESTION - #5 - HOW SHOULD I KEEP IT ? JP" class="translation-link">jp</a></li>
+<li class="translation_cn-asia"><a href="/cn-asia/hennessyparadisimperial/how-much-it" title="QUESTION - #5 - HOW SHOULD I KEEP IT ? CN" class="translation-link">cn-asia</a></li>
+<li class="translation_fr-ca"><a href="/fr-ca/hennessyparadisimperial/comment-le-conserver" title="QUESTION - #5 - HOW SHOULD I KEEP IT ? FR" class="translation-link">fr-ca</a></li>
+<li class="translation_en-gb"><a href="/en-gb/hennessyparadisimperial/how-should-i-keep-it" title="QUESTION - #5 - HOW SHOULD I KEEP IT ? " class="translation-link">en-gb</a></li>
+<li class="translation_en-ca"><a href="/en-ca/hennessyparadisimperial/how-should-i-keep-it" title="QUESTION - #5 - HOW SHOULD I KEEP IT ? " class="translation-link">en-ca</a></li>
+<li class="translation_en-eu"><a href="/en-eu/hennessyparadisimperial/how-should-i-keep-it" title="QUESTION - #5 - HOW SHOULD I KEEP IT ? " class="translation-link">en-eu</a></li>
+<li class="translation_en-africa"><a href="/en-africa/hennessyparadisimperial/how-should-i-keep-it" title="QUESTION - #5 - HOW SHOULD I KEEP IT ? " class="translation-link">en-africa</a></li>
+<li class="translation_en-asia"><a href="/en-asia/hennessyparadisimperial/how-should-i-keep-it" title="QUESTION - #5 - HOW SHOULD I KEEP IT ? " class="translation-link">en-asia</a></li>
+<li class="translation_int-eu"><a href="/int-eu/hennessyparadisimperial/how-should-i-keep-it" title="QUESTION - #5 - HOW SHOULD I KEEP IT ? " class="translation-link">int-eu</a></li>
+<li class="translation_uk-ua"><a href="/uk-ua/hennessyparadisimperial/how-should-i-keep-it" title="QUESTION - #5 - HOW SHOULD I KEEP IT ? " class="translation-link">uk-ua</a></li>
+<li class="translation_us-us"><a href="/us-us/hennessyparadisimperial/how-should-i-keep-it" title="QUESTION - #5 - HOW SHOULD I KEEP IT ? " class="translation-link">us-us</a></li>
+<li class="translation_fr last"><a href="/fr/hennessyparadisimperial/comment-le-conserver" title="QUESTION - #5 - HOW SHOULD I KEEP IT ? FR" class="translation-link">fr</a></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-120" class="node node-hpi-questions node-promoted node-teaser en-int clearfix" about="/en-int/hennessyparadisimperial/how-should-i-drink-it" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/en-int/hennessyparadisimperial/how-should-i-drink-it">QUESTION - #4 - HOW SHOULD I DRINK IT ? </a>
+    </h2>
+    <span property="dc:title" content="QUESTION - #4 - HOW SHOULD I DRINK IT ? " class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="form-item form-type-item">
+  <label>Language </label>
+ en-int
+</div>
+  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/en-int/hennessyparadisimperial/how-should-i-drink-it" rel="tag" title="QUESTION - #4 - HOW SHOULD I DRINK IT ? ">Read more<span class="element-invisible"> about QUESTION - #4 - HOW SHOULD I DRINK IT ? </span></a></li>
+<li class="translation_es-mx"><a href="/es-mx/hennessyparadisimperial/como-se-toma" title="QUESTION - #4 - HOW SHOULD I DRINK IT ? ES" class="translation-link">es-mx</a></li>
+<li class="translation_vi"><a href="/vi/hennessyparadisimperial/toi-nen-thuong-thuc-ruou-nhu-nao" title="QUESTION - #4 - HOW SHOULD I DRINK IT ? VI" class="translation-link">vi</a></li>
+<li class="translation_ru-ru"><a href="/ru-ru/hennessyparadisimperial/how-should-i-drink-it" title="QUESTION - #4 - HOW SHOULD I DRINK IT ? RU" class="translation-link">ru-ru</a></li>
+<li class="translation_jp"><a href="/jp/hennessyparadisimperial/how-should-i-drink-it" title="QUESTION - #4 - HOW SHOULD I DRINK IT ? JP" class="translation-link">jp</a></li>
+<li class="translation_cn-asia"><a href="/cn-asia/hennessyparadisimperial/how-should-i-drink-it" title="QUESTION - #4 - HOW SHOULD I DRINK IT ? CN" class="translation-link">cn-asia</a></li>
+<li class="translation_fr-ca"><a href="/fr-ca/hennessyparadisimperial/comment-le-deguster" title="QUESTION - #4 - HOW SHOULD I DRINK IT ? fr" class="translation-link">fr-ca</a></li>
+<li class="translation_en-gb"><a href="/en-gb/hennessyparadisimperial/how-should-i-drink-it" title="QUESTION - #4 - HOW SHOULD I DRINK IT ? " class="translation-link">en-gb</a></li>
+<li class="translation_en-ca"><a href="/en-ca/hennessyparadisimperial/how-should-i-drink-it" title="QUESTION - #4 - HOW SHOULD I DRINK IT ? " class="translation-link">en-ca</a></li>
+<li class="translation_en-eu"><a href="/en-eu/hennessyparadisimperial/how-should-i-drink-it" title="QUESTION - #4 - HOW SHOULD I DRINK IT ? " class="translation-link">en-eu</a></li>
+<li class="translation_en-africa"><a href="/en-africa/hennessyparadisimperial/how-should-i-drink-it" title="QUESTION - #4 - HOW SHOULD I DRINK IT ? " class="translation-link">en-africa</a></li>
+<li class="translation_en-asia"><a href="/en-asia/hennessyparadisimperial/how-should-i-drink-it" title="QUESTION - #4 - HOW SHOULD I DRINK IT ? " class="translation-link">en-asia</a></li>
+<li class="translation_int-eu"><a href="/int-eu/hennessyparadisimperial/how-should-i-drink-it" title="QUESTION - #4 - HOW SHOULD I DRINK IT ? " class="translation-link">int-eu</a></li>
+<li class="translation_uk-ua"><a href="/uk-ua/hennessyparadisimperial/how-should-i-drink-it" title="QUESTION - #4 - HOW SHOULD I DRINK IT ? " class="translation-link">uk-ua</a></li>
+<li class="translation_us-us"><a href="/us-us/hennessyparadisimperial/how-should-i-drink-it" title="QUESTION - #4 - HOW SHOULD I DRINK IT ? " class="translation-link">us-us</a></li>
+<li class="translation_fr last"><a href="/fr/hennessyparadisimperial/comment-le-deguster" title="QUESTION - #4 - HOW SHOULD I DRINK IT ? fr" class="translation-link">fr</a></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-119" class="node node-hpi-questions node-promoted node-teaser en-int clearfix" about="/en-int/hennessyparadisimperial/how-valuable-it" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/en-int/hennessyparadisimperial/how-valuable-it">QUESTION - #3 - HOW VALUABLE IS IT ? </a>
+    </h2>
+    <span property="dc:title" content="QUESTION - #3 - HOW VALUABLE IS IT ? " class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="form-item form-type-item">
+  <label>Language </label>
+ en-int
+</div>
+  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/en-int/hennessyparadisimperial/how-valuable-it" rel="tag" title="QUESTION - #3 - HOW VALUABLE IS IT ? ">Read more<span class="element-invisible"> about QUESTION - #3 - HOW VALUABLE IS IT ? </span></a></li>
+<li class="translation_es-mx"><a href="/es-mx/hennessyparadisimperial/que-valor-tiene" title="QUESTION - #3 - HOW MUCH IS IT ? ES" class="translation-link">es-mx</a></li>
+<li class="translation_vi"><a href="/vi/hennessyparadisimperial/gia-cua-ruou-nhu-nao" title="QUESTION - #3 - HOW MUCH IS IT ? VI" class="translation-link">vi</a></li>
+<li class="translation_ru-ru"><a href="/ru-ru/hennessyparadisimperial/how-valuable-it" title="QUESTION - #3 - HOW MUCH IS IT ? RU" class="translation-link">ru-ru</a></li>
+<li class="translation_jp"><a href="/jp/hennessyparadisimperial/how-valuable-it" title="QUESTION - #3 - HOW MUCH IS IT ? JP" class="translation-link">jp</a></li>
+<li class="translation_cn-asia"><a href="/cn-asia/hennessyparadisimperial/how-valuable-it" title="QUESTION - #3 - HOW MUCH IS IT ? CN" class="translation-link">cn-asia</a></li>
+<li class="translation_fr-ca"><a href="/fr-ca/hennessyparadisimperial/quelle-est-sa-valeur" title="QUESTION - #3 - HOW MUCH IS IT ? FR" class="translation-link">fr-ca</a></li>
+<li class="translation_en-gb"><a href="/en-gb/hennessyparadisimperial/how-valuable-it" title="QUESTION - #3 - HOW VALUABLE IS IT ? " class="translation-link">en-gb</a></li>
+<li class="translation_en-ca"><a href="/en-ca/hennessyparadisimperial/how-valuable-it" title="QUESTION - #3 - HOW VALUABLE IS IT ? " class="translation-link">en-ca</a></li>
+<li class="translation_en-eu"><a href="/en-eu/hennessyparadisimperial/how-valuable-it" title="QUESTION - #3 - HOW VALUABLE IS IT ? " class="translation-link">en-eu</a></li>
+<li class="translation_en-africa"><a href="/en-africa/hennessyparadisimperial/how-valuable-it" title="QUESTION - #3 - HOW VALUABLE IS IT ? " class="translation-link">en-africa</a></li>
+<li class="translation_en-asia"><a href="/en-asia/hennessyparadisimperial/how-valuable-it" title="QUESTION - #3 - HOW VALUABLE IS IT ? " class="translation-link">en-asia</a></li>
+<li class="translation_int-eu"><a href="/int-eu/hennessyparadisimperial/how-valuable-it" title="QUESTION - #3 - HOW VALUABLE IS IT ? " class="translation-link">int-eu</a></li>
+<li class="translation_uk-ua"><a href="/uk-ua/hennessyparadisimperial/how-valuable-it" title="QUESTION - #3 - HOW VALUABLE IS IT ? " class="translation-link">uk-ua</a></li>
+<li class="translation_us-us"><a href="/us-us/hennessyparadisimperial/how-valuable-it" title="QUESTION - #3 - HOW VALUABLE IS IT ? " class="translation-link">us-us</a></li>
+<li class="translation_fr last"><a href="/fr/hennessyparadisimperial/quelle-est-sa-valeur" title="QUESTION - #3 - HOW MUCH IS IT ? FR" class="translation-link">fr</a></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-118" class="node node-hpi-questions node-promoted node-teaser en-int clearfix" about="/en-int/hennessyparadisimperial/what-does-it-taste" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/en-int/hennessyparadisimperial/what-does-it-taste">QUESTION - #2 - WHAT DOES IT TASTE LIKE ?</a>
+    </h2>
+    <span property="dc:title" content="QUESTION - #2 - WHAT DOES IT TASTE LIKE ?" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="form-item form-type-item">
+  <label>Language </label>
+ en-int
+</div>
+  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/en-int/hennessyparadisimperial/what-does-it-taste" rel="tag" title="QUESTION - #2 - WHAT DOES IT TASTE LIKE ?">Read more<span class="element-invisible"> about QUESTION - #2 - WHAT DOES IT TASTE LIKE ?</span></a></li>
+<li class="translation_es-mx"><a href="/es-mx/hennessyparadisimperial/que-tal-sabe" title="QUESTION - #2 - WHAT DOES IT TASTE LIKE ? ES-MX" class="translation-link">es-mx</a></li>
+<li class="translation_vi"><a href="/vi/hennessyparadisimperial/huong-vi-ruou-ra-sao" title="QUESTION - #2 - WHAT DOES IT TASTE LIKE ? VI" class="translation-link">vi</a></li>
+<li class="translation_ru-ru"><a href="/ru-ru/hennessyparadisimperial/what-does-it-taste" title="QUESTION - #2 - WHAT DOES IT TASTE LIKE ? RU" class="translation-link">ru-ru</a></li>
+<li class="translation_jp"><a href="/jp/hennessyparadisimperial/what-does-it-taste" title="QUESTION - #2 - WHAT DOES IT TASTE LIKE ? JP" class="translation-link">jp</a></li>
+<li class="translation_cn-asia"><a href="/cn-asia/hennessyparadisimperial/what-does-it-taste" title="QUESTION - #2 - WHAT DOES IT TASTE LIKE ? CN" class="translation-link">cn-asia</a></li>
+<li class="translation_fr-ca"><a href="/fr-ca/hennessyparadisimperial/quel-est-son-gout" title="QUESTION - #2 - WHAT DOES IT TASTE LIKE ? FR" class="translation-link">fr-ca</a></li>
+<li class="translation_en-gb"><a href="/en-gb/hennessyparadisimperial/what-does-it-taste" title="QUESTION - #2 - WHAT DOES IT TASTE LIKE ?" class="translation-link">en-gb</a></li>
+<li class="translation_en-ca"><a href="/en-ca/hennessyparadisimperial/what-does-it-taste" title="QUESTION - #2 - WHAT DOES IT TASTE LIKE ?" class="translation-link">en-ca</a></li>
+<li class="translation_en-eu"><a href="/en-eu/hennessyparadisimperial/what-does-it-taste" title="QUESTION - #2 - WHAT DOES IT TASTE LIKE ?" class="translation-link">en-eu</a></li>
+<li class="translation_en-africa"><a href="/en-africa/hennessyparadisimperial/what-does-it-taste" title="QUESTION - #2 - WHAT DOES IT TASTE LIKE ?" class="translation-link">en-africa</a></li>
+<li class="translation_en-asia"><a href="/en-asia/hennessyparadisimperial/what-does-it-taste" title="QUESTION - #2 - WHAT DOES IT TASTE LIKE ?" class="translation-link">en-asia</a></li>
+<li class="translation_int-eu"><a href="/int-eu/hennessyparadisimperial/what-does-it-taste" title="QUESTION - #2 - WHAT DOES IT TASTE LIKE ?" class="translation-link">int-eu</a></li>
+<li class="translation_uk-ua"><a href="/uk-ua/hennessyparadisimperial/what-does-it-taste" title="QUESTION - #2 - WHAT DOES IT TASTE LIKE ?" class="translation-link">uk-ua</a></li>
+<li class="translation_us-us"><a href="/us-us/hennessyparadisimperial/what-does-it-taste" title="QUESTION - #2 - WHAT DOES IT TASTE LIKE ?" class="translation-link">us-us</a></li>
+<li class="translation_fr last"><a href="/fr/hennessyparadisimperial/quel-est-son-gout" title="QUESTION - #2 - WHAT DOES IT TASTE LIKE ? FR" class="translation-link">fr</a></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-117" class="node node-hpi-questions node-promoted node-teaser en-int clearfix" about="/en-int/hennessyparadisimperial/how-it-made" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/en-int/hennessyparadisimperial/how-it-made">QUESTION - #1 - HOW IS IT MADE ? EN-INT</a>
+    </h2>
+    <span property="dc:title" content="QUESTION - #1 - HOW IS IT MADE ? EN-INT" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="form-item form-type-item">
+  <label>Language </label>
+ en-int
+</div>
+  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/en-int/hennessyparadisimperial/how-it-made" rel="tag" title="QUESTION - #1 - HOW IS IT MADE ? EN-INT">Read more<span class="element-invisible"> about QUESTION - #1 - HOW IS IT MADE ? EN-INT</span></a></li>
+<li class="translation_es-mx"><a href="/es-mx/hennessyparadisimperial/como-se-elabora" title="QUESTION - #1 - HOW IS IT MADE ? ES-MX" class="translation-link">es-mx</a></li>
+<li class="translation_vi"><a href="/vi/hennessyparadisimperial/ruou-duoc-tinh-che-nhu-nao" title="QUESTION - #1 - HOW IS IT MADE ? VI" class="translation-link">vi</a></li>
+<li class="translation_ru-ru"><a href="/ru-ru/hennessyparadisimperial/how-it-made" title="QUESTION - #1 - HOW IS IT MADE ? RU-RU" class="translation-link">ru-ru</a></li>
+<li class="translation_jp"><a href="/jp/hennessyparadisimperial/how-it-made" title="QUESTION - #1 - HOW IS IT MADE ? JP" class="translation-link">jp</a></li>
+<li class="translation_cn-asia"><a href="/cn-asia/hennessyparadisimperial/how-it-made" title="QUESTION - #1 - HOW IS IT MADE ? CN-ASIA" class="translation-link">cn-asia</a></li>
+<li class="translation_fr-ca"><a href="/fr-ca/hennessyparadisimperial/comment-est-il-elabore" title="QUESTION - #1 - HOW IS IT MADE ? FR" class="translation-link">fr-ca</a></li>
+<li class="translation_en-gb"><a href="/en-gb/hennessyparadisimperial/how-it-made" title="QUESTION - #1 - HOW IS IT MADE ? EN-INT" class="translation-link">en-gb</a></li>
+<li class="translation_en-ca"><a href="/en-ca/hennessyparadisimperial/how-it-made" title="QUESTION - #1 - HOW IS IT MADE ? EN-INT" class="translation-link">en-ca</a></li>
+<li class="translation_en-eu"><a href="/en-eu/hennessyparadisimperial/how-it-made" title="QUESTION - #1 - HOW IS IT MADE ? EN-INT" class="translation-link">en-eu</a></li>
+<li class="translation_en-africa"><a href="/en-africa/hennessyparadisimperial/how-it-made" title="QUESTION - #1 - HOW IS IT MADE ? EN-INT" class="translation-link">en-africa</a></li>
+<li class="translation_en-asia"><a href="/en-asia/hennessyparadisimperial/how-it-made" title="QUESTION - #1 - HOW IS IT MADE ? EN-INT" class="translation-link">en-asia</a></li>
+<li class="translation_int-eu"><a href="/int-eu/hennessyparadisimperial/how-it-made" title="QUESTION - #1 - HOW IS IT MADE ? EN-INT" class="translation-link">int-eu</a></li>
+<li class="translation_uk-ua"><a href="/uk-ua/hennessyparadisimperial/how-it-made" title="QUESTION - #1 - HOW IS IT MADE ? EN-INT" class="translation-link">uk-ua</a></li>
+<li class="translation_us-us"><a href="/us-us/hennessyparadisimperial/how-it-made" title="QUESTION - #1 - HOW IS IT MADE ? EN-INT" class="translation-link">us-us</a></li>
+<li class="translation_fr last"><a href="/fr/hennessyparadisimperial/comment-est-il-elabore" title="QUESTION - #1 - HOW IS IT MADE ? FR" class="translation-link">fr</a></li>
+</ul>    </div>
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+      <a href="/en-int/rss.xml" class="feed-icon" title="Subscribe to Data-Hpi RSS"><img typeof="foaf:Image" src="https://data-hpi.hennessy.com/misc/feed.png" width="16" height="16" alt="Subscribe to Data-Hpi RSS" /></a>
+    </div></div> <!-- /.section, /#content -->
+
+    
+  </div></div> <!-- /#main, /#main-wrapper -->
+
+  
+  <div id="footer-wrapper"><div class="section">
+
+    
+          <div id="footer" class="clearfix">
+          <div class="region region-footer">
+    <div id="block-system-powered-by" class="block block-system">
+
+    
+  <div class="content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+</div>
+  </div>
+      </div> <!-- /#footer -->
+    
+  </div></div> <!-- /.section, /#footer-wrapper -->
+
+</div></div> <!-- /#page, /#page-wrapper -->
+  </body>
+</html>

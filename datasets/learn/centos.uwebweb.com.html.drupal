@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+      google_ad_client: "ca-pub-5458021002522852",
+      enable_page_level_ads: true
+    });
+  </script>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="Centos Blog RSS" href="https://centos.uwebweb.com/rss.xml" />
+<script src="https://www.google.com/recaptcha/api.js?hl=en" async="async" defer="defer"></script>
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://centos.uwebweb.com/" />
+<link rel="shortlink" href="https://centos.uwebweb.com/" />
+<meta property="og:site_name" content="Centos Blog" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://centos.uwebweb.com/" />
+<meta property="og:title" content="Centos Blog" />
+<meta property="og:description" content="Centos blog" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://centos.uwebweb.com/" />
+<meta name="twitter:title" content="Centos Blog" />
+<meta name="twitter:description" content="Centos blog" />
+<meta itemprop="name" content="Centos Blog" />
+<meta itemprop="description" content="Centos blog" />
+<meta name="dcterms.title" content="Centos Blog" />
+<meta name="dcterms.description" content="Centos blog" />
+<meta name="dcterms.type" content="Text" />
+<meta name="dcterms.identifier" content="https://centos.uwebweb.com/" />
+<meta name="dcterms.format" content="text/html" />
+<link rel="shortcut icon" href="https://centos.uwebweb.com/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>Centos Blog | Centos blog</title>
+  <style type="text/css" media="all">
+@import url("https://centos.uwebweb.com/modules/system/system.base.css?pqcnwh");
+@import url("https://centos.uwebweb.com/modules/system/system.menus.css?pqcnwh");
+@import url("https://centos.uwebweb.com/modules/system/system.messages.css?pqcnwh");
+@import url("https://centos.uwebweb.com/modules/system/system.theme.css?pqcnwh");
+</style>
+<style type="text/css" media="all">
+@import url("https://centos.uwebweb.com/modules/comment/comment.css?pqcnwh");
+@import url("https://centos.uwebweb.com/modules/field/theme/field.css?pqcnwh");
+@import url("https://centos.uwebweb.com/modules/node/node.css?pqcnwh");
+@import url("https://centos.uwebweb.com/modules/search/search.css?pqcnwh");
+@import url("https://centos.uwebweb.com/modules/user/user.css?pqcnwh");
+@import url("https://centos.uwebweb.com/modules/forum/forum.css?pqcnwh");
+@import url("https://centos.uwebweb.com/sites/all/modules/views/css/views.css?pqcnwh");
+</style>
+<style type="text/css" media="all">
+@import url("https://centos.uwebweb.com/sites/all/modules/ctools/css/ctools.css?pqcnwh");
+@import url("https://centos.uwebweb.com/sites/all/modules/panels/css/panels.css?pqcnwh");
+</style>
+<link type="text/css" rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" media="all" />
+<style type="text/css" media="all">
+@import url("https://centos.uwebweb.com/sites/all/themes/bootstrap_business/css/style.css?pqcnwh");
+@import url("https://centos.uwebweb.com/sites/all/themes/bootstrap_business/color/colors.css?pqcnwh");
+@import url("https://centos.uwebweb.com/sites/all/themes/bootstrap_business/css/local.css?pqcnwh");
+</style>
+
+<!--[if (lt IE 9)]>
+<link type="text/css" rel="stylesheet" href="https://centos.uwebweb.com/sites/all/themes/bootstrap_business/css/ie8.css?pqcnwh" media="all" />
+<![endif]-->
+
+    
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.google_analytics_uacct = "UA-46711811-10";
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://centos.uwebweb.com/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://centos.uwebweb.com/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://centos.uwebweb.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://centos.uwebweb.com/misc/drupal.js?pqcnwh"></script>
+<script type="text/javascript" src="https://centos.uwebweb.com/sites/default/files/languages/en_phkR86mHeCNlNFnJ0RvfDY5HZol9zWHVXchyIO68ts0.js?pqcnwh"></script>
+<script type="text/javascript" src="https://centos.uwebweb.com/sites/all/modules/captcha/captcha.js?pqcnwh"></script>
+<script type="text/javascript" src="https://centos.uwebweb.com/sites/all/modules/google_analytics/googleanalytics.js?pqcnwh"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-46711811-10", {"cookieDomain":"auto"});ga("require", "displayfeatures");ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) { 
+		$(window).scroll(function() {
+			if($(this).scrollTop() != 0) {
+				$("#toTop").fadeIn();	
+			} else {
+				$("#toTop").fadeOut();
+			}
+		});
+		
+		$("#toTop").click(function() {
+			$("body,html").animate({scrollTop:0},800);
+		});	
+		
+		});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bootstrap_business","theme_token":"hjXveWkMgaY0SlEME1YkRjP1WG_fkImNcQoKFUQff-k","js":{"0":1,"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"public:\/\/languages\/en_phkR86mHeCNlNFnJ0RvfDY5HZol9zWHVXchyIO68ts0.js":1,"sites\/all\/modules\/captcha\/captcha.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"2":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.2.0\/css\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap_business\/css\/style.css":1,"sites\/all\/themes\/bootstrap_business\/color\/colors.css":1,"sites\/all\/themes\/bootstrap_business\/css\/local.css":1,"sites\/all\/themes\/bootstrap_business\/css\/ie8.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/node?destination=node":true,"\/":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node i18n-en" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="toTop"><span class="glyphicon glyphicon-chevron-up"></span></div>
+
+
+
+
+<!-- header -->
+<header id="header" role="banner" class="clearfix">
+    <div class="container">
+
+        <!-- #header-inside -->
+        <div id="header-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+
+                                <div id="logo">
+                <a href="/" title="Home" rel="home"> <img src="https://centos.uwebweb.com/sites/all/themes/bootstrap_business/logo.png" alt="Home" /> </a>
+                </div>
+                
+                                <div id="site-name">
+                <a href="/" title="Home">Centos Blog</a>
+                </div>
+                                
+                                <div id="site-slogan">
+                Centos blog                </div>
+                                
+                
+
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #header-inside -->
+
+    </div>
+</header>
+<!-- EOF: #header --> 
+
+<!-- #main-navigation --> 
+<div id="main-navigation" class="clearfix">
+    <div class="container">
+
+        <!-- #main-navigation-inside -->
+        <div id="main-navigation-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                    <nav role="navigation">
+                        
+                        <h2 class="element-invisible">Main menu</h2><ul class="main-menu menu"><li class="menu-238 first active"><a href="/" title="" class="active">CentOS</a></li>
+<li class="menu-922 last"><a href="https://drupal.uwebweb.com" title="">Drupal</a></li>
+</ul>
+                                            </nav>
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #main-navigation-inside -->
+
+    </div>
+</div>
+<!-- EOF: #main-navigation -->
+
+
+<!-- #page -->
+<div id="page" class="clearfix">
+    
+    
+    <!-- #main-content -->
+    <div id="main-content">
+        <div class="container">
+        
+            <!-- #messages-console -->
+                        <!-- EOF: #messages-console -->
+            
+            <div class="row">
+
+                                <aside class="col-md-4">  
+                    <!--#sidebar-first-->
+                    <section id="sidebar-first" class="sidebar clearfix">
+                      <div class="region region-sidebar-first">
+    <div id="block-user-login" class="block block-user clearfix">
+
+    <h2>User login</h2>
+  
+  <div class="content">
+    <form action="/node?destination=node" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-syNFl1gOt_ODh_Va3p-aFR6m3H9EqgU5yUSrkAhtcxU" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="captcha"><input type="hidden" name="captcha_sid" value="20144" />
+<input type="hidden" name="captcha_token" value="01cbac58d6755154b4c00107657a9469" />
+<input type="hidden" name="captcha_response" value="Google no captcha" />
+<div class="g-recaptcha" data-sitekey="6LcvoHEUAAAAAOtQkd0muTjMy213YW2lMUKIzKts" data-theme="light" data-type="image"></div></div><div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+                    </section>
+                    <!--EOF:#sidebar-first-->
+                </aside>
+                
+
+                <section class="col-md-8">
+
+                    <!-- #main -->
+                    <div id="main" class="clearfix">
+                    
+                        
+                                                <!-- #promoted -->
+                            <div id="promoted" class="clearfix">
+                                <div id="promoted-inside" class="clearfix">
+                                  <div class="region region-promoted">
+    <div id="block-search-form" class="block block-search clearfix">
+
+    
+  <div class="content">
+    <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+ <input onblur="if (this.value == &#039;&#039;) {this.value = &#039;Search this website...&#039;;}" onfocus="if (this.value == &#039;Search this website...&#039;) {this.value = &#039;&#039;;}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search this website..." size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input value="" type="submit" id="edit-submit" name="op" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-N5y1m0N8gMsxTp2tI0PN2rBUnmfa7bxh6CwqDrLVu5o" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+  </div>
+                                </div>
+                            </div>
+                        <!-- EOF: #promoted -->
+                        
+                        <!-- EOF:#content-wrapper -->
+                        <div id="content-wrapper">
+
+                                                                                    
+                                                  
+                            <!-- #tabs -->
+                                                            <div class="tabs">
+                                                                </div>
+                                                        <!-- EOF: #tabs -->
+
+                            <!-- #action links -->
+                                                        <!-- EOF: #action links -->
+
+                              <div class="region region-content">
+    <div id="block-system-main" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <article id="node-59" class="node node-article node-promoted node-teaser clearfix" about="/install-mcrypt-mac-os-1014-php-7" typeof="sioc:Item foaf:Document">
+
+    <header>
+              <h2><a href="/install-mcrypt-mac-os-1014-php-7">Install mcrypt in Mac OS 10.14, PHP 7</a></h2>
+        <span property="dc:title" content="Install mcrypt in Mac OS 10.14, PHP 7" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <div class="submitted">
+                <span class="glyphicon glyphicon-calendar"></span> <span property="dc:date dc:created" content="2019-04-15T00:01:24+08:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/user/1" title="View user profile." class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">admin</a> on Mon, 04/15/2019 - 00:01</span>      </div>
+      </header>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Run this command in the terminal:<br />
+&gt; sudo pecl install mcrypt-1.0.2</p>
+</div></div></div>  </div>
+    
+        <footer>
+    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/tags/mcrypt" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">mcrypt</a></div><div class="field-item odd" rel="dc:subject"><a href="/tags/mac-os" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">mac os</a></div><div class="field-item even" rel="dc:subject"><a href="/tags/php-7" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">php 7</a></div></div></div>    <ul class="links inline"><li class="node-readmore first"><a href="/install-mcrypt-mac-os-1014-php-7" rel="tag" title="Install mcrypt in Mac OS 10.14, PHP 7">Read more<span class="element-invisible"> about Install mcrypt in Mac OS 10.14, PHP 7</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/59%23comment-form">Log in</a> or <a href="/user/register?destination=node/59%23comment-form">register</a> to post comments</span></li>
+</ul>    </footer>
+     
+
+  
+</article><article id="node-47" class="node node-article node-promoted node-teaser clearfix" about="/how-unblock-mail-server-blocklist-microsoft-outlookcom-hotmailcom" typeof="sioc:Item foaf:Document">
+
+    <header>
+              <h2><a href="/how-unblock-mail-server-blocklist-microsoft-outlookcom-hotmailcom">How to unblock mail server from the blocklist of Microsoft / outlook.com / hotmail.com</a></h2>
+        <span property="dc:title" content="How to unblock mail server from the blocklist of Microsoft / outlook.com / hotmail.com" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <div class="submitted">
+                <span class="glyphicon glyphicon-calendar"></span> <span property="dc:date dc:created" content="2018-10-12T19:09:45+08:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/user/1" title="View user profile." class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">admin</a> on Fri, 10/12/2018 - 19:09</span>      </div>
+      </header>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Fills in the form provided by the Microsoft itself.</p>
+<p><a href="https://support.microsoft.com/en-us/supportrequestform/8ad563e3-288e-2a61-8122-3ba03d6b8d75">https://support.microsoft.com/en-us/supportrequestform/8ad563e3-288e-2a61-8122-3ba03d6b8d75</a></p>
+</div></div></div>  </div>
+    
+        <footer>
+    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/tags/mail" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">mail</a></div><div class="field-item odd" rel="dc:subject"><a href="/tags/unblock" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">unblock</a></div><div class="field-item even" rel="dc:subject"><a href="/tags/blocklist" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">blocklist</a></div></div></div>    <ul class="links inline"><li class="node-readmore first"><a href="/how-unblock-mail-server-blocklist-microsoft-outlookcom-hotmailcom" rel="tag" title="How to unblock mail server from the blocklist of Microsoft / outlook.com / hotmail.com">Read more<span class="element-invisible"> about How to unblock mail server from the blocklist of Microsoft / outlook.com / hotmail.com</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/47%23comment-form">Log in</a> or <a href="/user/register?destination=node/47%23comment-form">register</a> to post comments</span></li>
+</ul>    </footer>
+     
+
+  
+</article><article id="node-45" class="node node-article node-promoted node-teaser clearfix" about="/key-authorization-file-server-did-not-match-challenge-letsencrypt" typeof="sioc:Item foaf:Document">
+
+    <header>
+              <h2><a href="/key-authorization-file-server-did-not-match-challenge-letsencrypt">The key authorization file from the server did not match this challenge (Letsencrypt)</a></h2>
+        <span property="dc:title" content="The key authorization file from the server did not match this challenge (Letsencrypt)" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <div class="submitted">
+                <span class="glyphicon glyphicon-calendar"></span> <span property="dc:date dc:created" content="2018-09-29T19:25:51+08:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/user/1" title="View user profile." class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">admin</a> on Sat, 09/29/2018 - 19:25</span>      </div>
+      </header>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The common cause of the error "The key authorization file from the server did not match this challenge" on Letsencrypt is that the domain name cannot be resolved correctly. You must make sure the domain is directing to the server and can be accessed from the outside network.</p>
+</div></div></div>  </div>
+    
+        <footer>
+        <ul class="links inline"><li class="node-readmore first"><a href="/key-authorization-file-server-did-not-match-challenge-letsencrypt" rel="tag" title="The key authorization file from the server did not match this challenge (Letsencrypt)">Read more<span class="element-invisible"> about The key authorization file from the server did not match this challenge (Letsencrypt)</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/45%23comment-form">Log in</a> or <a href="/user/register?destination=node/45%23comment-form">register</a> to post comments</span></li>
+</ul>    </footer>
+     
+
+  
+</article><article id="node-43" class="node node-article node-promoted node-teaser clearfix" about="/change-default-phps-systempdir-vesta" typeof="sioc:Item foaf:Document">
+
+    <header>
+              <h2><a href="/change-default-phps-systempdir-vesta">Change default php&#039;s sys_temp_dir on vesta</a></h2>
+        <span property="dc:title" content="Change default php&#039;s sys_temp_dir on vesta" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <div class="submitted">
+                <span class="glyphicon glyphicon-calendar"></span> <span property="dc:date dc:created" content="2018-08-31T16:50:47+08:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/user/1" title="View user profile." class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">admin</a> on Fri, 08/31/2018 - 16:50</span>      </div>
+      </header>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><ol><li>Edit these two files. 
+<pre>vim /usr/local/vesta/data/templates/web/httpd/default.stpl
+vim /usr/local/vesta/data/templates/web/httpd/default.tpl</pre></li>
+<li>Add the line "php_admin_value sys_temp_dir %home%/%user%/tmp" into those files as following:<br /><pre>&lt;Directory %sdocroot%&gt;
+        AllowOverride All
+        SSLRequireSSL
+        Options +Includes -Indexes +ExecCGI
+        php_admin_value open_basedir %sdocroot%:%home%/%user%/tmp
+        php_admin_value upload_tmp_dir %home%/%user%/tmp
+        php_admin_value session.save_path %home%/%user%/tmp</pre></li></ol></div></div></div>  </div>
+    
+        <footer>
+    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/tags/change-default-temp-directory" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">change default temp directory</a></div><div class="field-item odd" rel="dc:subject"><a href="/tags/php" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">php</a></div><div class="field-item even" rel="dc:subject"><a href="/tags/vesta" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">vesta</a></div></div></div>    <ul class="links inline"><li class="node-readmore first"><a href="/change-default-phps-systempdir-vesta" rel="tag" title="Change default php&#039;s sys_temp_dir on vesta">Read more<span class="element-invisible"> about Change default php&#039;s sys_temp_dir on vesta</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/43%23comment-form">Log in</a> or <a href="/user/register?destination=node/43%23comment-form">register</a> to post comments</span></li>
+</ul>    </footer>
+     
+
+  
+</article><article id="node-41" class="node node-article node-promoted node-teaser clearfix" about="/allow-changes-senders-email-address-when-send-email-exim4-smtp-server" typeof="sioc:Item foaf:Document">
+
+    <header>
+              <h2><a href="/allow-changes-senders-email-address-when-send-email-exim4-smtp-server">Allow changes sender&#039;s email address when send email via exim4 smtp server</a></h2>
+        <span property="dc:title" content="Allow changes sender&#039;s email address when send email via exim4 smtp server" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <div class="submitted">
+                <span class="glyphicon glyphicon-calendar"></span> <span property="dc:date dc:created" content="2018-08-21T01:42:54+08:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/user/1" title="View user profile." class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">admin</a> on Tue, 08/21/2018 - 01:42</span>      </div>
+      </header>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Edit the exim configuration file. Add the '#' at the beginning of this line.</p>
+<pre>#require verify        = sender</pre></div></div></div>  </div>
+    
+        <footer>
+    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/tags/change-sender-address" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">change sender address</a></div><div class="field-item odd" rel="dc:subject"><a href="/tags/exim4" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">exim4</a></div></div></div>    <ul class="links inline"><li class="node-readmore first"><a href="/allow-changes-senders-email-address-when-send-email-exim4-smtp-server" rel="tag" title="Allow changes sender&#039;s email address when send email via exim4 smtp server">Read more<span class="element-invisible"> about Allow changes sender&#039;s email address when send email via exim4 smtp server</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/41%23comment-form">Log in</a> or <a href="/user/register?destination=node/41%23comment-form">register</a> to post comments</span></li>
+</ul>    </footer>
+     
+
+  
+</article><article id="node-40" class="node node-article node-promoted node-teaser clearfix" about="/tremotesmtp-defer-53-retry-time-not-reached-any-host" typeof="sioc:Item foaf:Document">
+
+    <header>
+              <h2><a href="/tremotesmtp-defer-53-retry-time-not-reached-any-host">T=remote_smtp defer (-53): retry time not reached for any host</a></h2>
+        <span property="dc:title" content="T=remote_smtp defer (-53): retry time not reached for any host" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <div class="submitted">
+                <span class="glyphicon glyphicon-calendar"></span> <span property="dc:date dc:created" content="2018-08-18T23:35:16+08:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/user/1" title="View user profile." class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">admin</a> on Sat, 08/18/2018 - 23:35</span>      </div>
+      </header>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong>Cause: </strong><br />It doesn't normally happen due to exim database corruption. It normally happens if your machine goes offline or another machine goes offline for network connectivity. If that happens, then exim reaches the retry times and cannot succeed in sending out the messages and will not try to resend those messages until the retry timeout is reached.<br /><br />If this happens to you frequently, then you likely have an issue with your machine's network or routing and it has nothing to do with exim.</p></div></div></div>  </div>
+    
+        <footer>
+        <ul class="links inline"><li class="node-readmore first"><a href="/tremotesmtp-defer-53-retry-time-not-reached-any-host" rel="tag" title="T=remote_smtp defer (-53): retry time not reached for any host">Read more<span class="element-invisible"> about T=remote_smtp defer (-53): retry time not reached for any host</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/40%23comment-form">Log in</a> or <a href="/user/register?destination=node/40%23comment-form">register</a> to post comments</span></li>
+</ul>    </footer>
+     
+
+  
+</article><article id="node-38" class="node node-article node-promoted node-teaser clearfix" about="/set-security-websocket-wss-vesta-php-centos" typeof="sioc:Item foaf:Document">
+
+    <header>
+              <h2><a href="/set-security-websocket-wss-vesta-php-centos">Set up security websocket (wss) in vesta + php + centos</a></h2>
+        <span property="dc:title" content="Set up security websocket (wss) in vesta + php + centos" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <div class="submitted">
+                <span class="glyphicon glyphicon-calendar"></span> <span property="dc:date dc:created" content="2018-08-11T17:08:46+08:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/user/1" title="View user profile." class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">admin</a> on Sat, 08/11/2018 - 17:08</span>      </div>
+      </header>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><ol><li>Enable mod_proxy and mod_proxy_wstunnel module in apache.
+<ul><li>
+<pre>vi /etc/httpd/conf.modules.d/00-proxy.conf</pre></li>
+<li>Remove '#' from the beginning of these two lines. If you can't find these two lines from the file, please add them manually.<br /><pre>LoadModule proxy_module modules/mod_proxy.so
+LoadModule proxy_wstunnel_module modules/mod_proxy_wstunnel.so</pre></li>
+</ul></li>
+<li>Add configuration for the apache
+<ul><li>
+<pre>vi /home/{username}/conf/web/xxxx.com.httpd.ssl.conf</pre></li></ul></li></ol></div></div></div>  </div>
+    
+        <footer>
+        <ul class="links inline"><li class="node-readmore first"><a href="/set-security-websocket-wss-vesta-php-centos" rel="tag" title="Set up security websocket (wss) in vesta + php + centos">Read more<span class="element-invisible"> about Set up security websocket (wss) in vesta + php + centos</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/38%23comment-form">Log in</a> or <a href="/user/register?destination=node/38%23comment-form">register</a> to post comments</span></li>
+</ul>    </footer>
+     
+
+  
+</article><article id="node-34" class="node node-article node-promoted node-teaser clearfix" about="/mondoarchive-fatal-error-failed-generate-bootdata-disks-solution" typeof="sioc:Item foaf:Document">
+
+    <header>
+              <h2><a href="/mondoarchive-fatal-error-failed-generate-bootdata-disks-solution">Mondoarchive - [Fatal Error - Failed to generate boot+data disks] solution</a></h2>
+        <span property="dc:title" content="Mondoarchive - [Fatal Error - Failed to generate boot+data disks] solution" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <div class="submitted">
+                <span class="glyphicon glyphicon-calendar"></span> <span property="dc:date dc:created" content="2018-05-24T22:50:17+08:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/user/1" title="View user profile." class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">admin</a> on Thu, 05/24/2018 - 22:50</span>      </div>
+      </header>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><ol><li>vi /etc/mindi/mindi.conf</li>
+<li>Enlarge the following setting:<br />EXTRA_SPACE=500000 </li>
+<li>run mondoarchive again</li>
+</ol></div></div></div>  </div>
+    
+        <footer>
+        <ul class="links inline"><li class="node-readmore first"><a href="/mondoarchive-fatal-error-failed-generate-bootdata-disks-solution" rel="tag" title="Mondoarchive - [Fatal Error - Failed to generate boot+data disks] solution">Read more<span class="element-invisible"> about Mondoarchive - [Fatal Error - Failed to generate boot+data disks] solution</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/34%23comment-form">Log in</a> or <a href="/user/register?destination=node/34%23comment-form">register</a> to post comments</span></li>
+</ul>    </footer>
+     
+
+  
+</article><article id="node-25" class="node node-article node-promoted node-teaser clearfix" about="/node/25" typeof="sioc:Item foaf:Document">
+
+    <header>
+              <h2><a href="/node/25">Add swap to linux</a></h2>
+        <span property="dc:title" content="Add swap to linux" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <div class="submitted">
+                <span class="glyphicon glyphicon-calendar"></span> <span property="dc:date dc:created" content="2018-04-12T19:31:39+08:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/user/1" title="View user profile." class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">admin</a> on Thu, 04/12/2018 - 19:31</span>      </div>
+      </header>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><ol><li>Check swap status. 
+<ul><li>If nothing is returned by the command, then the summary was empty and no swap file exists.​​<br /><code langs="">swapon -s</code></li>
+<li>Another way. We can see our current memory and swap usage (in megabytes).<br /><pre><code langs="">free -m
+</code></pre><pre><code langs="">             total       used       free     shared    buffers     cached
+Mem:          3953        315       3637          8         11        107
+-/+ buffers/cache:        196       3756
+<strong>Swap:            0          0       4095</strong></code></pre></li>
+</ul></li></ol></div></div></div>  </div>
+    
+        <footer>
+        <ul class="links inline"><li class="node-readmore first"><a href="/node/25" rel="tag" title="Add swap to linux">Read more<span class="element-invisible"> about Add swap to linux</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/25%23comment-form">Log in</a> or <a href="/user/register?destination=node/25%23comment-form">register</a> to post comments</span></li>
+</ul>    </footer>
+     
+
+  
+</article><article id="node-7" class="node node-article node-promoted node-teaser clearfix" about="/procopen-fork-failed-cannot-allocate-memory-error-occur-when-using-composer-update" typeof="sioc:Item foaf:Document">
+
+    <header>
+              <h2><a href="/procopen-fork-failed-cannot-allocate-memory-error-occur-when-using-composer-update">&quot;proc_open(): fork failed - Cannot allocate memory&quot; error occur when using &quot;composer update&quot; </a></h2>
+        <span property="dc:title" content="&quot;proc_open(): fork failed - Cannot allocate memory&quot; error occur when using &quot;composer update&quot; " class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <div class="submitted">
+                <span class="glyphicon glyphicon-calendar"></span> <span property="dc:date dc:created" content="2017-12-05T01:22:53+08:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <a href="/user/1" title="View user profile." class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">admin</a> on Tue, 12/05/2017 - 01:22</span>      </div>
+      </header>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>solution:</p>
+<ol><li>/bin/dd if=/dev/zero of=/var/swap.1 bs=1M count=1024</li>
+<li>chmod 600 /var/swap.1</li>
+<li>/sbin/mkswap /var/swap.1</li>
+<li>/sbin/swapon /var/swap.1</li>
+<li>composer update</li>
+<li>/sbin/swapoff /var/swap.1</li>
+<li>rm /var/swap.1</li>
+</ol></div></div></div>  </div>
+    
+        <footer>
+    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/taxonomy/term/1" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Drupal 8</a></div><div class="field-item odd" rel="dc:subject"><a href="/taxonomy/term/18" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">upgrade drupal 8</a></div><div class="field-item even" rel="dc:subject"><a href="/taxonomy/term/13" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">proc_open(): fork failed - Cannot allocate memory</a></div><div class="field-item odd" rel="dc:subject"><a href="/taxonomy/term/14" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">The following exception is caused by a lack of memory or swap</a></div><div class="field-item even" rel="dc:subject"><a href="/taxonomy/term/15" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">or not having swap configured</a></div></div></div>    <ul class="links inline"><li class="node-readmore first"><a href="/procopen-fork-failed-cannot-allocate-memory-error-occur-when-using-composer-update" rel="tag" title="&quot;proc_open(): fork failed - Cannot allocate memory&quot; error occur when using &quot;composer update&quot; ">Read more<span class="element-invisible"> about &quot;proc_open(): fork failed - Cannot allocate memory&quot; error occur when using &quot;composer update&quot; </span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/7%23comment-form">Log in</a> or <a href="/user/register?destination=node/7%23comment-form">register</a> to post comments</span></li>
+</ul>    </footer>
+     
+
+  
+</article>  </div>
+</div>
+  </div>
+                            <a href="/rss.xml" class="feed-icon" title="Subscribe to Centos Blog RSS"><img typeof="foaf:Image" src="https://centos.uwebweb.com/misc/feed.png" width="16" height="16" alt="Subscribe to Centos Blog RSS" /></a>
+                        </div>
+                        <!-- EOF:#content-wrapper -->
+
+                    </div>
+                    <!-- EOF:#main -->
+
+                </section>
+
+                        
+            </div>
+
+        </div>
+    </div>
+    <!-- EOF:#main-content -->
+
+    
+</div>
+<!-- EOF:#page -->
+
+
+<footer id="subfooter" class="clearfix">
+    <div class="container">
+        
+        <!-- #subfooter-inside -->
+        <div id="subfooter-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                    <!-- #subfooter-left -->
+                    <div class="subfooter-area">
+                                            
+
+                                          <div class="region region-footer">
+    <div id="block-system-powered-by" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+</div>
+  </div>
+                    
+                    </div>
+                    <!-- EOF: #subfooter-left -->
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #subfooter-inside -->
+    
+    </div>
+</footer>
+<!-- EOF:#subfooter -->  </body>
+</html>

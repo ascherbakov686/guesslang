@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://arzenal2.zrc-sazu.si/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="ZRC SAZU @RZENAL (v 2.0.0) RSS" href="https://arzenal2.zrc-sazu.si/rss.xml" />
+  <title>ZRC SAZU @RZENAL (v 2.0.0)</title>
+  <style type="text/css" media="all">
+@import url("https://arzenal2.zrc-sazu.si/modules/system/system.base.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/modules/system/system.menus.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/modules/system/system.messages.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/modules/system/system.theme.css?oloai4");
+</style>
+<style type="text/css" media="all">
+@import url("https://arzenal2.zrc-sazu.si/modules/comment/comment.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/sites/all/modules/date/date_api/date.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/modules/field/theme/field.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/sites/all/modules/islandora/css/islandora.base.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/sites/all/modules/islandora/css/islandora.theme.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/sites/all/modules/islandora_solution_pack_audio/css/islandora_audio.theme.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/sites/all/modules/islandora_solution_pack_collection/css/islandora_basic_collection.base.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/sites/all/modules/islandora_solution_pack_collection/css/islandora_basic_collection.theme.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/sites/all/modules/islandora_solution_pack_image/css/islandora_basic_image.theme.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/sites/all/modules/islandora_batch/css/views_table_contextual_links_fix.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/sites/all/modules/islandora_bookmark/css/islandora_bookmark.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/sites/all/modules/islandora_solution_pack_disk_image/css/islandora_disk_image.theme.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/sites/all/modules/islandora_fits/css/islandora_fits.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/sites/all/modules/islandora_solution_pack_large_image/css/islandora_large_image.theme.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/sites/all/modules/islandora_solution_pack_newspaper/css/islandora_newspaper.base.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/sites/all/modules/islandora_solution_pack_newspaper/css/islandora_newspaper.theme.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/sites/all/modules/islandora_solution_pack_pdf/css/islandora_pdf.theme.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/sites/all/modules/islandora_premis/css/islandora_premis.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/sites/all/modules/islandora_solr_search/css/islandora_solr.base.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/sites/all/modules/islandora_solr_metadata/css/islandora_solr_metadata.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/sites/all/modules/islandora_solution_pack_video/css/islandora_video.theme.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/sites/all/modules/islandora_solution_pack_web_archive/css/islandora_web_archive.theme.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/modules/node/node.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/modules/search/search.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/modules/user/user.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/sites/all/modules/views/css/views.css?oloai4");
+</style>
+<style type="text/css" media="all">
+@import url("https://arzenal2.zrc-sazu.si/sites/all/modules/colorbox/styles/default/colorbox_style.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/sites/all/modules/ctools/css/ctools.css?oloai4");
+</style>
+<style type="text/css" media="all">
+@import url("https://arzenal2.zrc-sazu.si/themes/bartik/css/layout.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/themes/bartik/css/style.css?oloai4");
+@import url("https://arzenal2.zrc-sazu.si/sites/default/files/color/bartik-6f034c0e/colors.css?oloai4");
+</style>
+<style type="text/css" media="print">
+@import url("https://arzenal2.zrc-sazu.si/themes/bartik/css/print.css?oloai4");
+</style>
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="https://arzenal2.zrc-sazu.si/themes/bartik/css/ie.css?oloai4" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="https://arzenal2.zrc-sazu.si/themes/bartik/css/ie6.css?oloai4" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="https://arzenal2.zrc-sazu.si/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://arzenal2.zrc-sazu.si/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://arzenal2.zrc-sazu.si/misc/drupal.js?oloai4"></script>
+<script type="text/javascript" src="https://arzenal2.zrc-sazu.si/sites/all/libraries/colorbox/jquery.colorbox-min.js?oloai4"></script>
+<script type="text/javascript" src="https://arzenal2.zrc-sazu.si/sites/all/modules/colorbox/js/colorbox.js?oloai4"></script>
+<script type="text/javascript" src="https://arzenal2.zrc-sazu.si/sites/all/modules/colorbox/styles/default/colorbox_style.js?oloai4"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bartik","theme_token":"ZL39WXuLmoIl38BN1HefjBG05cjJDS4GomKTkhiRQOQ","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/islandora\/css\/islandora.base.css":1,"sites\/all\/modules\/islandora\/css\/islandora.theme.css":1,"sites\/all\/modules\/islandora_solution_pack_audio\/css\/islandora_audio.theme.css":1,"sites\/all\/modules\/islandora_solution_pack_collection\/css\/islandora_basic_collection.base.css":1,"sites\/all\/modules\/islandora_solution_pack_collection\/css\/islandora_basic_collection.theme.css":1,"sites\/all\/modules\/islandora_solution_pack_image\/css\/islandora_basic_image.theme.css":1,"sites\/all\/modules\/islandora_batch\/css\/views_table_contextual_links_fix.css":1,"sites\/all\/modules\/islandora_bookmark\/css\/islandora_bookmark.css":1,"sites\/all\/modules\/islandora_solution_pack_disk_image\/css\/islandora_disk_image.theme.css":1,"sites\/all\/modules\/islandora_fits\/css\/islandora_fits.css":1,"sites\/all\/modules\/islandora_solution_pack_large_image\/css\/islandora_large_image.theme.css":1,"sites\/all\/modules\/islandora_solution_pack_newspaper\/css\/islandora_newspaper.base.css":1,"sites\/all\/modules\/islandora_solution_pack_newspaper\/css\/islandora_newspaper.theme.css":1,"sites\/all\/modules\/islandora_solution_pack_pdf\/css\/islandora_pdf.theme.css":1,"sites\/all\/modules\/islandora_premis\/css\/islandora_premis.css":1,"sites\/all\/modules\/islandora_solr_search\/css\/islandora_solr.base.css":1,"sites\/all\/modules\/islandora_solr_metadata\/css\/islandora_solr_metadata.css":1,"sites\/all\/modules\/islandora_solution_pack_video\/css\/islandora_video.theme.css":1,"sites\/all\/modules\/islandora_solution_pack_web_archive\/css\/islandora_web_archive.theme.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"themes\/bartik\/css\/colors.css":1,"themes\/bartik\/css\/print.css":1,"themes\/bartik\/css\/ie.css":1,"themes\/bartik\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/node?destination=node":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper"><div id="page">
+
+  <div id="header" class="without-secondary-menu"><div class="section clearfix">
+
+          <a href="/" title="Home" rel="home" id="logo">
+        <img src="https://arzenal2.zrc-sazu.si/sites/default/files/zrc_logo_75_0.png" alt="Home" />
+      </a>
+    
+          <div id="name-and-slogan">
+
+                              <h1 id="site-name">
+              <a href="/" title="Home" rel="home"><span>ZRC SAZU @RZENAL (v 2.0.0)</span></a>
+            </h1>
+                  
+        
+      </div> <!-- /#name-and-slogan -->
+    
+    
+          <div id="main-menu" class="navigation">
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-579 first"><a href="/content/about-zrc-sazu-repository">About ZRC SAZU Repository</a></li>
+<li class="menu-219 last active"><a href="/" class="active">Home</a></li>
+</ul>      </div> <!-- /#main-menu -->
+    
+    
+  </div></div> <!-- /.section, /#header -->
+
+  
+  
+  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
+
+    
+          <div id="sidebar-first" class="column sidebar"><div class="section">
+          <div class="region region-sidebar-first">
+    <div id="block-system-navigation" class="block block-system block-menu">
+
+    <h2>Navigation</h2>
+  
+  <div class="content">
+    <ul class="menu clearfix"><li class="first last collapsed"><a href="/islandora-bookmark" title="Track and manage bookmarks">My bookmarks</a></li>
+</ul>  </div>
+</div>
+<div id="block-user-login" class="block block-user">
+
+    <h2>User login</h2>
+  
+  <div class="content">
+    <form action="/node?destination=node" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-Lpq57drEfMkIWHTzyq3E0tOOfvXLmaV-j-U77G9WASI" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+      </div></div> <!-- /.section, /#sidebar-first -->
+    
+    <div id="content" class="column"><div class="section">
+            <a id="main-content"></a>
+                                <div class="tabs">
+                  </div>
+                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1" class="node node-page node-promoted node-teaser clearfix" about="/content/about-zrc-sazu-repository" typeof="foaf:Document">
+
+        <h2>
+      <a href="/content/about-zrc-sazu-repository">About ZRC SAZU Repository</a>
+    </h2>
+    <span property="dc:title" content="About ZRC SAZU Repository" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h1>Lorem ipsum dolor sit amet mauris justo amet mauris</h1>
+<h3>Eget leo faucibus mauris orci eu</h3>
+<p>Mauris pede ut. Est porttitor iaculis. Amet erat nulla. Vel lorem lorem. Magna arcu libero pharetra nec lacus justo eget massa. Justo ut phasellus placerat turpis accumsan pellentesque ac quis condimentum a egestas. Justo arcu placerat eu urna bibendum. Viverra hymenaeos et ornare euismod faucibus.</p></div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first last"><a href="/content/about-zrc-sazu-repository" rel="tag" title="About ZRC SAZU Repository">Read more<span class="element-invisible"> about About ZRC SAZU Repository</span></a></li>
+</ul>    </div>
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+      <a href="/rss.xml" class="feed-icon" title="Subscribe to ZRC SAZU @RZENAL (v 2.0.0) RSS"><img typeof="foaf:Image" src="https://arzenal2.zrc-sazu.si/misc/feed.png" width="16" height="16" alt="Subscribe to ZRC SAZU @RZENAL (v 2.0.0) RSS" /></a>
+    </div></div> <!-- /.section, /#content -->
+
+    
+  </div></div> <!-- /#main, /#main-wrapper -->
+
+  
+  <div id="footer-wrapper"><div class="section">
+
+    
+          <div id="footer" class="clearfix">
+          <div class="region region-footer">
+    <div id="block-system-powered-by" class="block block-system">
+
+    
+  <div class="content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+</div>
+  </div>
+      </div> <!-- /#footer -->
+    
+  </div></div> <!-- /.section, /#footer-wrapper -->
+
+</div></div> <!-- /#page, /#page-wrapper -->
+  </body>
+</html>

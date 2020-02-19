@@ -1,0 +1,311 @@
+﻿<!DOCTYPE html>
+<html lang="de">
+<head>
+	<title>Hoststar - Webhosting zum sensationellen Preis bei Hoststar - Hosting und Webspace mit vielen Vorteilen</title>
+	<link rel="stylesheet" href="https://login-11.hoststar.at/default_welcome/style/css/normalize.css" type="text/css" media="screen, print" />
+	<link rel="stylesheet" href="https://login-11.hoststar.at/default_welcome/style/css/skeleton.css" type="text/css" media="screen, print" />
+	<link rel="stylesheet" href="https://login-11.hoststar.at/default_welcome/style/css/style.css" type="text/css" media="screen, print" />
+	<link rel="icon" href="https://login-11.hoststar.at/default_welcome/img/favicon.ico" type="image/vnd.microsoft.icon" />
+	<meta charset="utf-8"/>
+	<meta name="description" content="Wir bieten Ihnen Webhosting, Reseller-Hosting, Domains und vServer für Ihren Internetauftritt bereits ab EUR 3,90 pro Monat." />
+	<meta name="keywords" content="Hoststar, Webhosting, Webhosting-Angebote, Domains, Domain registrieren, vServer, Schweizer Hosting, Web-Speicherplatz, Homepage, Hosted Exchange" />
+</head>
+<body>
+	<div class="header">
+		<div class="header_bg" style="background-image: url('https://login-11.hoststar.at/default_welcome/img/headers/01-header.jpg'); background-position: center 50%; background-size: cover">
+			<div class="text-wrap">
+				<div class="wrapper">
+					<h1>WILLKOMMEN</h1>
+					<h2>Hier entsteht eine neue Website - gehostet bei Hoststar</h2>
+				</div>
+			</div>
+		</div>
+		<a href="https://www.hoststar.at" target="_blank"><img class="logo" src="https://login-11.hoststar.at/default_welcome/img/logo.svg" alt="HOSTSTAR"/></a>
+	</div>
+	<div class="content">
+		<div class="welcome">
+			<div class="container">
+				<div class="six columns">
+					<h3>SEHR GEEHRTER KUNDE</h3>
+					<p>Herzlichen Dank, dass Sie sich für Hoststar als Ihren Webhosting-Provider entschieden haben. Ihr Webhosting wurde installiert und steht für den Datenupload bereit. Wir wünschen Ihnen viel Freude und Erfolg mit Ihrem neuen Webhosting!</p><br />
+					<p class="welcome_message"><b>Bei Fragen zu Ihrem Webhosting stehen wir Ihnen gerne zur Verfügung:<br /><a href="https://www.hoststar.at/support">www.hoststar.at/support</a></b></p>
+				</div>
+				<div class="six columns">
+					<h3>LIEBE BESUCHER</h3>
+					<p>Möchten Sie gutes und günstiges Webhosting?<br />Für nur <b>EUR 3,90</b> pro Monat erhalten Sie bei Hoststar 40 GB Web-Speicherplatz, 10 GB Cloud-Speicher, unlimitiert viele E-Mail-Postfächer, 50 MySQL-Datenbanken und viele weitere Dienstleistungen.</p>
+					<p class="weclome_message"><b>Besuchen Sie uns auf <a href="https://www.hoststar.at">www.hoststar.at</a></b></p>
+				</div>
+			</div>
+		</div>
+		<div class="offer">
+			<div class="odd">
+				<div class="container">
+					<div class="row">
+						<div class="tvelwe columns">
+							<h3 class="text-center">DAS PERFEKTE HOSTING FÜR SIE</h3>
+							<p class="text-center">
+								Ob StarEntry, StarBiz oder StarPlus – unsere Webhosting-Angebote für Sie sind vollgepackt mit einzigartigen Features, welche Sie für Ihren professionellen Webauftritt brauchen.
+							</p>
+						</div>
+					</div>
+					<div class="row">
+						<div class="tvelve columns">
+							<img class="img-scale" src="https://login-11.hoststar.at/default_welcome/img/Hosting.png" alt="Hosting" />
+						</div>
+					</div>
+					<div class="row">
+						<div class="tvelve columns">
+							<center><a class="button" href="https://www.hoststar.at/de/alle-produkte-im-ueberblick">Jetzt bestellen</a></center>
+							<center><p>30 Tage Geld-zurück-Garantie</p></center>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="even">
+				<div class="container">
+					<div class="row">
+						<div class="six columns image_left">
+							<img class="img-scale" src="https://login-11.hoststar.at/default_welcome/img/Mypanel.png" alt="MyPanel" />
+						</div>
+						<div class="six columns text_right">
+							<h3>ALLES IM GRIFF</h3>
+							<p>
+								Ein Login für alles – das ist das My Panel von Hoststar. Es bietet Ihnen zentral sämtliche Funktionen, welche für die Verwaltung Ihrer Dienste nötig sind, in einem modernen und übersichtlichen Design.
+							</p>
+							<a class="button" href="https://www.hoststar.at/de/services/my-panel/uebersicht">MEHR ÜBER MY PANEL</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="odd">
+				<div class="container">
+					<div class="row">
+						<div class="tvelwe columns">
+							<h3 class="text-center">CLOUD INKLUSIVE</h3>
+							<p class="text-center">
+								In Ihrer persönlichen Cloud von Hoststar speichern Sie Ihre Dateien, Fotos, Musik und Videos, auf die Sie weltweit zugreifen können. Zu jedem Hosting- und Website-Paket erhalten Sie Ihre persönliche Cloud kostenlos dazu.
+							</p>
+						</div>
+					</div>
+					<div class="row">
+						<div class="tvelve columns">
+							<img class="img-scale" src="https://login-11.hoststar.at/default_welcome/img/Cloud.png" alt="Cloud" />
+						</div>
+					</div>
+					<div class="row">
+						<div class="tvelve columns">
+							<center><a class="button" href="https://www.hoststar.at/de/services/cloud/uebersicht">MEHR ÜBER CLOUD</a></center>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="even">
+				<div class="container">
+					<div class="row">
+						<div class="tvelwe columns">
+							<h3 class="text-center">MAILPRO, DIE E-MAIL-LÖSUNG FÜR HOHE ANSPRÜCHE</h3>
+							<p class="text-center">
+								MailPro von Hoststar ist die perfekte Kommunikationslösung für alle, die mehr als eine Standard-E-Mail-Lösung wollen: Nahtlose Synchronisation von E-Mails, Kontakten und Kalendereinträgen auf beliebigen Geräten, erweiterte Groupware-Funktionen und eine integrierte Archivierungsfunktion.
+							</p>
+						</div>
+					</div>
+					<div class="row">
+						<div class="tvelve columns">
+							<img class="img-scale" src="https://login-11.hoststar.at/default_welcome/img/MailPro.png" alt="MailPro" />
+						</div>
+					</div>
+					<div class="row">
+						<div class="tvelve columns">
+							<center><a class="button" href="https://www.hoststar.at/de/services/mailpro/uebersicht">MEHR ÜBER MAIL PRO</a></center>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="odd">
+				<div class="container">
+					<div class="row">
+						<div class="six columns image_left">
+							<img src="https://login-11.hoststar.at/default_welcome/img/Designer.png" class="img-scale" alt="Designer" />
+						</div>
+						<div class="six columns text_right">
+							<h3>WEBSITE-DESIGNER MIT GENIALEM EDITOR</h3>
+							<p>
+								Erstellen Sie Ihre professionelle Website im Handumdrehen mit dem Designer von Hoststar. Mit unserem Editor gestalten Sie Ihre Website ganz nach Ihren persönlichen Vorstellungen – dank den individuellen Anpassungsmöglichkeiten für Tabellen, Buttons, Farben und Bilder. Texte und Bilder schieben Sie ganz einfach per Drag & Drop an die gewünschte Position. Professionelles Webdesign ohne Programmierkenntnisse!
+							</p>
+							<a class="button" href="https://www.hoststar.at/de/website-designer/uebersicht">MEHR ÜBER DESIGNER</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="even">
+			<div class="container">
+				<div class="six columns">
+					<h3>SCHWEIZ - HAUPTSITZ</h3>
+					<p>
+						<b>HOSTSTAR</b> - Multimedia Networks AG<br />
+						Kirchgasse 30<br />
+						CH-3312 Fraubrunnen
+					</p>
+					<p>
+						<a href="https://www.google.com/maps/place/Kirchgasse+30/@47.0843889,7.5191706,17z/data=!3m1!4b1!4m2!3m1!1s0x478e2f9dfda0e299:0x3418c727af178413">Wegbeschreibung</a>
+					</p>
+					<p>
+						Telefon +41 (0)848 00 80 80<br />
+						Fax +41 (0)31 760 10 44
+					</p>
+					<p>
+						Website <a href="https://www.hoststar.at">www.hoststar.at</a><br />
+						Mail <a href="mailto:sericecenter@hoststar.at">servicecenter@hoststar.at</a>
+					</p>
+					<!--<p>
+						SOCIAL MEDIA<br />
+					</p>-->
+				</div>
+				<div class="six columns">
+					<h3>ÖSTERREICH - NIEDERLASSUNG</h3>
+					<p>
+						<b>HOSTSTAR</b> - Multimedia Networks AG<br />
+						Irdning 186<br />
+						A-8952 Irdning
+					</p>
+					<p>
+						<a href="https://www.google.com/maps/place/Irdning+Pichlarnerstra%C3%9Fe+186/@47.5054978,14.1089397,17z/data=!3m1!4b1!4m2!3m1!1s0x477112e824e21ae5:0x81f94bb288048bce">Wegbeschreibung</a>
+					</p>
+					<p>
+						Telefon +43 (0)676 566 82 84<br />
+						Fax     +43 (0)662 234 66 23 23
+					</p>
+					<p>
+						Website <a href="https://www.hoststar.at">www.hoststar.at</a><br />
+						Mail <a href="mailto:sericecenter@hoststar.at">servicecenter@hoststar.at</a>
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="spacer">
+		</div>
+	</div>
+	<div class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="two columns">
+					<h5 class="two columns_header">WEBSITE</h5>
+					<ul>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/website/website-3-schritten-design-waehlen-inhalt-einfuegen-publizieren">DESIGNS</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/website-designer/funktionen">FUNKTIONEN</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/website-designer/angebote-vergleich">VERGLEICH</a></li>
+					</ul>
+				</div>
+				<div class="two columns">
+					<h5 class="value-heading">HOSTING</h5>
+					<ul>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/hosting/angebot-starentry">STARENTRY</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/hosting/angebot-starbiz">STARBIZ</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/hosting/angebot-starplus">STARPLUS</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/hosting/funktionen">FUNKTIONEN</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/hosting/angebote-vergleich">VERGELICH</a></li>
+					</ul>
+				</div>
+				<div class="two columns">
+					<h5 class="value-heading">DOMAINS</h5>
+					<ul>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/domains/finden?tab=all">ALLE ENDUNGEN</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/domains/finden?tab=eu">EUROPÄISCHE TLD'S</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/domains/finden?tab=ch">SCHWEIZER KANTONE</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/domains/finden?tab=index">TLD-INDEX</a></li>
+					</ul>
+				</div>
+				<div class="two columns">
+					<h5 class="value-heading">RESELLER</h5>
+					<ul>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/reseller-hosting/angebot-resellerentry">RESELLERENTRY</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/reseller-hosting/angebot-resellerbiz">RESELLERBIZ</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/reseller-hosting/angebot-resellerplus">RESELLERPLUS</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/reseller-hosting/funktionen">FUNKTIONEN</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/reseller-hosting/angebote-vergleich">VERGLEICH</a></li>
+					</ul>
+				</div>
+				<div class="two columns">
+					<h5 class="value-heading">SERVER</h5>
+					<ul>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/server/angebot-virtualentry">VIRTUALENTRY</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/server/angebot-virtualbiz">VIRTUALBIZ</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/server/angebot-virtualplus">VIRTUALPLUS</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/server/funktionen">FUNKTIONEN</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/server/angebote-vergleich">VERGLEICH</a></li>
+					</ul>
+				</div>
+				<div class="two columns">
+					<h5 class="value-heading">UNTERNEHMEN</h5>
+					<ul>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/unternehmen/uebersicht">ÜBER UNS</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/unternehmen/jobs/stellenangebote">STELLEN</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/unternehmen/medienmitteilungen">MEDIEN</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/unternehmen/news">NEWS</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/unternehmen/kontakt">KONTAKT</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="row">
+				<div class="two columns">
+					<h5 class="value-heading">SERVICES</h5>
+					<ul>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/services/my-panel/uebersicht">MY PANEL</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/services/cloud/uebersicht">CLOUD</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/services/mailpro/uebersicht">MAILPRO</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/services/shop/uebersicht">SHOP</a></li>
+					</ul>
+				</div>
+				<div class="two columns">
+					<h5 class="value-heading">&nbsp;</h5>
+					<ul>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/services/domain-manager/uebersicht">DOMAIN MANAGER</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/services/mail/uebersicht">MAIL</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/services/move/uebersicht">MOVE</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/services/web-apps/uebersicht">WEB APPS</a></li>
+					</ul>
+				</div>
+				<div class="two columns">
+					<h5 class="value-heading">&nbsp;</h5>
+					<ul>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/services/software/uebersicht">SOFTWARE</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/services/mobile/uebersicht">MOBILE</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/services/pictures/uebersicht">PICTURES</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/services/seo/uebersicht">SEO</a></li>
+					</ul>
+				</div>
+				<div class="two columns">
+					<h5 class="value-heading">&nbsp;</h5>
+					<ul>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/services/statistics/uebersicht">STATISTICS</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/services/monitoring/uebersicht">MONITORING</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/services/ssl/uebersicht">SSL</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/services/coach/uebersicht">COACH</a></li>
+					</ul>
+				</div>
+				<div class="two columns">
+					<h5 class="value-heading">SUPPORT</h5>
+					<ul>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/support/haeufige-fragen-faq">HÄUFIGE FRAGEN</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/support/hosting">PRODUKTE</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/support/cloud">SERVICES</a></li>
+						<li><a class="footer_link" href="https://www.hoststar.at/de/unternehmen/kontakt">KONTAKT</a></li>
+					</ul>
+				</div>
+				<div class="two columns">
+					<h5 class="value-heading">SOCIAL MEDIA</h5>
+					<ul>
+						<li><a class="footer_link" href="https://www.facebook.com/Hoststar.Webhosting">FACEBOOK</a></li>
+						<li><a class="footer_link" href="https://twitter.com/hoststarhosting">TWITTER</a></li>
+						<li><a class="footer_link" href="https://google.ch/+hoststar">GOOGLE+</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="row">
+			
+			</div>
+		</div>
+	</div>
+</body>
+</html>

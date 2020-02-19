@@ -1,0 +1,212 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/misc/favicon.ico" type="image/x-icon" />
+  <title>About Us | drupal.robertsamek.com</title>  
+  <link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?g" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?g" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?g" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?g" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?g" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/DrupalJKD/style.css?g" />
+  <script type="text/javascript" src="/misc/jquery.js?g"></script>
+<script type="text/javascript" src="/misc/drupal.js?g"></script>
+<script type="text/javascript" src="/themes/DrupalJKD/script.js?g"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/" });
+//--><!]]>
+</script>
+  <!--[if IE 6]><link rel="stylesheet" href="/themes/DrupalJKD/style.ie6.css" type="text/css" /><![endif]-->  
+  <!--[if IE 7]><link rel="stylesheet" href="/themes/DrupalJKD/style.ie7.css" type="text/css" media="screen" /><![endif]-->
+  <script type="text/javascript"> </script>
+</head>
+
+<body>
+<div id="art-page-background-glare">
+    <div id="art-page-background-glare-image"></div>
+</div>
+<div id="art-main">
+<div class="art-sheet">
+    <div class="art-sheet-tl"></div>
+    <div class="art-sheet-tr"></div>
+    <div class="art-sheet-bl"></div>
+    <div class="art-sheet-br"></div>
+    <div class="art-sheet-tc"></div>
+    <div class="art-sheet-bc"></div>
+    <div class="art-sheet-cl"></div>
+    <div class="art-sheet-cr"></div>
+    <div class="art-sheet-cc"></div>
+    <div class="art-sheet-body">
+<div class="art-nav">
+    <div class="l"></div>
+    <div class="r"></div>
+    
+<div id="art-menu-id"><ul class="art-menu"><li class="leaf first active-trail active"><a href="/node/1" title="Who we are" class="active active"><span class="l">&nbsp;</span><span class="r">&nbsp;</span><span class="t">About Us</span></a></li>
+<li class="leaf"><a href="http://robertsamek.com" title=""><span class="l">&nbsp;</span><span class="r">&nbsp;</span><span class="t">Back To Rob's Site</span></a></li>
+<li class="leaf last"><a href="/node/2" title="What we do."><span class="l">&nbsp;</span><span class="r">&nbsp;</span><span class="t">Web Development</span></a></li>
+</ul></div>
+</div>
+<div class="art-header">
+    <div class="art-header-jpeg"></div>
+
+</div>
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+<div class="art-layout-cell art-content">              
+<div id="node-1" class="node">
+<div class="art-post">
+    <div class="art-post-tl"></div>
+    <div class="art-post-tr"></div>
+    <div class="art-post-bl"></div>
+    <div class="art-post-br"></div>
+    <div class="art-post-tc"></div>
+    <div class="art-post-bc"></div>
+    <div class="art-post-cl"></div>
+    <div class="art-post-cr"></div>
+    <div class="art-post-cc"></div>
+    <div class="art-post-body">
+<div class="art-post-inner">
+<div class="art-postmetadataheader">
+<h2 class="art-postheader"> About Us</h2>
+
+</div>
+<div class="art-postcontent">
+    <!-- article-content -->
+<div class="art-article"><p>Rob is the developer you need! PHP development began in 1994 when the Danish/Greenlandic programmer Rasmus Lerdorf initially created a set of Perl scripts he called "Personal Home Page Tools" to maintain his personal homepage. The scripts performed tasks such as displaying his résumé and recording his web-page traffic.[6][9][10] Lerdorf initially announced the release of PHP on the comp.infosystems.www.authoring.cgi Usenet discussion group on June 8, 1995.[11]</p>
+<p>Zeev Suraski and Andi Gutmans, two Israeli developers at the Technion IIT, rewrote the parser in 1997 and formed the base of PHP 3, changing the language's name to the recursive initialism PHP: Hypertext Preprocessor.[6] Afterwards, public testing of PHP 3 began, and the official launch came in June 1998. Suraski and Gutmans then started a new rewrite of PHP's core, producing the Zend Engine in 1999.[12] They also founded Zend Technologies in Ramat Gan, Israel.[6]</p>
+<p>In 2008 PHP 5 became the only stable version under development. Late static binding had been missing from PHP and was added in version 5.3.[13][14]</p>
+<p>A new major version has been under development alongside PHP 5 for several years. This version was originally planned to be released as PHP 6 as a result of its significant changes, which included plans for full Unicode support. However, Unicode support took developers much longer to implement than originally thought, and the decision was made in March 2010[15] to move the project to a branch, with features still under development moved to trunk.</p>
+<p>Changes in the new code include the removal of register_globals,[16] magic quotes, and safe mode.[17][18] The reason for the removals was that register_globals had given way to security holes, and the use of magic quotes had an unpredictable nature, and was best avoided. Instead, to escape characters, magic quotes may be replaced with the addslashes() function, or more appropriately an escape mechanism specific to the database vendor itself like mysql_real_escape_string() for MySQL. Functions that will be removed in future versions and have been deprecated in PHP 5.3 will produce a warning if used.[19]</p>
+<p>Many high-profile open-source projects ceased to support PHP 4 in new code as of February 5, 2008, because of the GoPHP5 initiative,[20] provided by a consortium of PHP developers promoting the transition from PHP 4 to PHP 5.[21][22]</p>
+<p>As of 2011[update] PHP does not have native support for Unicode or multibyte strings; Unicode support is under development for a future version of PHP and will allow strings as well as class-, method-, and function-names to contain non-ASCII characters.[23][24]</p>
+<p>PHP interpreters are available on both 32-bit and 64-bit operating systems, but on Microsoft Windows the only official distribution is a 32-bit implementation, requiring Windows 32-bit compatibility mode while using Internet Information Services (IIS) on a 64-bit Windows platform. Experimental 64-bit versions of PHP 5.3.0 were briefly available for MS Windows, but have since been removed.</p>
+</div>
+    <!-- /article-content -->
+</div>
+<div class="cleared"></div>
+
+</div>
+
+    </div>
+</div>
+
+</div></div>
+<div class="art-layout-cell art-sidebar1"><div class="art-vmenublock">
+    <div class="art-vmenublock-body">
+<div class="art-vmenublockcontent">
+    <div class="art-vmenublockcontent-body">
+<!-- block-content -->
+
+<div id="art-vmenu-id"><ul class="art-vmenu"><li class="leaf first"><a href="/node/2" title=""><span class="l">&nbsp;</span><span class="r">&nbsp;</span><span class="t">Martial Arts</span></a></li>
+<li class="leaf last active-trail active"><a href="/node/1" title="" class="active active"><span class="l">&nbsp;</span><span class="r">&nbsp;</span><span class="t">Personal Training</span></a></li>
+</ul></div>
+
+<!-- /block-content -->
+
+    </div>
+</div>
+
+    </div>
+</div>
+<div class="art-block clear-block block block-user" id="block-user-0">
+    <div class="art-block-body">
+
+	<div class="art-blockheader">
+		    <div class="l"></div>
+		    <div class="r"></div>
+		     <div class="t">	
+			<h2 class="subject">User login</h2>
+</div>
+		</div>
+		    
+	<div class="art-blockcontent content">
+	    <div class="art-blockcontent-tl"></div>
+	    <div class="art-blockcontent-tr"></div>
+	    <div class="art-blockcontent-bl"></div>
+	    <div class="art-blockcontent-br"></div>
+	    <div class="art-blockcontent-tc"></div>
+	    <div class="art-blockcontent-bc"></div>
+	    <div class="art-blockcontent-cl"></div>
+	    <div class="art-blockcontent-cr"></div>
+	    <div class="art-blockcontent-cc"></div>
+	    <div class="art-blockcontent-body">
+	<!-- block-content -->
+	
+		<form action="/node/1?destination=node%2F1"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<span class="art-button-wrapper"><span class="l"></span><span class="r"></span><input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit art-button"/></span><div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-bd688b8a9ae57055194b5076a3036a66" value="form-bd688b8a9ae57055194b5076a3036a66"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+
+	<!-- /block-content -->
+	
+	    </div>
+	</div>
+	
+
+    </div>
+</div>
+<div class="art-block clear-block block block-system" id="block-system-0">
+    <div class="art-block-body">
+
+	<div class="art-blockcontent content">
+	    <div class="art-blockcontent-tl"></div>
+	    <div class="art-blockcontent-tr"></div>
+	    <div class="art-blockcontent-bl"></div>
+	    <div class="art-blockcontent-br"></div>
+	    <div class="art-blockcontent-tc"></div>
+	    <div class="art-blockcontent-bc"></div>
+	    <div class="art-blockcontent-cl"></div>
+	    <div class="art-blockcontent-cr"></div>
+	    <div class="art-blockcontent-cc"></div>
+	    <div class="art-blockcontent-body">
+	<!-- block-content -->
+	
+		<a href="http://drupal.org"><img src="/misc/powered-blue-80x15.png" alt="Powered by Drupal, an open source content management system" title="Powered by Drupal, an open source content management system" width="80" height="15" /></a>
+	<!-- /block-content -->
+	
+	    </div>
+	</div>
+	
+
+    </div>
+</div>
+</div>
+    </div>
+</div>
+<div class="cleared"></div>
+<div class="art-footer">
+    <div class="art-footer-t"></div>
+    <div class="art-footer-b"></div>
+    <div class="art-footer-body">
+        <a href="/rss.xml" class="art-rss-tag-icon"></a>        <div class="art-footer-text">
+        <p><a href="#">Contact Us</a>&nbsp;|&nbsp;<a href="#">Terms of Use</a>&nbsp;|&nbsp;<a href="#">Trademarks</a>&nbsp;|&nbsp;<a href="#">Privacy Statement</a><br />Copyright &copy; 2010&nbsp;drupal.robertsamek.com.&nbsp;All Rights Reserved.</p>                </div>
+		<div class="cleared"></div>
+    </div>
+</div>
+
+    </div>
+</div>
+<div class="cleared"></div>
+<p class="art-page-footer"></p>
+
+</div>
+
+
+
+</body>
+</html>

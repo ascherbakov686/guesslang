@@ -1,0 +1,446 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="Not Their Amsterdam RSS" href="https://nottheiramsterdam.puscii.nl/rss.xml" />
+<link rel="alternate" type="text/calendar" title="Add to My Calendar" href="webcal://nottheiramsterdam.puscii.nl/calendar-node-field-date/ical/%2A/calendar.ics" />
+<link rel="shortcut icon" href="https://nottheiramsterdam.puscii.nl/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+    <title>Not Their Amsterdam</title>
+    <style type="text/css" media="all">
+@import url("https://nottheiramsterdam.puscii.nl/modules/system/system.base.css?q2d8mc");
+@import url("https://nottheiramsterdam.puscii.nl/modules/system/system.menus.css?q2d8mc");
+@import url("https://nottheiramsterdam.puscii.nl/modules/system/system.messages.css?q2d8mc");
+@import url("https://nottheiramsterdam.puscii.nl/modules/system/system.theme.css?q2d8mc");
+@import url("https://nottheiramsterdam.puscii.nl/sites/all/themes/nucleus/nucleus/css/base.css?q2d8mc");
+</style>
+<style type="text/css" media="all">
+@import url("https://nottheiramsterdam.puscii.nl/sites/all/modules/calendar/css/calendar_multiday.css?q2d8mc");
+@import url("https://nottheiramsterdam.puscii.nl/modules/comment/comment.css?q2d8mc");
+@import url("https://nottheiramsterdam.puscii.nl/sites/all/modules/date/date_api/date.css?q2d8mc");
+@import url("https://nottheiramsterdam.puscii.nl/modules/field/theme/field.css?q2d8mc");
+@import url("https://nottheiramsterdam.puscii.nl/sites/all/modules/scald/modules/fields/mee/css/editor-global.css?q2d8mc");
+@import url("https://nottheiramsterdam.puscii.nl/modules/node/node.css?q2d8mc");
+@import url("https://nottheiramsterdam.puscii.nl/modules/search/search.css?q2d8mc");
+@import url("https://nottheiramsterdam.puscii.nl/modules/user/user.css?q2d8mc");
+@import url("https://nottheiramsterdam.puscii.nl/sites/all/modules/views/css/views.css?q2d8mc");
+@import url("https://nottheiramsterdam.puscii.nl/sites/all/modules/ckeditor/css/ckeditor.css?q2d8mc");
+</style>
+<style type="text/css" media="all">
+@import url("https://nottheiramsterdam.puscii.nl/sites/all/modules/ctools/css/ctools.css?q2d8mc");
+@import url("https://nottheiramsterdam.puscii.nl/sites/all/modules/video/css/video.css?q2d8mc");
+</style>
+<style type="text/css" media="all">
+@import url("https://nottheiramsterdam.puscii.nl/sites/all/themes/nucleus/nucleus/css/messages.css?q2d8mc");
+@import url("https://nottheiramsterdam.puscii.nl/sites/all/themes/tb_rave/css/html-elements.css?q2d8mc");
+@import url("https://nottheiramsterdam.puscii.nl/sites/all/themes/tb_rave/css/forms.css?q2d8mc");
+@import url("https://nottheiramsterdam.puscii.nl/sites/all/themes/tb_rave/css/page.css?q2d8mc");
+@import url("https://nottheiramsterdam.puscii.nl/sites/all/themes/tb_rave/css/articles.css?q2d8mc");
+@import url("https://nottheiramsterdam.puscii.nl/sites/all/themes/tb_rave/css/comments.css?q2d8mc");
+@import url("https://nottheiramsterdam.puscii.nl/sites/all/themes/tb_rave/css/forum.css?q2d8mc");
+@import url("https://nottheiramsterdam.puscii.nl/sites/all/themes/tb_rave/css/fields.css?q2d8mc");
+@import url("https://nottheiramsterdam.puscii.nl/sites/all/themes/tb_rave/css/blocks.css?q2d8mc");
+@import url("https://nottheiramsterdam.puscii.nl/sites/all/themes/tb_rave/css/navigation.css?q2d8mc");
+@import url("https://nottheiramsterdam.puscii.nl/sites/all/themes/tb_rave/css/fonts.css?q2d8mc");
+@import url("https://nottheiramsterdam.puscii.nl/sites/all/themes/tb_rave/css/css3.css?q2d8mc");
+</style>
+<style type="text/css" media="only screen">
+@import url("https://nottheiramsterdam.puscii.nl/sites/all/themes/nucleus/nucleus/css/responsive/responsive.css?q2d8mc");
+</style>
+<style type="text/css" media="print">
+@import url("https://nottheiramsterdam.puscii.nl/sites/all/themes/tb_rave/css/print.css?q2d8mc");
+</style>
+
+<!--[if IE 7]>
+<style type="text/css" media="all">
+@import url("https://nottheiramsterdam.puscii.nl/sites/all/themes/nucleus/nucleus/css/ie7.css?q2d8mc");
+</style>
+<![endif]-->
+
+<!--[if IE]>
+<style type="text/css" media="all">
+@import url("https://nottheiramsterdam.puscii.nl/sites/all/themes/nucleus/nucleus/css/ie.css?q2d8mc");
+@import url("https://nottheiramsterdam.puscii.nl/sites/all/themes/tb_rave/css/ie.css?q2d8mc");
+</style>
+<![endif]-->
+
+<!--[if IE 7]>
+<style type="text/css" media="all">
+@import url("https://nottheiramsterdam.puscii.nl/sites/all/themes/tb_rave/css/ie7.css?q2d8mc");
+</style>
+<![endif]-->
+<style type="text/css" media="all">
+@import url("https://nottheiramsterdam.puscii.nl/sites/nottheiramsterdam.puscii.nl/files/nucleus/grid-fixed-24-960px.css?q2d8mc");
+</style>
+    <script type="text/javascript" src="https://nottheiramsterdam.puscii.nl/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://nottheiramsterdam.puscii.nl/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://nottheiramsterdam.puscii.nl/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://nottheiramsterdam.puscii.nl/misc/drupal.js?q2d8mc"></script>
+<script type="text/javascript" src="https://nottheiramsterdam.puscii.nl/sites/all/modules/video/js/video.js?q2d8mc"></script>
+<script type="text/javascript" src="https://nottheiramsterdam.puscii.nl/sites/all/modules/scald/modules/providers/scald_image/scald_image.js?q2d8mc"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+	(function ($) {
+	  if (Drupal.Nucleus == undefined) {
+		Drupal.Nucleus = {};
+	  }
+	  Drupal.behaviors.skinMenuAction = {
+		attach: function (context) {
+		  jQuery(".change-skin-button").click(function() {
+			parts = this.href.split("/");
+			style = parts[parts.length - 1];
+			jQuery.cookie("nucleus_skin", style, {path: "/"});
+			window.location.reload();
+			return false;
+		  });
+		}
+	  }
+	})(jQuery);
+  
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://nottheiramsterdam.puscii.nl/sites/all/themes/nucleus/nucleus/js/jquery.cookie.js?q2d8mc"></script>
+<script type="text/javascript" src="https://nottheiramsterdam.puscii.nl/sites/all/themes/tb_rave/js/tb_rave.js?q2d8mc"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"tb_rave","theme_token":"nqODM1QRqwu1tWw--FMHBIRxU7GCPjLQOsL-cbekTQg","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/video\/js\/video.js":1,"sites\/all\/modules\/scald\/modules\/providers\/scald_image\/scald_image.js":1,"0":1,"sites\/all\/themes\/nucleus\/nucleus\/js\/jquery.cookie.js":1,"sites\/all\/themes\/tb_rave\/js\/tb_rave.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/themes\/nucleus\/nucleus\/css\/base.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/scald\/modules\/fields\/mee\/css\/editor-global.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/video\/css\/video.css":1,"sites\/all\/themes\/nucleus\/nucleus\/css\/messages.css":1,"sites\/all\/themes\/tb_rave\/css\/html-elements.css":1,"sites\/all\/themes\/tb_rave\/css\/forms.css":1,"sites\/all\/themes\/tb_rave\/css\/page.css":1,"sites\/all\/themes\/tb_rave\/css\/articles.css":1,"sites\/all\/themes\/tb_rave\/css\/comments.css":1,"sites\/all\/themes\/tb_rave\/css\/forum.css":1,"sites\/all\/themes\/tb_rave\/css\/fields.css":1,"sites\/all\/themes\/tb_rave\/css\/blocks.css":1,"sites\/all\/themes\/tb_rave\/css\/navigation.css":1,"sites\/all\/themes\/tb_rave\/css\/fonts.css":1,"sites\/all\/themes\/tb_rave\/css\/css3.css":1,"sites\/all\/themes\/nucleus\/nucleus\/css\/responsive\/responsive.css":1,"sites\/all\/themes\/tb_rave\/css\/print.css":1,"sites\/all\/themes\/nucleus\/nucleus\/css\/ie7.css":1,"sites\/all\/themes\/nucleus\/nucleus\/css\/ie.css":1,"sites\/all\/themes\/tb_rave\/css\/ie.css":1,"sites\/all\/themes\/tb_rave\/css\/ie7.css":1,"public:\/\/nucleus\/grid-fixed-24-960px.css":1}},"urlIsAjaxTrusted":{"\/node?destination=node":true}});
+//--><!]]>
+</script>
+  </head>
+
+  <body class="html front not-logged-in one-sidebar sidebar-first page-node tb-rave fixed-grid grid-24-based bf-a fs-small">
+    <div id="skip-link"><a href="#main-content" class="element-invisible element-focusable">Skip to main content</a></div>
+        
+<div id="page" class="page-default"> <a name="Top" id="Top"></a>
+    
+    <!-- HEADER -->
+  <div id="header-wrapper" class="wrapper">
+    <div class="container grid-24">
+      <div class="grid-inner clearfix">
+        <div id="header" class="clearfix">
+
+                      <a href="/" title="Home" id="logo">
+              <img src="https://nottheiramsterdam.puscii.nl/sites/nottheiramsterdam.puscii.nl/files/nottheiramdamlow-site-banner.png" alt="Home" />
+            </a>
+          
+          
+          
+                  </div>
+      </div>
+    </div>
+  </div>
+  <!-- //HEADER -->  
+  
+  <div id="main-wrapper" class="wrapper">
+    <div class="container grid-24 clearfix">
+	       <div class="container-inner clearfix group-cols-1 group-16 grid grid-16 ">
+         		
+      <div class="container-inner clearfix group-cols-1 group-16 grid grid-16 ">
+		
+        <div id="main-content-wrapper" class="group-cols-1 group-16 grid grid-16"> 
+          <!-- MAIN CONTENT -->
+          <div id="main-content" class="grid grid-16 section">
+            <div class="grid-inner clearfix">
+              			  			  			                                              <div class="region region-content">
+    <div id="block-system-main" class="block-system">
+  <div class="block-inner clearfix">
+    
+    
+    
+    <div class="block-content clearfix">
+      <div id="article-19" class="article node node-article node-promoted node-teaser node-odd node-teaser clearfix" about="/node/19" typeof="sioc:Item foaf:Document">
+      <div class="header article-header">
+                    <h2 class="node-title">
+          <a href="/node/19">Thank you!!!!!</a>
+        </h2>
+            <span property="dc:title" content="Thank you!!!!!" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>    </div>
+  
+      <div class="footer submitted">
+            Submitted by <span rel="sioc:has_creator"><span class="username" xml:lang="" about="/user/3" typeof="sioc:UserAccount" property="foaf:name" datatype="">editor</span></span> on <span class="time pubdate" title="2018-12-15T19:56:02+01:00"><span property="dc:date dc:created" content="2018-12-15T19:56:02+01:00" datatype="xsd:dateTime">Sat, 12/15/2018 - 19:56</span></span>    </div>
+  
+  <div class="node-content">
+    <div class="section field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item odd" property="content:encoded"><p>#nottheiramsterdam thanks everyone who came to support OUR Amsterdam! We love you!!!!!</p>
+</div></div></div>  </div>
+
+      <div class="menu node-links clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/node/19" rel="tag" title="Thank you!!!!!">Read more<span class="element-invisible"> about Thank you!!!!!</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/19%23comment-form">Log in</a> or <a href="/user/register?destination=node/19%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+  
+  </div>
+<div id="article-18" class="article node node-article node-promoted node-teaser node-even node-teaser clearfix" about="/node/18" typeof="sioc:Item foaf:Document">
+      <div class="header article-header">
+                    <h2 class="node-title">
+          <a href="/node/18">Article Parool 1512</a>
+        </h2>
+            <span property="dc:title" content="Article Parool 1512" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>    </div>
+  
+      <div class="footer submitted">
+            Submitted by <span rel="sioc:has_creator"><span class="username" xml:lang="" about="/user/3" typeof="sioc:UserAccount" property="foaf:name" datatype="">editor</span></span> on <span class="time pubdate" title="2018-12-15T18:59:20+01:00"><span property="dc:date dc:created" content="2018-12-15T18:59:20+01:00" datatype="xsd:dateTime">Sat, 12/15/2018 - 18:59</span></span>    </div>
+  
+  <div class="node-content">
+    <div class="section field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item odd" property="content:encoded"><p><a href="https://www.parool.nl/amsterdam/adm-ers-doen-met-demonstratie-ultieme-poging-tot-voortbestaan~a4614108/">https://www.parool.nl/amsterdam/adm-ers-doen-met-demonstratie-ultieme-po...</a><br />
+All Freedoms Are Beautiful!!!</p>
+</div></div></div>  </div>
+
+      <div class="menu node-links clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/node/18" rel="tag" title="Article Parool 1512">Read more<span class="element-invisible"> about Article Parool 1512</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/18%23comment-form">Log in</a> or <a href="/user/register?destination=node/18%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+  
+  </div>
+<div id="article-17" class="article node node-article node-promoted node-teaser node-odd node-teaser clearfix" about="/node/17" typeof="sioc:Item foaf:Document">
+      <div class="header article-header">
+                    <h2 class="node-title">
+          <a href="/node/17">Demo arrived @Steve Bikoplein!</a>
+        </h2>
+            <span property="dc:title" content="Demo arrived @Steve Bikoplein!" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>    </div>
+  
+      <div class="footer submitted">
+            Submitted by <span rel="sioc:has_creator"><span class="username" xml:lang="" about="/user/3" typeof="sioc:UserAccount" property="foaf:name" datatype="">editor</span></span> on <span class="time pubdate" title="2018-12-15T18:22:42+01:00"><span property="dc:date dc:created" content="2018-12-15T18:22:42+01:00" datatype="xsd:dateTime">Sat, 12/15/2018 - 18:22</span></span>    </div>
+  
+  <div class="node-content">
+    <div class="section field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item odd" property="content:encoded"><p>#nottheiramsterdam speeches @Steve Bikoplein!<br />
+Music to follow!<br />
+Tune in to <a href="https://adm.amsterdam/radio/">https://adm.amsterdam/radio/</a></p>
+<p>And a picture from the demo:<br />
+<!-- scald=11:sdl_editor_representation --><div class='image'><img typeof="foaf:Image" src="https://nottheiramsterdam.puscii.nl/sites/nottheiramsterdam.puscii.nl/files/thumbnails/image/1512-supportadm.jpg" width="2048" height="1152" alt="1512-supportadm.jpg" title="1512-supportadm.jpg" /></div><!-- END scald=11 --></p>
+</div></div></div>  </div>
+
+      <div class="menu node-links clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/node/17" rel="tag" title="Demo arrived @Steve Bikoplein!">Read more<span class="element-invisible"> about Demo arrived @Steve Bikoplein!</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/17%23comment-form">Log in</a> or <a href="/user/register?destination=node/17%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+  
+  </div>
+<div id="article-16" class="article node node-article node-promoted node-teaser node-even node-teaser clearfix" about="/node/16" typeof="sioc:Item foaf:Document">
+      <div class="header article-header">
+                    <h2 class="node-title">
+          <a href="/node/16">Demo update 18:00</a>
+        </h2>
+            <span property="dc:title" content="Demo update 18:00" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>    </div>
+  
+      <div class="footer submitted">
+            Submitted by <span rel="sioc:has_creator"><span class="username" xml:lang="" about="/user/3" typeof="sioc:UserAccount" property="foaf:name" datatype="">editor</span></span> on <span class="time pubdate" title="2018-12-15T18:00:10+01:00"><span property="dc:date dc:created" content="2018-12-15T18:00:10+01:00" datatype="xsd:dateTime">Sat, 12/15/2018 - 18:00</span></span>    </div>
+  
+  <div class="node-content">
+    <div class="section field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item odd" property="content:encoded"><p>Let our voice be heard! #nottheiramsterdam starting to go south on Beukenweg towards Steve Bikoplein. There will be bands and speakers! Join us!</p>
+</div></div></div>  </div>
+
+      <div class="menu node-links clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/node/16" rel="tag" title="Demo update 18:00">Read more<span class="element-invisible"> about Demo update 18:00</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/16%23comment-form">Log in</a> or <a href="/user/register?destination=node/16%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+  
+  </div>
+<div id="article-15" class="article node node-article node-promoted node-teaser node-odd node-teaser clearfix" about="/node/15" typeof="sioc:Item foaf:Document">
+      <div class="header article-header">
+                    <h2 class="node-title">
+          <a href="/node/15">Demo update</a>
+        </h2>
+            <span property="dc:title" content="Demo update" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>    </div>
+  
+      <div class="footer submitted">
+            Submitted by <span rel="sioc:has_creator"><span class="username" xml:lang="" about="/user/3" typeof="sioc:UserAccount" property="foaf:name" datatype="">editor</span></span> on <span class="time pubdate" title="2018-12-15T17:28:11+01:00"><span property="dc:date dc:created" content="2018-12-15T17:28:11+01:00" datatype="xsd:dateTime">Sat, 12/15/2018 - 17:28</span></span>    </div>
+  
+  <div class="node-content">
+    <div class="section field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item odd" property="content:encoded"><p>#nottheiramsterdam is now heading east on the Ceintuurbaan, around Sarphatipark.<br />
+This was ~45 minutes ago in the Ferdinand Bolstraat:<br />
+<!-- scald=10:sdl_editor_representation --><div class='image'><img typeof="foaf:Image" src="https://nottheiramsterdam.puscii.nl/sites/nottheiramsterdam.puscii.nl/files/thumbnails/image/1512-febo.jpg" width="720" height="960" alt="1512-febo.jpg" title="1512-febo.jpg" /></div><!-- END scald=10 --></p>
+</div></div></div>  </div>
+
+      <div class="menu node-links clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/node/15" rel="tag" title="Demo update">Read more<span class="element-invisible"> about Demo update</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/15%23comment-form">Log in</a> or <a href="/user/register?destination=node/15%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+  
+  </div>
+<div id="article-14" class="article node node-article node-promoted node-teaser node-even node-teaser clearfix" about="/node/14" typeof="sioc:Item foaf:Document">
+      <div class="header article-header">
+                    <h2 class="node-title">
+          <a href="/node/14">Demo is underway!</a>
+        </h2>
+            <span property="dc:title" content="Demo is underway!" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>    </div>
+  
+      <div class="footer submitted">
+            Submitted by <span rel="sioc:has_creator"><span class="username" xml:lang="" about="/user/3" typeof="sioc:UserAccount" property="foaf:name" datatype="">editor</span></span> on <span class="time pubdate" title="2018-12-15T15:59:42+01:00"><span property="dc:date dc:created" content="2018-12-15T15:59:42+01:00" datatype="xsd:dateTime">Sat, 12/15/2018 - 15:59</span></span>    </div>
+  
+  <div class="node-content">
+    <div class="section field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item odd" property="content:encoded"><p>After some speeches the demo is now underway!<br />
+Passing the Blauwbrug!<br />
+<!-- scald=9:sdl_editor_representation --><div class='image'><img typeof="foaf:Image" src="https://nottheiramsterdam.puscii.nl/sites/nottheiramsterdam.puscii.nl/files/thumbnails/image/1512-blauwbrug.jpg" width="720" height="1280" alt="1512-blauwbrug.jpg" title="1512-blauwbrug.jpg" /></div><!-- END scald=9 --></p>
+</div></div></div>  </div>
+
+      <div class="menu node-links clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/node/14" rel="tag" title="Demo is underway!">Read more<span class="element-invisible"> about Demo is underway!</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/14%23comment-form">Log in</a> or <a href="/user/register?destination=node/14%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+  
+  </div>
+<div id="article-13" class="article node node-article node-promoted node-teaser node-odd node-teaser clearfix" about="/node/13" typeof="sioc:Item foaf:Document">
+      <div class="header article-header">
+                    <h2 class="node-title">
+          <a href="/node/13">Demo route</a>
+        </h2>
+            <span property="dc:title" content="Demo route" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>    </div>
+  
+      <div class="footer submitted">
+            Submitted by <span rel="sioc:has_creator"><span class="username" xml:lang="" about="/user/3" typeof="sioc:UserAccount" property="foaf:name" datatype="">editor</span></span> on <span class="time pubdate" title="2018-12-15T13:53:59+01:00"><span property="dc:date dc:created" content="2018-12-15T13:53:59+01:00" datatype="xsd:dateTime">Sat, 12/15/2018 - 13:53</span></span>    </div>
+  
+  <div class="node-content">
+    <div class="section field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item odd" property="content:encoded"><p>Come and join us!<br />
+<!-- scald=8:sdl_editor_representation --><div class='image'><img typeof="foaf:Image" src="https://nottheiramsterdam.puscii.nl/sites/nottheiramsterdam.puscii.nl/files/thumbnails/image/route%20stop%20ontruiming%20am_dam.png" width="1313" height="873" alt="route stop ontruiming am_dam.png" title="route stop ontruiming am_dam.png" /></div><!-- END scald=8 --></p>
+</div></div></div>  </div>
+
+      <div class="menu node-links clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/node/13" rel="tag" title="Demo route">Read more<span class="element-invisible"> about Demo route</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/13%23comment-form">Log in</a> or <a href="/user/register?destination=node/13%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+  
+  </div>
+<div id="article-12" class="article node node-article node-promoted node-teaser node-even node-teaser clearfix" about="/node/12" typeof="sioc:Item foaf:Document">
+      <div class="header article-header">
+                    <h2 class="node-title">
+          <a href="/node/12">Demo morgen!</a>
+        </h2>
+            <span property="dc:title" content="Demo morgen!" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>    </div>
+  
+      <div class="footer submitted">
+            Submitted by <span rel="sioc:has_creator"><span class="username" xml:lang="" about="/user/3" typeof="sioc:UserAccount" property="foaf:name" datatype="">editor</span></span> on <span class="time pubdate" title="2018-12-14T18:52:01+01:00"><span property="dc:date dc:created" content="2018-12-14T18:52:01+01:00" datatype="xsd:dateTime">Fri, 12/14/2018 - 18:52</span></span>    </div>
+  
+  <div class="node-content">
+    <div class="section field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item odd" property="content:encoded"><p>Fuck Amsterdam,<br />
+Het adm wordt ontruimd voor een astbestsaneerder.<br />
+De boterbloem voor een bedrijventerrein.<br />
+Mensen worden hun huizen uitgezet voor toeristen en yuppen.<br />
+Studenten hebben nog steeds geen plek.<br />
+En nog steeds luisteren ze niet naar de bewoners.</p>
+<p>We zullen ons niet de stad uit laten drijven, onze stad is niet te koop.</p></div></div></div>  </div>
+
+      <div class="menu node-links clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/node/12" rel="tag" title="Demo morgen!">Read more<span class="element-invisible"> about Demo morgen!</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/12%23comment-form">Log in</a> or <a href="/user/register?destination=node/12%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+  
+  </div>
+<div id="article-11" class="article node node-article node-promoted node-teaser node-odd node-teaser clearfix" about="/node/11" typeof="sioc:Item foaf:Document">
+      <div class="header article-header">
+                    <h2 class="node-title">
+          <a href="/node/11">Statement</a>
+        </h2>
+            <span property="dc:title" content="Statement" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>    </div>
+  
+      <div class="footer submitted">
+            Submitted by <span rel="sioc:has_creator"><span class="username" xml:lang="" about="/user/3" typeof="sioc:UserAccount" property="foaf:name" datatype="">editor</span></span> on <span class="time pubdate" title="2018-12-14T02:37:18+01:00"><span property="dc:date dc:created" content="2018-12-14T02:37:18+01:00" datatype="xsd:dateTime">Fri, 12/14/2018 - 02:37</span></span>    </div>
+  
+  <div class="node-content">
+    <div class="section field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item odd" property="content:encoded"><p>Statement from the Demonstration 15th December in Amsterdam.<br />
+This demo condemns any group or organization that represent racism, sexism, homophobia and oppression of any kind. They are not welcome and will not be excepted.<br />
+We take a stand against the mono-culture developing in Amsterdam. We want a free, tolerant, multicultural and inclusive city where there is space for everybody.</p></div></div></div>  </div>
+
+      <div class="menu node-links clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/node/11" rel="tag" title="Statement">Read more<span class="element-invisible"> about Statement</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/11%23comment-form">Log in</a> or <a href="/user/register?destination=node/11%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+  
+  </div>
+<div id="article-10" class="article node node-article node-promoted node-teaser node-even node-teaser clearfix" about="/node/10" typeof="sioc:Item foaf:Document">
+      <div class="header article-header">
+                    <h2 class="node-title">
+          <a href="/node/10">(cancelled, cause it is gonna rain a lot) Bike demo 7 december</a>
+        </h2>
+            <span property="dc:title" content="(cancelled, cause it is gonna rain a lot) Bike demo 7 december" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>    </div>
+  
+      <div class="footer submitted">
+            Submitted by <span rel="sioc:has_creator"><span class="username" xml:lang="" about="/user/3" typeof="sioc:UserAccount" property="foaf:name" datatype="">editor</span></span> on <span class="time pubdate" title="2018-12-06T13:30:19+01:00"><span property="dc:date dc:created" content="2018-12-06T13:30:19+01:00" datatype="xsd:dateTime">Thu, 12/06/2018 - 13:30</span></span>    </div>
+  
+  <div class="node-content">
+    <div class="section field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item odd" property="content:encoded"><p><!-- scald=6:sdl_editor_representation --><div class='image'><img typeof="foaf:Image" src="https://nottheiramsterdam.puscii.nl/sites/nottheiramsterdam.puscii.nl/files/thumbnails/image/SECONDNEWFRIDAY%20copy.jpg" width="1748" height="2480" alt="SECONDNEWFRIDAY copy.jpg" title="SECONDNEWFRIDAY copy.jpg" /></div><!-- END scald=6 --></p>
+</div></div></div>  </div>
+
+      <div class="menu node-links clearfix"><ul class="links inline"><li class="node-readmore first"><a href="/node/10" rel="tag" title="(cancelled, cause it is gonna rain a lot) Bike demo 7 december">Read more<span class="element-invisible"> about (cancelled, cause it is gonna rain a lot) Bike demo 7 december</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/10%23comment-form">Log in</a> or <a href="/user/register?destination=node/10%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+  
+  </div>
+<h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/node?page=1">2</a></li>
+<li class="pager-next"><a title="Go to next page" href="/node?page=1">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/node?page=1">last »</a></li>
+</ul></div>    </div>
+  </div>
+</div>
+  </div>
+            </div>
+          </div>
+          <!-- //MAIN CONTENT --> 
+          
+          <!-- MASS BOTTOM -->
+                    <!-- //MASS BOTTOM --> 
+          
+        </div>
+        		</div>
+      </div>
+                <!-- SIDEBAR FIRST -->
+          <div id="sidebar-first-wrapper" class="sidebar tb-main-box grid grid-8">
+            <div class="grid-inner clearfix">
+                <div class="region region-sidebar-first">
+    <div id="block-system-navigation--2" class="block block-system block-menu">
+  <div class="block-inner clearfix">
+    
+          <h2 class="block-title">Navigation</h2>
+    
+    
+    <div class="block-content clearfix">
+      <ul class="menu"><li class="first last leaf"><a href="/calendar-node-field-date">Calendar</a></li>
+</ul>    </div>
+  </div>
+</div>
+<div id="block-user-login--2" class="block block-user">
+  <div class="block-inner clearfix">
+    
+          <h2 class="block-title">User login</h2>
+    
+    
+    <div class="block-content clearfix">
+      <form action="/node?destination=node" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-MHAopgLB-Xd28V2NEZzdAHguaO7KNHcz8GOYmB8cDvc" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><span class="button edit-submit">
+    <input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
+    </span>
+</div></div></form>    </div>
+  </div>
+</div>
+  </div>
+            </div>
+          </div>
+          <!-- //SIDEBAR FIRST -->
+          </div>
+  </div>
+       <!-- BREADCRUMB -->
+    <div id="breadcrumb-wrapper" class="wrapper">
+      <div class="container grid-24">
+          <div class="grid-inner clearfix">
+          
+                      <a title="Back to Top" class="btn-top" href="#Top">Top</a>
+                    </div>
+      </div>
+    </div>
+    <!-- //BREADCRUMB -->
+    
+      <!-- FOOTER -->
+  <div id="footer-wrapper" class="wrapper">
+    <div class="container grid-24">
+      <div class="grid-inner clearfix">
+        <div id="footer" class="clearfix">   <div class="region region-footer">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+ </div>
+      </div>
+    </div>
+  </div>
+  <!-- //FOOTER -->
+  </div>
+      </body>
+</html>

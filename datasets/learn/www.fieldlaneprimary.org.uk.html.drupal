@@ -1,0 +1,1496 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+    <head>
+        
+    <base href="https://www.fieldlaneprimary.org.uk/" />
+    <title>Field Lane Primary School</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="3i CMS" />
+    <meta name="generation-time" content="0s" />
+    <link rel="icon" href="https://www.fieldlaneprimary.org.uk/themes/default/images/favicon.ico">
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Cairo:200,300,400,600,700,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Poiret+One|Raleway:400,300,500,600,700|Montserrat:400,700" rel="stylesheet" type="text/css">
+    
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Titillium+Web:400,300,600,700,900" rel="stylesheet" type="text/css">
+    <link href="https://www.fieldlaneprimary.org.uk/themes/default/bootstrap/css/font-awesome/font-awesome.min.css" rel="stylesheet" media="all">
+    <link href="https://www.fieldlaneprimary.org.uk/themes/default/bootstrap/css/font-awesome/plug.css" rel="stylesheet" media="all">
+    <link href="https://www.fieldlaneprimary.org.uk/themes/default/bootstrap/css/font-awesome/theme.min.css" rel="stylesheet" media="all">
+    <link href="https://www.fieldlaneprimary.org.uk/themes/default/bootstrap/css/font-awesome/bootstrap-social.css" rel="stylesheet" media="all">
+    <link href="https://www.fieldlaneprimary.org.uk/themes/default/bootstrap/css/font-awesome/font-awesome.css" rel="stylesheet" media="all">
+    <link rel="stylesheet/less" type="text/css" href="https://www.fieldlaneprimary.org.uk/themes/default/font/less/font-awesome.less" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://www.fieldlaneprimary.org.uk/themes/default/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://www.fieldlaneprimary.org.uk/themes/default/bootstrap/css/basic.css" rel="stylesheet">        
+    <link href="https://www.fieldlaneprimary.org.uk/themes/default/bootstrap/css/menu.css" rel="stylesheet">
+    <link href="https://www.fieldlaneprimary.org.uk/themes/default/bootstrap/css/jquery.smartmenus.bootstrap.css" rel="stylesheet">         
+    <link href="https://www.fieldlaneprimary.org.uk/themes/default/bootstrap/css/calender.css" rel="stylesheet">
+    <link href="https://www.fieldlaneprimary.org.uk/themes/default/bootstrap/css/tab.css" rel="stylesheet">
+    <link href="https://www.fieldlaneprimary.org.uk/themes/default/css/forms.css" rel="stylesheet">
+
+    <script src="https://www.fieldlaneprimary.org.uk/themes/default/bootstrap/js/font-awesome/jquery-1.12.4.min.js" ></script>
+    <script src="https://www.fieldlaneprimary.org.uk/themes/default/bootstrap/js/jquery-1.11.3.min.js" ></script>
+    <script src="https://www.fieldlaneprimary.org.uk/themes/default/bootstrap/js/jssor.slider-21.1.mini.js" ></script>
+    <script src="https://www.fieldlaneprimary.org.uk/themes/default/bootstrap/js/font-awesome/bootstrap.min.js" ></script>
+    <script src="https://www.fieldlaneprimary.org.uk/themes/default/bootstrap/js/jquery.smartmenus.js" ></script>
+    <script src="https://www.fieldlaneprimary.org.uk/themes/default/bootstrap/js/jquery.smartmenus.bootstrap.js" ></script>
+    
+    <link href="https://www.fieldlaneprimary.org.uk/themes/default/bootstrap/css/exif.css" rel="stylesheet">  
+    <script src="https://www.fieldlaneprimary.org.uk/themes/default/bootstrap/js/exif.js" ></script>
+    <script src="https://www.fieldlaneprimary.org.uk/themes/default/bootstrap/js/initRotation.js" ></script>
+
+
+
+    <script src="https://www.fieldlaneprimary.org.uk/themes/default/bootstrap/js/jquery-latest.min.js" ></script>
+    <script src="https://www.fieldlaneprimary.org.uk/themes/default/bootstrap/js/jquery.skroller.js" ></script>
+
+    <link rel="stylesheet" href="https://www.fieldlaneprimary.org.uk/js/shadowbox.css" type="text/css" media="screen" />
+    <script src="https://www.fieldlaneprimary.org.uk/js/shadowbox.js" type="text/javascript"> </script>
+    
+
+
+<script type="text/javascript">
+    if (navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i)) {
+        var viewportmeta = document.querySelector('meta[name="viewport"]');
+        if (viewportmeta) {
+            viewportmeta.content = 'width=device-width, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1.0';
+            document.body.addEventListener('gesturestart', function () {
+                viewportmeta.content = 'width=device-width, minimum-scale=0.25, maximum-scale=1.6';
+            }, false);
+        }
+    }
+</script>      
+    
+
+<script>
+$(document).ready(function(e) {
+    
+	$('#SkrollThis').skroller();
+	
+	
+	$('#addContent').click(function(e){
+		$('#SkrollDynamic').append('<br />and some more content...');
+	});
+	
+});
+</script>
+<script>
+$(document).ready(function(e) {
+    
+	$('#SkrollThis1').skroller();
+	
+	
+	$('#addContent').click(function(e){
+		$('#SkrollDynamic').append('<br />and some more content...');
+	});
+	
+});
+</script>
+<script>
+$(document).ready(function(e) {
+    
+	$('#SkrollThis2').skroller();
+	
+	
+	$('#addContent').click(function(e){
+		$('#SkrollDynamic').append('<br />and some more content...');
+	});
+	
+});
+</script> 
+
+<!--
+<script type="text/javascript" src="https://www.fieldlaneprimary.org.uk/js/tab/jquery.js"></script>-->
+<script type="text/javascript">
+
+$(document).ready(function() {
+
+	$(".tab_content").hide();
+	$(".tab_content:first").show(); 
+
+	$("ul.tabs li").click(function() {
+		$("ul.tabs li").removeClass("active");
+		$(this).addClass("active");
+		$(".tab_content").hide();
+		var activeTab = $(this).attr("rel"); 
+		$("#"+activeTab).fadeIn(); 
+	});
+});
+
+</script>
+
+
+<script>
+        jQuery(document).ready(function ($) {
+            
+            var jssor_1_options = {
+              $AutoPlay: true,
+              $Idle: 0,
+              $AutoPlaySteps: 4,
+              $SlideDuration: 1600,
+              $SlideEasing: $Jease$.$Linear,
+              $PauseOnHover: 4,
+              $SlideWidth: 140,
+              $Cols: 7
+            };
+            
+            var jssor_1_slider = new $JssorSlider$("jssor_1", jssor_1_options);
+            
+            //responsive code begin
+            //you can remove responsive code if you don't want the slider scales while window resizing
+            function ScaleSlider() {
+                var refSize = jssor_1_slider.$Elmt.parentNode.clientWidth;
+                if (refSize) {
+                    refSize = Math.min(refSize, 809);
+                    jssor_1_slider.$ScaleWidth(refSize);
+                }
+                else {
+                    window.setTimeout(ScaleSlider, 30);
+                }
+            }
+            ScaleSlider();
+            $(window).bind("load", ScaleSlider);
+            $(window).bind("resize", ScaleSlider);
+            $(window).bind("orientationchange", ScaleSlider);
+            //responsive code end
+        });
+    </script> 
+
+
+ 
+
+<script type="text/javascript">
+    Shadowbox.init();
+    </script>
+    <script type="text/javascript">
+     $(function(){
+     $('.slider')._TMS({
+      pagNums:false,
+      playBu:'.stop_button',
+      duration:1000,
+      pagination:false,
+      preset:'lines',
+      slideshow:6000,
+      numStatus:false,
+      banners:false,
+      waitBannerAnimation:false
+     })
+    })
+    </script>  
+
+
+ 
+
+</link></link></link></link></link></link></link></link></meta></link></link></link></link></link></link></link></link></link></link></link></link></link></meta>
+    </head>
+    <body>
+        
+        
+<div id="fb-root" ></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.11';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+  
+    
+    <!-- header -->
+<header class="inner_header">
+  <div class="inner">
+    <h1><a href="/">Field Lane Primary School</a></h1>
+    <div class="school_name">Field Lane Primary School</div>
+    <div class="school_slogan">Learn, Enjoy, Achieve</div>
+    <div id="menuBG" class="container">
+<div class="navbar navbar-default navbar-inverse">
+    <div class="navbar-header">        
+        <!-- <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">            
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button> -->
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar" ></span>
+            <span class="icon-bar" ></span>
+            <span class="icon-bar" ></span>
+            <p style=" color: #FFFFFF; position: absolute; left: -100px; top:4px;" href="#" ></p></button>
+        
+    </div>
+    <div class="navbar-collapse collapse">        
+        
+                <ul class="nav navbar-nav col-md-12">
+                    
+                        
+                            
+                            <li class="menuCategory item1"> 
+                                <a href="index.php" class="menuCategory">
+                                    Home
+                                    <!--<vte:if test=""> 
+                                    <vte:if test=""> <i class="glyphicon glyphicon-home"></i> </vte:if>
+                                     <vte:else> 
+                                    <vte:value select="Home" />
+                                     </vte:else> 
+                                    </vte:if>--> 
+                                </a>
+                            </li>
+                            
+                            
+                        
+                    
+                        
+                            
+                                <li class="dropdown, menuCategory item2">
+                                    <a href="main-menu/parents-pages/index.1.html" class="menuCategory">  
+                                        Our Team
+                                    </a>
+                                
+                                    <ul class="dropdown-menu">
+                                        
+                                        
+                                                
+                                                    
+                                                        <li class="men_art" style="text-align: left;">
+                                                            <a href="main-menu/parents-pages/3715-governors-and-trustees.html">
+                                                                Governors and Trustees
+                                                            </a>
+                                                        </li>
+                                                    
+                                                        <li class="men_art" style="text-align: left;">
+                                                            <a href="main-menu/parents-pages/3714-home-school-association.html">
+                                                                Home School Association
+                                                            </a>
+                                                        </li>
+                                                    
+                                                        <li class="men_art" style="text-align: left;">
+                                                            <a href="main-menu/parents-pages/3713-school-council.html">
+                                                                School Council
+                                                            </a>
+                                                        </li>
+                                                    
+                                                        <li class="men_art" style="text-align: left;">
+                                                            <a href="main-menu/parents-pages/3712-eco-warriors.html">
+                                                                Eco-Warriors
+                                                            </a>
+                                                        </li>
+                                                    
+                                                
+                                            
+                                        
+                                                
+                                                    
+                                                        <li class="men_cat" style="text-align: left;">
+                                                         <a href="main-menu/parents-pages/leadership-team/index.1.html">
+                                                                    Leadership Team
+                                                                </a> 
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li class="men_cat" style="text-align: left;">
+                                                         <a href="main-menu/parents-pages/teaching-team/index.1.html">
+                                                                    Teaching Team
+                                                                </a> 
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li class="men_cat" style="text-align: left;">
+                                                         <a href="main-menu/parents-pages/support-team/index.1.html">
+                                                                    Support Team
+                                                                </a> 
+                                                        </li>
+                                                    
+                                                
+                                            
+                                    </ul>
+                                    
+                                
+                                </li>
+                            
+                        
+                    
+                        
+                            
+                                <li class="dropdown, menuCategory item3">
+                                    <a href="main-menu/our-school/index.1.html" class="menuCategory">  
+                                        Our School
+                                    </a>
+                                
+                                    <ul class="dropdown-menu">
+                                        
+                                        
+                                                
+                                                    
+                                                        <li class="men_art" style="text-align: left;">
+                                                            <a href="main-menu/our-school/3941-accounts.html">
+                                                                Accounts
+                                                            </a>
+                                                        </li>
+                                                    
+                                                        <li class="men_art" style="text-align: left;">
+                                                            <a href="main-menu/our-school/3746-achievements-and-rewards.html">
+                                                                Achievements and Rewards
+                                                            </a>
+                                                        </li>
+                                                    
+                                                        <li class="men_art" style="text-align: left;">
+                                                            <a href="main-menu/our-school/3699-admissions.html">
+                                                                Admissions
+                                                            </a>
+                                                        </li>
+                                                    
+                                                        <li class="men_art" style="text-align: left;">
+                                                            <a href="main-menu/our-school/3700-after-school-clubs.html">
+                                                                After School Clubs
+                                                            </a>
+                                                        </li>
+                                                    
+                                                        <li class="men_art" style="text-align: left;">
+                                                            <a href="main-menu/our-school/3701-attendance.html">
+                                                                Attendance
+                                                            </a>
+                                                        </li>
+                                                    
+                                                        <li class="men_art" style="text-align: left;">
+                                                            <a href="main-menu/our-school/3702-breakfast-club.html">
+                                                                Breakfast Club
+                                                            </a>
+                                                        </li>
+                                                    
+                                                        <li class="men_art" style="text-align: left;">
+                                                            <a href="main-menu/our-school/3703-helping-in-school.html">
+                                                                Helping in School
+                                                            </a>
+                                                        </li>
+                                                    
+                                                        <li class="men_art" style="text-align: left;">
+                                                            <a href="main-menu/our-school/3704-lunchtime.html">
+                                                                School Lunches
+                                                            </a>
+                                                        </li>
+                                                    
+                                                        <li class="men_art" style="text-align: left;">
+                                                            <a href="main-menu/our-school/3705-moving-on-to-high-school.html">
+                                                                Moving on to High School
+                                                            </a>
+                                                        </li>
+                                                    
+                                                        <li class="men_art" style="text-align: left;">
+                                                            <a href="main-menu/our-school/3707-safeguarding.html">
+                                                                Safeguarding
+                                                            </a>
+                                                        </li>
+                                                    
+                                                        <li class="men_art" style="text-align: left;">
+                                                            <a href="main-menu/our-school/3710-uniform.html">
+                                                                Uniform
+                                                            </a>
+                                                        </li>
+                                                    
+                                                
+                                            
+                                        
+                                                
+                                                    
+                                                        <li class="men_cat" style="text-align: left;">
+                                                         <a class="menuCategory" href="http://www.d3idata.info/flips/fieldlane120517v2/" target="_blank">
+                                                                Our Prospectus
+                                                            </a>
+                                                            
+                                                        
+                                                        </li>
+                                                    
+                                                
+                                            
+                                    </ul>
+                                    
+                                
+                                </li>
+                            
+                        
+                    
+                        
+                            
+                                <li class="dropdown, menuCategory item4">
+                                    <a href="main-menu/school-information/index.1.html" class="menuCategory">  
+                                        School Information
+                                    </a>
+                                
+                                        
+                                                
+                                                    <ul class="dropdown-menu">
+                                                        
+                                                            <li style="text-align: left;"><a href="main-menu/school-information/3772-attendance-data.html">
+                                                                    Attendance Data
+                                                                </a></li>
+                                                        
+                                                            <li style="text-align: left;"><a href="main-menu/school-information/3766-fr-progress-trends.html">
+                                                                    Early Years
+                                                                </a></li>
+                                                        
+                                                            <li style="text-align: left;"><a href="main-menu/school-information/3769-phonics-screening-trend-data.html">
+                                                                    Phonics
+                                                                </a></li>
+                                                        
+                                                            <li style="text-align: left;"><a href="main-menu/school-information/3767-ks1-3-year-trend-data.html">
+                                                                    KS1
+                                                                </a></li>
+                                                        
+                                                            <li style="text-align: left;"><a href="main-menu/school-information/3768-ks2-trend-data.html">
+                                                                    KS2
+                                                                </a></li>
+                                                        
+                                                            <li style="text-align: left;"><a href="main-menu/school-information/3752-send.html">
+                                                                    SEND
+                                                                </a></li>
+                                                        
+                                                            <li style="text-align: left;"><a href="main-menu/school-information/3754-sports-premium.html">
+                                                                    Sports Premium
+                                                                </a></li>
+                                                        
+                                                            <li style="text-align: left;"><a href="main-menu/school-information/3753-pupil-premium.html">
+                                                                    Pupil Premium
+                                                                </a></li>
+                                                        
+                                                            <li style="text-align: left;"><a href="main-menu/school-information/3722-ofsted-data-dashboard.html">
+                                                                    Ofsted Data Dashboard
+                                                                </a></li>
+                                                        
+                                                            <li style="text-align: left;"><a href="main-menu/school-information/3723-ofsted-report.html">
+                                                                    Ofsted Report
+                                                                </a></li>
+                                                        
+                                                            <li style="text-align: left;"><a href="main-menu/school-information/3708-school-priorities.html">
+                                                                    School Priorities
+                                                                </a></li>
+                                                        
+                                                            <li style="text-align: left;"><a href="main-menu/school-information/3706-parent-view.html">
+                                                                    Parent View
+                                                                </a></li>
+                                                        
+                                                    </ul>
+                                                
+                                            
+                                    
+                                </li>
+                            
+                        
+                    
+                        
+                    
+                        
+                            
+                                <li class="dropdown, menuCategory item6">
+                                    <a href="main-menu/policies/index.1.html" class="menuCategory">  
+                                        Our Policies
+                                    </a>
+                                
+                                        
+                                                
+                                                    <ul class="dropdown-menu">
+                                                        
+                                                            <li style="text-align: left;"><a href="main-menu/policies/3890-currriculum-policies.html">
+                                                                    Currriculum Policies
+                                                                </a></li>
+                                                        
+                                                            <li style="text-align: left;"><a href="main-menu/policies/3889-first-aid-and-medical.html">
+                                                                    First Aid and Medical
+                                                                </a></li>
+                                                        
+                                                            <li style="text-align: left;"><a href="main-menu/policies/3904-gdpr.html">
+                                                                    GDPR
+                                                                </a></li>
+                                                        
+                                                            <li style="text-align: left;"><a href="main-menu/policies/3888-health-and-safety.html">
+                                                                    Health and Safety
+                                                                </a></li>
+                                                        
+                                                            <li style="text-align: left;"><a href="main-menu/policies/3887-non-curricular.html">
+                                                                    Non Curricular
+                                                                </a></li>
+                                                        
+                                                            <li style="text-align: left;"><a href="main-menu/policies/3886-safeguarding.html">
+                                                                    Safeguarding
+                                                                </a></li>
+                                                        
+                                                    </ul>
+                                                
+                                            
+                                    
+                                </li>
+                            
+                        
+                    
+                        
+                            
+                                <li class="dropdown, menuCategory item7">
+                                    <a href="main-menu/our-curriculum/index.1.html" class="menuCategory">  
+                                        Curriculum
+                                    </a>
+                                
+                                    <ul class="dropdown-menu">
+                                        
+                                        
+                                                
+                                                    
+                                                        <li class="men_art" style="text-align: left;">
+                                                            <a href="main-menu/our-curriculum/3927-curriculum-statement.html">
+                                                                Curriculum Statement
+                                                            </a>
+                                                        </li>
+                                                    
+                                                        <li class="men_art" style="text-align: left;">
+                                                            <a href="main-menu/our-curriculum/3928-curriculum-charter.html">
+                                                                Curriculum Charter
+                                                            </a>
+                                                        </li>
+                                                    
+                                                        <li class="men_art" style="text-align: left;">
+                                                            <a href="main-menu/our-curriculum/3950-developing-character.html">
+                                                                Developing Character
+                                                            </a>
+                                                        </li>
+                                                    
+                                                        <li class="men_art" style="text-align: left;">
+                                                            <a href="main-menu/our-curriculum/3874-forest-school.html">
+                                                                Forest School
+                                                            </a>
+                                                        </li>
+                                                    
+                                                        <li class="men_art" style="text-align: left;">
+                                                            <a href="main-menu/our-curriculum/3795-learning-at-home.html">
+                                                                Learning at Home
+                                                            </a>
+                                                        </li>
+                                                    
+                                                
+                                            
+                                        
+                                                
+                                                    
+                                                        <li class="men_cat" style="text-align: left;">
+                                                         <a href="main-menu/our-curriculum/early-years/index.1.html">
+                                                                    Early Years
+                                                                </a> 
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li class="men_cat" style="text-align: left;">
+                                                         <a href="main-menu/our-curriculum/maths/index.1.html">
+                                                                    Maths
+                                                                </a> 
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li class="men_cat" style="text-align: left;">
+                                                         <a href="main-menu/our-curriculum/reading/index.1.html">
+                                                                    Reading
+                                                                </a> 
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li class="men_cat" style="text-align: left;">
+                                                         <a href="main-menu/our-curriculum/national-expectations/index.1.html">
+                                                                    National Expectations
+                                                                </a> 
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li class="men_cat" style="text-align: left;">
+                                                         <a href="main-menu/our-curriculum/year-2/index.1.html">
+                                                                    Personal Safety and Well Being
+                                                                </a> 
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li class="men_cat" style="text-align: left;">
+                                                         <a href="main-menu/our-curriculum/eyfs-curriculum/index.1.html">
+                                                                    EYFS Curriculum
+                                                                </a> 
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li class="men_cat" style="text-align: left;">
+                                                         <a href="main-menu/our-curriculum/year-1-2-curriculum/index.1.html">
+                                                                    Year 1/2 Curriculum
+                                                                </a> 
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li class="men_cat" style="text-align: left;">
+                                                         <a href="main-menu/our-curriculum/year-3-4-curriculum/index.1.html">
+                                                                    Year 3/4 Curriculum
+                                                                </a> 
+                                                        </li>
+                                                    
+                                                
+                                                    
+                                                        <li class="men_cat" style="text-align: left;">
+                                                         <a href="main-menu/our-curriculum/year-5-6-curriuculum/index.1.html">
+                                                                    Year 5/6 Curriculum
+                                                                </a> 
+                                                        </li>
+                                                    
+                                                
+                                            
+                                    </ul>
+                                    
+                                
+                                </li>
+                            
+                        
+                    
+                        
+                    
+                        
+                            
+                                <li class="dropdown, menuCategory item9">
+                                    <a href="main-menu/blog/index.1.html" class="menuCategory">  
+                                        Blog
+                                    </a>
+                                
+                                        
+                                                
+                                                    <ul class="dropdown-menu">
+                                                        
+                                                            <li style="text-align: left;"><a href="main-menu/blog/3925-smsc-grid.html">
+                                                                    SMSC Grid
+                                                                </a></li>
+                                                        
+                                                            <li style="text-align: left;"><a href="main-menu/blog/3924-blog.html">
+                                                                    Blog
+                                                                </a></li>
+                                                        
+                                                    </ul>
+                                                
+                                            
+                                    
+                                </li>
+                            
+                        
+                    
+                        
+                            
+                                <li class="dropdown, menuCategory item10">
+                                    <a href="main-menu/galleries/index.1.html" class="menuCategory">  
+                                        News and Dates
+                                    </a>
+                                
+                                    <ul class="dropdown-menu">
+                                        
+                                        
+                                                
+                                                    
+                                                        <li class="men_art" style="text-align: left;">
+                                                            <a href="main-menu/galleries/3730-newsletters.html">
+                                                                Newsletters
+                                                            </a>
+                                                        </li>
+                                                    
+                                                        <li class="men_art" style="text-align: left;">
+                                                            <a href="main-menu/galleries/3728-term-dates.html">
+                                                                Term Dates
+                                                            </a>
+                                                        </li>
+                                                    
+                                                
+                                            
+                                        
+                                                
+                                                    
+                                                        <li class="men_cat" style="text-align: left;">
+                                                         <a class="menuCategory" href="events.html" target="_blank">
+                                                                School Calendar
+                                                            </a>
+                                                            
+                                                        
+                                                        </li>
+                                                    
+                                                
+                                            
+                                    </ul>
+                                    
+                                
+                                </li>
+                            
+                        
+                    
+                        
+                            
+                            <li class="menuCategory item11"> 
+                                <a href="permalink/3129.html" class="menuCategory">
+                                    Contact Us
+                                    <!--<vte:if test=""> 
+                                    <vte:if test=""> <i class="glyphicon glyphicon-home"></i> </vte:if>
+                                     <vte:else> 
+                                    <vte:value select="Contact Us" />
+                                     </vte:else> 
+                                    </vte:if>--> 
+                                </a>
+                            </li>
+                            
+                            
+                        
+                    
+                </ul>
+            
+    </div>
+</div>                                                            
+</div>
+  </div>
+</header>
+<!-- /header -->
+    
+<div class="header">
+
+<!--<div class="row row1" >
+<div class="container container1">
+        <div class="col-lg-8 col-sm-8">
+            <a href="https://www.fieldlaneprimary.org.uk/"><img src="https://www.fieldlaneprimary.org.uk/themes/default//images/new_logo.png"  class="img-responsive left-block"/></a> 
+               
+            
+        </div>
+        <div class="col-lg-4 col-sm-4"><vte:include file="templates/xhtml/box/search.tpl" /></div>
+      </div>
+</div>-->
+
+<!--<div class="main_nav">
+     
+        <div class="row">
+          <vte:include file="templates/xhtml/box/menu_articles-N.tpl" />
+        </div>
+      
+    </div>-->
+
+<div class="container container_banner">
+      <div class="row lok_row">
+  <!--<div class="col-sm-4 lok-padd" style="min-height: 280px;padding-right: 0;">
+    <div style=""> 
+      <vte:include file="templates/xhtml/box/welcome.tpl" />
+    </div>
+  </div>-->
+<div class="col-sm-12 lok_slider">
+    <div id="photogallery_overlay" ></div>
+  <div class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner" role="listbox">
+      
+          
+            
+              <div class="item active"> 
+              <img src="https://www.fieldlaneprimary.org.uk/files/banners/17_459726044.jpg" title="" alt="" />
+              
+               
+              <a style="display:none;" href="https://www.fieldlaneprimary.org.uk//govconf/index.1.html"></a> 
+              
+              
+              </div>
+              
+            
+          
+            
+                <div class="item"> 
+                <img src="https://www.fieldlaneprimary.org.uk/files/banners/1_717298166.jpg" title="" alt="" />
+                
+               
+              <a style="display:none;" href="https://www.fieldlaneprimary.org.uk//govconf/index.1.html"></a> 
+              
+              
+                </div>
+              
+          
+            
+                <div class="item"> 
+                <img src="https://www.fieldlaneprimary.org.uk/files/banners/16_714929455.jpg" title="" alt="" />
+                
+               
+              <a style="display:none;" href="https://www.fieldlaneprimary.org.uk//govconf/index.1.html"></a> 
+              
+              
+                </div>
+              
+          
+            
+                <div class="item"> 
+                <img src="https://www.fieldlaneprimary.org.uk/files/banners/2_182090437.jpg" title="" alt="" />
+                
+               
+              <a style="display:none;" href="https://www.fieldlaneprimary.org.uk//govconf/index.1.html"></a> 
+              
+              
+                </div>
+              
+          
+            
+                <div class="item"> 
+                <img src="https://www.fieldlaneprimary.org.uk/files/banners/18_189883932.jpg" title="" alt="" />
+                
+               
+              <a style="display:none;" href="https://www.fieldlaneprimary.org.uk//govconf/index.1.html"></a> 
+              
+              
+                </div>
+              
+          
+            
+                <div class="item"> 
+                <img src="https://www.fieldlaneprimary.org.uk/files/banners/19_878907832.jpg" title="" alt="" />
+                
+               
+              <a style="display:none;" href="https://www.fieldlaneprimary.org.uk//govconf/index.1.html"></a> 
+              
+              
+                </div>
+              
+          
+            
+                <div class="item"> 
+                <img src="https://www.fieldlaneprimary.org.uk/files/banners/20_203313239.jpg" title="" alt="" />
+                
+               
+              <a style="display:none;" href="https://www.fieldlaneprimary.org.uk//govconf/index.1.html"></a> 
+              
+              
+                </div>
+              
+          
+            
+                <div class="item"> 
+                <img src="https://www.fieldlaneprimary.org.uk/files/banners/6_265573542.jpg" title="" alt="" />
+                
+               
+              <a style="display:none;" href="https://www.fieldlaneprimary.org.uk//govconf/index.1.html"></a> 
+              
+              
+                </div>
+              
+          
+            
+                <div class="item"> 
+                <img src="https://www.fieldlaneprimary.org.uk/files/banners/9_446683407.jpg" title="" alt="" />
+                
+               
+              <a style="display:none;" href="https://www.fieldlaneprimary.org.uk//govconf/index.1.html"></a> 
+              
+              
+                </div>
+              
+          
+            
+                <div class="item"> 
+                <img src="https://www.fieldlaneprimary.org.uk/files/banners/22_728965615.jpg" title="" alt="" />
+                
+               
+              <a style="display:none;" href="https://www.fieldlaneprimary.org.uk//govconf/index.1.html"></a> 
+              
+              
+                </div>
+              
+          
+            
+                <div class="item"> 
+                <img src="https://www.fieldlaneprimary.org.uk/files/banners/10_874598246.jpg" title="" alt="" />
+                
+               
+              <a style="display:none;" href="https://www.fieldlaneprimary.org.uk//govconf/index.1.html"></a> 
+              
+              
+                </div>
+              
+          
+            
+                <div class="item"> 
+                <img src="https://www.fieldlaneprimary.org.uk/files/banners/23_332844431.jpg" title="" alt="" />
+                
+               
+              <a style="display:none;" href="https://www.fieldlaneprimary.org.uk//govconf/index.1.html"></a> 
+              
+              
+                </div>
+              
+          
+            
+                <div class="item"> 
+                <img src="https://www.fieldlaneprimary.org.uk/files/banners/11_724111792.jpg" title="" alt="" />
+                
+               
+              <a style="display:none;" href="https://www.fieldlaneprimary.org.uk//govconf/index.1.html"></a> 
+              
+              
+                </div>
+              
+          
+            
+                <div class="item"> 
+                <img src="https://www.fieldlaneprimary.org.uk/files/banners/25_372203381.jpg" title="" alt="" />
+                
+               
+              <a style="display:none;" href="https://www.fieldlaneprimary.org.uk//govconf/index.1.html"></a> 
+              
+              
+                </div>
+              
+          
+            
+                <div class="item"> 
+                <img src="https://www.fieldlaneprimary.org.uk/files/banners/12_972821367.jpg" title="" alt="" />
+                
+               
+              <a style="display:none;" href="https://www.fieldlaneprimary.org.uk//govconf/index.1.html"></a> 
+              
+              
+                </div>
+              
+          
+            
+                <div class="item"> 
+                <img src="https://www.fieldlaneprimary.org.uk/files/banners/26_831302434.jpg" title="" alt="" />
+                
+               
+              <a style="display:none;" href="https://www.fieldlaneprimary.org.uk//govconf/index.1.html"></a> 
+              
+              
+                </div>
+              
+          
+            
+                <div class="item"> 
+                <img src="https://www.fieldlaneprimary.org.uk/files/banners/13_419684336.jpg" title="" alt="" />
+                
+               
+              <a style="display:none;" href="https://www.fieldlaneprimary.org.uk//govconf/index.1.html"></a> 
+              
+              
+                </div>
+              
+          
+            
+                <div class="item"> 
+                <img src="https://www.fieldlaneprimary.org.uk/files/banners/14_665355739.jpg" title="" alt="" />
+                
+               
+              <a style="display:none;" href="https://www.fieldlaneprimary.org.uk//govconf/index.1.html"></a> 
+              
+              
+                </div>
+              
+          
+            
+                <div class="item"> 
+                <img src="https://www.fieldlaneprimary.org.uk/files/banners/24_399367076.jpg" title="" alt="" />
+                
+               
+              <a style="display:none;" href="https://www.fieldlaneprimary.org.uk//govconf/index.1.html"></a> 
+              
+              
+                </div>
+              
+          
+            
+                <div class="item"> 
+                <img src="https://www.fieldlaneprimary.org.uk/files/banners/15_175761757.jpg" title="" alt="" />
+                
+               
+              <a style="display:none;" href="https://www.fieldlaneprimary.org.uk//govconf/index.1.html"></a> 
+              
+              
+                </div>
+              
+          
+            
+                <div class="item"> 
+                <img src="https://www.fieldlaneprimary.org.uk/files/banners/34_605068881.jpg" title="" alt="" />
+                
+               
+              <a style="display:none;" href="https://www.fieldlaneprimary.org.uk//govconf/index.1.html"></a> 
+              
+              
+                </div>
+              
+          
+            
+                <div class="item"> 
+                <img src="https://www.fieldlaneprimary.org.uk/files/banners/21_391599463.jpg" title="" alt="" />
+                
+               
+              <a style="display:none;" href="https://www.fieldlaneprimary.org.uk//govconf/index.1.html"></a> 
+              
+              
+                </div>
+              
+          
+            
+                <div class="item"> 
+                <img src="https://www.fieldlaneprimary.org.uk/files/banners/27_824231996.jpg" title="" alt="" />
+                
+               
+              <a style="display:none;" href="https://www.fieldlaneprimary.org.uk//govconf/index.1.html"></a> 
+              
+              
+                </div>
+              
+          
+            
+                <div class="item"> 
+                <img src="https://www.fieldlaneprimary.org.uk/files/banners/28_440323330.jpg" title="" alt="" />
+                
+               
+              <a style="display:none;" href="https://www.fieldlaneprimary.org.uk//govconf/index.1.html"></a> 
+              
+              
+                </div>
+              
+          
+            
+                <div class="item"> 
+                <img src="https://www.fieldlaneprimary.org.uk/files/banners/29_210897383.jpg" title="" alt="" />
+                
+               
+              <a style="display:none;" href="https://www.fieldlaneprimary.org.uk//govconf/index.1.html"></a> 
+              
+              
+                </div>
+              
+          
+            
+                <div class="item"> 
+                <img src="https://www.fieldlaneprimary.org.uk/files/banners/30_227904506.jpg" title="" alt="" />
+                
+               
+              <a style="display:none;" href="https://www.fieldlaneprimary.org.uk//govconf/index.1.html"></a> 
+              
+              
+                </div>
+              
+          
+            
+                <div class="item"> 
+                <img src="https://www.fieldlaneprimary.org.uk/files/banners/31_109385005.jpg" title="" alt="" />
+                
+               
+              <a style="display:none;" href="https://www.fieldlaneprimary.org.uk//govconf/index.1.html"></a> 
+              
+              
+                </div>
+              
+          
+            
+                <div class="item"> 
+                <img src="https://www.fieldlaneprimary.org.uk/files/banners/32_633135759.jpg" title="" alt="" />
+                
+               
+              <a style="display:none;" href="https://www.fieldlaneprimary.org.uk//govconf/index.1.html"></a> 
+              
+              
+                </div>
+              
+          
+            
+                <div class="item"> 
+                <img src="https://www.fieldlaneprimary.org.uk/files/banners/33_556845626.jpg" title="" alt="" />
+                
+               
+              <a style="display:none;" href="https://www.fieldlaneprimary.org.uk//govconf/index.1.html"></a> 
+              
+              
+                </div>
+              
+          
+        
+    </div>
+  </div>
+</div>
+</div>
+</div>
+
+<!--
+<div class="header_inner lok_head" style="padding: 0;background: #B1BEE2;">
+<div class="row row_ticker">
+      <div class="container" style="background: transparent;border-radius: 10px;">
+        <vte:include file="templates/xhtml/box/ticker_n.tpl" />
+      </div>
+    </div>
+
+</div>
+-->
+</div>
+      
+
+  <div>
+  
+         <!--<div class="container mob_container" style="padding:20px 0px;background: #fff;">
+            <div class="row" style="padding: 0px;">
+                <div class="container">
+                <div class="col-sm-12" style="padding:0;">
+                   <vte:include file="templates/xhtml/box/quicklinks.tpl" />
+                </div>
+                </div>
+            </div>
+         </div>-->
+        
+        
+        <div class="container mob_container" style="padding-bottom: 10px;background: #2D3192;">
+            
+            <div class="row" style="padding: 10px;">
+                
+            <div class="col-sm-12 col-xs-12" style="margin-top: 10px;padding:0;">
+
+
+
+        
+
+            <div class="welcome lok_wel">
+               
+              <!--<div id="SkrollThis" style="font-size: 16px;width:100%;color:#7F3F98 !imortant;">-->
+                                
+                                    <div class="p2" style="float:left;margin-right:10px;overflow:hidden;margin-bottom:0;">
+                                        <a href="welcome-note/3271-welcome-to-brownlow-fold-primary-school-11.html"><img src="https://www.fieldlaneprimary.org.uk/files/Caroline_Howarth_579581589_269979039.jpg" alt="Head Teacher Welcome Message" />
+                                        </a>
+                                    </div>
+                                
+                                <div>
+                                <h1 style="margin-top:0;"><a style="color:#fff;" href="welcome-note/3271-welcome-to-brownlow-fold-primary-school-11.html">Head Teacher Welcome Message</a></h1>
+                                <!--<vte:value select="<p>Welcome to our school website. My name is Mrs Caroline Howarth and I am Acting Headteacher here at Field Lane. At Field Lane we work in close partnership with families to ensure that children feel happy, cared for, safe and are ready and keen to learn. We are a busy school community working closely with families, local schools, the local community and a variety of organisations to provide a high quality and exciting school curriculum for all our children that will enable them to continue to do well in the future. We provide a structured approach to the teaching of reading, writing and maths whilst also giving children opportunities to use their skills in other areas of school life. This helps to ensure that our children acquire excellent life skills that continue to help them when they move on. More about the curriculum can be found under the curriculum tab. We hope you find our website useful. it is updated regularly so please visit again. If you have any questions or would like to arrange a visit to our school contact our school office.</p>
+<p>Mrs Caroline Howarth</p>" />-->
+                                Welcome to our school website. My name is Mrs Caroline Howarth and I am Acting Headteacher here at Field Lane. At Field Lane we work in close partnership with families to ensure that children feel happy, cared for, safe and are ready and keen to learn. We are a busy school community working closely with families, local schools, the local community and a variety of organisations to provide a high quality and exciting school curriculum for all our children that will enable them to continue to do well in the future. We provide a structured approach to the teaching of reading, writing and maths whilst also giving children opportunities to use their skills in other areas of school life. This helps to ensure that our children acquire excellent life skills that continue to help them when they move on. More about the curriculum can be found under the curriculum tab. We hope you find our website useful.
+                                </div>
+                                </div></div>
+            <!--<div class="col-sm-2 col-xs-12" style="margin-top: 10px;padding:0;"><vte:include file="templates/xhtml/box/facebook.tpl" /></div>-->
+            <!--<div class="col-sm-6 col-xs-12" style="margin-top: 10px;padding:0;"><vte:include file="templates/xhtml/box/news.tpl" /></div>-->
+            
+            <!--<div class="col-sm-6" style="margin-top: 10px;padding:0;">
+                <ul class="tabs">
+                <li id="tab_fir" class="active" rel="tab1">Latest News</li>
+                <li id="tab_sec" rel="tab2">Upcoming Events</li>
+              </ul>
+               <div class="tab_container">
+                <div id="tab1" class="tab_content">
+                  <vte:include file="templates/xhtml/box/news.tpl" />
+                </div>
+                <div id="tab2" class="tab_content">
+                  <vte:include file="templates/xhtml/box/events.tpl" />
+                </div>
+                </div>
+            </div>-->
+            </div>
+        </div>
+        
+        <!--<div class="container mob_container" style="padding: 10px;background: #B7B5B3;">
+            <div class="row" style="padding-top: 0px;">
+                <div class="col-sm-12" style="margin-top: 10px;">
+                    <vte:include file="templates/xhtml/box/house_points.tpl" />           
+                </div>
+            </div>
+        </div>-->
+        
+        <div class="container mob_container" style="padding: 15px 0;background: #fff;">
+            <div class="row" style="padding-top: 0px;">
+                <div class="col-sm-12" style="margin-top: 10px;padding:0;">
+                    
+
+        
+          
+              
+                
+<div class="col-lg-4 col-sm-4 wow slideInLeft" data-scrollreveal="enter left after 0.15s over 1s" style="margin-bottom:15px;"> 
+<div style="text-align: center;    border: 2px solid #2D3192;">
+<a style="line-height:25px;" href="home1/3697-mission-statement.html"> 
+
+<div>
+    <img class="animated flipInX" style="width: 100%;" src="https://www.fieldlaneprimary.org.uk/files/IMG_4280_418007550.jpg" alt="Mission Statement" />
+
+</div>
+<div>
+    <div style="font-size: 20px;color: #2D3192 !important;padding: 15px;background: #fff;font-weight: bold;">
+Mission Statement
+</div>
+</div>
+
+
+</a>
+</div> 
+</div>
+                
+              
+                
+<div class="col-lg-4 col-sm-4 wow slideInLeft" data-scrollreveal="enter left after 0.15s over 1s" style="margin-bottom:15px;"> 
+<div style="text-align: center;    border: 2px solid #2D3192;">
+<a style="line-height:25px;" href="home1/3686-our-key-values.html"> 
+
+<div>
+    <img class="animated flipInX" style="width: 100%;" src="https://www.fieldlaneprimary.org.uk/files/banners/IMG_4306_149262913.jpg" alt="What’s New" />
+
+</div>
+<div>
+    <div style="font-size: 20px;color: #2D3192 !important;padding: 15px;background: #fff;font-weight: bold;">
+What’s New
+</div>
+</div>
+
+
+</a>
+</div> 
+</div>
+                
+              
+                
+<div class="col-lg-4 col-sm-4 wow slideInLeft" data-scrollreveal="enter left after 0.15s over 1s" style="margin-bottom:15px;"> 
+<div style="text-align: center;    border: 2px solid #2D3192;">
+<a style="line-height:25px;" href="home1/3685-every-child-matters.html"> 
+
+<div>
+    <img class="animated flipInX" style="width: 100%;" src="https://www.fieldlaneprimary.org.uk/files/IMG_4322_931131885.jpg" alt="Every Child Matters" />
+
+</div>
+<div>
+    <div style="font-size: 20px;color: #2D3192 !important;padding: 15px;background: #fff;font-weight: bold;">
+Every Child Matters
+</div>
+</div>
+
+
+</a>
+</div> 
+</div>
+                
+              
+            
+
+             
+                </div>
+            </div>
+        </div>
+        
+        <div class="container mob_container" style="padding: 15px 0;background: #fff;">
+        <div class="row" style="padding-top: 0px;">
+        <div class="col-sm-12" style="margin-top: 10px;padding:0;">
+        <div id="ofs" class="carousel slide" data-ride="carousel" style="min-height: 200px; padding: 10px;">
+    <div class="carousel-inner" role="listbox">            
+        
+                    
+                    
+                        <div class="item active">
+                            <h1 style="color:#2D3192;">Field Lane - Ofsted quotes (June 2017) </h1>
+                            <p style="color:#2D3192;">June OFSTED 2017 quotes 
+This is a very caring school. The safety and well being of all pupils is very important to all staff.
+Senior leaders 'effective support and guidance for newly and recently qualified teachers has helped to improve the quality of teaching.
+Teaching and provision in the early years is good and children are increasingly well prepared to start Year 1.
+The provision for pupils who have special educational needs and/or disabilities is having a positive impact on meeting pupils' social and emotional needs .
+The schools work to promote social, moral ,spiritual and cultural awareness is effective.
+Teachers are now successfully planning and delivering mathematics lessons that stretch and challenge pupils of all abilities.
+&nbsp;
+March OFSTED 2014 quotes
+The leadership team sets, and expects, exacting goals and uses staffing flexibly across the academy partnership to achieve excellence for all. The leadership of teaching is excellent. First-rate professional development of teachers and teaching assistants means that they know their craft, having exceptional subject knowledge and expertise to challenge and motivate pupils.</p>
+                        </div>
+                        
+                     
+
+                
+                                    
+    </div>
+      <a class="left carousel-control" href="#ofs" role="button" data-slide="prev">
+        <span style="color:#2D3192;" class="glyphicon glyphicon-chevron-left" aria-hidden="true" ></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#ofs" role="button" data-slide="next">
+        <span style="color:#2D3192;" class="glyphicon glyphicon-chevron-right" aria-hidden="true" ></span>
+        <span class="sr-only">Next</span>
+      </a>                            
+</div>
+        </div>
+        </div>
+        </div>
+        
+        
+        
+        <!--<div class="container mob_container" style="padding: 15px 0;background: #fff;">
+            <div class="row" style="padding-top: 0px;">
+                <div class="col-sm-12" style="padding:0;">
+                     <vte:include file="templates/xhtml/box/accreditations.tpl" />           
+                </div>
+            </div>
+        </div>-->
+        
+       <div class="container mob_container" style="padding: 15px 0;background: #fff;">
+           
+
+        <h1 style="margin-bottom: 15px;margin-top: 0;color: #fff;text-align: left;font-weight: bold;"> <span style="color:#2D3192;font-size: 36px;margin-left: 15px;">Our Links</span> </h1>
+        
+            
+                
+                    <div class="col-sm-4" style="margin: 5px 0;">
+                        <div class="col-sm-12" style="text-align: center;text-align: center;padding: 20px;border-radius: 10px;border-bottom: 2px solid #2D3192;">
+                            <a style="color: #EF2525;" href="http://brighterfuturesmat.org.uk/" target="_blank"> <span style="text-decoration:none;">Brighter Futures Academy Trust</span> </a>
+                        </div>  
+                    </div>
+                    <!--<div class="col-md-2" style="margin: 0 19px;">
+                        <div class="quick1">
+                        <a style="color:#fff;" href="http://brighterfuturesmat.org.uk/" target="_blank">
+                            <vte:if test="">
+                              <img src="https://www.fieldlaneprimary.org.uk/files.php?file=" alt="Brighter Futures Academy Trust" /> 
+                                <div><vte:value select="Brighter Futures Academy Trust" /></div>
+                            </vte:if>
+                            
+                                <span style="font-size: 20px;"><vte:value select="Brighter Futures Academy Trust" /></span>
+                            
+                        </a>
+                        </div>
+                    </div>-->
+                    
+                
+            
+                
+                    <div class="col-sm-4" style="margin: 5px 0;">
+                        <div class="col-sm-12" style="text-align: center;text-align: center;padding: 20px;border-radius: 10px;border-bottom: 2px solid #2D3192;">
+                            <a style="color: #EF2525;" href="http://www.luddendenfoot.org.uk/" target="_blank"> <span style="text-decoration:none;">Luddendenfoot Academy</span> </a>
+                        </div>  
+                    </div>
+                    <!--<div class="col-md-2" style="margin: 0 19px;">
+                        <div class="quick2">
+                        <a style="color:#fff;" href="http://www.luddendenfoot.org.uk/" target="_blank">
+                            <vte:if test="">
+                              <img src="https://www.fieldlaneprimary.org.uk/files.php?file=" alt="Luddendenfoot Academy" /> 
+                                <div><vte:value select="Luddendenfoot Academy" /></div>
+                            </vte:if>
+                            
+                                <span style="font-size: 20px;"><vte:value select="Luddendenfoot Academy" /></span>
+                            
+                        </a>
+                        </div>
+                    </div>-->
+                    
+                
+            
+                
+                    <div class="col-sm-4" style="margin: 5px 0;">
+                        <div class="col-sm-12" style="text-align: center;text-align: center;padding: 20px;border-radius: 10px;border-bottom: 2px solid #2D3192;">
+                            <a style="color: #EF2525;" href="http://siddalprimary.org.uk/" target="_blank"> <span style="text-decoration:none;">Siddal Primary School</span> </a>
+                        </div>  
+                    </div>
+                    <!--<div class="col-md-2" style="margin: 0 19px;">
+                        <div class="quick3">
+                        <a style="color:#fff;" href="http://siddalprimary.org.uk/" target="_blank">
+                            <vte:if test="">
+                              <img src="https://www.fieldlaneprimary.org.uk/files.php?file=" alt="Siddal Primary School" /> 
+                                <div><vte:value select="Siddal Primary School" /></div>
+                            </vte:if>
+                            
+                                <span style="font-size: 20px;"><vte:value select="Siddal Primary School" /></span>
+                            
+                        </a>
+                        </div>
+                    </div>-->
+                    
+                
+            
+        
+    
+
+            <!--<h1 style="margin-bottom: 15px;margin-top: 0;color: #fff;text-align: left;font-weight: bold;"> <span style="color:#2E3095;font-size: 36px;margin-left: 15px;">Our Links</span> </h1>
+            <div class="col-sm-4" style="margin: 5px 0;">
+                <div class="col-sm-12" style="text-align: center;text-align: center;padding: 20px;border-radius: 10px;border-bottom: 2px solid #2E3095;">
+                    <a style="color: #EF2525;" href="http://www.fieldlaneprimary.org.uk/"> <span style="text-decoration:none;">www.fieldlaneprimary.org.uk</span> </a>
+                </div>  
+            </div>
+            <div class="col-sm-4" style="margin: 5px 0;"><div style="text-align: center;text-align: center;padding: 20px;border-radius: 10px;border-bottom: 2px solid #2E3095;"> <a style="color: #EF2525" href="http://www.siddalprimary.org.uk/"> <span style="text-decoration:none;">www.siddalprimary.org.uk</span> </a> </div></div>
+            <div class="col-sm-4" style="margin: 5px 0;"><div style="text-align: center;text-align: center;padding: 20px;border-radius: 10px;border-bottom: 2px solid #2E3095;" class="col-sm-12"><a style="color: #EF2525;" href="http://www.luddendenfoot.org.uk/"> <span style="text-decoration:none;">www.luddendenfoot.org.uk</span> </a></div>  </div>-->
+       </div>
+
+        <!--<div class="container mob_container" style="padding: 10px;background: #fff;">
+        <div class="row" style="padding-top: 0px;">
+        <div class="col-sm-12" style="margin-top: 10px;">
+         <vte:include file="templates/xhtml/box/tweeter1.tpl" />
+        </div>
+        </div>
+        </div>-->
+        
+        
+
+
+
+<div class="main_footer">
+  <div class="footer_t">
+      <div class="container">
+      <div class="row" style="padding-top: 20px;">
+          <!--<div class="col-lg-12" style="padding: 15px 0px;padding-top: 0;"><vte:include file="templates/xhtml/box/menu-top.tpl" /></div>-->
+        <!--<div class="col-lg-3 lok_foo" style="text-align: center;">
+          <div style="margin: 10px;"> <a href="https://www.fieldlaneprimary.org.uk/"> <img src="https://www.fieldlaneprimary.org.uk/themes/default/img/footer_logo.png" alt="Field Lane Primary School" title="Field Lane Primary School" /> </a> </div>
+        </div>-->
+        <div class="col-lg-12 lok_foo" align="center">
+          <div style="padding: 5px; margin: 0px; text-align: center; font-family: Arial;font-size: 17px;color:#fff;">
+            <ul style="padding-left: 0px; list-style: none;line-height: 30px;">
+              <li style="font-size: 18px;font-family: Arial; white-space: nowrap;">Field Lane Primary School</li>
+              <li style="font-size: 14px;"><i class="fa fa-address-card" aria-hidden="true" ></i> Burnsall Road, Rastrick, Brighouse, West Yorks, HD6 3JT</li>
+              <li style="font-size: 14px;"><i class="fa fa-phone" aria-hidden="true" ></i> Tel: 01484 713792</li>
+              <li style="font-size: 14px;"><i class="fa fa-envelope" aria-hidden="true" ></i> Email: admin@fieldlane.calderdale.sch.uk</li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-lg-12 lok_foo" style="padding: 10px;text-align: center;">
+            <div style="margin:0;text-align: center;font-size: 14px;">Powered By </div>
+          <div> <a href="http://design3i.com/" target="_blank"><img src="https://www.fieldlaneprimary.org.uk/themes/default//images/logo3i.png" alt="" /></a> </div>
+          
+        </div>
+      </div>
+      </div>
+      <div class="container">
+      <div class="row">
+        <div class="col-lg-12" style="margin:0;text-align: center;color:#9AC33C;"><a style="color:#fff !important;" target="_blank" href="http://schoolbox.org.uk/">Schoolbox Login</a></div>
+        <div class="col-lg-12" style="margin:0;text-align: center;color:#9AC33C;"><a style="color:#fff !important;" target="_blank" href="https://www.fieldlaneprimary.org.uk//admin">Admin Log In</a> </div>  
+      </div>
+      </div>
+  </div>
+  
+  
+  
+  
+  <!--<div class="foo_mob" style="position:fixed;z-index:999;width:100px;height:128px;left:0px;top:280px"> <a target="_blank" href="https://www.ceop.police.uk/safety-centre/"><img src="https://www.fieldlaneprimary.org.uk/themes/default/img/ceops.png" alt="CEOPS" title="CEOPS" /></a> </div>
+  <div class="foo_mob" style="position:fixed;z-index:999;width:100px;height:128px;right:0px;top:280px"> <a href="https://www.fieldlaneprimary.org.uk/permalink/3619.html"><img src="https://www.fieldlaneprimary.org.uk/themes/default/images/gb.png" alt="Guestbook" title="Leave a comment in our Guestbook" /></a> </div>-->
+  
+  
+  
+  
+  
+  
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36251023-1']);
+  _gaq.push(['_setDomainName', 'jqueryscript.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> 
+
+
+<script src="https://www.fieldlaneprimary.org.uk/themes/default/bootstrap/js/font-awesome/jquery.touchSwipe.min.js" ></script>
+<script src="https://www.fieldlaneprimary.org.uk/themes/default/bootstrap/js/font-awesome/plugin.min.js" ></script>
+
+</div>
+        
+  </div>
+                                
+        
+    </body>
+</html>

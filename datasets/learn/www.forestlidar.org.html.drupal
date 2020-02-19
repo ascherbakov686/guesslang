@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.forestlidar.org/added_files/forestlidar_icon_small.png" type="image/png" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="ForestLidar RSS" href="http://www.forestlidar.org/?q=rss.xml" />
+  <title>ForestLidar</title>
+  <style>
+@import url("http://www.forestlidar.org/modules/system/system.base.css?o1w9nz");
+</style>
+<style>
+@import url("http://www.forestlidar.org/modules/field/theme/field.css?o1w9nz");
+@import url("http://www.forestlidar.org/modules/node/node.css?o1w9nz");
+@import url("http://www.forestlidar.org/sites/all/modules/youtube/css/youtube.css?o1w9nz");
+@import url("http://www.forestlidar.org/sites/all/modules/ckeditor/css/ckeditor.css?o1w9nz");
+</style>
+<style>
+@import url("http://www.forestlidar.org/sites/all/modules/colorbox/styles/default/colorbox_style.css?o1w9nz");
+</style>
+<link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.5/css/bootstrap.css" media="all" />
+<style>
+@import url("http://www.forestlidar.org/sites/all/themes/bootstrap/css/3.3.5/overrides.min.css?o1w9nz");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="http://www.forestlidar.org/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script src="http://www.forestlidar.org/misc/jquery.once.js?v=1.2"></script>
+<script src="http://www.forestlidar.org/misc/drupal.js?o1w9nz"></script>
+<script src="//cdn.jsdelivr.net/bootstrap/3.3.5/js/bootstrap.js"></script>
+<script src="http://www.forestlidar.org/sites/all/modules/colorbox/js/colorbox.js?o1w9nz"></script>
+<script src="http://www.forestlidar.org/sites/all/modules/colorbox/styles/default/colorbox_style.js?o1w9nz"></script>
+<script src="http://www.forestlidar.org/sites/all/modules/colorbox/js/colorbox_load.js?o1w9nz"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bootstrap","theme_token":"93DnfiLBVL5iUNlIn2RnRMv3dnCgHN1V_HWAJJUOZ3M","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.5\/js\/bootstrap.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/youtube\/css\/youtube.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.5\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.5\/overrides.min.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"urlIsAjaxTrusted":{"\/?q=node\u0026destination=node":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body role="document" class="html front not-logged-in one-sidebar sidebar-first page-node">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <header id="navbar" role="banner" class="navbar container navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+              <a class="logo navbar-btn pull-left" href="/" title="Home">
+          <img src="http://www.forestlidar.org/misc/forestlidar_icon.svg" alt="Home" />
+        </a>
+      
+              <a class="name navbar-brand" href="/" title="Home">ForestLidar</a>
+      
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+          </div>
+
+          <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first leaf active"><a href="/" class="active">Home</a></li>
+<li class="leaf"><a href="/?q=oli-meeting">2016 OLI Meeting</a></li>
+<li class="leaf"><a href="/?q=node/9">2017 OLI Meeting</a></li>
+<li class="leaf"><a href="/?q=node/10">2018 OLI Meeting</a></li>
+<li class="last leaf"><a href="/?q=node/11">2019 OLI Meeting</a></li>
+</ul>                                      </nav>
+      </div>
+      </div>
+</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+          <aside class="col-sm-3" role="complementary">
+          <div class="region region-sidebar-first well">
+    <section id="block-system-navigation" class="block block-system block-menu clearfix">
+
+        <h2 class="block-title">Contents</h2>
+    
+  <ul class="menu nav"><li class="first last collapsed"><a href="/?q=forum">Forums</a></li>
+</ul>
+</section>
+<section id="block-user-login" class="block block-user clearfix">
+
+        <h2 class="block-title">User login</h2>
+    
+  <form action="/?q=node&amp;destination=node" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-item-name form-type-textfield form-group"> <label class="control-label" for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+<input class="form-control form-text required" type="text" id="edit-name" name="name" value="" size="15" maxlength="60" /></div><div class="form-item form-item-pass form-type-password form-group"> <label class="control-label" for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+<input class="form-control form-text required" type="password" id="edit-pass" name="pass" size="15" maxlength="128" /></div><ul><li><a href="/?q=user/register" title="Create a new user account.">Create new account</a></li>
+<li><a href="/?q=user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul><input type="hidden" name="form_build_id" value="form-PomPwIDqyNPb9U-YaD1E0esrGe2iOr3oI2Gmjdzg47o" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper form-group" id="edit-actions"><button type="submit" id="edit-submit" name="op" value="Log in" class="btn btn-default form-submit">Log in</button>
+</div></div></form>
+</section>
+  </div>
+      </aside>  <!-- /#sidebar-first -->
+    
+    <section class="col-sm-9">
+                  <a id="main-content"></a>
+                                                                <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <article id="node-11" class="node node-article node-promoted node-teaser clearfix" about="/?q=node/11" typeof="sioc:Item foaf:Document">
+    <header>
+            <h2><a href="/?q=node/11">2019 OLI Meeting</a></h2>
+        <span property="dc:title" content="2019 OLI Meeting" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="1" datatype="xsd:integer" class="rdf-meta element-hidden"></span>        <span class="submitted">
+            <span property="dc:date dc:created" content="2019-03-25T14:18:44+00:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/?q=user/6" typeof="sioc:UserAccount" property="foaf:name" datatype="">jacob</span> on Mon, 03/25/2019 - 14:18</span>    </span>
+      </header>
+        <footer>
+        <ul class="links list-inline"><li class="node-readmore first"><a href="/?q=node/11" rel="tag" title="2019 OLI Meeting">Read more<span class="element-invisible"> about 2019 OLI Meeting</span></a></li>
+<li class="comment-comments"><a href="/?q=node/11#comments" title="Jump to the first comment of this posting.">1 comment</a></li>
+<li class="comment_forbidden last"><span><a href="/?q=user/login&amp;destination=node/11%23comment-form">Log in</a> or <a href="/?q=user/register&amp;destination=node/11%23comment-form">register</a> to post comments</span></li>
+</ul>  </footer>
+    </article>
+<article id="node-10" class="node node-article node-promoted node-teaser clearfix" about="/?q=node/10" typeof="sioc:Item foaf:Document">
+    <header>
+            <h2><a href="/?q=node/10">2018 OLI Meeting </a></h2>
+        <span property="dc:title" content="2018 OLI Meeting " class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>        <span class="submitted">
+            <span property="dc:date dc:created" content="2018-01-30T01:13:55+00:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/?q=user/6" typeof="sioc:UserAccount" property="foaf:name" datatype="">jacob</span> on Tue, 01/30/2018 - 01:13</span>    </span>
+      </header>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p> </p>
+<p><strong>Thanks everyone for participating in the 2018 annual OLI meeting. We had some really great presentations, discussions, and a good time over dinner and beverages afterwards.</strong></p>
+<p><img alt="//forestlidar.org/added_files/oli_meeting_2018/DSC02095_clip.jpg" src="//forestlidar.org/added_files/oli_meeting_2018/DSC02095_clip.jpg" style="float:left; height:100px; width:500px" /></p>
+<div>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p><u><strong>Bundled presentations etc.</strong></u></p></div></div></div></div>    <footer>
+    <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/?q=taxonomy/term/3" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">lidar</a></div><div class="field-item odd" rel="dc:subject"><a href="/?q=taxonomy/term/5" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">meeting</a></div><div class="field-item even" rel="dc:subject"><a href="/?q=taxonomy/term/6" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">phodar</a></div><div class="field-item odd" rel="dc:subject"><a href="/?q=taxonomy/term/7" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">2018</a></div><div class="field-item even" rel="dc:subject"><a href="/?q=taxonomy/term/8" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Olympia</a></div></div></div>    <ul class="links list-inline"><li class="node-readmore first"><a href="/?q=node/10" rel="tag" title="2018 OLI Meeting ">Read more<span class="element-invisible"> about 2018 OLI Meeting </span></a></li>
+<li class="comment_forbidden last"><span><a href="/?q=user/login&amp;destination=node/10%23comment-form">Log in</a> or <a href="/?q=user/register&amp;destination=node/10%23comment-form">register</a> to post comments</span></li>
+</ul>  </footer>
+    </article>
+<article id="node-9" class="node node-article node-promoted node-teaser clearfix" about="/?q=node/9" typeof="sioc:Item foaf:Document">
+    <header>
+            <h2><a href="/?q=node/9">2017 OLI Meeting</a></h2>
+        <span property="dc:title" content="2017 OLI Meeting" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>        <span class="submitted">
+            <span property="dc:date dc:created" content="2017-04-24T22:46:51+00:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/?q=user/6" typeof="sioc:UserAccount" property="foaf:name" datatype="">jacob</span> on Mon, 04/24/2017 - 22:46</span>    </span>
+      </header>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong>2017 Operational Lidar Inventory (OLI) meeting in Olympia on April 19th and 20th. </strong></p>
+<p> </p>
+<p>Our second meeting has completed. Thanks everyone for your interest and participation! I learned a lot and I hope others did as well. There are some really cool tools available and others coming on board. We were able to engage a variety of perspectives on inventory and on remote sensing etc. </p>
+<p>Sorry we forgot to take a picture this time around.</p>
+<p><strong>Click on the links below to download content</strong></p></div></div></div>    <footer>
+        <ul class="links list-inline"><li class="node-readmore first"><a href="/?q=node/9" rel="tag" title="2017 OLI Meeting">Read more<span class="element-invisible"> about 2017 OLI Meeting</span></a></li>
+<li class="comment_forbidden last"><span><a href="/?q=user/login&amp;destination=node/9%23comment-form">Log in</a> or <a href="/?q=user/register&amp;destination=node/9%23comment-form">register</a> to post comments</span></li>
+</ul>  </footer>
+    </article>
+
+</section>
+  </div>
+    </section>
+
+    
+  </div>
+</div>
+
+  <footer class="footer container">
+      <div class="region region-footer">
+    <section id="block-system-powered-by" class="block block-system clearfix">
+
+      
+  <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>
+</section>
+  </div>
+  </footer>
+  <script src="http://www.forestlidar.org/sites/all/themes/bootstrap/js/bootstrap.js?o1w9nz"></script>
+</body>
+</html>

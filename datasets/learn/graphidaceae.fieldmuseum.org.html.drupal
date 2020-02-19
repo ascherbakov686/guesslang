@@ -1,0 +1,230 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/home" />
+<link rel="shortlink" href="/node/9" />
+<link rel="shortcut icon" href="https://graphidaceae.fieldmuseum.org/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>Home | Graphidaceae collections</title>
+  <style type="text/css" media="all">
+@import url("https://graphidaceae.fieldmuseum.org/modules/system/system.base.css?q54vws");
+@import url("https://graphidaceae.fieldmuseum.org/modules/system/system.menus.css?q54vws");
+@import url("https://graphidaceae.fieldmuseum.org/modules/system/system.messages.css?q54vws");
+@import url("https://graphidaceae.fieldmuseum.org/modules/system/system.theme.css?q54vws");
+</style>
+<style type="text/css" media="all">
+@import url("https://graphidaceae.fieldmuseum.org/modules/comment/comment.css?q54vws");
+@import url("https://graphidaceae.fieldmuseum.org/modules/field/theme/field.css?q54vws");
+@import url("https://graphidaceae.fieldmuseum.org/modules/node/node.css?q54vws");
+@import url("https://graphidaceae.fieldmuseum.org/modules/search/search.css?q54vws");
+@import url("https://graphidaceae.fieldmuseum.org/modules/user/user.css?q54vws");
+@import url("https://graphidaceae.fieldmuseum.org/sites/all/modules/views/css/views.css?q54vws");
+</style>
+<style type="text/css" media="all">
+@import url("https://graphidaceae.fieldmuseum.org/sites/all/modules/ctools/css/ctools.css?q54vws");
+</style>
+<style type="text/css" media="all">
+@import url("https://graphidaceae.fieldmuseum.org/sites/all/themes/mayo-7.x-1.3/mayo/css/layout.css?q54vws");
+@import url("https://graphidaceae.fieldmuseum.org/sites/all/themes/mayo-7.x-1.3/mayo/css/style.css?q54vws");
+@import url("https://graphidaceae.fieldmuseum.org/sites/default/files/color/mayo-efe59811/colors.css?q54vws");
+</style>
+
+<!--[if IE 8]>
+<link type="text/css" rel="stylesheet" href="https://graphidaceae.fieldmuseum.org/sites/all/themes/mayo-7.x-1.3/mayo/css/ie8.css?q54vws" media="all" />
+<![endif]-->
+
+<!--[if  IE 7]>
+<link type="text/css" rel="stylesheet" href="https://graphidaceae.fieldmuseum.org/sites/all/themes/mayo-7.x-1.3/mayo/css/ie.css?q54vws" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="https://graphidaceae.fieldmuseum.org/sites/all/themes/mayo-7.x-1.3/mayo/css/ie6.css?q54vws" media="all" />
+<![endif]-->
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+body{font-size:87.5%;font-family:Georgia,'Palatino Linotype','Book Antiqua','URW Palladio L',Baskerville,Meiryo,'Hiragino Mincho Pro','MS PMincho',serif;}
+h1,h2,h3,h4,h5{font-family:Georgia,'Palatino Linotype','Book Antiqua','URW Palladio L',Baskerville,Meiryo,'Hiragino Mincho Pro','MS PMincho',serif;}
+
+/*]]>*/-->
+</style>
+  <script type="text/javascript" src="https://graphidaceae.fieldmuseum.org/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://graphidaceae.fieldmuseum.org/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://graphidaceae.fieldmuseum.org/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://graphidaceae.fieldmuseum.org/misc/drupal.js?q54vws"></script>
+<script type="text/javascript" src="https://graphidaceae.fieldmuseum.org/sites/all/themes/mayo-7.x-1.3/mayo/js/mayo-columns.js?q54vws"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"mayo","theme_token":"B8uqkfxUotoSB0KS3bAcr1YLJPb3hK0nuWsFdFstWn0","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/mayo-7.x-1.3\/mayo\/js\/mayo-columns.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/mayo-7.x-1.3\/mayo\/css\/layout.css":1,"sites\/all\/themes\/mayo-7.x-1.3\/mayo\/css\/style.css":1,"sites\/all\/themes\/mayo-7.x-1.3\/mayo\/css\/colors.css":1,"sites\/all\/themes\/mayo-7.x-1.3\/mayo\/css\/ie8.css":1,"sites\/all\/themes\/mayo-7.x-1.3\/mayo\/css\/ie.css":1,"sites\/all\/themes\/mayo-7.x-1.3\/mayo\/css\/ie6.css":1,"0":1,"1":1}},"urlIsAjaxTrusted":{"\/":true,"\/home?destination=node\/9":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in no-sidebars page-node page-node- page-node-9 node-type-page" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+
+<div id="page-wrapper" style="width: 98%; margin-top: 14px; margin-bottom: 14px;">
+  <div id="page" style="padding: 5px;">
+
+    <div id="header" style="height: 120px;filter:;background: url(/sites/default/files/graphidaceae_home_header_new_120.jpg) repeat top left;border: none;">
+    <div id="header-watermark" style="background-image: url(/sites/all/themes/mayo-7.x-1.3/mayo/images/pat-1.png);">
+    <div class="section clearfix">
+
+      
+      
+              <div id="header-searchbox" style="padding-right: 15px; padding-top: 20px;">
+      <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input onblur="if (this.value == &#039;&#039;) { this.value = &#039;search this site&#039;; }" onfocus="if (this.value == &#039;search this site&#039;) { this.value = &#039;&#039;; }" type="text" id="edit-search-block-form--2" name="search_block_form" value="search this site" size="24" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="image" src="/sites/all/themes/mayo-7.x-1.3/mayo/images/search-submit.png" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-bmFLkoIgsTnGjCICPqH__4cWvllSVyhDko9Epnn1Rwc" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>        </div>
+      
+      
+      <div class="clearfix cfie"></div>
+
+      
+    </div> <!-- /.section -->
+    </div> <!-- /#header-watermark -->
+    </div> <!-- /#header -->
+
+          <div id="navigation"><div class="section">
+        <ul id="main-menu" class="links inline clearfix"><li class="menu-218 first active"><a href="/" class="active">Home</a></li>
+<li class="menu-457"><a href="/classification">Classification</a></li>
+<li class="menu-453"><a href="/collaborators" title="Collaborators - The Graphidaceae Project">Collaborators</a></li>
+<li class="menu-454"><a href="/node/4" title="Fieldwork - The Graphidaceae Project">Fieldwork</a></li>
+<li class="menu-455"><a href="/node/5" title="Image Gallery - The Graphidaceae Project">Image Gallery</a></li>
+<li class="menu-456 last"><a href="/node/6" title="KE EMu - The Graphidaceae Project">KE EMu</a></li>
+</ul>              </div></div> <!-- /.section, /#navigation -->
+    
+    <div class="clearfix cfie"></div>
+
+    <!-- for nice_menus, superfish -->
+        
+    <!-- space between menus and contents -->
+    <div class="spacer clearfix cfie"></div>
+
+
+    <div id="main-wrapper">
+    <div id="main" class="clearfix" style="">
+
+      
+      
+      
+      <div class="clearfix cfie"></div>
+
+
+      <!-- sidebars (left) -->
+            
+
+      <!-- main content -->
+      <div id="content" class="column" style="width: 100%;"><div class="section" style="margin-left: 0px; margin-right: 0px;">
+
+        
+        
+        <a id="main-content"></a>
+                <h1 class="title" id="page-title">Home</h1>                <div class="tabs"></div>                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <div id="node-9" class="node node-page node-promoted clearfix" about="/home" typeof="foaf:Document">
+
+  
+      <span property="dc:title" content="Home" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Fungi make up the second largest kingdom, with an estimated number between one and ten million species. They include an enormous variety of life styles, ranging from microscopic yeasts, to saprotrophs decomposing organic matter, to parasites of plants, animals, and even fungi, to mutualistic symbioses including endo- and ectomycorrhiza and lichens. Lichenization plays an important role in fungal evolution, particularly in the Ascomycota, where lichens make up thirty percent of the currently recognized species or a total of nearly 18000 taxa.<br /><br />
+Graphidaceae is the largest family of tropical crustose lichens and probably the largest family of all lichenized fungi, with 2300 currently recognized and a predicted total of over 4000 species. The family is the most important element of lichen communities in tropical rain forests. Graphidaceae includes several groups that historically were considered separate families: Thelotremataceae, Gomphillaceae, Asterothyriaceae, and Solorinellaceae. The revised classification currently accepted distinguishes four subfamilies: Gomphilloideae, Fissurinoideae, Redonographoideae, and Graphidoideae. The latter three are considered the 'core' Graphidaceae, as they correspond to the previously recognized families Graphidaceae and Thelotremataceae, which comprise mostly epiphytic lichens with trentepohlioid photobiont and graphidoid, distoseptate ascospores. In contrast, subfamily Gomphilloideae includes many species growing on soil, bryophytes, and especially leaves, with chlorococcoid photobiont and thin-walled, euseptate ascospores. Transitions between these groups do exist, however. The largest subfamily, Graphidoideae, contains seven tribes: Acanthothecieae, Diploschisteae, Graphideae, Leptotremateae, Ocellularieae, Thelotremateae, and Wirthiotremateae. Until recently, only 13 genera were distinguished in the core Graphidaceae, but this number has grown within a decade to over 70 genera, with more than 20 additional genera in subfamily Gomphilloideae.<br /><br />
+Tropical epiphytic Graphidaceae often grow endoperidermal in the upper, dead layers of tree bark. In some species, the thallus forms a hollow cavity below that is inhabited by ants or termites. The family is most diverse in lowland rain and lower montane forests between sea level and 2000 meters, with some groups extending into dry forests and upper montane regions. Many genera are indicators of the conservation status of tropical ecosystems, being most diverse in, or restricted to, oldgrowth primary forest. Graphidaceae is very rich in secondary chemical substances, with potential interest for pharmaceutical screening programs.<br /><br />
+Further reading:<br /></p>
+<li>Lücking et al. (2014) One hundred and sixty new species of Graphidaceae: closing the gap or a drop in the bucket? Phytotaxa (in press).
+</li><li>Rivas Plata et al. (2013) A molecular phylogeny of Graphidaceae (Ascomycota, Lecanoromycetes, Ostropales) including 428 species. Mycokeys 6: 55–94. <a href="http://www.pensoft.net/journals/mycokeys/article/3482/a-molecular-phylogeny-of-graphidaceae-ascomycota-lecanoromycetes-ostropales-including-428-species" target="_blank">[Full access]</a>
+</li><li>Rivas Plata et al. (2012) A new classification for the family Graphidaceae (Ascomycota: Lecanoromycetes: Ostropales). Fungal Diversity 52: 107–121. <a href="http://link.springer.com/article/10.1007%2Fs13225-011-0135-8" target="_blank">[Website]</a>
+</li><li>Rivas Plata et al. (2008) When family matters: an analysis of Thelotremataceae (Lichenized Ascomycota: Ostropales) as bioindicators of ecological continuity in tropical forests. Biodiversity and Conservation 17: 1319–1351. <a href="http://link.springer.com/article/10.1007%2Fs10531-007-9289-9" target="_blank">[Website]</a>
+</li><li>Frisch et al. (2006) Contributions towards a new systematics of the lichen family Thelotremataceae. Bibliotheca Lichenologica 92: 1–556. <a href="http://www.schweizerbart.de/publications/detail/isbn/9783443580711/Contributions_towards_a_new_systematics_of_the_lic" target="_blank">[Website]</a>
+</li><li>Staiger (2002) Die Flechtenfamilie Graphidaceae: Studien in Richtung einer natürlichen Gliederung. Bibliotheca Lichenologica 85: 1–526. <a href="http://www.schweizerbart.de/publications/detail/isbn/9783443580643/Die_Flechtenfamilie_Graphidaceae" target="_blank">[Website]</a><br />
+</li></div></div></div>  </div>
+
+  
+   <!-- moved to outside of the node div -->
+
+</div>
+
+ <!-- added -->
+
+  </div>
+</div>
+  </div>
+        
+      </div></div> <!-- /.section, /#content -->
+
+
+      <!-- sidebars (right) -->
+            
+
+      <div class="clearfix cfie"></div>
+
+            <div id="bottom-wrapper">
+        <div id="bottom-columns" class="clearfix">
+        <div class="column-blocks clearfix"><div class="column-block-wrapper" style="width: 100%;"><div class="column-block" style="margin-left: 0px;margin-right: 0px;">  <div class="region region-bottom-column-fourth">
+    <div id="block-user-login" class="block block-user clearfix">
+
+    <h2>User login</h2>
+  
+  <div class="content">
+    <form action="/home?destination=node/9" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form--VupNAcY5BvcJgBkhuxTiUX0EzWGW7f9YrWDUy1_9hQ" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+</div></div> <!--/.column-block --><!--/.column-block-wrapper--></div> <!--/.column-blocks--><div class="spacer clearfix cfie"></div>        </div> <!--/#bottom-columns -->
+      </div> <!-- /#bottom-wrapper -->
+      
+      <div class="clearfix cfie"></div>
+
+
+      
+    </div> <!-- /#main -->
+    </div> <!-- /#main-wrapper -->
+
+    <!-- space between contents and footer -->
+    <div id="spacer" class="clearfix cfie"></div>
+
+    <div id="footer-wrapper">
+      
+      
+    </div> <!-- /#footer-wrapper -->
+
+
+  </div> <!-- /#page -->
+</div> <!-- /#page-wrapper -->
+  </body>
+</html>

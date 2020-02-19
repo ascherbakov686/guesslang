@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" >
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" >
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" >
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>حراز.com | Sharing with the world!</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.xn--mgblmf.com/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://www.xn--mgblmf.com/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="حراز.com &raquo; Feed" href="http://www.حراز.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="حراز.com &raquo; Comments Feed" href="http://www.حراز.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.xn--mgblmf.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.21"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;return g&&g.fillText?(g.textBaseline="top",g.font="600 32px Arial","flag"===a?(g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3):"diversity"===a?(g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e):("simple"===a?g.fillText(h(55357,56835),0,0):g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://www.xn--mgblmf.com/wp-content/themes/twentytwelve/style.css?ver=4.4.21' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://www.xn--mgblmf.com/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='http://www.xn--mgblmf.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://www.xn--mgblmf.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel='https://api.w.org/' href='http://www.حراز.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.xn--mgblmf.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.xn--mgblmf.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.21" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+			<style type="text/css" id="twentytwelve-header-css">
+			.site-header h1 a,
+		.site-header h2 {
+			color: #444;
+		}
+		</style>
+	</head>
+
+<body class="home blog custom-font-enabled single-author">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+		<hgroup>
+			<h1 class="site-title"><a href="http://www.حراز.com/" title="حراز.com" rel="home">حراز.com</a></h1>
+			<h2 class="site-description">Sharing with the world!</h2>
+		</hgroup>
+
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<button class="menu-toggle">Menu</button>
+			<a class="assistive-text" href="#content" title="Skip to content">Skip to content</a>
+			<div class="nav-menu"><ul><li class="current_page_item"><a href="http://www.حراز.com/">Home</a></li></ul></div>
+		</nav><!-- #site-navigation -->
+
+			</header><!-- #masthead -->
+
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+		
+										
+	<article id="post-239" class="post-239 post type-post status-publish format-status hentry category-egyptian-history post_format-post-format-status">
+		<div class="entry-header">
+			<header>
+				<h1>harraz@gmail.com</h1>
+				<h2><a href="http://www.حراز.com/2014/03/22/%d9%87%d9%84-%d8%aa%d8%b5%d8%a8%d8%ad-%d8%a7%d9%84%d8%ac%d9%8a%d9%88%d8%b4-%d8%b9%d9%84%d8%a9-%d9%81%d9%8a-%d8%a3%d9%88%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%84%d9%85%d8%9f/" title="Permalink to هل تصبح الجيوش عالة في أوقات السلم؟" rel="bookmark">2014/03/22</a></h2>
+			</header>
+			<img alt='' src='http://2.gravatar.com/avatar/b79ad2546d73e90ea290d12e73873fab?s=48&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/b79ad2546d73e90ea290d12e73873fab?s=96&amp;d=mm&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' />		</div><!-- .entry-header -->
+
+		<div class="entry-content">
+			<!-- AddThis Sharing Buttons above -->
+                <div class="addthis_toolbox addthis_default_style addthis_32x32_style" addthis:url='http://www.حراز.com/2014/03/22/%d9%87%d9%84-%d8%aa%d8%b5%d8%a8%d8%ad-%d8%a7%d9%84%d8%ac%d9%8a%d9%88%d8%b4-%d8%b9%d9%84%d8%a9-%d9%81%d9%8a-%d8%a3%d9%88%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%84%d9%85%d8%9f/' addthis:title='هل تصبح الجيوش عالة في أوقات السلم؟' >
+                    <a class="addthis_button_preferred_1"></a>
+                    <a class="addthis_button_preferred_2"></a>
+                    <a class="addthis_button_preferred_3"></a>
+                    <a class="addthis_button_preferred_4"></a>
+                    <a class="addthis_button_compact"></a>
+                    <a class="addthis_counter addthis_bubble_style"></a>
+                </div><p style="text-align: right;">في أوقات السلم تصبح الجيوش عاله علي الإقتصاد والمجتمع، لذلك تقوم هذه الجيوش بإستغلال بعض مواردها في مجال البحث العلمي وتطوير التكنولوجيا والسلاح حتي تصل لمرحلة الإنتاج و الربح من الخارج و ليس من الداخل. أما في الدول المتعسكرة فهناك تبرير دائم وغير قابل للنقاش يبرر الإنفاق علي الأسلحة وتجنيد الشباب بدون فائده وبأجر بخس و الإستحواذ علي الأراضي إلخ إلخ. ففي الدول المتخلفة عن الحضارة، فكرة الملكية الشخصية و الفردية والتعددية غير مهمة بل غريبة، وتصبح الموئسسات الأمنية المسلحة كلجيش والشرطة ذات قيمة عالية علي حساب المؤسسات المدنية المنتجة إذ اتيحت لها الفرصة و سوق الحر، يوجد به قوانين تحارب الفساد الإحتكار و تحاسب أي مؤسسه كانت أو فرد كان دون إنحياز. تفرض المؤسسات المسلحة هيمنتها علي معظم الموارد الطبيعية والبشرية وتحتكر الأسواق بطبيعتها الإدارية المتسلطة، مخلفة ورأها مناخ فارغ من الإبداع أو التصور أو الفكر، و هي أجواء لا توجد إلا في مجتمعات السلطة المدنية لها فيها الشأن الأكبر، وتسيطر علي المؤسسات العسكرية، كما هو الحال في الدول الصناعية الكبري التي سبقت، أدركت أن الحكومات العسكرية لا فادة منها في هذا الزمان</p>
+<script data-cfasync="false" type="text/javascript">
+var addthis_config = {"data_track_clickback":true,"ui_atversion":300,"data_track_addressbar":true,"ignore_server_config":true};
+var addthis_share = {};
+</script>
+                <!-- AddThis Settings Begin -->
+                <script data-cfasync="false" type="text/javascript">
+                    var addthis_product = "wpp-5.3.1";
+                    var wp_product_version = "wpp-5.3.1";
+                    var wp_blog_version = "4.4.21";
+                    var addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","cms_version":"4.4.21","plugin_name":"Share Buttons by AddThis","plugin_version":"5.3.1","anonymous_profile_id":"wp-8e0545266820a8fd195bc5ecfc3fa0c8","plugin_mode":"WordPress","select_prefs":{"addthis_per_post_enabled":true,"addthis_above_enabled":true,"addthis_below_enabled":true,"addthis_sidebar_enabled":false,"addthis_mobile_toolbar_enabled":false,"addthis_above_showon_home":true,"addthis_below_showon_home":true,"addthis_above_showon_pages":true,"addthis_below_showon_pages":true,"addthis_above_showon_categories":false,"addthis_below_showon_categories":false,"addthis_above_showon_archives":false,"addthis_below_showon_archives":false,"addthis_above_showon_posts":true,"addthis_above_showon_excerpts":true,"addthis_below_showon_posts":true,"addthis_below_showon_excerpts":true,"addthis_sidebar_showon_home":true,"addthis_sidebar_showon_posts":true,"addthis_sidebar_showon_pages":true,"addthis_sidebar_showon_archives":true,"addthis_sidebar_showon_categories":true,"addthis_mobile_toolbar_showon_home":true,"addthis_mobile_toolbar_showon_posts":true,"addthis_mobile_toolbar_showon_pages":true,"addthis_mobile_toolbar_showon_archives":true,"addthis_mobile_toolbar_showon_categories":true,"sharing_enabled_on_post_via_metabox":true},"page_info":{"template":"home","post_type":""}};
+                    if (typeof(addthis_config) == "undefined") {
+                        var addthis_config = {"data_track_clickback":true,"ui_atversion":300,"data_track_addressbar":true,"ignore_server_config":true};
+                    }
+                    if (typeof(addthis_share) == "undefined") {
+                        var addthis_share = {};
+                    }
+                    if (typeof(addthis_layers) == "undefined") {
+                        var addthis_layers = {};
+                    }
+                </script>
+                <script
+                    data-cfasync="false"
+                    type="text/javascript"
+                    src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-520b054619ec8cdb "
+                    async="async"
+                >
+                </script>
+                <script data-cfasync="false" type="text/javascript">
+                    (function() {
+                        var at_interval = setInterval(function () {
+                            if(window.addthis) {
+                                clearInterval(at_interval);
+                                addthis.layers(addthis_layers);
+                            }
+                        },1000)
+                    }());
+                </script>
+                <!-- AddThis Sharing Buttons below -->
+                <div class="addthis_toolbox addthis_default_style " addthis:url='http://www.حراز.com/2014/03/22/%d9%87%d9%84-%d8%aa%d8%b5%d8%a8%d8%ad-%d8%a7%d9%84%d8%ac%d9%8a%d9%88%d8%b4-%d8%b9%d9%84%d8%a9-%d9%81%d9%8a-%d8%a3%d9%88%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%84%d9%85%d8%9f/' addthis:title='هل تصبح الجيوش عالة في أوقات السلم؟'  >
+                    <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                    <a class="addthis_button_tweet"></a>
+                    <a class="addthis_button_pinterest_pinit"></a>
+                    <a class="addthis_counter addthis_pill_style"></a>
+                </div>		</div><!-- .entry-content -->
+
+		<footer class="entry-meta">
+								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-228" class="post-228 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized tag-13">
+				<header class="entry-header">
+			<img width="500" height="340" src="http://www.xn--mgblmf.com/wp-content/uploads/2013/05/DSC_0479-500x340.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="DSC_0479" />
+						<h1 class="entry-title">
+				<a href="http://www.حراز.com/2013/11/08/%d8%a7%d9%84%d9%87%d9%86%d8%af-%d9%84%d9%85-%d9%8a%d8%ad%d9%83%d9%85%d9%87%d8%a7-%d8%b9%d8%b3%d9%83%d8%b1%d9%8a-%d9%88%d8%a7%d8%ad%d8%af-%d9%85%d9%86%d8%b0-%d8%a5%d8%b3%d8%aa%d9%82%d9%84%d8%a7%d9%84/" rel="bookmark">الهند لم يحكمها عسكري واحد منذ إستقلالها عن حكم  بريطانيا عام ١٩</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<!-- AddThis Sharing Buttons above -->
+                <div class="addthis_toolbox addthis_default_style addthis_32x32_style" addthis:url='http://www.حراز.com/2013/11/08/%d8%a7%d9%84%d9%87%d9%86%d8%af-%d9%84%d9%85-%d9%8a%d8%ad%d9%83%d9%85%d9%87%d8%a7-%d8%b9%d8%b3%d9%83%d8%b1%d9%8a-%d9%88%d8%a7%d8%ad%d8%af-%d9%85%d9%86%d8%b0-%d8%a5%d8%b3%d8%aa%d9%82%d9%84%d8%a7%d9%84/' addthis:title='الهند لم يحكمها عسكري واحد منذ إستقلالها عن حكم  بريطانيا عام ١٩' >
+                    <a class="addthis_button_preferred_1"></a>
+                    <a class="addthis_button_preferred_2"></a>
+                    <a class="addthis_button_preferred_3"></a>
+                    <a class="addthis_button_preferred_4"></a>
+                    <a class="addthis_button_compact"></a>
+                    <a class="addthis_counter addthis_bubble_style"></a>
+                </div><p dir="rtl" style="text-align: right;">الهند لم يحكمها عسكري واحد منذ إستقلالها عن حكم  بريطانيا عام ١٩٦١. حكمها من الأكفاء الهنود الهندوسي والمسلم وسيدة من كل الخبرات والخلفيات المدنية لتصبح أكبر ديمقراطية في العالم</p>
+<p dir="rtl" style="text-align: right;">لذلك:</p>
+<ul>
+<li style="text-align: right;">الهند ستصبح رابع دولة تذهب إلي المريخ بعد أمريكا وروسيا والإتحاد الأوروبي وبعد أن فشلت اليابان والصين</li>
+<li style="text-align: right;">الهند تمتلك أموال وأصول هائلة في أنحاء العالم</li>
+<li style="text-align: right;">الهند تصدر العمالة المتعلمة لكل العالم تقريباً ويعودوا بالعملة الصعبة لبلادهم</li>
+<li style="text-align: right;">الهند تصنع الدواء والأمصال</li>
+<li style="text-align: right;">الهند تنصع السيارات ولو رديئة (تكتوك أو أتوريكشا)</li>
+<li style="text-align: right;">الهند تصنع السلاح والطائرات</li>
+<li style="text-align: right;">الهند تمتلك أسطول بحري تجاري يجوب العالم</li>
+<li style="text-align: right;">الهند لها حضارة أكثر من ٧٠٠٠ سنة و بحق قوة بدون منظرة</li>
+<li style="text-align: right;">الهند تسعي لتعليم وتنوير  الناس</li>
+<li style="text-align: right;">الهند علي الطريق الصحيح لتصبح دولة عظمي حتي وإن طال الوقت و كثرة الفساد، فالتعليم خير مبيد للفساد</li>
+<li style="text-align: right;">وللمفارقة، أكثر الهنود يعبدون الأصنام ويؤمنون بالخرافات ، وهذا أكبر دليل علي أن الله  سبحانه وتعالى خلق الدنيا بقواعد وسنن كونية تجري علي كل العباد، من أهمها &#8220;من جد وجد ومن زرع حصد&#8221; بغض النظر عن اللون الديانة القومية القبيلة إلخ ألخ</li>
+</ul>
+<p dir="rtl" style="text-align: right;">
+<!-- AddThis Sharing Buttons below -->
+                <div class="addthis_toolbox addthis_default_style " addthis:url='http://www.حراز.com/2013/11/08/%d8%a7%d9%84%d9%87%d9%86%d8%af-%d9%84%d9%85-%d9%8a%d8%ad%d9%83%d9%85%d9%87%d8%a7-%d8%b9%d8%b3%d9%83%d8%b1%d9%8a-%d9%88%d8%a7%d8%ad%d8%af-%d9%85%d9%86%d8%b0-%d8%a5%d8%b3%d8%aa%d9%82%d9%84%d8%a7%d9%84/' addthis:title='الهند لم يحكمها عسكري واحد منذ إستقلالها عن حكم  بريطانيا عام ١٩'  >
+                    <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                    <a class="addthis_button_tweet"></a>
+                    <a class="addthis_button_pinterest_pinit"></a>
+                    <a class="addthis_counter addthis_pill_style"></a>
+                </div>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://www.حراز.com/category/uncategorized/" rel="category tag">Uncategorized</a> and tagged <a href="http://www.حراز.com/tag/%d8%a7%d9%84%d9%87%d9%86%d8%af/" rel="tag">الهند</a> on <a href="http://www.حراز.com/2013/11/08/%d8%a7%d9%84%d9%87%d9%86%d8%af-%d9%84%d9%85-%d9%8a%d8%ad%d9%83%d9%85%d9%87%d8%a7-%d8%b9%d8%b3%d9%83%d8%b1%d9%8a-%d9%88%d8%a7%d8%ad%d8%af-%d9%85%d9%86%d8%b0-%d8%a5%d8%b3%d8%aa%d9%82%d9%84%d8%a7%d9%84/" title="11:05 pm" rel="bookmark"><time class="entry-date" datetime="2013-11-08T23:05:00+00:00">2013/11/08</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.حراز.com/author/harrazgmail-com/" title="View all posts by harraz@gmail.com" rel="author">harraz@gmail.com</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-219" class="post-219 post type-post status-publish format-status has-post-thumbnail hentry category-uncategorized post_format-post-format-status">
+		<div class="entry-header">
+			<header>
+				<h1>harraz@gmail.com</h1>
+				<h2><a href="http://www.حراز.com/2013/09/12/%d8%b3%d9%8a%d8%b9%d9%8a%d8%af-%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae-%d9%86%d9%81%d8%b3%d9%87-%d9%88%d9%8a%d8%b7%d9%84%d8%a8-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%88%d9%86-%d9%85%d9%86-%d8%a7/" title="Permalink to سيعيد التاريخ نفسه ويطلب المصريون من السيسي أن يكون رئيساً لمصر" rel="bookmark">2013/09/12</a></h2>
+			</header>
+			<img alt='' src='http://2.gravatar.com/avatar/b79ad2546d73e90ea290d12e73873fab?s=48&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/b79ad2546d73e90ea290d12e73873fab?s=96&amp;d=mm&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' />		</div><!-- .entry-header -->
+
+		<div class="entry-content">
+			<!-- AddThis Sharing Buttons above -->
+                <div class="addthis_toolbox addthis_default_style addthis_32x32_style" addthis:url='http://www.حراز.com/2013/09/12/%d8%b3%d9%8a%d8%b9%d9%8a%d8%af-%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae-%d9%86%d9%81%d8%b3%d9%87-%d9%88%d9%8a%d8%b7%d9%84%d8%a8-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%88%d9%86-%d9%85%d9%86-%d8%a7/' addthis:title='سيعيد التاريخ نفسه ويطلب المصريون من السيسي أن يكون رئيساً لمصر' >
+                    <a class="addthis_button_preferred_1"></a>
+                    <a class="addthis_button_preferred_2"></a>
+                    <a class="addthis_button_preferred_3"></a>
+                    <a class="addthis_button_preferred_4"></a>
+                    <a class="addthis_button_compact"></a>
+                    <a class="addthis_counter addthis_bubble_style"></a>
+                </div><p dir="rtl" style="text-align: right;">قلت هذا الكلام من قبل و كان الكثير من مؤيدي عزل مرسي يقولوا لي- مش ممكن أبداً هو الشعب أهبل؟ مستحيييل- حتي ظهرت علينا &#8220;حركه كميل جميلك&#8221; بعد أن أتحفتنا &#8220;تمرد&#8221;</p>
+<p dir="rtl" style="text-align: right;">بعد هزيمة/نكسة ٧٦ بأيام قاليلة جداً، أعلن جمال عبد الناصر تنحيه عن زعامة مصر، ولا ندري أنه كان بإمكانه التنحي إذا شاء أساسا.</p>
+<p dir="rtl" style="text-align: right;">بعاطفية معهودة عندنا و في غير محلها كالعادة،قام الشعب متظاهراً يرفض تنحيه ويطالب ابقاؤه كرئيس للجمهورية العربية المتحدة (مصر)، فهو الزعيم الأوحد في نظر المصرين، والعرب  أن ذاك بلا منازع.  مات عبد الناصر، كما أن مصر لم تتغير سياسياً علي الأقل منذ الستينات، ولذلك، اتوقع أن يعيد التاريخ نفسه ويطلب المصريون من السيسي أن يكون رئيساً لمصر &#8220;تفويض اتوماتيكي يعني&#8221;، علي العلم أنه قال لا أريد أن أكون رئيس. سيتمنع السيسي قليلاً، و ستقع الجماهير في غرامه أكثر وتبدأ ماكينة الإعلام في توجيه المزاج العام و تخوين من يعارض الحكم العسكري، ستظهر بعض الخروقات الأمنية لترجيح الكفة و إخافة الشارع من الإرهاب، سيطربنا محمد فؤاد وشعبان عبد الرحيم بأغاني وطنية  إلخ إلخ..، و فجأة سيظهر السيسي علي القناه الأولي المصرية مبتسماً،  يقول كماقال أيام التفويض &#8220;لقد ناداني الشعب و ها أنا البي النداء&#8221;</p>
+<p dir="rtl" style="text-align: right;"> السؤال: هل تعلم الشعب اء شيء؟</p>
+<p style="text-align: right;"> النهاية</p>
+<!-- AddThis Sharing Buttons below -->
+                <div class="addthis_toolbox addthis_default_style " addthis:url='http://www.حراز.com/2013/09/12/%d8%b3%d9%8a%d8%b9%d9%8a%d8%af-%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae-%d9%86%d9%81%d8%b3%d9%87-%d9%88%d9%8a%d8%b7%d9%84%d8%a8-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%88%d9%86-%d9%85%d9%86-%d8%a7/' addthis:title='سيعيد التاريخ نفسه ويطلب المصريون من السيسي أن يكون رئيساً لمصر'  >
+                    <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                    <a class="addthis_button_tweet"></a>
+                    <a class="addthis_button_pinterest_pinit"></a>
+                    <a class="addthis_counter addthis_pill_style"></a>
+                </div>		</div><!-- .entry-content -->
+
+		<footer class="entry-meta">
+								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-217" class="post-217 post type-post status-publish format-status hentry category-uncategorized post_format-post-format-status">
+		<div class="entry-header">
+			<header>
+				<h1>harraz@gmail.com</h1>
+				<h2><a href="http://www.حراز.com/2013/09/01/nasser-is-gone-now-also-egypt-hasnt-changed-much-since-the-60s/" title="Permalink to Nasser is gone now, also Egypt hasn&#8217;t changed much since the 60s." rel="bookmark">2013/09/01</a></h2>
+			</header>
+			<img alt='' src='http://2.gravatar.com/avatar/b79ad2546d73e90ea290d12e73873fab?s=48&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/b79ad2546d73e90ea290d12e73873fab?s=96&amp;d=mm&amp;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' />		</div><!-- .entry-header -->
+
+		<div class="entry-content">
+			<!-- AddThis Sharing Buttons above -->
+                <div class="addthis_toolbox addthis_default_style addthis_32x32_style" addthis:url='http://www.حراز.com/2013/09/01/nasser-is-gone-now-also-egypt-hasnt-changed-much-since-the-60s/' addthis:title='Nasser is gone now, also Egypt hasn&#8217;t changed much since the 60s.' >
+                    <a class="addthis_button_preferred_1"></a>
+                    <a class="addthis_button_preferred_2"></a>
+                    <a class="addthis_button_preferred_3"></a>
+                    <a class="addthis_button_preferred_4"></a>
+                    <a class="addthis_button_compact"></a>
+                    <a class="addthis_counter addthis_bubble_style"></a>
+                </div><p><span style="font-family: sans-serif; font-size: small;">Gamal Abdul Nasser resigned after Arab defeats of 1967, but popular demonstrations brought him back to power. Nasser is gone now, also Egypt hasn&#8217;t changed much since the 60s. I expect popular demonstrations next year to keep El Sisi in power, and demands to make him president, El Sisi will say I don&#8217;t want to be the president, but since the Egyptian people called on me, I will answer the call for duty. End of story, and end of the Jan/25 dream</span></p>
+<!-- AddThis Sharing Buttons below -->
+                <div class="addthis_toolbox addthis_default_style " addthis:url='http://www.حراز.com/2013/09/01/nasser-is-gone-now-also-egypt-hasnt-changed-much-since-the-60s/' addthis:title='Nasser is gone now, also Egypt hasn&#8217;t changed much since the 60s.'  >
+                    <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                    <a class="addthis_button_tweet"></a>
+                    <a class="addthis_button_pinterest_pinit"></a>
+                    <a class="addthis_counter addthis_pill_style"></a>
+                </div>		</div><!-- .entry-content -->
+
+		<footer class="entry-meta">
+								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-209" class="post-209 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+				<header class="entry-header">
+			<img width="304" height="403" src="http://www.xn--mgblmf.com/wp-content/uploads/2013/08/1000460_10151705714436842_381650006_n.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="1000460_10151705714436842_381650006_n" srcset="http://www.xn--mgblmf.com/wp-content/uploads/2013/08/1000460_10151705714436842_381650006_n-226x300.jpg 226w, http://www.xn--mgblmf.com/wp-content/uploads/2013/08/1000460_10151705714436842_381650006_n.jpg 304w" sizes="(max-width: 304px) 100vw, 304px" />
+						<h1 class="entry-title">
+				<a href="http://www.حراز.com/2013/08/14/%d8%b3%d9%8a%d8%b0%d9%83%d8%b1-%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae-%d8%a3%d9%86-%d9%87%d8%b0%d8%a7-%d8%a7%d9%84%d9%8a%d9%88%d9%85-%d9%87%d9%88-%d9%85%d8%af%d8%ae%d9%84-%d8%b7%d8%b1%d9%8a%d9%82/" rel="bookmark">سيذكر التاريخ أن هذا اليوم هو مدخل طريق ألا عودة الدائري</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<!-- AddThis Sharing Buttons above -->
+                <div class="addthis_toolbox addthis_default_style addthis_32x32_style" addthis:url='http://www.حراز.com/2013/08/14/%d8%b3%d9%8a%d8%b0%d9%83%d8%b1-%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae-%d8%a3%d9%86-%d9%87%d8%b0%d8%a7-%d8%a7%d9%84%d9%8a%d9%88%d9%85-%d9%87%d9%88-%d9%85%d8%af%d8%ae%d9%84-%d8%b7%d8%b1%d9%8a%d9%82/' addthis:title='سيذكر التاريخ أن هذا اليوم هو مدخل طريق ألا عودة الدائري' >
+                    <a class="addthis_button_preferred_1"></a>
+                    <a class="addthis_button_preferred_2"></a>
+                    <a class="addthis_button_preferred_3"></a>
+                    <a class="addthis_button_preferred_4"></a>
+                    <a class="addthis_button_compact"></a>
+                    <a class="addthis_counter addthis_bubble_style"></a>
+                </div><p style="text-align: right;">سيذكر التاريخ أن هذا اليوم هو مدخل طريق ألا عودة الدائري. لا أعتقد أن ما حدث اليوم في ميدان رابعة والنهضة، سوف يمر مر الكرام، فمن يعتقد أن كل المعارضين اخوان فهو في غيبوبة وحتي لو كانوا اخوان هذه ليست المشكلة ، إن لم يتجه الإسلامين &#8211;  من من تم التعامل معهم بالعنف اليوم والمتعاطفين معهم &#8211; للعنف جراء ماحدث  وأتمني أن لا يحدث ذلك، ما هو الخيار الثاني لهم؟ صناديق الإقتراع؟ لا أعتقد أن الصناديق تحترم في مصر، فما الضمان إذا خاضوا الإنتخابات وكسبوا مرة أخرى أن لا تأتي حركة تمرد ٢ علي ظهر الدبابة كما فعلت حركة تمرد  ١؟</p>
+<!-- AddThis Sharing Buttons below -->
+                <div class="addthis_toolbox addthis_default_style " addthis:url='http://www.حراز.com/2013/08/14/%d8%b3%d9%8a%d8%b0%d9%83%d8%b1-%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae-%d8%a3%d9%86-%d9%87%d8%b0%d8%a7-%d8%a7%d9%84%d9%8a%d9%88%d9%85-%d9%87%d9%88-%d9%85%d8%af%d8%ae%d9%84-%d8%b7%d8%b1%d9%8a%d9%82/' addthis:title='سيذكر التاريخ أن هذا اليوم هو مدخل طريق ألا عودة الدائري'  >
+                    <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                    <a class="addthis_button_tweet"></a>
+                    <a class="addthis_button_pinterest_pinit"></a>
+                    <a class="addthis_counter addthis_pill_style"></a>
+                </div>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://www.حراز.com/category/uncategorized/" rel="category tag">Uncategorized</a> on <a href="http://www.حراز.com/2013/08/14/%d8%b3%d9%8a%d8%b0%d9%83%d8%b1-%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae-%d8%a3%d9%86-%d9%87%d8%b0%d8%a7-%d8%a7%d9%84%d9%8a%d9%88%d9%85-%d9%87%d9%88-%d9%85%d8%af%d8%ae%d9%84-%d8%b7%d8%b1%d9%8a%d9%82/" title="11:17 pm" rel="bookmark"><time class="entry-date" datetime="2013-08-14T23:17:12+00:00">2013/08/14</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.حراز.com/author/harrazgmail-com/" title="View all posts by harraz@gmail.com" rel="author">harraz@gmail.com</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-207" class="post-207 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+				<header class="entry-header">
+			<img width="304" height="403" src="http://www.xn--mgblmf.com/wp-content/uploads/2013/08/1000460_10151705714436842_381650006_n.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="1000460_10151705714436842_381650006_n" srcset="http://www.xn--mgblmf.com/wp-content/uploads/2013/08/1000460_10151705714436842_381650006_n-226x300.jpg 226w, http://www.xn--mgblmf.com/wp-content/uploads/2013/08/1000460_10151705714436842_381650006_n.jpg 304w" sizes="(max-width: 304px) 100vw, 304px" />
+						<h1 class="entry-title">
+				<a href="http://www.حراز.com/2013/08/14/%d9%84%d9%85-%d9%8a%d8%af%d8%b1%d9%83%d9%88%d8%a7-%d8%a8%d8%a3%d9%86%d9%87%d9%85-%d9%83%d8%a7%d9%86%d9%88%d8%a7-%d8%b9%d9%84%d9%8a-%d8%ae%d8%b7%d8%a3-%d8%a5%d9%84%d8%a7-%d8%a8%d8%b9%d8%af-60-%d8%b3/" rel="bookmark">لم يدركوا بأنهم كانوا علي خطأ إلا بعد 60 سنة</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<!-- AddThis Sharing Buttons above -->
+                <div class="addthis_toolbox addthis_default_style addthis_32x32_style" addthis:url='http://www.حراز.com/2013/08/14/%d9%84%d9%85-%d9%8a%d8%af%d8%b1%d9%83%d9%88%d8%a7-%d8%a8%d8%a3%d9%86%d9%87%d9%85-%d9%83%d8%a7%d9%86%d9%88%d8%a7-%d8%b9%d9%84%d9%8a-%d8%ae%d8%b7%d8%a3-%d8%a5%d9%84%d8%a7-%d8%a8%d8%b9%d8%af-60-%d8%b3/' addthis:title='لم يدركوا بأنهم كانوا علي خطأ إلا بعد 60 سنة' >
+                    <a class="addthis_button_preferred_1"></a>
+                    <a class="addthis_button_preferred_2"></a>
+                    <a class="addthis_button_preferred_3"></a>
+                    <a class="addthis_button_preferred_4"></a>
+                    <a class="addthis_button_compact"></a>
+                    <a class="addthis_counter addthis_bubble_style"></a>
+                </div><p style="text-align: right;">عندما إنقلب الجيش علي الملكية ثم قرر الملك التنحي، لم يدرك الكثير من الذين باركوا وفوضوا وارتموا في الأحضان و أنشدوا الأناشيد وعلقوا الصور واصابتهم اليوفوريا فسموا ابناءهم علي أسماء الضباط وما إلي ذلك من المواقف، لم يدرك هؤلاء أنهم كانوا علي خطأ إلا بعد 60 سنة، فكثيراً ما سمعت ناس أعرفهم ولا أعرفهم يرددون &#8220;ولا يوم من أيام الملك&#8221;. للأسف ولحسن حظهم لم يكن هناك تويتر أو فيسبوك حتي نطلع علي ما كان في التايم لين&#8221;timeline&#8221; تبعهم، طبعاً كان لهم يد في ما وصلنا إليه اليوم!</p>
+<p style="text-align: right;">هذا عن الماضي، أما في المستقبل وبعد أن تنكشف الحقيقة مرة أخري كما ظهرت بعد 60 عام! فسيطلب الكثير من أفراد الشعب من فيسبوك إمكانية أو زر لإزالة تعليقاتهم ومشاركاتهم التي قد تفضح ما كانو عليه اليوم من عاطفية في غير محلها، أو تعصب أو شماتة أو إنحياز أعمي أوقلة صبر أو قصر نظر وترديد لما هو غير موثق، و- إلخ إلخ. فسيصعب علي هؤلاء الناس إزالة كل هذه التعليقات من كثرتها، و ستظل هذه التعلقات موجودة وصمة عار علي الفيسبوك</p>
+<p style="text-align: right;">محمد ف. حراز</p>
+<!-- AddThis Sharing Buttons below -->
+                <div class="addthis_toolbox addthis_default_style " addthis:url='http://www.حراز.com/2013/08/14/%d9%84%d9%85-%d9%8a%d8%af%d8%b1%d9%83%d9%88%d8%a7-%d8%a8%d8%a3%d9%86%d9%87%d9%85-%d9%83%d8%a7%d9%86%d9%88%d8%a7-%d8%b9%d9%84%d9%8a-%d8%ae%d8%b7%d8%a3-%d8%a5%d9%84%d8%a7-%d8%a8%d8%b9%d8%af-60-%d8%b3/' addthis:title='لم يدركوا بأنهم كانوا علي خطأ إلا بعد 60 سنة'  >
+                    <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                    <a class="addthis_button_tweet"></a>
+                    <a class="addthis_button_pinterest_pinit"></a>
+                    <a class="addthis_counter addthis_pill_style"></a>
+                </div>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://www.حراز.com/category/uncategorized/" rel="category tag">Uncategorized</a> on <a href="http://www.حراز.com/2013/08/14/%d9%84%d9%85-%d9%8a%d8%af%d8%b1%d9%83%d9%88%d8%a7-%d8%a8%d8%a3%d9%86%d9%87%d9%85-%d9%83%d8%a7%d9%86%d9%88%d8%a7-%d8%b9%d9%84%d9%8a-%d8%ae%d8%b7%d8%a3-%d8%a5%d9%84%d8%a7-%d8%a8%d8%b9%d8%af-60-%d8%b3/" title="7:56 pm" rel="bookmark"><time class="entry-date" datetime="2013-08-14T19:56:12+00:00">2013/08/14</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.حراز.com/author/harrazgmail-com/" title="View all posts by harraz@gmail.com" rel="author">harraz@gmail.com</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-193" class="post-193 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+				<header class="entry-header">
+			<img width="500" height="340" src="http://www.xn--mgblmf.com/wp-content/uploads/2013/05/trip2egypt2008_055-500x340.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="trip2egypt2008_055" />
+						<h1 class="entry-title">
+				<a href="http://www.حراز.com/2013/08/11/%d8%b7%d8%b1%d9%8a%d9%82-%d8%a7%d9%84%d8%a3%d9%84%d9%81-%d9%85%d9%8a%d9%84-%d9%8a%d8%a8%d8%af%d8%a3-%d8%a8%d8%ae%d8%b7%d9%88%d8%a9-%d9%88%d9%84%d9%88-%d9%85%d8%aa%d8%b9%d8%ab%d8%b1%d8%a9-%d8%b7%d8%a7/" rel="bookmark">طريق الألف ميل يبدأ بخطوة ولو متعثرة طالما كانت في الإتجاه الصحيح</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<!-- AddThis Sharing Buttons above -->
+                <div class="addthis_toolbox addthis_default_style addthis_32x32_style" addthis:url='http://www.حراز.com/2013/08/11/%d8%b7%d8%b1%d9%8a%d9%82-%d8%a7%d9%84%d8%a3%d9%84%d9%81-%d9%85%d9%8a%d9%84-%d9%8a%d8%a8%d8%af%d8%a3-%d8%a8%d8%ae%d8%b7%d9%88%d8%a9-%d9%88%d9%84%d9%88-%d9%85%d8%aa%d8%b9%d8%ab%d8%b1%d8%a9-%d8%b7%d8%a7/' addthis:title='طريق الألف ميل يبدأ بخطوة ولو متعثرة طالما كانت في الإتجاه الصحيح' >
+                    <a class="addthis_button_preferred_1"></a>
+                    <a class="addthis_button_preferred_2"></a>
+                    <a class="addthis_button_preferred_3"></a>
+                    <a class="addthis_button_preferred_4"></a>
+                    <a class="addthis_button_compact"></a>
+                    <a class="addthis_counter addthis_bubble_style"></a>
+                </div><p style="text-align: right;">من خصائص المجتمع المدني الحر الذي ينتج مبتكرين، و مخترعين، ومبدعين وقادة فكر عالميين ومواطنون علي مستوي .أن الإنسان في هذا المجتمع له مبدأ ورأي مبنيان علي فكر ثم قناعة شخصية، و ليس مبني علي ما يردده الأخرين أو ما تتواتره وسائل الإعلام أو ضغط المجتمع الذي يعيش فيه او العاطفة البحتة الغير موضوعة في محلها وزمانها، كعاطفة الوطنية والدين والقبيلة وما إلا ذلك من المشاعر و- الأحاسيس القوية التي تؤثر علي أي فرد منا. وأثبتت التجربة الإنسانية المعاصرة والواقع الذي نعيشه أن الشعوب المتقدمة (ألمانيا، اليابان، ماليسيا، الولايات المتحدة، تركيا، ألخ إلخ) القاسم المشترك بينها هو أن السلطة في يد المدنيين بكامل مؤسساتها بما فيها المؤسسة العسكرية والشرطة كمؤسسة مدنية محايدة وبعيدة عن السياسة. من السهل أن نقول أن مصر ليست جاهزة للحكم المدني، وهذا كلام سلبي وغير بناء، فطريق الألف ميل يبدأ بخطوة ولو متعثرة طالما كانت في الإتجاه الصحيح، لذلك يجب الصبر علي ما نحن فيه الأن فللحرية والتقدم ثمن دفعته أمم كثيرة وعلينا أن نفهم ذلك</p>
+<!-- AddThis Sharing Buttons below -->
+                <div class="addthis_toolbox addthis_default_style " addthis:url='http://www.حراز.com/2013/08/11/%d8%b7%d8%b1%d9%8a%d9%82-%d8%a7%d9%84%d8%a3%d9%84%d9%81-%d9%85%d9%8a%d9%84-%d9%8a%d8%a8%d8%af%d8%a3-%d8%a8%d8%ae%d8%b7%d9%88%d8%a9-%d9%88%d9%84%d9%88-%d9%85%d8%aa%d8%b9%d8%ab%d8%b1%d8%a9-%d8%b7%d8%a7/' addthis:title='طريق الألف ميل يبدأ بخطوة ولو متعثرة طالما كانت في الإتجاه الصحيح'  >
+                    <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                    <a class="addthis_button_tweet"></a>
+                    <a class="addthis_button_pinterest_pinit"></a>
+                    <a class="addthis_counter addthis_pill_style"></a>
+                </div>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://www.حراز.com/category/uncategorized/" rel="category tag">Uncategorized</a> on <a href="http://www.حراز.com/2013/08/11/%d8%b7%d8%b1%d9%8a%d9%82-%d8%a7%d9%84%d8%a3%d9%84%d9%81-%d9%85%d9%8a%d9%84-%d9%8a%d8%a8%d8%af%d8%a3-%d8%a8%d8%ae%d8%b7%d9%88%d8%a9-%d9%88%d9%84%d9%88-%d9%85%d8%aa%d8%b9%d8%ab%d8%b1%d8%a9-%d8%b7%d8%a7/" title="11:48 pm" rel="bookmark"><time class="entry-date" datetime="2013-08-11T23:48:53+00:00">2013/08/11</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.حراز.com/author/harrazgmail-com/" title="View all posts by harraz@gmail.com" rel="author">harraz@gmail.com</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-163" class="post-163 post type-post status-publish format-standard has-post-thumbnail hentry category-egyptian-history tag-8 tag-9 tag-11 tag-10">
+				<header class="entry-header">
+			<img width="304" height="340" src="http://www.xn--mgblmf.com/wp-content/uploads/2013/08/akhenaten-304x340.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="akhenaten" />
+						<h1 class="entry-title">
+				<a href="http://www.حراز.com/2013/08/11/%d8%a7%d9%84%d9%81%d8%b1%d8%b9%d9%88%d9%86-%d8%a7%d9%84%d9%83%d8%a7%d9%81%d8%b1-%d8%a5%d8%ae%d9%86%d8%a7%d8%aa%d9%88%d9%86/" rel="bookmark">الفرعون الكافر &#8211; إخناتون</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<!-- AddThis Sharing Buttons above -->
+                <div class="addthis_toolbox addthis_default_style addthis_32x32_style" addthis:url='http://www.حراز.com/2013/08/11/%d8%a7%d9%84%d9%81%d8%b1%d8%b9%d9%88%d9%86-%d8%a7%d9%84%d9%83%d8%a7%d9%81%d8%b1-%d8%a5%d8%ae%d9%86%d8%a7%d8%aa%d9%88%d9%86/' addthis:title='الفرعون الكافر &#8211; إخناتون' >
+                    <a class="addthis_button_preferred_1"></a>
+                    <a class="addthis_button_preferred_2"></a>
+                    <a class="addthis_button_preferred_3"></a>
+                    <a class="addthis_button_preferred_4"></a>
+                    <a class="addthis_button_compact"></a>
+                    <a class="addthis_counter addthis_bubble_style"></a>
+                </div><h2 dir="rtl" id="docs-internal-guid-6d957c85-6bbe-c44b-48bf-f87d688a99de" style="text-align: center;">إخناتون الفرعون الملقب ب&#8221;الكافر&#8221;</h2>
+<h3 style="text-align: right;">&#8211; منبع السحر و الإعجاب الذي لا ينضب. حاكم مصري عرفنا عنه القليل</h3>
+<p dir="rtl">كثير من الناس ينجذبون  لأخناتون بسبب ديانته، و الكثير بسبب اعاجبهم بالفن الغير تقليدي الذي كان من سمات عهده. فقد قام إخناتون بتغيرات جذريه و ملحوظه في أنماط الحياه المصرية أثناء فترة حكمه،  لدرجه أنه وصف &#8220;بأول شخصيه فرديه في التاريخ&#8221;  ، بمعني أنه أول إنسان يختلف فكره عن النمط و ينجح في تغير الواقع من حوله، و لو لفتره !! و لذلك كان الشك ملازم حول خلفيه إخناتون و نواياه،  مما جعل البعض يضعه في قالب البطل و البعض الاخر في قالب الوغد الشرير الواجب إقصائه.</p>
+<p dir="rtl">تولي إخناتون عرش مصر في سنة ١٣٥٣قبل الميلاد. و كان أبوه الملك أمنحتب الثالث الذي كانت له فترة حكم مزدهرة و طويله، تتسم بالدبلوماسية و الابتعاد عن الحملات العسكرية التي كان عليها من سبقه من الملوك . توج عصر أمنحتب الثالث أب إخناتون بتشيد المعابد الفخمة في طيبه- الأقصر الآن &#8211; عاصمة الديانة في مصر القديمة، و موطن إله الدولة &#8220;أمون رع&#8221;. سمي إخناتون حينها  بأمنحتب الرابع على إسم أبوه ، و يعني إسم أمنحتب &#8220;أمون الراضي عنا&#8221;.<br />
+إبتدأ تشييد و تزيين المعابد مباشرته من أجل الملك الجديد. و لكن سرعان ما تغير ذلك، ففي خلال سنة أو إثنين، أمرالملك الجديد  بللتغييرو تشييد المعابد للإله الجديد، &#8220;آتون&#8221; إله الشمس في الكرنك بشكل مختلف جذريا من الناحية الفنية عن المعابد التقليدية، بل و غير الملك إسمه  لئخناتن تبجيلا لهذا الإله الجديد!</p>
+<p dir="rtl">تزوج إخناتون من الملكة  نفرتيتي و أنجب معها ستة بنات، كما كان لئخناتون زوجات أخريات، <a href="http://www.xn--mgblmf.com/wp-content/uploads/2013/08/nefrtity.jpg"><img class="size-thumbnail wp-image-167 alignleft" alt="nefrtity" src="http://www.xn--mgblmf.com/wp-content/uploads/2013/08/nefrtity-150x150.jpg" width="150" height="150" /></a>منهن &#8220;كيا&#8221; الغامضة التي أنجبت له توت عنخ أمون. كان لنساء البلاط دور كبير في الفن في هذه الفترة من الحكم علي وجه الخصوص، إختفت نفرتيتي من سجل التاريخ بعد حوالي ١٢ عام من بداية هذه الفترة لتظهر مر أخري في صوره غامضه قرب نهاية حكم إخناتون.</p>
+<p dir="rtl">علي مدار العصور، عبد المصريون زمرة من الآلهة المتمثلة في أشخاص أو حيوانات أو أشخاص في أجساد الحيوانات، و كانت بعض هذه الآلهة تعبد في مدن و أماكن مختلفة و ليس بالضرره في القطر كله. أما الآلهة الشمسية كلالة &#8220;رع&#8221;، فكانت لها مكانه خاصة لما فيها من الخصائص الكونيه التي تجعل منها الإله الأليق بالدولة و ما وراء حدودها من بلاد.</p>
+<p dir="rtl">أصبحت الآلهةالشمسية مقبولة مره أخرى في المملكة الجديدة و بما فيها الإله الجديد &#8220;آتون&#8221; إله قرص الشمس المتحرك في السماء كل يوم. و ارسلت النقاشين لمحو أسماء الإله الاخري من علي  جدران  المعابد.  بل و نجح إخناتون في جعل  آتون بمثابة الإله الواحد في شكل قرص تخرج منه أشعة الشمس و في نهاية كل شعاع كف ممتد للعائله المالكة،</p>
+<p dir="rtl">كانت عقيدة إخناتون قريبة  نوعا ما من التوحيد. ففي عهدة تم تأليف  عدد من الترانييم  لتمجيد الإله &#8220;آتون&#8221; بطريقة تتسم  بالفلسفة الطبيعية. و منها: &#8220;عجائب عالم الطبيعة وصفت لتمجيدالقوى الكونية الممثله  في الشمس؛ كل المخلوقات تفرح  عندما تشرق الشمس، والامور السيئة تخرج أثناء الليل عندما تكون الشمس غير موجودة.&#8221;</p>
+<p dir="rtl">كان الملك إخناتون و عائلته يظهرون بصورة متكررة و هم يتعبدون &#8220;آتون&#8221;  أو في كنفه، فهم بمثباة حلقة الوصل بين عامة  الناس و الآلهة . لدرجة أن المصري بدا و كأنه يعب إخنآتون و عائلته بدلا من عبادة &#8220;آتون&#8221; نفسه!<a href="http://www.xn--mgblmf.com/wp-content/uploads/2013/08/220px-Aten_disk.jpg"><img class="size-thumbnail wp-image-168 alignleft" alt="220px-Aten_disk" src="http://www.xn--mgblmf.com/wp-content/uploads/2013/08/220px-Aten_disk-150x150.jpg" width="150" height="150" /></a></p>
+<p dir="rtl">قرر إخنآتون أن عبادة آتون تستوجب مكان جديد، غير ملوث بطرق عبادة آلهة آمون التقليدية، و علي غرآر ذلك إختار ماكنا جديد للعاصمة في منتصف مصر و علي الضفة الغربية للنيل ، ليس في الشمال وليس في الجنوب كما كانت طيبة وممفيس. ثم قام بتسمية المدينة &#8220;اخيتاتين&#8221; و يعني&#8221;أفق آتون&#8221; و التي تعرف  اليوم  بتل العمارنة.</p>
+<p dir="rtl" style="text-align: right;">وصفت المدينة الجديدة &#8220;اخيتاتين&#8221; بمشروع يوتوبي أو مشروع مدينة مثاليه. و هي اليوم تحتوي علي كم  كبير  من المعلومات الحفرية الدالة عن الكيفية التي كان يعيش عليها  الإنسان  المصري القديم.</p>
+<p dir="rtl" style="text-align: right;">في فترة حكمه كان إخناتون يستخدم الفن كوسيلة لتأكيد عزمه على فعل الأشياء بشكل مختلف جدا.تماثيل العمالقة من معبد آتون بالكرنك مبالغ فيها للغاية و ربما كانت بشعة  تقريبا عندما ينظر إليها في سياق شكلي،  مقارنه بالطراز الفني التقليدى الملتزم، الذي كانت عليه الأسر الملكيه في العصور  السابقة و قبل أن يولد إخناتون. بالرغم من أن هذه الطفرة الفنية  تبدو ملفتة للنظر وجميلة بشكل غريب اليوم، فإنه لمن الصعب بالنسبة لنا أن نقدر تأثير الصدمة العميقة، التي ربما وقعت على حواس المصريين الذين شهدوها  لأول مره، والذين لم يكونوا قد تعرضوا إلى أي شيء آخر غير الفن المصري التقليدي.</p>
+<p style="text-align: right;">مات إخناتون بعد  أن حكم مصر لمدة ١٧ عام،  و لم تبقي إصلاحات التي قام بها لفترة طويلة بعد  وفاته، و يبدو أن الوا صي عن الحكم &#8220;سمانخكر&#8221; و الذى لا نعرف شيئاعنه تقريبا، لم يظل في السلطة لفترة طويلة بعد وفاة إخناتون. فكان وصيا عن ابن إخناتون ولي العهد الصغير &#8220;توت عنخ آمون&#8221; الذي كان إسمه في الأصل &#8220;توت عنخ آتون&#8221; إبن إخناتون من الملكه كيا!</p>
+<p dir="rtl" style="text-align: right;">الأوصياء علي إدارة البلاد نيابة عن ولي العهد الطفل سرعان ما تخلوا عن مدينة اخيتاتين وعبادة آتون، وعادوا إلى الآلهة المصرية التقليدية والمراكز الدينية القديمة للإله آمون . تم استعادة المعابد والطقوس إلي  الآلهة التقليدية  وأغلقت الناس حتى منازلهم و عادوا  إلى العواصم القديمة في طيبة، وممفيس.</p>
+<p dir="rtl" style="text-align: right;">على مر الزمن، تحولت عملية استعادة الطقوس التقليدية لطمس على نطاق كامل في جميع الأمور المقترنة بإخناتون. تمت إزالة صورته وأسمائه من جدران  المعالم. تم تفكيك المعابد التي شيدها و إعادة استخدامها في مشروعات بناء معابد لآلهة آمون تقليدية و أكثر أرثوذكسية.</p>
+<p dir="rtl" style="text-align: right;">تهاوت مدينة اخيتاتين تدريجيا في الصحراء. تم حذف اسم إخناتون  وهؤلاء من خلفائه على الفور من قوائم الملوك  الرسمية، و فعلا  ظلت المعلومات عنه  مجهولة تقريبا حتى الاكتشافات الأثرية في تل العمارنه وفي مقبرة توت عنخ آمون. من ما جعل إخناتون بين الملوك الأكثر شهرة في عصور  مصر القديمة.</p>
+<h4 dir="rtl" id="docs-internal-guid-6d957c85-6c17-cf35-fe29-2914aa7d5cdc" style="padding-left: 30px; text-align: left;"><strong>تعرف على المزيد</strong></h4>
+<p dir="rtl" style="padding-left: 30px; text-align: left;"><a href="http://www.bbc.co.uk/history/ancient/egyptians/akhenaten_01.shtml" target="_blank">http://www.bbc.co.uk/history/ancient/egyptians/akhenaten_01.shtml</a></p>
+<p dir="rtl" style="padding-left: 30px; text-align: left;"><a title="هل كان قدماء المصريين موحدين أم وثنيين؟ د مصطفى محمود" href="http://www.youtube.com/watch?v=Y8mTRAXCexg">http://www.youtube.com/watch?v=Y8mTRAXCexg</a></p>
+<!-- AddThis Sharing Buttons below -->
+                <div class="addthis_toolbox addthis_default_style " addthis:url='http://www.حراز.com/2013/08/11/%d8%a7%d9%84%d9%81%d8%b1%d8%b9%d9%88%d9%86-%d8%a7%d9%84%d9%83%d8%a7%d9%81%d8%b1-%d8%a5%d8%ae%d9%86%d8%a7%d8%aa%d9%88%d9%86/' addthis:title='الفرعون الكافر &#8211; إخناتون'  >
+                    <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                    <a class="addthis_button_tweet"></a>
+                    <a class="addthis_button_pinterest_pinit"></a>
+                    <a class="addthis_counter addthis_pill_style"></a>
+                </div>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://www.حراز.com/category/egyptian-history/" rel="category tag">Egyptian History</a> and tagged <a href="http://www.حراز.com/tag/%d8%a2%d8%aa%d9%88%d9%86/" rel="tag">آتون</a>, <a href="http://www.حراز.com/tag/%d8%a5%d8%ae%d9%86%d8%a7%d8%aa%d9%88%d9%86/" rel="tag">إخناتون</a>, <a href="http://www.حراز.com/tag/%d8%a7%d8%ae%d9%8a%d8%aa%d8%a7%d8%aa%d9%8a%d9%86/" rel="tag">اخيتاتين</a>, <a href="http://www.حراز.com/tag/%d8%aa%d9%88%d8%aa-%d8%b9%d9%86%d8%ae-%d8%a2%d8%aa%d9%88%d9%86/" rel="tag">توت عنخ آتون</a> on <a href="http://www.حراز.com/2013/08/11/%d8%a7%d9%84%d9%81%d8%b1%d8%b9%d9%88%d9%86-%d8%a7%d9%84%d9%83%d8%a7%d9%81%d8%b1-%d8%a5%d8%ae%d9%86%d8%a7%d8%aa%d9%88%d9%86/" title="1:08 am" rel="bookmark"><time class="entry-date" datetime="2013-08-11T01:08:20+00:00">2013/08/11</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.حراز.com/author/harrazgmail-com/" title="View all posts by harraz@gmail.com" rel="author">harraz@gmail.com</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-151" class="post-151 post type-post status-publish format-standard has-post-thumbnail hentry category-zachary_karabell">
+				<header class="entry-header">
+			<img width="500" height="330" src="http://www.xn--mgblmf.com/wp-content/uploads/2013/04/cropped-Building_of_Suez_Canal_Authority-1-500x330.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="cropped-Building_of_Suez_Canal_Authority-1.jpg" />
+						<h1 class="entry-title">
+				<a href="http://www.حراز.com/2013/05/24/3-%d9%85%d9%82%d8%aa%d8%b7%d9%81%d8%a7%d8%aa-%d9%85%d9%86-%d9%83%d8%aa%d8%a7%d8%a8-%d8%b4%d9%82-%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1-%d9%88-%d8%ad%d9%81%d8%b1-%d9%82%d9%86%d8%a7%d8%a9/" rel="bookmark">3 &#8211; &#8220;مقتطفات من كتاب &#8220;شق الصحراء &#8211; و حفر قناة السويس</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<!-- AddThis Sharing Buttons above -->
+                <div class="addthis_toolbox addthis_default_style addthis_32x32_style" addthis:url='http://www.حراز.com/2013/05/24/3-%d9%85%d9%82%d8%aa%d8%b7%d9%81%d8%a7%d8%aa-%d9%85%d9%86-%d9%83%d8%aa%d8%a7%d8%a8-%d8%b4%d9%82-%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1-%d9%88-%d8%ad%d9%81%d8%b1-%d9%82%d9%86%d8%a7%d8%a9/' addthis:title='3 &#8211; &#8220;مقتطفات من كتاب &#8220;شق الصحراء &#8211; و حفر قناة السويس' >
+                    <a class="addthis_button_preferred_1"></a>
+                    <a class="addthis_button_preferred_2"></a>
+                    <a class="addthis_button_preferred_3"></a>
+                    <a class="addthis_button_preferred_4"></a>
+                    <a class="addthis_button_compact"></a>
+                    <a class="addthis_counter addthis_bubble_style"></a>
+                </div><h1 dir="rtl">من تأليف Zachary Karabell<b> &#8211;<img class="alignleft" alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Muhammad_Said_Pascha_1855_Nadar.jpg/220px-Muhammad_Said_Pascha_1855_Nadar.jpg" width="154" height="223" /></b></h1>
+<p style="text-align: right;"><b id="docs-internal-guid-27c58140-632a-9508-67f9-27dc46535f44">ترجمة محمد ف. حراز</b></p>
+<h2 dir="rtl" style="text-align: center;"><a title="الخديوي سعي" href="http://en.wikipedia.org/wiki/Sa%27id_of_Egypt" target="_blank"><span style="font-size: 1em; line-height: 1.5;">الخديوي سعيد</span></a></h2>
+<p dir="rtl"><strong>قتل الوالي <a title="عباس الأول" href="http://en.wikipedia.org/wiki/Abbas_I_of_Egypt" target="_blank">عباس الأول</a> علي يد إثنين من عبيده. و لم يك هنالك  مصلحه لأحد حتي يتحري في سبب مقتله. لم يجد سعيد مقاومة تذكر للحصول علي مقاليد الحكم بعد عباس، و في خلال أسابيع كانت مصر مفتوحة للتجارة و الأعمال و المشاريع.</strong></p>
+<p dir="rtl"><strong>تحولت البلاد للداخل في عهد عباس، علي العكس في عهد سعيد الذي كان يتطلع للخارج و علي وجه الخصوص لأوروبا. حاول عباس تغير المسار الذي وضعه جده <a title="محمد علي باشا" href="http://en.wikipedia.org/wiki/Muhammad_Ali_of_Egypt" target="_blank">محمد علي باشا</a>، و في محاوله وحيدة للتحديث،أعطي عباس إمتياز لقليل من رجال الأعمال البريطانيين ليمكنهم من بناء خط سكه حديد يصل القاهرة بالإسكندرية. كان بخيلا في منح الإمتيازات، علي عكس سعيد المبذر في كل شيء يفعله.</strong></p>
+<p dir="rtl"><strong>كانت شهيه سعيد للأكل تجسيد لشخصه بوجه عام. لم يكن هناك من يكبح جماحه ، فهو لم يحيط نفسه بمستشارين يحثونه علي عدم الإسراف أو يحذرونه من منتهزي الفرص خاصة و أنه قد فتح أبواب مصر للتجارة العالمية. للأسف لم يكن هناك من يحذر سعيد من منح إمتياز أخر أو إقامة حفل مكلف أو حتي طبق مكرونه أخر. كانت نواياه سليمه و لكنه لم يدرك متي يتوقف، حتي قوضت مشاريعه النظام المالي المصري لحد أن خليفته إسماعيل لم يتمكن من فعل شئ لتصحيح المسار. ساهمت قرارات سعيد في دخول مصر في عناق قاتل مع أوروبا الأكثر قوة و جشع، لكن بدي و كأنه كان يأخذ القرارات الصحيحة أن ذاك، لتقوية بلاده و جعلها مستقله.</strong></p>
+<p dir="rtl"><strong>ولد سعيد أميرا لأم شركسية جميله فارعة الطول، كانت في  الماضي  من جواري محمد علي. قضي طفولته بين حريم البلاط الملكي ، ثم وضع تحت رعاية رجل علمه فنون القتال كركوب الخيل و الرماية و المبارزة. قبل أن يتجاوز العشرين، قضي سعيد بعض الوقت في سلاح البحرية في مهمة صممها له محمد علي باشا.و  كأي أمير، تعلم سعيد بعض القرآن و حياة النبي كما تعلم تاريخ الخلافة العربي الذهبي في كل من دمشق و بغداد. تعلم أيضا عن السلطان سليمان الكبير و إنتصارات العثمانيين تحت قيادته حتي كاد أن يكون سيد أوروبا الوسطى في يوم من الأيام.</strong></p>
+<p dir="rtl"><strong>كان عاشقا للصحراء، و يستمتع بارتداء الزي العسكري و هو يشاهد العروض و التدريبات العسكرية أمامه. من أفضل الطرق للتسلية عنده إستقبال ضيوفه في الصحراء. كانت الخيام المنمقة تنصب بدقه لتكون بمثابة بلاط متنقل ليستقبلهم و ليستطيع مشاهدة المناورات العسكرية لعدة أيام تقدم فيها الواجبات ببذخ.</strong></p>
+<p dir="rtl"><strong>سعيد لم يتلقي تعليم الأمراء التقليدي، كان له معلم فرنسي يدعي كوينج بيك، تعلم منه الفرنسية و تحدثها بطلاقه، قرأ الكلاسكياتة الفرنسية حتي اكتست شخصيته بطلاء فرنسي النكهة. زادت هذه النكهة الفرنسية قوة من خلال صداقته مع ديليسبس و هو في ما قبل العشرين من العمر،</strong></p>
+<p dir="rtl"><strong>أرسل سعيد إلى باريس في أواخر الثلاثينيات من القرن التاسع عشر، حيث قضي العديد من الأيام هائما في شوارع الحي اللاتيني . أصبح مولعا و ميال لباريس منذ الشباب و حتي توليه حكم مصر مما جعله منحاز لفرنسا طيلة الوقت.</strong></p>
+<p dir="rtl"><strong>كان سعيد &#8220;Francophile&#8221; أو كثير التعلق بالثقافة الفرنسية، فأمر بتجديد القصور التي لم تنال اهتمام في عهد عباس الأول المؤمن بالتقشف و الزهد. ملء سعيد هذه القصور بالأثاث الفاخر المصنع في ورش باريس،  و أشتري الحرائر و الدمشقيات من ليون و مرسيليا، كما جمع السير-اميك الفاخر من ليموج.</strong></p>
+<p dir="rtl"><strong>كانت الأسرة المالكة المصرية في عهد سعيد تقلد نظيراتها الأوروبية  في المظهر، أما قصر رأس التين الذي كان سعيد يقضي فيه الصيف، فقد تم إعادة تصميمه ليشبه مساكن ملوك فيينا و ميلانو.</strong></p>
+<p dir="rtl"><strong>مع كل هذا التغير الظاهر كان سعيد ضد أي تغيير سياسي. ربما كان متألق و ذو روح كريمه، فيها ولع الرفاهية و لكنه في نفس الوقت كان حاكما مستبد.</strong></p>
+<p style="text-align: right;"><strong> البقيه تأتي </strong></p>
+<!-- AddThis Sharing Buttons below -->
+                <div class="addthis_toolbox addthis_default_style " addthis:url='http://www.حراز.com/2013/05/24/3-%d9%85%d9%82%d8%aa%d8%b7%d9%81%d8%a7%d8%aa-%d9%85%d9%86-%d9%83%d8%aa%d8%a7%d8%a8-%d8%b4%d9%82-%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1-%d9%88-%d8%ad%d9%81%d8%b1-%d9%82%d9%86%d8%a7%d8%a9/' addthis:title='3 &#8211; &#8220;مقتطفات من كتاب &#8220;شق الصحراء &#8211; و حفر قناة السويس'  >
+                    <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                    <a class="addthis_button_tweet"></a>
+                    <a class="addthis_button_pinterest_pinit"></a>
+                    <a class="addthis_counter addthis_pill_style"></a>
+                </div>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://www.حراز.com/category/zachary_karabell/" rel="category tag">Zachary Karabell</a> on <a href="http://www.حراز.com/2013/05/24/3-%d9%85%d9%82%d8%aa%d8%b7%d9%81%d8%a7%d8%aa-%d9%85%d9%86-%d9%83%d8%aa%d8%a7%d8%a8-%d8%b4%d9%82-%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1-%d9%88-%d8%ad%d9%81%d8%b1-%d9%82%d9%86%d8%a7%d8%a9/" title="2:07 am" rel="bookmark"><time class="entry-date" datetime="2013-05-24T02:07:05+00:00">2013/05/24</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.حراز.com/author/harrazgmail-com/" title="View all posts by harraz@gmail.com" rel="author">harraz@gmail.com</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-124" class="post-124 post type-post status-publish format-standard has-post-thumbnail hentry category-zachary_karabell">
+				<header class="entry-header">
+			<img width="500" height="330" src="http://www.xn--mgblmf.com/wp-content/uploads/2013/04/cropped-Building_of_Suez_Canal_Authority-1-500x330.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="cropped-Building_of_Suez_Canal_Authority-1.jpg" />
+						<h1 class="entry-title">
+				<a href="http://www.حراز.com/2013/05/01/2-%d9%85%d9%82%d8%aa%d8%b7%d9%81%d8%a7%d8%aa-%d9%85%d9%86-%d9%83%d8%aa%d8%a7%d8%a8-%d8%b4%d9%82-%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1-%d9%88-%d8%ad%d9%81%d8%b1-%d9%82%d9%86%d8%a7%d8%a9/" rel="bookmark">2- &#8220;مقتطفات من كتاب &#8220;شق الصحراء &#8211; و حفر قناة السويس</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<!-- AddThis Sharing Buttons above -->
+                <div class="addthis_toolbox addthis_default_style addthis_32x32_style" addthis:url='http://www.حراز.com/2013/05/01/2-%d9%85%d9%82%d8%aa%d8%b7%d9%81%d8%a7%d8%aa-%d9%85%d9%86-%d9%83%d8%aa%d8%a7%d8%a8-%d8%b4%d9%82-%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1-%d9%88-%d8%ad%d9%81%d8%b1-%d9%82%d9%86%d8%a7%d8%a9/' addthis:title='2- &#8220;مقتطفات من كتاب &#8220;شق الصحراء &#8211; و حفر قناة السويس' >
+                    <a class="addthis_button_preferred_1"></a>
+                    <a class="addthis_button_preferred_2"></a>
+                    <a class="addthis_button_preferred_3"></a>
+                    <a class="addthis_button_preferred_4"></a>
+                    <a class="addthis_button_compact"></a>
+                    <a class="addthis_counter addthis_bubble_style"></a>
+                </div><h1 dir="rtl">من تأليف Zachary Karabell<b> &#8211;</b></h1>
+<p style="text-align: right;"><b id="docs-internal-guid-27c58140-632a-9508-67f9-27dc46535f44">ترجمة محمد ف. حراز</b></p>
+<p dir="rtl" style="text-align: right;">تنافست عليها دول أوروبا؛ حاولت الإمبراطورية العثمانية منع حفرها؛ و أخيرا دمرت الجيوش مدنها أيام العدوان الثلاثي.</p>
+<p dir="rtl" style="text-align: right;">في عام ١٨٦٩، تجمع ملوك و ملكات أوروبا للاحتفال بافتتاحها. أسابيع من الاحتفالات المسرفه أبهرت ببذخها حتي المترفين من نبلاء باريس و لندن و فيينا.</p>
+<p dir="rtl" style="text-align: right;">كانت قناة السويس بمثابة الانتصار في أواسط القرن الثامن عشر، و مشروع مشترك بين حاكم مصر و رجل فرنسي طموح. بشر بها كمركز للعالم و كنهاية الفاصل الجغرافي بين الشرق و الغرب. اليوم كل ما يميز مدخلها الجنوبي مغطى بكتابات الجدران &#8220;جرافييتي &#8221; و بعض من المعدات و الدبابات التي يعتريها الصدأ.لا يوجد حتي تمثال يحيي ذكري الجندي الذي خاض حروب مصر و إسرائيل.</p>
+<p dir="rtl" style="text-align: right;">بدا بعيدا اليوم الذي وقف فيه جمال عبد الناصر في احد ميادين الإسكندرية متحدي الفرنسين و الإنجليز و الأمريكان بإعلانه تأميم قناة السويوس، كان ذلك في عام ١٩٥٢ عندما كان لقناة السويس قمة و  شأن كبيرين و قد يتسبب مصيرها في حالة من الذعر العالمي.</p>
+<p dir="rtl" style="text-align: right;">في الماضي أبحرت في مياهها الأساطيل، اليوم تبحر فيها ناقلات بترول من دول العالم الثالث. سفن الشحن قادمه من الدوحة و سفن حاويات من مونروفيا تدخل القنال من الجنوب متجهة شمالا في قوافل. قافلة الشمال تمر خلال القناه في أقل من يوم متجهة إلى البحر المتوسط و في طريقها تعبر خلال البحيرات المرة ثم الاسماعلية و أخيرا بورسعيد. هناك تمر السفن من أمام مبني متهالك كان في يوم ما  المقر الرئيسي لشركة قناة السويس، أنشئ هذا المبني علي الطراز الفيكتوري كقلعة خيالية بيضاء و لها قباب خضراء. ليس ببعيد، توجد قاعدة صخرية  لتمثال ديليسبس تبدو و كأنها يتيمه. تعبر السفن خلال القناه و ليس من حولها أثار لعظماء كان لهم اليد في وجودها بل أطلال مشوهة.</p>
+<p dir="rtl" style="text-align: right;">تم حفر القنال بعرق مئات الألاف، و لكن كانت بمثابة ابنة لديليسبس و لحاكمي مصر سعيد و إسماعيل.  دلسيبس، السياسي الفرنسي الذي يتعبد في محراب التقدم؛ محمد سعيد باشا، والي مصر الذي رأي في فرنسا و إنجلترا كل ما تمني أن تكون عليه بلاده؛ إسماعيل خليفة سعيد الذي حاول شراء مستقبل أفضل لبلاده بالمال الأوروبي مغرق إياها في الديون. عاش دلسيبس  ليري حلمه و قد تحقق. و مات كلا من سعيد و إسماعيل ليستحوذ أحفادهم بعد عقود علي القناه بعد أن سئموا من الانتظار و لم يتحقق الوعد بالرخاء من ورائها.</p>
+<p style="text-align: right;"><b id="docs-internal-guid-27c58140-5ec9-1b2b-16fb-98249c63c38f">البقية تأتي </b></p>
+<!-- AddThis Sharing Buttons below -->
+                <div class="addthis_toolbox addthis_default_style " addthis:url='http://www.حراز.com/2013/05/01/2-%d9%85%d9%82%d8%aa%d8%b7%d9%81%d8%a7%d8%aa-%d9%85%d9%86-%d9%83%d8%aa%d8%a7%d8%a8-%d8%b4%d9%82-%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1-%d9%88-%d8%ad%d9%81%d8%b1-%d9%82%d9%86%d8%a7%d8%a9/' addthis:title='2- &#8220;مقتطفات من كتاب &#8220;شق الصحراء &#8211; و حفر قناة السويس'  >
+                    <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                    <a class="addthis_button_tweet"></a>
+                    <a class="addthis_button_pinterest_pinit"></a>
+                    <a class="addthis_counter addthis_pill_style"></a>
+                </div>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://www.حراز.com/category/zachary_karabell/" rel="category tag">Zachary Karabell</a> on <a href="http://www.حراز.com/2013/05/01/2-%d9%85%d9%82%d8%aa%d8%b7%d9%81%d8%a7%d8%aa-%d9%85%d9%86-%d9%83%d8%aa%d8%a7%d8%a8-%d8%b4%d9%82-%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1-%d9%88-%d8%ad%d9%81%d8%b1-%d9%82%d9%86%d8%a7%d8%a9/" title="2:33 am" rel="bookmark"><time class="entry-date" datetime="2013-05-01T02:33:29+00:00">2013/05/01</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://www.حراز.com/author/harrazgmail-com/" title="View all posts by harraz@gmail.com" rel="author">harraz@gmail.com</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+			
+					<nav id="nav-below" class="navigation" role="navigation">
+			<h3 class="assistive-text">Post navigation</h3>
+			<div class="nav-previous"><a href="http://www.حراز.com/page/2/" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+			<div class="nav-next"></div>
+		</nav><!-- .navigation -->
+	
+		
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://www.حراز.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+					<li>
+				<a href="http://www.حراز.com/2014/03/22/%d9%87%d9%84-%d8%aa%d8%b5%d8%a8%d8%ad-%d8%a7%d9%84%d8%ac%d9%8a%d9%88%d8%b4-%d8%b9%d9%84%d8%a9-%d9%81%d9%8a-%d8%a3%d9%88%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%84%d9%85%d8%9f/">هل تصبح الجيوش عالة في أوقات السلم؟</a>
+						</li>
+					<li>
+				<a href="http://www.حراز.com/2013/11/08/%d8%a7%d9%84%d9%87%d9%86%d8%af-%d9%84%d9%85-%d9%8a%d8%ad%d9%83%d9%85%d9%87%d8%a7-%d8%b9%d8%b3%d9%83%d8%b1%d9%8a-%d9%88%d8%a7%d8%ad%d8%af-%d9%85%d9%86%d8%b0-%d8%a5%d8%b3%d8%aa%d9%82%d9%84%d8%a7%d9%84/">الهند لم يحكمها عسكري واحد منذ إستقلالها عن حكم  بريطانيا عام ١٩</a>
+						</li>
+					<li>
+				<a href="http://www.حراز.com/2013/09/12/%d8%b3%d9%8a%d8%b9%d9%8a%d8%af-%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae-%d9%86%d9%81%d8%b3%d9%87-%d9%88%d9%8a%d8%b7%d9%84%d8%a8-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%88%d9%86-%d9%85%d9%86-%d8%a7/">سيعيد التاريخ نفسه ويطلب المصريون من السيسي أن يكون رئيساً لمصر</a>
+						</li>
+					<li>
+				<a href="http://www.حراز.com/2013/09/01/nasser-is-gone-now-also-egypt-hasnt-changed-much-since-the-60s/">Nasser is gone now, also Egypt hasn&#8217;t changed much since the 60s.</a>
+						</li>
+					<li>
+				<a href="http://www.حراز.com/2013/08/14/%d8%b3%d9%8a%d8%b0%d9%83%d8%b1-%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae-%d8%a3%d9%86-%d9%87%d8%b0%d8%a7-%d8%a7%d9%84%d9%8a%d9%88%d9%85-%d9%87%d9%88-%d9%85%d8%af%d8%ae%d9%84-%d8%b7%d8%b1%d9%8a%d9%82/">سيذكر التاريخ أن هذا اليوم هو مدخل طريق ألا عودة الدائري</a>
+						</li>
+				</ul>
+		</aside>		<aside id="recent-comments-2" class="widget widget_recent_comments"><h3 class="widget-title">Recent Comments</h3><ul id="recentcomments"></ul></aside><aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">Archives</h3>		<ul>
+			<li><a href='http://www.حراز.com/2014/03/'>March 2014</a></li>
+	<li><a href='http://www.حراز.com/2013/11/'>November 2013</a></li>
+	<li><a href='http://www.حراز.com/2013/09/'>September 2013</a></li>
+	<li><a href='http://www.حراز.com/2013/08/'>August 2013</a></li>
+	<li><a href='http://www.حراز.com/2013/05/'>May 2013</a></li>
+	<li><a href='http://www.حراز.com/2013/04/'>April 2013</a></li>
+		</ul>
+		</aside><aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-7"><a href="http://www.حراز.com/category/egyptian-history/" >Egyptian History</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.حراز.com/category/michio_kaku/" title="Michio Kaku">Michio Kaku</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.حراز.com/category/uncategorized/" >Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.حراز.com/category/zachary_karabell/" title="Zachary Karabell">Zachary Karabell</a>
+</li>
+		</ul>
+</aside><aside id="meta-2" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="http://www.xn--mgblmf.com/wp-login.php">Log in</a></li>
+			<li><a href="http://www.حراز.com/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://www.حراز.com/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+			</aside>		</div><!-- #secondary -->
+		</div><!-- #main .wrapper -->
+	<footer id="colophon" role="contentinfo">
+		<div class="site-info">
+						<a href="https://wordpress.org/" title="Semantic Personal Publishing Platform">Proudly powered by WordPress</a>
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<link rel='stylesheet' id='addthis_output-css'  href='http://www.xn--mgblmf.com/wp-content/plugins/addthis/css/output.css?ver=4.4.21' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.xn--mgblmf.com/wp-content/themes/twentytwelve/js/navigation.js?ver=20140711'></script>
+<script type='text/javascript' src='http://www.xn--mgblmf.com/wp-includes/js/wp-embed.min.js?ver=4.4.21'></script>
+<!--wp_footer--></body>
+</html>

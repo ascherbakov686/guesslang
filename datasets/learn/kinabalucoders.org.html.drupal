@@ -1,0 +1,1654 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property="og:image" content="https://kinabalucoders.org/sites/all/themes/bootstrap_lambda/images/logo.kc.png"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="Latest KC Articles/Posts" href="https://kinabalucoders.org/rss/kc/articles" />
+<link rel="alternate" type="application/rss+xml" title="KC Events by Date" href="https://kinabalucoders.org/rss/kc/events" />
+<link rel="shortcut icon" href="https://kinabalucoders.org/sites/all/themes/bootstrap_lambda/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>Kinabalu Coders | Supporting Open Developer and Maker Communities in Sabah</title>
+  <style>
+@import url("https://kinabalucoders.org/modules/system/system.base.css?pemtp6");
+</style>
+<style>
+@import url("https://kinabalucoders.org/sites/all/modules/comment_notify/comment_notify.css?pemtp6");
+@import url("https://kinabalucoders.org/sites/all/modules/calendar/css/calendar_multiday.css?pemtp6");
+@import url("https://kinabalucoders.org/sites/all/modules/date/date_api/date.css?pemtp6");
+@import url("https://kinabalucoders.org/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?pemtp6");
+@import url("https://kinabalucoders.org/sites/all/modules/date/date_repeat_field/date_repeat_field.css?pemtp6");
+@import url("https://kinabalucoders.org/sites/all/modules/domain/domain_nav/domain_nav.css?pemtp6");
+@import url("https://kinabalucoders.org/modules/field/theme/field.css?pemtp6");
+@import url("https://kinabalucoders.org/modules/node/node.css?pemtp6");
+@import url("https://kinabalucoders.org/sites/all/modules/search_krumo/search_krumo.css?pemtp6");
+@import url("https://kinabalucoders.org/sites/all/modules/views/css/views.css?pemtp6");
+</style>
+<style>
+@import url("https://kinabalucoders.org/sites/all/modules/colorbox/styles/default/colorbox_style.css?pemtp6");
+@import url("https://kinabalucoders.org/sites/all/modules/ctools/css/ctools.css?pemtp6");
+@import url("https://kinabalucoders.org/sites/all/modules/panels/css/panels.css?pemtp6");
+@import url("https://kinabalucoders.org/sites/all/modules/panels/plugins/layouts/onecol/onecol.css?pemtp6");
+</style>
+<link type="text/css" rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" media="all" />
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.5/css/bootstrap.css" media="all" />
+<style>
+@import url("https://kinabalucoders.org/sites/all/themes/bootstrap/css/3.3.5/overrides.min.css?pemtp6");
+@import url("https://kinabalucoders.org/sites/all/themes/bootstrap_lambda/css/kinabalucoders.override.css?pemtp6");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")</script>
+<script src="https://kinabalucoders.org/misc/jquery.once.js?v=1.2"></script>
+<script src="https://kinabalucoders.org/misc/drupal.js?pemtp6"></script>
+<script src="https://kinabalucoders.org/sites/all/modules/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script src="https://kinabalucoders.org/sites/all/modules/jquery_update/replace/misc/jquery.form.min.js?v=2.69"></script>
+<script src="https://kinabalucoders.org/misc/ajax.js?v=7.59"></script>
+<script src="https://kinabalucoders.org/sites/all/modules/jquery_update/js/jquery_update.js?v=0.0.1"></script>
+<script src="//cdn.jsdelivr.net/bootstrap/3.3.5/js/bootstrap.js"></script>
+<script src="https://kinabalucoders.org/sites/all/modules/comment_notify/comment_notify.js?pemtp6"></script>
+<script src="https://kinabalucoders.org/sites/all/libraries/colorbox/jquery.colorbox-min.js?pemtp6"></script>
+<script src="https://kinabalucoders.org/sites/all/modules/colorbox/js/colorbox.js?pemtp6"></script>
+<script src="https://kinabalucoders.org/sites/all/modules/colorbox/styles/default/colorbox_style.js?pemtp6"></script>
+<script src="https://kinabalucoders.org/sites/all/modules/views/js/base.js?pemtp6"></script>
+<script src="https://kinabalucoders.org/sites/all/themes/bootstrap/js/misc/_progress.js?v=7.59"></script>
+<script src="https://kinabalucoders.org/sites/all/modules/views/js/ajax_view.js?pemtp6"></script>
+<script src="https://kinabalucoders.org/sites/all/modules/google_analytics/googleanalytics.js?pemtp6"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-60839056-1", {"cookieDomain":"auto","allowLinker":true});ga("require", "linker");ga("linker:autoLink", ["kinabalucoders.org","gamma.kinabalucoders.org","lambda.kinabalucoders.org","gaming.kinabalucoders.org","borneo3ders.kinabalucoders.org"]);ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script src="https://kinabalucoders.org/sites/all/themes/bootstrap/js/misc/ajax.js?pemtp6"></script>
+<script src="https://kinabalucoders.org/sites/all/themes/bootstrap/js/modules/views/js/ajax_view.js?pemtp6"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bootstrap_lambda","theme_token":"A7pkGuvG7ccyzcTLHH8DteJO9iOyJmIy1nU0lDo5i-0","jquery_version":"1.10","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.5\/js\/bootstrap.js":1,"sites\/all\/modules\/comment_notify\/comment_notify.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1,"sites\/all\/themes\/bootstrap\/js\/modules\/views\/js\/ajax_view.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/comment_notify\/comment_notify.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"sites\/all\/modules\/domain\/domain_nav\/domain_nav.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/search_krumo\/search_krumo.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.1.0\/css\/font-awesome.min.css":1,"\/\/fonts.googleapis.com\/css?family=Lora:400,700,400italic,700italic":1,"\/\/fonts.googleapis.com\/css?family=Montserrat:400,700":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.5\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.5\/overrides.min.css":1,"sites\/all\/themes\/bootstrap_lambda\/css\/kinabalucoders.override.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:3cbfb46084f8a82d71f26dd65b5fdd82":{"view_name":"primary_domain_content","view_display_id":"block_kc_recent_articles","view_args":"","view_path":"overview","view_base_path":"rss\/kc\/latest","view_dom_id":"3cbfb46084f8a82d71f26dd65b5fdd82","pager_element":0},"views_dom_id:f5dc6da7e090204830978dbd14a6e11d":{"view_name":"primary_domain_content","view_display_id":"block_kc_latest_events_5","view_args":"","view_path":"overview","view_base_path":"rss\/kc\/latest","view_dom_id":"f5dc6da7e090204830978dbd14a6e11d","pager_element":0}}},"urlIsAjaxTrusted":{"\/views\/ajax":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1,"trackDomainMode":2,"trackCrossDomains":["kinabalucoders.org","gamma.kinabalucoders.org","lambda.kinabalucoders.org","gaming.kinabalucoders.org","borneo3ders.kinabalucoders.org"]},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+
+    
+</head>
+<body class="navbar-is-fixed-top html front not-logged-in no-sidebars page-overview domain-kinabalucoders-org">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <header id="navbar" role="banner" class="navbar navbar-fixed-top navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      
+              <a class="name navbar-brand" href="/" title="Home">Kinabalu Coders</a>
+      
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+          </div>
+
+          <div class="navbar-right navbar-collapse collapse" id="navbar-collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first leaf"><a href="/node/13" title="">Who We Are</a></li>
+<li class="leaf"><a href="/node/16" title="">Communities</a></li>
+<li class="leaf"><a href="/node/19" title="">Projects</a></li>
+<li class="leaf"><a href="/latest" title="">News</a></li>
+<li class="leaf"><a href="/node/20" title="">Support</a></li>
+<li class="last leaf"><a href="/user" title=""><span class="not-logged-in">Join</span><span class="logged-in">Account</span></a></li>
+</ul>                                      </nav>
+      </div>
+      </div>
+</header>
+
+<div class="main-container container-fluid">
+
+  <header role="banner" id="page-header">
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+    
+    <section class="col-sm-12">
+                  <a id="main-content"></a>
+                                                              <div id="front-cover">
+        <div class="col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0 text-center logo-kinabalucoders">
+            <h1 class="branding">Kinabalu Coders</h1>
+                          <h3>Supporting Open Developer and Maker Communities in Sabah</h3>
+                        <p>
+                <a href="#block-panels-mini-who-we-are" class="btn btn-circle page-scroll">
+                    <i class="fa fa-chevron-down animated"></i>
+                </a>
+            </p>
+        </div>
+      </div>
+        <div class="region region-content">
+    <section id="block-panels-mini-who-we-are" class="block block-panels-mini  block-panels-mini-who-we-are clearfix">
+
+      
+  <div class="bootstrap-twocol-stacked" id="mini-panel-who_we_are">
+  <div class="row">
+    <div class="panel-pane pane-node"  >
+  
+        <h2 class="pane-title">
+      Who We Are    </h2>
+    
+  
+  <div class="pane-content">
+    <article id="node-13" class="node node-page node-teaser clearfix" about="/node/13" typeof="foaf:Document">
+    <header>
+            <span property="dc:title" content="" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>      </header>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>We are the <strong>Sabah Programmers and ICT Builders Association</strong> (Malay: <em>Persatuan Pengaturcara Dan Pembina ICT Sabah</em>) - better known as <strong>Kinabalu Coders</strong> ("KC"). Established and registered in May 2014, we are a coalition of leads, organisers, and volunteers from tech and maker related communities and local industries. <strong>Kinabalu Coders</strong> provides a platform for its member to engage with each other; make technology accessible; share knowledge and collaborate on projects; and reach out to like-minded individuals and organisations all across Sabah.</p>
+<p><strong>KC</strong> seeks to improve awareness and penetration of the latest concepts and applications from the global <strong>Coder</strong>, <strong>Tech</strong> and <strong>Maker</strong> movements. We strive to raise the overall proficiency of the communities we support, and thus improve the socioeconomic standard of our society as a whole through IT and tech.</p>
+<p><strong>We support and celebrate the arts, invention, innovation, creation and expression in all forms.</strong> The spirit of <em>Bikin Sendiri</em> (English: <strong>Do-It-Yourself</strong>) is in the collective DNA of our association and its communities. We look forward to hearing from you and hope you will support our activities and events in the near future.</p>
+</div></div></div>    </article>
+  </div>
+
+  
+  </div>
+  </div>
+  <div class="row">
+    <div class='panel-panel left col-sm-6'><div class="panel-pane pane-views pane-primary-domain-content"  >
+  
+        <h2 class="pane-title">
+      News    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-primary-domain-content view-id-primary_domain_content view-display-id-block_kc_recent_articles view-dom-id-3cbfb46084f8a82d71f26dd65b5fdd82">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="https://kinabalucoders.org/node/51">KC meets the Makers of KL (and more!)</a></span>  </span>  
+  <div class="views-field views-field-created">    <span class="views-label views-label-created">Posted</span>    <span class="field-content">2016-12-18 14:49</span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="https://kinabalucoders.org/node/48">We&#039;re heading to the KL Raspberry Jam 2016</a></span>  </span>  
+  <div class="views-field views-field-created">    <span class="views-label views-label-created">Posted</span>    <span class="field-content">2016-12-06 20:38</span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="https://kinabalucoders.org/node/44">Roboneo 2016 Winners Announced!</a></span>  </span>  
+  <div class="views-field views-field-created">    <span class="views-label views-label-created">Posted</span>    <span class="field-content">2016-11-28 10:42</span>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="https://kinabalucoders.org/node/43">Meet KC at Roboneo 2016 and our first Mini Maker Expo!</a></span>  </span>  
+  <div class="views-field views-field-created">    <span class="views-label views-label-created">Posted</span>    <span class="field-content">2016-11-18 01:27</span>  </div></li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="https://kinabalucoders.org/node/21">We&#039;ve gone Drupal 7!</a></span>  </span>  
+  <div class="views-field views-field-created">    <span class="views-label views-label-created">Posted</span>    <span class="field-content">2016-11-10 16:05</span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+      <div class="feed-icon">
+      <a href="https://kinabalucoders.org/rss/kc/articles" class="feed-icon" title="Subscribe to Latest KC Articles/Posts"><img typeof="foaf:Image" class="img-responsive" src="https://kinabalucoders.org/misc/feed.png" width="16" height="16" alt="Subscribe to Latest KC Articles/Posts" /></a>    </div>
+  
+</div>  </div>
+
+  
+  </div>
+</div>    <div class='panel-panel right col-sm-6'><div class="panel-pane pane-views pane-primary-domain-content"  >
+  
+        <h2 class="pane-title">
+      Events    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-primary-domain-content view-id-primary_domain_content view-display-id-block_kc_latest_events_5 view-dom-id-f5dc6da7e090204830978dbd14a6e11d">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="https://gaming.kinabalucoders.org/node/63">Gamers Meetup and Gathering</a></span>  </span>  
+  <div>        <div><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-05-27T00:00:00+08:00">2017-05-27 (All day)</span></div>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="https://gaming.kinabalucoders.org/node/62">Cards Games</a></span>  </span>  
+  <div>        <div><span class="date-display-single">2017-02-26 <span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2017-02-26T15:00:00+08:00">15:00</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2017-02-26T19:00:00+08:00">19:00</span></span></span></div>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="https://kinabalucoders.org/node/60">#infoseckk: meetup 2017.1</a></span>  </span>  
+  <div>        <div><span class="date-display-single">2017-01-05 <span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2017-01-05T20:00:00+08:00">20:00</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2017-01-05T22:30:00+08:00">22:30</span></span></span></div>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="https://gaming.kinabalucoders.org/node/52">Gamers Meetup</a></span>  </span>  
+  <div>        <div><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2016-12-30T00:00:00+08:00">2016-12-30 (All day)</span></div>  </div></li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="https://kinabalucoders.org/node/49">GameDev KK @ HobbyCon!</a></span>  </span>  
+  <div>        <div><span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2016-12-10T00:00:00+08:00">2016-12-10 (All day)</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2016-12-11T00:00:00+08:00">2016-12-11 (All day)</span></span></div>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+      <div class="feed-icon">
+      <a href="https://kinabalucoders.org/rss/kc/events" class="feed-icon" title="Subscribe to KC Events by Date"><img typeof="foaf:Image" class="img-responsive" src="https://kinabalucoders.org/misc/feed.png" width="16" height="16" alt="Subscribe to KC Events by Date" /></a>    </div>
+  
+</div>  </div>
+
+  
+  </div>
+</div>  </div>
+  <div class="row">
+    <div class="link-news-and-rss">      <div class="panel-pane pane-custom pane-1"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="links">
+  <a href="/latest">More news and events</a>   <a href="https://kinabalucoders.org/rss/kc/latest" class="feed-icon" title="Subscribe to Latest KC News and Events"><i class="fa fa-rss" aria-hidden="true"></i></a>
+</div>  </div>
+
+  
+  </div>
+  </div>  </div>
+</div>
+
+</section>
+<section id="block-panels-mini-front-communities" class="block block-panels-mini  block-panels-mini-front-communities clearfix">
+
+      
+  <div class="panel-display panel-1col clearfix" id="mini-panel-front_communities">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-panels-mini pane-listing-communities"  >
+  
+        <h2 class="pane-title">
+      Communities We Support    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="panel-display panel-1col clearfix" id="mini-panel-listing_communities">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-panels-mini pane-community-kkraspberryjam"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="bootstrap-twocol-stacked" id="mini-panel-community_kkraspberryjam">
+  <div class="row">
+      </div>
+  <div class="row">
+    <div class='panel-panel left col-sm-2 col-sm-offset-1'><div class="panel-pane pane-custom pane-2"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="meta">
+  <div class="row logo">
+    <div class="col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0">
+      <img class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/kkraspberryjam/kkraspberryjam.logo.512x512.jpg" /></div>
+  </div>
+  <div class="row leads">
+    <div class="col-xs-4 col-xs-offset-4 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3 col-lg-6 col-lg-offset-3">
+      <a href="https://www.facebook.com/edhamarief" title="Edham Arief"><img title="Edham Arief" alt="Edham Arief" class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/leads/edham.jpg" /></a>
+    </div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>    <div class='panel-panel right col-sm-8'><div class="panel-pane pane-custom pane-3"  >
+  
+        <h2 class="pane-title">
+      Kota Kinabalu Raspberry Jam    </h2>
+    
+  
+  <div class="pane-content">
+    <p>
+  Raspberry Jams are events organised by the community to share knowledge, learn new things, and meet other Pi enthusiasts. They’re a great way to find out more about the Raspberry Pi and what you can do with it, and to find like-minded people.
+</p>
+<p class="social-links">
+  <a href="https://www.facebook.com/kkraspberryjam" class="btn btn-facebook btn-xs"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a> 
+</p>  </div>
+
+  
+  </div>
+</div>  </div>
+  <div class="row">
+      </div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-community-3dprinterborneo"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="bootstrap-twocol-stacked" id="mini-panel-community_3dprinterborneo">
+  <div class="row">
+      </div>
+  <div class="row">
+    <div class='panel-panel left col-sm-2 col-sm-offset-1'><div class="panel-pane pane-custom pane-4"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="meta">
+  <div class="row logo">
+    <div class="col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0">
+      <a href="https://https://borneo3ders.kinabalucoders.org/">
+        <img class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/3dprinterborneo/3dprinterborneo.logo.512x512.jpg" /></a>
+   </div>
+  </div>
+  <div class="row leads">
+    <div class="col-xs-4 col-xs-offset-4 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3 col-lg-6 col-lg-offset-3">
+      <a title="Asraff Amzani" href="https://plus.google.com/+MohdAsraffAmzani"><img title="Asraff Amzani" alt="Asraff Amzani" class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/leads/asraff.jpg" /></a>
+    </div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>    <div class='panel-panel right col-sm-8'><div class="panel-pane pane-custom pane-5"  >
+  
+        <h2 class="pane-title">
+      Borneo 3Ders    </h2>
+    
+  
+  <div class="pane-content">
+    <p>
+Nothing captures the public imagination more than 3D-printing. In a process known as additive manufacturing, 3D printers deposit  materials such as plastics, metals, concrete and more (even <a target="_blank" href="https://www.youtube.com/watch?v=FP06iB1qF8k">chocolate</a>!) layer-by-layer into three-dimensional objects at varying scales - from table-tops to entire buildings.  This community is for 3D-printer and 3D-modelling enthusiasts who like to learn more about the technology and related skills and tools (including software!).
+</p>
+<p class="social-links">
+  <a href="https://https://borneo3ders.kinabalucoders.org/" class="btn btn-success btn-xs"><i class="fa fa-globe fa-fw"></i> <span class="network-name">Blog</span></a> 
+  <a href="https://www.facebook.com/pages/3D-Printer-Borneo/1670826773141317" class="btn btn-facebook btn-xs"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
+</p>
+  </div>
+
+  
+  </div>
+<div class="panel-pane pane-views pane-content-from-gamma"  >
+  
+        <h2 class="pane-title">
+      Events    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-content-from-gamma view-id-content_from_gamma view-display-id-block_upcoming_events view-dom-id-f8c09239f7ceb697d90d7101163e663f">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-content-from-gamma view-id-content_from_gamma view-display-id-block_past_events view-dom-id-76fb09fc48ce0413f66859975f13a195">
+        
+  
+  
+      <div class="view-empty">
+      <p>No events organised yet - stay tuned!</p>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-views pane-content-from-gamma"  >
+  
+        <h2 class="pane-title">
+      Recent Posts    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-content-from-gamma view-id-content_from_gamma view-display-id-block_recent_articles view-dom-id-ea6aabe26a4e716c4543aed26ac28c44">
+        
+  
+  
+      <div class="view-empty">
+      <p>No articles yet - coming soon!</p>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div>  </div>
+  <div class="row">
+      </div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-community-gbgkk"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="bootstrap-twocol-stacked" id="mini-panel-community_gbgkk">
+  <div class="row">
+      </div>
+  <div class="row">
+    <div class='panel-panel left col-sm-2 col-sm-offset-1'><div class="panel-pane pane-custom pane-6"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="meta">
+  <div class="row logo">
+    <div class="col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0">
+      <img class="img img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/gbgkk/gbgkk.logo.512x512.png" /></div>
+  </div>
+  <div class="row leads">
+    <div class="col-xs-4 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-0 col-lg-6 col-lg-offset-0">
+      <a href="https://plus.google.com/u/0/113442619837716939795/about" title="Ahmad Hafeezi Ali Amat"><img title="Ahmad Hafeezi Ali Amat" alt="Ahmad Hafeezi Ali Amat" class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/leads/hafeezi.jpg" /></a>
+    </div>
+    <div class="col-xs-4 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-0 col-lg-6">
+      <a href="https://plus.google.com/+BaizurahBasri/about" title="Baizurah Basri"><img title="Baizurah Basri" alt="Baizurah Basri" class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/leads/baizurah.jpg" /></a>
+    </div>
+    <div class="col-xs-4 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3 col-lg-6 col-lg-offset-3">
+      <a href="https://plus.google.com/111524489506530486938/about" title="Azlina Abdul Jalil"><img title="Azlina Abdul Jalil" alt="Azlina Abdul Jalil" class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/leads/azlina.jpg" /></a>
+    </div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>    <div class='panel-panel right col-sm-8'><div class="panel-pane pane-custom pane-7"  >
+  
+        <h2 class="pane-title">
+      Google Business Group Kota Kinabalu    </h2>
+    
+  
+  <div class="pane-content">
+    <p>
+  Google Business Group (GBG) is a community of business professionals, entrepreneurs or basically anyone who are interested in web technologies.
+</p>
+<p class="social-links">
+  <a href="http://www.gbgkk.org/" class="btn btn-success btn-xs"><i class="fa fa-globe fa-fw"></i> <span class="network-name">Website</span></a> <a href="https://plus.google.com/118259170393520756546" class="btn btn-danger btn-xs"><i class="fa fa-google-plus fa-fw"></i> <span class="network-name">Google+</span></a> <a href="https://facebook.com/gbgkotakinabalu" class="btn btn-facebook btn-xs"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
+</p>  </div>
+
+  
+  </div>
+</div>  </div>
+  <div class="row">
+      </div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-community-gst"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="bootstrap-twocol-stacked" id="mini-panel-community_gst">
+  <div class="row">
+      </div>
+  <div class="row">
+    <div class='panel-panel left col-sm-2 col-sm-offset-1'><div class="panel-pane pane-custom pane-8"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="meta">
+  <div class="row logo">
+    <div class="col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0">
+      <a href="http://gaming.kinabalucoders.org" title="gaming.kinabalucoders.org"><img class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/gst/gst.logo.512x512.jpg" /></a>
+   </div>
+  </div>
+  <div class="row leads">
+    <div class="col-xs-4 col-xs-offset-2 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-0 col-lg-6 col-lg-offset-0">
+      <a title="Redhooves" href="https://plus.google.com/101227981388614903054"><img title="Redhooves" alt="Redhooves" class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/leads/redhooves.jpg" /></a>
+    </div>
+    <div class="col-xs-4                 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-0 col-lg-6">
+      <a title="Asraff Amzani" href="https://plus.google.com/+MohdAsraffAmzani"><img title="Asraff Amzani" alt="Asraff Amzani" class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/leads/asraff.jpg" /></a>
+    </div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>    <div class='panel-panel right col-sm-8'><div class="panel-pane pane-custom pane-9"  >
+  
+        <h2 class="pane-title">
+      Gamers Sabahan Tribe    </h2>
+    
+  
+  <div class="pane-content">
+    <p>
+  Like games? We do too! Monthly gaming meetups on a variety of platforms (including tabletop!)
+</p>
+<p class="social-links">
+  <a href="https://gaming.kinabalucoders.org/" class="btn btn-success btn-xs"><i class="fa fa-globe fa-fw"></i> <span class="network-name">Blog</span></a> 
+  <a href="https://www.facebook.com/groups/161496917596869/" class="btn btn-facebook btn-xs"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook Group</span></a>
+</p>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-views pane-content-from-gamma"  >
+  
+        <h2 class="pane-title">
+      Events    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-content-from-gamma view-id-content_from_gamma view-display-id-block_upcoming_events view-dom-id-daaf1022d4be3cb96743157b6ddf5dfc">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-content-from-gamma view-id-content_from_gamma view-display-id-block_past_events view-dom-id-14b88e95645ba00122fbbd71a50c6bea">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <span class="views-field views-field-field-event-date">        <span class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-05-27T00:00:00+08:00">2017-05-27 (All day)</span></span>  </span>       -   
+  <span class="views-field views-field-title">        <span class="field-content"><a href="//gaming.kinabalucoders.org/node/63">Gamers Meetup and Gathering</a></span>  </span>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <span class="views-field views-field-field-event-date">        <span class="field-content"><span class="date-display-single">2017-02-26 <span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2017-02-26T15:00:00+08:00">15:00</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2017-02-26T19:00:00+08:00">19:00</span></span></span></span>  </span>       -   
+  <span class="views-field views-field-title">        <span class="field-content"><a href="//gaming.kinabalucoders.org/node/62">Cards Games</a></span>  </span>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <span class="views-field views-field-field-event-date">        <span class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2016-12-30T00:00:00+08:00">2016-12-30 (All day)</span></span>  </span>       -   
+  <span class="views-field views-field-title">        <span class="field-content"><a href="//gaming.kinabalucoders.org/node/52">Gamers Meetup</a></span>  </span>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-views pane-content-from-gamma"  >
+  
+        <h2 class="pane-title">
+      Recent Posts    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-content-from-gamma view-id-content_from_gamma view-display-id-block_recent_articles view-dom-id-04adbd833a8dbe100f91dc8a74bb2cde">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+          2017-01-04         -   
+          <a href="//gaming.kinabalucoders.org/node/61">Gamers Gaming Before New Year</a>    </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+      
+          2016-11-10         -   
+          <a href="//gaming.kinabalucoders.org/node/23">Bring the gaming to school</a>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div>  </div>
+  <div class="row">
+      </div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-community-filmcampkk"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="bootstrap-twocol-stacked" id="mini-panel-community_filmcampkk">
+  <div class="row">
+      </div>
+  <div class="row">
+    <div class='panel-panel left col-sm-2 col-sm-offset-1'><div class="panel-pane pane-custom pane-10"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="meta">
+  <div class="row logo">
+    <div class="col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0">
+      <img style="margin-bottom: 1.0em;" class="img img-responsive" src="/sites/all/themes/bootstrap_lambda/images/filmcampkk/filmcampkk.512x512.png" /></div>
+  </div>
+  <div class="row leads">
+    <div class="col-xs-4 col-xs-offset-2 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-0 col-lg-6 col-lg-offset-0">
+      <a title="Moses Wong" href="https://www.facebook.com/moses.wong.56"><img title="Moses Wong" alt="Moses Wong" class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/leads/moseswong.512x512.jpg" /></a>
+    </div>
+    <div class="col-xs-4 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-0 col-lg-6">
+      <a title="Mahardani Kurniawan" href="https://www.facebook.com/emdee28"><img title="Mahardani Kurniawan" alt="Mahardani Kurniawan" class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/leads/mahardani.512x512.jpg" /></a>
+    </div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>    <div class='panel-panel right col-sm-8'><div class="panel-pane pane-custom pane-11"  >
+  
+        <h2 class="pane-title">
+      Filmcamp Kota Kinabalu    </h2>
+    
+  
+  <div class="pane-content">
+    <p>
+  Monthly meetups, discussions and briefings for those passionate about film-making, who want to help grow Sabah's local film industry and/or simply movie-lovers.
+</p>
+<p class="social-links">
+  <a href="https://www.facebook.com/groups/filmcamp.kk/" class="btn btn-facebook btn-xs"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook Group</span></a>
+</p>  </div>
+
+  
+  </div>
+</div>  </div>
+  <div class="row">
+      </div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-community-gamedev"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="bootstrap-twocol-stacked" id="mini-panel-community_gamedev">
+  <div class="row">
+      </div>
+  <div class="row">
+    <div class='panel-panel left col-sm-2 col-sm-offset-1'><div class="panel-pane pane-custom pane-12"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="meta">
+  <div class="row logo">
+    <div class="col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0">
+      <img class="img img-responsive" src="/sites/all/themes/bootstrap_lambda/images/gamedevkk/gamedevkk.logo.512x338.png" style="margin-bottom:15px; margin-top:10px;" /></div>
+  </div>
+  <div class="row leads">
+    <div class="col-xs-4 col-xs-offset-4 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3 col-lg-6 col-lg-offset-3">
+      <a title="Sinn Chun Hou" href="https://www.facebook.com/SinnChunHou"><img title="Sinn Chun Hou" alt="Sinn Chun Hou" class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/leads/geoffrey.jpg" /></a>
+    </div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>    <div class='panel-panel right col-sm-8'><div class="panel-pane pane-custom pane-13"  >
+  
+        <h2 class="pane-title">
+      GameDev Kota Kinabalu    </h2>
+    
+  
+  <div class="pane-content">
+    <p>
+This is a open-meetup / learning group for people who have interest in game development! Our mission is to grow the game developer community together and discover awesome ways to build games. We currently focus on using Unity, Unreal, virtual reality, as well as 3D modeling and animation.
+</p>
+<p class="social-links">
+  <a href="https://www.facebook.com/groups/431740983690791/" class="btn btn-facebook btn-xs"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook Group</span></a>
+</p>  </div>
+
+  
+  </div>
+</div>  </div>
+  <div class="row">
+      </div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-community-kairo"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="bootstrap-twocol-stacked" id="mini-panel-community_kairo">
+  <div class="row">
+      </div>
+  <div class="row">
+    <div class='panel-panel left col-sm-2 col-sm-offset-1'><div class="panel-pane pane-custom pane-14"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="meta">
+  <div class="row logo">
+    <div class="col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0">
+      <img class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/kairo/kairo.512x512.jpg" /></div>
+  </div>
+  <div class="row leads">
+    <div class="col-xs-4 col-xs-offset-4 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3 col-lg-6 col-lg-offset-3">
+      <a href="https://www.facebook.com/edhamarief" title="Edham Arief"><img title="Edham Arief" alt="Edham Arief" class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/leads/edham.jpg" /></a>
+    </div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>    <div class='panel-panel right col-sm-8'><div class="panel-pane pane-custom pane-15"  >
+  
+        <h2 class="pane-title">
+      Kinabalu AI &amp; Robotics Initiative    </h2>
+    
+  
+  <div class="pane-content">
+    <p>A group of people interested in general Artificial Intelligence, Deep-Learning, Machine-Learning, robotics and automation.</p>
+<p>  <a href="https://www.facebook.com/groups/kairobin/" class="btn btn-facebook btn-xs"> Facebook Group</a></p>
+  </div>
+
+  
+  </div>
+</div>  </div>
+  <div class="row">
+      </div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-community-infoseckk"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="bootstrap-twocol-stacked" id="mini-panel-community_infoseckk">
+  <div class="row">
+      </div>
+  <div class="row">
+    <div class='panel-panel left col-sm-2 col-sm-offset-1'><div class="panel-pane pane-custom pane-16"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="meta">
+  <div class="row logo">
+    <div class="col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0">
+      <img class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/infoseckk/infoseckk.logo.512x512.jpg" /></div>
+  </div>
+  <div class="row leads">
+    <div class="col-xs-4 col-xs-offset-4 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3 col-lg-6 col-lg-offset-3">
+      <a href="https://plus.google.com/+ArthurRaymond" title="Arthur Raymond"><img title="Arthur Raymond" alt="Arthur Raymond" class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/leads/arthur.jpg" /></a>
+    </div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>    <div class='panel-panel right col-sm-8'><div class="panel-pane pane-custom pane-17"  >
+  
+        <h2 class="pane-title">
+      Information Security Group Kota Kinabalu    </h2>
+    
+  
+  <div class="pane-content">
+    <p>Also known as #pentesting (penetration testing), this group promotes good information security via collaboration between industry representatives and local hobbyists/enthusiasts.</p>
+  </div>
+
+  
+  </div>
+</div>  </div>
+  <div class="row">
+      </div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-community-softwaretesting"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="bootstrap-twocol-stacked" id="mini-panel-community_softwaretesting">
+  <div class="row">
+      </div>
+  <div class="row">
+    <div class='panel-panel left col-sm-2 col-sm-offset-1'><div class="panel-pane pane-custom pane-18"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="meta">
+  <div class="row logo">
+    <div class="col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0">
+      <img class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/softwaretesting/softwaretesting.logo.512x512.jpg" /></div>
+  </div>
+  <div class="row leads">
+    <div class="col-xs-4 col-xs-offset-4 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3 col-lg-6 col-lg-offset-3">
+      <a href="https://plus.google.com/u/0/113442619837716939795/about" title="Ahmad Hafeezi Ali Amat"><img title="Ahmad Hafeezi Ali Amat" alt="Ahmad Hafeezi Ali Amat" class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/leads/hafeezi.jpg" /></a>
+    </div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>    <div class='panel-panel right col-sm-8'><div class="panel-pane pane-custom pane-19"  >
+  
+        <h2 class="pane-title">
+      Software Testing    </h2>
+    
+  
+  <div class="pane-content">
+    <p>The community promotes best practices in software development by creating awareness of the importance of testing in their work.</p>
+  </div>
+
+  
+  </div>
+</div>  </div>
+  <div class="row">
+      </div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-community-sabahopensource"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="bootstrap-twocol-stacked" id="mini-panel-community_sabahopensource">
+  <div class="row">
+      </div>
+  <div class="row">
+    <div class='panel-panel left col-sm-2 col-sm-offset-1'><div class="panel-pane pane-custom pane-20"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="meta">
+  <div class="row logo">
+    <div class="col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0">
+      <img class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/sosg/opensource.logo.512x512.png" /></div>
+  </div>
+  <div class="row leads">
+    <div class="col-xs-4 col-xs-offset-4 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3 col-lg-6 col-lg-offset-3">
+      <a href="https://www.facebook.com/edhamarief" title="Edham Arief"><img title="Edham Arief" alt="Edham Arief" class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/leads/edham.jpg" /></a>
+    </div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>    <div class='panel-panel right col-sm-8'><div class="panel-pane pane-custom pane-21"  >
+  
+        <h2 class="pane-title">
+      Sabah Open Source Group    </h2>
+    
+  
+  <div class="pane-content">
+    <p>SOSG, founded in 2009, is KK's friendly Linux User Group (LUG). Its mission is to advocate Open Source and Free Software awareness in Sabah.</p>
+  </div>
+
+  
+  </div>
+</div>  </div>
+  <div class="row">
+      </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+
+</section>
+<section id="block-panels-mini-front-projects" class="block block-panels-mini  block-panels-mini-front-projects clearfix">
+
+      
+  <div class="panel-display panel-1col clearfix" id="mini-panel-front_projects">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-panels-mini pane-listing-projects"  >
+  
+        <h2 class="pane-title">
+      Projects We Support    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="panel-display panel-1col clearfix" id="mini-panel-listing_projects">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-panels-mini pane-community-makerspacekk"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="bootstrap-twocol-stacked" id="mini-panel-community_makerspacekk">
+  <div class="row">
+      </div>
+  <div class="row">
+    <div class='panel-panel left col-sm-2 col-sm-offset-1'><div class="panel-pane pane-custom pane-22"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="meta">
+  <div class="row logo">
+    <div class="col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0">
+      <img class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/makerspacekk/makerspacekk.logo.512x512.jpg" /></div>
+  </div>
+  <div class="row leads">
+    <div class="col-xs-4 col-xs-offset-2 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-0 col-lg-6 col-lg-offset-0">
+      <a href="https://www.facebook.com/edhamarief" title="Edham Arief"><img title="Edham Arief" alt="Edham Arief" class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/leads/edham.jpg" /></a>
+    </div>
+    <div class="col-xs-4                 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-0 col-lg-6">
+      <a href="https://www.facebook.com/julkifli.awangbesar" title="Julkifli Awang Besar"><img title="Julkipli Awang Besar" alt="Julkifli Awang Besar" class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/leads/julkipli.jpg" /></a>
+    </div>
+    <div class="col-xs-4 col-xs-offset-4 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3 col-lg-6 col-lg-offset-3">
+      <a href="https://plus.google.com/+ArthurRaymond" title="Arthur Raymond"><img title="Arthur Raymond" alt="Arthur Raymond" class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/leads/arthur.jpg" /></a>
+    </div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>    <div class='panel-panel right col-sm-8'><div class="panel-pane pane-custom pane-23"  >
+  
+        <h2 class="pane-title">
+      Makerspace Kota Kinabalu    </h2>
+    
+  
+  <div class="pane-content">
+    <p>
+  Kota Kinabalu's first Makerspace! Our physical makerspace is the ultimate in Do-It-Yourself and equipped with affordable, open-source electronics; raw materials; workshop equipment such as 3D printers, metal and wood-working tools; and other awesome maker equipment. We also encourage and host meetups of community-led activities for all sorts of maker-related projects, ranging from robotics, raspberry pis, arduinos, wearables, hard-hacks and much more! While you're with us, do not hesitate to ask questions of our members and even other visitors - we encourage peer-to-peer knowledge-sharing - it's the best way to learn. 
+</p>
+<p class="social-links">
+  <a href="https://plus.google.com/107694655781152986735/" class="btn btn-danger btn-xs"><i class="fa fa-google-plus fa-fw"></i> <span class="network-name">Google+</span></a> <a href="https://camera.sabah.io/#smartspace" class="btn btn-success btn-xs"><i class="fa fa-video-camera fa-fw"></i> <span class="network-name">Live Video</span></a> <a href="https://www.google.com.my/maps/place/Smart+Space+KK/@5.978867,116.0740293,17z/data=!3m1!4b1!4m5!3m4!1s0x323b69907d0d662b:0x39d83d2ad60dae60!8m2!3d5.978867!4d116.076218?hl=en" class="btn btn-success btn-xs"><i class="fa fa-map-marker  fa-fw"></i> <span class="network-name">Google Maps</span></a> <a href="https://www.facebook.com/groups/smartspacekk/" class="btn btn-facebook btn-xs"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook Group</span></a>
+</p>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-views pane-content-from-gamma"  >
+  
+        <h2 class="pane-title">
+      Events    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-content-from-gamma view-id-content_from_gamma view-display-id-block_smartspacekk_events view-dom-id-a3b220f247532bec31ba24978f257dbc">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-content-from-gamma view-id-content_from_gamma view-display-id-block_smartspacekk_past_events view-dom-id-6ae1b81f33c987e3ce353934f25ece59">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <span class="views-field views-field-field-event-date">        <span class="field-content"><span class="date-display-single">2017-01-05 <span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2017-01-05T20:00:00+08:00">20:00</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2017-01-05T22:30:00+08:00">22:30</span></span></span></span>  </span>       -   
+  <span class="views-field views-field-title">        <span class="field-content"><a href="//kinabalucoders.org/node/60">#infoseckk: meetup 2017.1</a></span>  </span>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <span class="views-field views-field-field-event-date">        <span class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2016-12-30T00:00:00+08:00">2016-12-30 (All day)</span></span>  </span>       -   
+  <span class="views-field views-field-title">        <span class="field-content"><a href="//gaming.kinabalucoders.org/node/52">Gamers Meetup</a></span>  </span>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <span class="views-field views-field-field-event-date">        <span class="field-content"><span class="date-display-single">2016-12-02 <span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2016-12-02T14:00:00+08:00">14:00</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2016-12-02T17:00:00+08:00">17:00</span></span></span></span>  </span>       -   
+  <span class="views-field views-field-title">        <span class="field-content"><a href="//kinabalucoders.org/node/45">Roboneo 2016 Prizes Handing-Over</a></span>  </span>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div>  </div>
+  <div class="row">
+      </div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-project-roboneo"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="bootstrap-twocol-stacked" id="mini-panel-project_roboneo">
+  <div class="row">
+      </div>
+  <div class="row">
+    <div class='panel-panel left col-sm-2 col-sm-offset-1'><div class="panel-pane pane-custom pane-24"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="meta">
+  <div class="row logo">
+    <div class="col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0">
+      <img class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/roboneo/roboneo.logo.512x512.png" /></div>
+  </div>
+  <div class="row leads">
+    <div class="col-xs-4 col-xs-offset-2 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-0 col-lg-6 col-lg-offset-0">
+      <a href="https://www.facebook.com/edhamarief" title="Edham Arief"><img title="Edham Arief" alt="Edham Arief" class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/leads/edham.jpg" /></a>
+    </div>
+    <div class="col-xs-4                 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-0 col-lg-6">
+      <a href="https://www.facebook.com/julkifli.awangbesar" title="Julkifli Awang Besar"><img title="Julkipli Awang Besar" alt="Julkifli Awang Besar" class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/leads/julkipli.jpg" /></a>
+    </div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>    <div class='panel-panel right col-sm-8'><div class="panel-pane pane-custom pane-25"  >
+  
+        <h2 class="pane-title">
+      Roboneo Competition    </h2>
+    
+  
+  <div class="pane-content">
+    <p>
+  First held in October 2014, the open-category Roboneo competition has sparked a groundswell of interest in robotics and the micro-controller boards that power them. Robotic teams from all walks of life are pitted against each other in the spirit of friendly competition. Who will be the winners this year? Join us and find out!
+</p>
+<p class="social-links">
+  <a href="http://roboneo.net/" class="btn btn-success btn-xs"><i class="fa fa-globe fa-fw"></i> <span class="network-name">Website</span></a> <a href="https://www.facebook.com/roboneosabah" class="btn btn-facebook btn-xs"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
+</p>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-views pane-content-from-gamma"  >
+  
+        <h2 class="pane-title">
+      Events    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="view view-content-from-gamma view-id-content_from_gamma view-display-id-block_roboneo_events view-dom-id-59daed0e2625f2cdf7e7b4df6416d82d">
+        
+  
+  
+      <div class="view-empty">
+      <div class="view view-content-from-gamma view-id-content_from_gamma view-display-id-block_roboneo_past_events view-dom-id-30785c1c0f201e3fafe4572d0feb1a3f">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <span class="views-field views-field-field-event-date">        <span class="field-content"><span class="date-display-single">2016-12-02 <span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2016-12-02T14:00:00+08:00">14:00</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2016-12-02T17:00:00+08:00">17:00</span></span></span></span>  </span>       -   
+  <span class="views-field views-field-title">        <span class="field-content"><a href="//kinabalucoders.org/node/45">Roboneo 2016 Prizes Handing-Over</a></span>  </span>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <span class="views-field views-field-field-event-date">        <span class="field-content"><span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2016-11-19T10:00:00+08:00">2016-11-19 10:00</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2016-11-20T17:00:00+08:00">2016-11-20 17:00</span></span></span>  </span>       -   
+  <span class="views-field views-field-title">        <span class="field-content"><a href="//kinabalucoders.org/node/32">KK Maker Expo 2016</a></span>  </span>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <span class="views-field views-field-field-event-date">        <span class="field-content"><span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2016-11-18T00:00:00+08:00">2016-11-18 (All day)</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2016-11-19T00:00:00+08:00">2016-11-19 (All day)</span></span></span>  </span>       -   
+  <span class="views-field views-field-title">        <span class="field-content"><a href="//kinabalucoders.org/node/27">Roboneo 2016</a></span>  </span>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div>  </div>
+  <div class="row">
+      </div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-project-pifi"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="bootstrap-twocol-stacked" id="mini-panel-project_pifi">
+  <div class="row">
+      </div>
+  <div class="row">
+    <div class='panel-panel left col-sm-2 col-sm-offset-1'><div class="panel-pane pane-custom pane-26"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="meta">
+  <div class="row logo">
+    <div class="col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0">
+      <img class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/pifi/pifi.logo.512x512.jpg" /></div>
+  </div>
+  <div class="row leads">
+    <div class="col-xs-4 col-xs-offset-4 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3 col-lg-6 col-lg-offset-3">
+      <a href="https://plus.google.com/+ArthurRaymond" title="Arthur Raymond"><img title="Arthur Raymond" alt="Arthur Raymond" class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/leads/arthur.jpg" /></a>
+    </div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>    <div class='panel-panel right col-sm-8'><div class="panel-pane pane-custom pane-27"  >
+  
+        <h2 class="pane-title">
+      pifi.my    </h2>
+    
+  
+  <div class="pane-content">
+    <p>
+  The Pifi Project is a fork of the Information Security Group. Its goal is to provide an open-source and affordable real-world analytics solution by leveraging the Internet of Things (IoT) and Big Data. We intend to work with local industries to commercialise the technology in the near future.
+</p>
+<p class="social-links">
+  <a href="https://pifi.my/" class="btn btn-success btn-xs"><i class="fa fa-globe fa-fw"></i> <span class="network-name">Dashboard</span></a> 
+</p>  </div>
+
+  
+  </div>
+</div>  </div>
+  <div class="row">
+      </div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-project-xyclone"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="bootstrap-twocol-stacked" id="mini-panel-project_xyclone">
+  <div class="row">
+      </div>
+  <div class="row">
+    <div class='panel-panel left col-sm-2 col-sm-offset-1'><div class="panel-pane pane-custom pane-28"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="meta">
+  <div class="row logo">
+    <div class="col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0">
+      <img class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/3dprinterborneo/3dprinterborneo.logo.512x512.jpg" /></div>
+  </div>
+  <div class="row leads">
+    <div class="col-xs-4 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-0 col-lg-6 col-lg-offset-0">
+      <a title="Asraff Amzani" href="https://plus.google.com/+MohdAsraffAmzani"><img title="Asraff Amzani" alt="Asraff Amzani" class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/leads/asraff.jpg" /></a>
+    </div>
+    <div class="col-xs-4 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-0 col-lg-6">
+      <a href="https://plus.google.com/u/0/114733121394139210313" title="Alexander Ting"><img title="Alexander Ting" alt="Alexander Ting" class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/leads/alex.jpg" /></a>
+    </div>
+    <div class="col-xs-4 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-0 col-lg-6">
+      <a href="https://plus.google.com/u/0/+AjYahyaMY" title="AJ Yahya"><img title="Aj Yahya" alt="Aj Yahya" class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/leads/aj.jpg" /></a>
+    </div>
+    <div class="col-xs-4 col-xs-offset-4 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-0 col-lg-6">
+      <a href="https://plus.google.com/u/0/107601768352304831319" title="Lawrence Chau"><img title="Lawrence Chau" alt="Lawrence Chau" class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/leads/generic.jpg" /></a>
+    </div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>    <div class='panel-panel right col-sm-8'><div class="panel-pane pane-custom pane-29"  >
+  
+        <h2 class="pane-title">
+      Xyclone 3D Printers    </h2>
+    
+  
+  <div class="pane-content">
+    <p>
+  A fork of 3D Printer Borneo, Xyclone intends to commercialise the sale of locally assembled 3D printers with upgraded open-source designs. Each printer comes with local support and warranty.  
+</p>
+<p class="social-links">
+  <a href="https://www.facebook.com/xyclone3d" class="btn btn-facebook btn-xs"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
+</p>
+  </div>
+
+  
+  </div>
+</div>  </div>
+  <div class="row">
+      </div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-project-sabahio"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="bootstrap-twocol-stacked" id="mini-panel-project_sabahio">
+  <div class="row">
+      </div>
+  <div class="row">
+    <div class='panel-panel left col-sm-2 col-sm-offset-1'><div class="panel-pane pane-custom pane-30"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="meta">
+  <div class="row logo">
+    <div class="col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0">
+      <img class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/sabahio/sabahio.logo.512x512.png" /></div>
+  </div>
+  <div class="row leads">
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>    <div class='panel-panel right col-sm-8'><div class="panel-pane pane-custom pane-31"  >
+  
+        <h2 class="pane-title">
+      sabah.io    </h2>
+    
+  
+  <div class="pane-content">
+    <p>
+  The sabah.io domain hosts a number of services for Kinabalu Coders and its communities. If you like a sub-domain to implement a socially-beneficial project/idea, do drop us a line!
+</p>
+<ul><li><a href="https://camera.sabah.io/">camera.sabah.io - live feeds of KK</a></li>
+  <li><a href="https://gitlab.sabah.io/">gitlab.sabah.io - free version control</a></li>
+</ul>  </div>
+
+  
+  </div>
+</div>  </div>
+  <div class="row">
+      </div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-project-open-badges"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="bootstrap-twocol-stacked" id="mini-panel-project_open_badges">
+  <div class="row">
+      </div>
+  <div class="row">
+    <div class='panel-panel left col-sm-2 col-sm-offset-1'><div class="panel-pane pane-custom pane-32"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="meta">
+  <div class="row logo">
+    <div class="col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0 text-center">
+      <img style="margin:auto;" class="img img-responsive" src="/sites/all/themes/bootstrap_lambda/images/openbadges/issuer-insignia-ribbon1.png" /><br /><img style="margin:auto;" class="img img-responsive" src="/sites/all/themes/bootstrap_lambda/images/openbadges/issuer-insignia-banner1.png" /></div>
+  </div>
+  <div class="row leads">
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>    <div class='panel-panel right col-sm-8'><div class="panel-pane pane-custom pane-33"  >
+  
+        <h2 class="pane-title">
+      Open Badges    </h2>
+    
+  
+  <div class="pane-content">
+    <p>
+  Open Badges are portable credentials, packaged in an attractive image file.
+  Badges can be displayed via your online CVs and social networks, and serve as a standardised way for others to verify your achievements.
+  We issue Open Badges in more and more of our events and projects - earn them today!
+</p>
+<ul><li>The <a href="https://openbadges.org/">Open Badges</a> website over at the Mozilla Foundation has more information.</li>
+  <li>Need a place to collect and display your badges? You can use <a href="https://backpack.openbadges.org/">Mozilla Backpack</a>.</li>
+  <li>Looking to verify a badge awarded by us? Find and download it via <a href="https://kinabalucoders.org/openbadges">https://kinabalucoders.org/openbadges</a></li>
+  <li>We will pay out <a href="/node/102">bounties</a> (login required) for new badge designs.</li>
+</ul>  </div>
+
+  
+  </div>
+</div>  </div>
+  <div class="row">
+      </div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-project-iot-for-communities"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="bootstrap-twocol-stacked" id="mini-panel-project_iot_for_communities">
+  <div class="row">
+      </div>
+  <div class="row">
+    <div class='panel-panel left col-sm-2 col-sm-offset-1'><div class="panel-pane pane-custom pane-34"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="meta">
+  <div class="row logo">
+    <div class="col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0">
+      <img class="img img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/iot4c/iot4c.512x512.jpg" style="margin-bottom:1.0em;" /></div>
+  </div>
+  <div class="row leads">
+    <div class="col-xs-4 col-xs-offset-2 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-0 col-lg-6 col-lg-offset-0">
+      <a href="http://www.polikk.edu.my/" title="Politeknik Kota Kinabalu"><img title="Politeknik Kota Kinabalu" alt="Politeknik Kota Kinabalu" class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/leads/polikk.512x512.jpg" /></a>
+    </div>
+    <div class="col-xs-4 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-0 col-lg-6">
+      <a href="http://kpsktm.sabah.gov.my/" title="Kementerian Pembangunan Sumber Dan Kemajuan Teknologi Maklumat"><img title="Kementerian Pembangunan Sumber Dan Kemajuan Teknologi Maklumat" alt="Kementerian Pembangunan Sumber Dan Kemajuan Teknologi Maklumat" class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/leads/kpsktm.512x512.jpg" /></a>
+    </div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>    <div class='panel-panel right col-sm-8'><div class="panel-pane pane-custom pane-35"  >
+  
+        <h2 class="pane-title">
+      IOT for Communities    </h2>
+    
+  
+  <div class="pane-content">
+    <p>
+  The IOT for Communities projects is a long-term collaboration between local communities, the <a href="http://kpsktm.sabah.gov.my/">Ministry of Resource Development and Information Technology</a>, <a href="http://www.polikk.edu.my/">Politeknik Kota Kinabalu</a> and Kinabalu Coders to implement <a href="https://en.wikipedia.org/wiki/LPWAN">LoRaWAN</a>-based IOT (<a href="https://en.wikipedia.org/wiki/Internet_of_things">Internet of Things</a>) sensor networks with urban and rural coverage. Each gateway is registered and shared via <a href="https://www.thethingsnetwork.org/">The Things Network</a> (TTN) - a global distributed network of public gateways, enabling other developers/makers to re-use the available infrastructure for their own IOT devices.
+</p>
+<p><b>Milestones</b></p>
+<ul><li>December 2017 - <b><a href="https://smkpulaugaya.sabah.io/">Pilot @ SMK Pulau Gaya</a></b></li>
+  <li>Jan 2018 - Second TTN gateway at the KK Makerspace</li>
+</ul>  </div>
+
+  
+  </div>
+</div>  </div>
+  <div class="row">
+      </div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-project-kitabikin-maker-expo"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="bootstrap-twocol-stacked" id="mini-panel-project_kitabikin_maker_expo">
+  <div class="row">
+      </div>
+  <div class="row">
+    <div class='panel-panel left col-sm-2 col-sm-offset-1'><div class="panel-pane pane-custom pane-36"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="meta">
+  <div class="row logo">
+    <div class="col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0 text-center">
+      <img style="margin:auto;" class="img img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/kitabikin/kitabikin.512x512.jpg" /></div>
+  </div>
+  <div class="row leads">
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>    <div class='panel-panel right col-sm-8'><div class="panel-pane pane-custom pane-37"  >
+  
+        <h2 class="pane-title">
+      Kita Bikin Maker Expo    </h2>
+    
+  
+  <div class="pane-content">
+    <p>
+  Held for the first time in November 2017, the Kita Bikin Maker Expo is the first-of-its-kind public maker exhibition in East Malaysia and celebrates local invention, innovation and creativity!
+</p>
+<p>
+  It attracts participants from the entire local maker ecosystem ranging from individuals, startups, social enterprises, NGOs and established businesses engaged in such diverse fields such as computing, robotics, electronics, creative arts, film production, upcycling and more! 
+</p>
+  </div>
+
+  
+  </div>
+</div>  </div>
+  <div class="row">
+      </div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-project-drone-and-rov-challenge"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="bootstrap-twocol-stacked" id="mini-panel-project_drone_and_rov_challenge">
+  <div class="row">
+      </div>
+  <div class="row">
+    <div class='panel-panel left col-sm-2 col-sm-offset-1'><div class="panel-pane pane-custom pane-38"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="meta">
+  <div class="row logo">
+    <div class="col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0">
+      <img class="img img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/droneandrov/droneandrovchallenge.512x512.jpg" style="margin-bottom:1.0em;" /></div>
+  </div>
+  <div class="row leads">
+    <div class="col-xs-4 col-xs-offset-2 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-0 col-lg-6 col-lg-offset-0">
+      <a href="http://www.polikk.edu.my/" title="Politeknik Kota Kinabalu"><img title="Politeknik Kota Kinabalu" alt="Politeknik Kota Kinabalu" class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/leads/polikk.512x512.jpg" /></a>
+    </div>
+    <div class="col-xs-4 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-0 col-lg-6">
+      <a href="https://www.facebook.com/KelabDronSabah/" title="Kelab Dron Sabah"><img title="Kelab Dron Sabah" alt="Kelab Dron Sabah" class="img img-circle img-responsive img-thumbnail" src="/sites/all/themes/bootstrap_lambda/images/leads/kelabdronsabah.512x512.jpg" /></a>
+    </div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>    <div class='panel-panel right col-sm-8'><div class="panel-pane pane-custom pane-39"  >
+  
+        <h1 class="pane-title">
+      Drones &amp; ROV Challenge    </h1>
+    
+  
+  <div class="pane-content">
+    <p>
+  The first <b>Sabah MultiGP Drone Racing Competition</b> and the <b>Underwater Robotics Challenge</b> was held concurrently in December 2017, jointly organised with <a href="https://www.facebook.com/KelabDronSabah/">Kelab Dron Sabah</a> (Sabah Drone Club) and <a href="www.polikk.edu.my">Politeknik Kota Kinabalu</a>.
+  Competitors in both events had to assemble their drones/<a href="https://en.wikipedia.org/wiki/Remotely_operated_underwater_vehicle">ROV</a>s and compete in a series of timed tasks.
+  For drones, the competition saw two separate categories: professionals and amateurs, with teams hailing from as far as Kuala Lumpur, Sarawak and Brunei - making the first Sabah MultiGP Drone Racing Competition also an <b>international</b> drone racing competition!  
+</p>
+  </div>
+
+  
+  </div>
+</div>  </div>
+  <div class="row">
+      </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+
+</section>
+<section id="block-panels-mini-front-supportus" class="block block-panels-mini  block-panels-mini-front-supportus clearfix">
+
+      
+  <div class="panel-display panel-1col clearfix" id="mini-panel-front_supportus">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-node"  >
+  
+        <h2 class="pane-title">
+      Support Us!    </h2>
+    
+  
+  <div class="pane-content">
+    <article id="node-20" class="node node-page node-teaser clearfix" about="/node/20" typeof="foaf:Document">
+    <header>
+            <span property="dc:title" content="" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>      </header>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>More than anything, we would love your support attending our events and activities. If you have something to share, a project to build, or are keen to establish a tech-related open community and need a platform to do so, let us know! We will be happy to lend you a hand.</p>
+<p><strong>Stay in touch</strong></p>
+<p>When you want to reach out to us and chat, you can contact us via <a href="https://www.facebook.com/KinabaluCoders/">Facebook</a>; drop us a line at <a href="mailto:hello@kinabalucoders.org">hello@kinabalucoders.org</a>; or even <a href="/user/register">register yourself right here</a>.</p>
+<p><strong>Volunteering</strong></p>
+<p>Our grassroots communities are built on a strong foundation of volunteers - we are always seeking dedicated individuals and organisations to be advisers, facilitators, trainers and more for our events and services. Drop us an <a href="mailto:hello@kinabalucoders.org?subject=Volunteer/support KC">email</a> if you are interested in lending your time to our organisation!</p>
+<p><strong>Donations</strong></p>
+<p>All donations directly support our community development and outreach efforts.</p>
+<p><strong>In-kind</strong> and <strong>cash</strong> donations can be made at the <a href="https://goo.gl/maps/sTeBMqE8CqC2">Kota Kinabalu makerspace</a> </p>
+<p><strong>Crowdfund</strong> us via <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=MWB4LQ3Z53KY4">PayPal</a> and/or <a href="https://www.patreon.com/kinabalucoders">Patreon</a></p>
+<p>We also have a <strong>Bitcoin</strong> (btc, bch) address: <code>1JawB4d7mBz8C9TfoRQmN5w23WoKMhfbvR</code></p>
+</div></div></div>    </article>
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+
+</section>
+<div class="panel-display panel-1col clearfix" >
+  <div class="panel-panel panel-col">
+    <div></div>
+  </div>
+</div>
+  </div>
+    </section>
+
+    
+  </div>
+</div>
+
+  <footer class="footer container-fluid">
+      <div class="region region-footer">
+    <section id="block-block-3" class="block block-block  block-block-3 clearfix">
+
+      
+  <div class="row">
+  <div class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-1 column copyright">
+    <p>
+      &copy; 2014 - 2020 <em>Persatuan Pengaturcara dan Pembina ICT Sabah</em>. Some Rights Reserved. ROS Registration No: <code>#PPM-001-12-26052014</code>. Mailing address: <b>Persatuan Pengaturcara dan Pembina ICT Sabah, 8-1, 8th Floor, Suria Sabah Shopping Mall, 1, Jalan Tun Fuad Stephens, 88000 Kota Kinabalu, Sabah, Malaysia</b>. To meet us in person, visit our <a href="https://www.google.com.my/maps/place/Smart+Space+KK/@5.978867,116.0740293,17z/data=!3m1!4b1!4m5!3m4!1s0x323b69907d0d662b:0x39d83d2ad60dae60!8m2!3d5.978867!4d116.076218">Makerspace</a> in Kota Kinabalu - check whether we're in with the <a href="https://camera.sabah.io/#smartspace">live video feed</a>.
+    </p>
+    <p>
+      This site is made in <a href="https://en.wikipedia.org/wiki/Sabah">Sabah</a>, proudly <a href="https://en.wikipedia.org/wiki/Malaysia">Malaysian</a>. Powered by <a href="https://www.drupal.org/">Drupal 7</a>. Uses <a href="http://getbootstrap.com/">Bootstrap</a>, <a href="http://fontawesome.io/">Font Awesome</a>, <a href="https://fonts.google.com/">Google Fonts</a>, and <a href="https://letsencrypt.org/">Let's Encrypt</a>.
+    </p>
+    <p>
+<ul class="share-links"><li class="header-left">
+    <span class="text">Share this page: </span>
+  </li><li>
+    <a target="_blank" title="Twitter" href="http://twitter.com/share?url=https%3A%2F%2Fkinabalucoders.org%2Foverview&text="><i class="fa fa-twitter" aria-hidden="true"></i><span class="text"> Twitter</span></a>
+  </li><li>
+    <a target="_blank" title="Google Plus" href="https://plus.google.com/share?url=https%3A%2F%2Fkinabalucoders.org%2Foverview"><i class="fa fa-google-plus" aria-hidden="true"></i><span class="text"> Google+</span></a>
+  </li><li>
+    <a target="_blank" title="Facebook" href="http://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fkinabalucoders.org%2Foverview"><i class="fa fa-facebook" aria-hidden="true"></i><span class="text"> Facebook</span></a>
+  </li><li>
+    <a target="_blank" title="Reddit" href="http://reddit.com/submit?url=https%3A%2F%2Fkinabalucoders.org%2Foverview&title="><i class="fa fa-reddit" aria-hidden="true"></i><span class="text"> Reddit</span></a>
+  </li><li>
+    <a target="_blank" title="LinkedIn" href="http://www.linkedin.com/shareArticle?url=https%3A%2F%2Fkinabalucoders.org%2Foverview&mini=true&title="><i class="fa fa-linkedin" aria-hidden="true"></i><span class="text"> LinkedIn</span></a>
+  </li><li>
+    <a target="_blank" title="Email" href="mailto:?subject=&body=https%3A%2F%2Fkinabalucoders.org%2Foverview"><i class="fa fa-envelope" aria-hidden="true"></i><span class="text"> Email</span></a>
+  </li><li>
+    <a title="Printer" href="javascript: window.print();"><i class="fa fa-print" aria-hidden="true"></i><span class="text"> Print</span></a>
+  </li></ul>
+    </p>
+  </div>
+  <div class="col-xs-10 col-xs-offset-1 col-sm-3 col-sm-offset-1 column copyleft">
+    <p>
+      <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img class="logo-cc" alt="Creative Commons Licence" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> Except where otherwise noted, content on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. For KC names and likenesses, we have separate <a href="https://kinabalucoders.org/node/115">terms of usage</a>.
+    </p>
+</div>
+</div>
+
+</section>
+  </div>
+  </footer>
+  <script src="https://kinabalucoders.org/sites/all/themes/bootstrap/js/bootstrap.js?pemtp6"></script>
+</body>
+</html>

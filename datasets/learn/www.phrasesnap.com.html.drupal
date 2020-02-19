@@ -1,0 +1,579 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="PhraseSnap RSS" href="http://www.phrasesnap.com/?q=rss.xml" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="shortcut icon" href="http://www.phrasesnap.com/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>PhraseSnap | Share What You Read Instantly</title>  
+  <style type="text/css" media="all">
+@import url("http://www.phrasesnap.com/modules/system/system.base.css?q2xvf5");
+@import url("http://www.phrasesnap.com/modules/system/system.menus.css?q2xvf5");
+@import url("http://www.phrasesnap.com/modules/system/system.messages.css?q2xvf5");
+@import url("http://www.phrasesnap.com/modules/system/system.theme.css?q2xvf5");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.phrasesnap.com/modules/comment/comment.css?q2xvf5");
+@import url("http://www.phrasesnap.com/modules/field/theme/field.css?q2xvf5");
+@import url("http://www.phrasesnap.com/modules/node/node.css?q2xvf5");
+@import url("http://www.phrasesnap.com/modules/search/search.css?q2xvf5");
+@import url("http://www.phrasesnap.com/modules/user/user.css?q2xvf5");
+</style>
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+span.gflag{font-size:16px;padding:1px 0;background-repeat:no-repeat;background-image:url(/sites/all/modules/gtranslate/gtranslate-files/16.png);}span.gflag img{border:0;margin-top:2px;}.switcher{font-family:Arial;font-size:10pt;text-align:left;cursor:pointer;overflow:hidden;width:163px;line-height:16px;}.switcher a{text-decoration:none;display:block;font-size:10pt;-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box;border:none;}.switcher a span.gflag{margin-right:3px;padding:0;display:block;float:left;}.switcher .selected{background:#FFFFFF url(/sites/all/modules/gtranslate/gtranslate-files/switcher.png) repeat-x;position:relative;z-index:9999;}.switcher .selected a{border:1px solid #CCCCCC;background:url(/sites/all/modules/gtranslate/gtranslate-files/arrow_down.png) 146px center no-repeat;color:#666666;padding:3px 5px;width:151px;}.switcher .selected a:hover{background:#F0F0F0 url(/sites/all/modules/gtranslate/gtranslate-files/arrow_down.png) 146px center no-repeat;}.switcher .option{position:relative;z-index:9998;border-left:1px solid #CCCCCC;border-right:1px solid #CCCCCC;border-bottom:1px solid #CCCCCC;background-color:#EEEEEE;display:none;width:161px;-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box;}.switcher .option a{color:#000;padding:3px 5px;}.switcher .option a:hover{background:#FFC;}.switcher .option a.selected{background:#FFC;}#selected_lang_name{float:none;}.l_name{float:none !important;margin:0;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://sharecdn.social9.com/v2/css/os-share-widget-style.css" media="all" />
+<style type="text/css" media="all and (min-width: 980px)">
+@import url("http://www.phrasesnap.com/sites/all/themes/corporateclean/css/960.css?q2xvf5");
+</style>
+<style type="text/css" media="all and (min-width: 760px) and (max-width: 980px)">
+@import url("http://www.phrasesnap.com/sites/all/themes/corporateclean/css/720.css?q2xvf5");
+</style>
+<style type="text/css" media="all and (max-width: 760px)">
+@import url("http://www.phrasesnap.com/sites/all/themes/corporateclean/css/mobile.css?q2xvf5");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.phrasesnap.com/sites/all/themes/corporateclean/style.css?q2xvf5");
+@import url("http://www.phrasesnap.com/sites/all/themes/corporateclean/color/colors.css?q2xvf5");
+</style>
+
+<!--[if (lte IE 8)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="http://www.phrasesnap.com/sites/all/themes/corporateclean/css/basic-layout.css?q2xvf5" media="all" />
+<![endif]-->
+
+<!--[if (lte IE 8)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="http://www.phrasesnap.com/sites/all/themes/corporateclean/css/ie.css?q2xvf5" media="all" />
+<![endif]-->
+  
+    
+  <script type="text/javascript" src="http://www.phrasesnap.com/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.phrasesnap.com/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.phrasesnap.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.phrasesnap.com/misc/drupal.js?q2xvf5"></script>
+<script type="text/javascript" src="http://www.phrasesnap.com/sites/all/themes/corporateclean/js/jquery.cycle.all.js?q2xvf5"></script>
+<script type="text/javascript" src="https://sharecdn.social9.com/v2/js/opensocialshare.js?q2xvf5"></script>
+<script type="text/javascript" src="https://sharecdn.social9.com/v2/js/opensocialsharedefaulttheme.js?q2xvf5"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"corporateclean","theme_token":"aZVh290owi-uFnAKx7suobq_Qbgh3U73Zrp7AOdHQwE","js":{"0":1,"1":1,"sites\/all\/modules\/simplified_social_share\/js\/opensocialshare_widget.js":1,"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/corporateclean\/js\/jquery.cycle.all.js":1,"https:\/\/sharecdn.social9.com\/v2\/js\/opensocialshare.js":1,"https:\/\/sharecdn.social9.com\/v2\/js\/opensocialsharedefaulttheme.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"0":1,"https:\/\/sharecdn.social9.com\/v2\/css\/os-share-widget-style.css":1,"sites\/all\/themes\/corporateclean\/css\/960.css":1,"sites\/all\/themes\/corporateclean\/css\/720.css":1,"sites\/all\/themes\/corporateclean\/css\/mobile.css":1,"sites\/all\/themes\/corporateclean\/style.css":1,"sites\/all\/themes\/corporateclean\/color\/colors.css":1,"sites\/all\/themes\/corporateclean\/css\/basic-layout.css":1,"sites\/all\/themes\/corporateclean\/css\/ie.css":1}},"advanceopensocialshare":{"horizontal":true,"providers":"facebook,googleplus,google,pinterest,twitter","widgets":"Facebook Like,Google+ +1,Pinterest Pin it,LinkedIn Share","isHorizontalLayout":1,"emailMessage":"","emailSubject":"","isEmailContentReadOnly":"false","theme":"OpenSocialShareDefaultTheme","isShortenUrl":"false","facebookAppId":"","isTotalShare":"false","isOpenSingleWindow":"false","twittermention":"","twitterhashtags":"","popupWindowSize":"","isMobileFriendly":"false","totalShareContainer":"os-share-count","customOption":"","divwidget":"os-share-widget-interface","isCounterWidgetTheme":0,"isHorizontalCounter":0,"widgetIconSize":"16","widgetStyle":"square"},"urlIsAjaxTrusted":{"\/":true,"\/?q=node\u0026destination=node":true}});
+//--><!]]>
+</script>
+
+</head>
+<body class="html front not-logged-in two-sidebars page-node" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <!-- #header -->
+<div id="header">
+	<!-- #header-inside -->
+    <div id="header-inside" class="container_12 clearfix">
+    	<!-- #header-inside-left -->
+        <div id="header-inside-left" class="grid_8">
+            
+                        <a href="/" title="Home"><img src="http://www.phrasesnap.com/sites/default/files/snp50.png" alt="Home" /></a>
+                 
+                        <div class="clearfix">
+                        <span id="site-name"><a href="/" title="Home">PhraseSnap</a></span>
+                                    <span id="slogan">Share What You Read Instantly</span>
+                        </div>
+                        
+        </div><!-- EOF: #header-inside-left -->
+        
+        <!-- #header-inside-right -->    
+        <div id="header-inside-right" class="grid_4">
+
+			
+        </div><!-- EOF: #header-inside-right -->
+    
+    </div><!-- EOF: #header-inside -->
+
+</div><!-- EOF: #header -->
+
+<!-- #header-menu -->
+<div id="header-menu">
+	<!-- #header-menu-inside -->
+    <div id="header-menu-inside" class="container_12 clearfix">
+    
+    	<div class="grid_12">
+            <div id="navigation" class="clearfix">
+            <ul class="menu"><li class="first leaf"><a href="/" class="active">Home</a></li>
+<li class="leaf"><a href="/?q=node/12">About</a></li>
+<li class="last leaf"><a href="/?q=node/48">Privacy Policy</a></li>
+</ul>            </div>
+        </div>
+        
+    </div><!-- EOF: #header-menu-inside -->
+
+</div><!-- EOF: #header-menu -->
+
+<!-- #banner -->
+<div id="banner">
+
+		
+      
+
+</div><!-- EOF: #banner -->
+
+
+<!-- #content -->
+<div id="content">
+	<!-- #content-inside -->
+    <div id="content-inside" class="container_12 clearfix">
+    
+                <!-- #sidebar-first -->
+        <div id="sidebar-first" class="grid_4">
+        	  <div class="region region-sidebar-first">
+    <div id="block-search-form" class="block block-search">
+
+
+<div class="content">
+<form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+ <input onblur="if (this.value == &#039;&#039;) {this.value = &#039;Search&#039;;}" onfocus="if (this.value == &#039;Search&#039;) {this.value = &#039;&#039;;}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="image" id="edit-submit" name="submit" src="/sites/all/themes/corporateclean/images/search-button.png" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-bhxOzgdLMBoRK-5nFNRr_o50ecxKLg91GLiTDqeUqXE" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></div>
+</div><div id="block-user-login" class="block block-user">
+
+<h2>User login</h2>
+
+<div class="content">
+<form action="/?q=node&amp;destination=node" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/?q=user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/?q=user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-PzNmvAh-a8fmEkMWOX3ah-qt1oKRkbsIU2aDP9e-7t4" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Log in" class="form-submit" /></div></div></form></div>
+</div>  </div>
+        </div><!-- EOF: #sidebar-first -->
+                
+                <div class="grid_4">
+                    
+                        
+            <div id="highlighted">  <div class="region region-highlighted">
+    <div id="block-gtranslate-gtranslate" class="block block-gtranslate">
+
+<h2>Gtranslate</h2>
+
+<div class="content">
+<script type="text/javascript">
+/* <![CDATA[ */
+eval(unescape("eval%28function%28p%2Ca%2Cc%2Ck%2Ce%2Cr%29%7Be%3Dfunction%28c%29%7Breturn%28c%3Ca%3F%27%27%3Ae%28parseInt%28c/a%29%29%29+%28%28c%3Dc%25a%29%3E35%3FString.fromCharCode%28c+29%29%3Ac.toString%2836%29%29%7D%3Bif%28%21%27%27.replace%28/%5E/%2CString%29%29%7Bwhile%28c--%29r%5Be%28c%29%5D%3Dk%5Bc%5D%7C%7Ce%28c%29%3Bk%3D%5Bfunction%28e%29%7Breturn%20r%5Be%5D%7D%5D%3Be%3Dfunction%28%29%7Breturn%27%5C%5Cw+%27%7D%3Bc%3D1%7D%3Bwhile%28c--%29if%28k%5Bc%5D%29p%3Dp.replace%28new%20RegExp%28%27%5C%5Cb%27+e%28c%29+%27%5C%5Cb%27%2C%27g%27%29%2Ck%5Bc%5D%29%3Breturn%20p%7D%28%276%207%28a%2Cb%29%7Bn%7B4%282.9%29%7B3%20c%3D2.9%28%22o%22%29%3Bc.p%28b%2Cf%2Cf%29%3Ba.q%28c%29%7Dg%7B3%20c%3D2.r%28%29%3Ba.s%28%5C%27t%5C%27+b%2Cc%29%7D%7Du%28e%29%7B%7D%7D6%20h%28a%29%7B4%28a.8%29a%3Da.8%3B4%28a%3D%3D%5C%27%5C%27%29v%3B3%20b%3Da.w%28%5C%27%7C%5C%27%29%5B1%5D%3B3%20c%3B3%20d%3D2.x%28%5C%27y%5C%27%29%3Bz%283%20i%3D0%3Bi%3Cd.5%3Bi++%294%28d%5Bi%5D.A%3D%3D%5C%27B-C-D%5C%27%29c%3Dd%5Bi%5D%3B4%282.j%28%5C%27k%5C%27%29%3D%3DE%7C%7C2.j%28%5C%27k%5C%27%29.l.5%3D%3D0%7C%7Cc.5%3D%3D0%7C%7Cc.l.5%3D%3D0%29%7BF%286%28%29%7Bh%28a%29%7D%2CG%29%7Dg%7Bc.8%3Db%3B7%28c%2C%5C%27m%5C%27%29%3B7%28c%2C%5C%27m%5C%27%29%7D%7D%27%2C43%2C43%2C%27%7C%7Cdocument%7Cvar%7Cif%7Clength%7Cfunction%7CGTranslateFireEvent%7Cvalue%7CcreateEvent%7C%7C%7C%7C%7C%7Ctrue%7Celse%7CdoGTranslate%7C%7CgetElementById%7Cgoogle_translate_element2%7CinnerHTML%7Cchange%7Ctry%7CHTMLEvents%7CinitEvent%7CdispatchEvent%7CcreateEventObject%7CfireEvent%7Con%7Ccatch%7Creturn%7Csplit%7CgetElementsByTagName%7Cselect%7Cfor%7CclassName%7Cgoog%7Cte%7Ccombo%7Cnull%7CsetTimeout%7C500%27.split%28%27%7C%27%29%2C0%2C%7B%7D%29%29"))
+/* ]]> */
+</script><style type="text/css">
+<!--
+#goog-gt-tt {display:none !important;}
+
+.goog-te-banner-frame {display:none !important;}
+
+.goog-te-menu-value:hover {text-decoration:none !important;}
+
+body {top:0 !important;}
+
+#google_translate_element2 {display:none!important;}
+-->
+</style><div id="google_translate_element2"></div>
+<script type="text/javascript">function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'en', autoDisplay: false}, 'google_translate_element2');}</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script><div class="switcher notranslate"><div class="selected"><a href="#" onclick="return false;"><span class="gflag" style="background-position:-0px -0px"><img src="/sites/all/modules/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="English" /></span>English</a></div><div class="option"><a href="#" onclick="doGTranslate('en|en');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="English" class="nturl  selected"><span class="gflag" style="background-position:-0px -0px;"><img src="/sites/all/modules/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="English" /></span>English</a><a href="#" onclick="doGTranslate('en|ar');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Arabic" class="nturl "><span class="gflag" style="background-position:-100px -0px;"><img src="/sites/all/modules/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Arabic" /></span>Arabic</a><a href="#" onclick="doGTranslate('en|zh-CN');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Chinese (Simplified)" class="nturl "><span class="gflag" style="background-position:-300px -0px;"><img src="/sites/all/modules/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Chinese (Simplified)" /></span>Chinese (Simplified)</a><a href="#" onclick="doGTranslate('en|fi');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Finnish" class="nturl "><span class="gflag" style="background-position:-100px -100px;"><img src="/sites/all/modules/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Finnish" /></span>Finnish</a><a href="#" onclick="doGTranslate('en|fr');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="French" class="nturl "><span class="gflag" style="background-position:-200px -100px;"><img src="/sites/all/modules/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="French" /></span>French</a><a href="#" onclick="doGTranslate('en|de');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="German" class="nturl "><span class="gflag" style="background-position:-300px -100px;"><img src="/sites/all/modules/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="German" /></span>German</a><a href="#" onclick="doGTranslate('en|it');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Italian" class="nturl "><span class="gflag" style="background-position:-600px -100px;"><img src="/sites/all/modules/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Italian" /></span>Italian</a><a href="#" onclick="doGTranslate('en|ja');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Japanese" class="nturl "><span class="gflag" style="background-position:-700px -100px;"><img src="/sites/all/modules/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Japanese" /></span>Japanese</a><a href="#" onclick="doGTranslate('en|fa');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Persian" class="nturl "><span class="gflag" style="background-position:-200px -500px;"><img src="/sites/all/modules/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Persian" /></span>Persian</a><a href="#" onclick="doGTranslate('en|pt');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Portuguese" class="nturl "><span class="gflag" style="background-position:-300px -200px;"><img src="/sites/all/modules/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Portuguese" /></span>Portuguese</a><a href="#" onclick="doGTranslate('en|ru');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Russian" class="nturl "><span class="gflag" style="background-position:-500px -200px;"><img src="/sites/all/modules/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Russian" /></span>Russian</a><a href="#" onclick="doGTranslate('en|es');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Spanish" class="nturl "><span class="gflag" style="background-position:-600px -200px;"><img src="/sites/all/modules/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Spanish" /></span>Spanish</a><a href="#" onclick="doGTranslate('en|tr');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Turkish" class="nturl "><span class="gflag" style="background-position:-100px -500px;"><img src="/sites/all/modules/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Turkish" /></span>Turkish</a><a href="#" onclick="doGTranslate('en|uk');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Ukrainian" class="nturl "><span class="gflag" style="background-position:-100px -400px;"><img src="/sites/all/modules/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Ukrainian" /></span>Ukrainian</a><a href="#" onclick="doGTranslate('en|yi');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Yiddish" class="nturl "><span class="gflag" style="background-position:-300px -600px;"><img src="/sites/all/modules/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Yiddish" /></span>Yiddish</a></div></div></div>
+</div>  </div>
+</div>       
+                 
+                        
+                        
+			                                    
+                        
+              <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+
+<div class="content">
+<div id="node-116" class="node node-article node-promoted node-teaser" about="/?q=node/116" typeof="sioc:Item foaf:Document">
+
+  
+        <h2><a href="/?q=node/116">Die Weltweisen</a></h2>
+    <span property="dc:title" content="Die Weltweisen" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="submitted"><span property="dc:date dc:created" content="2019-09-16T01:36:53-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/?q=user/42" typeof="sioc:UserAccount" property="foaf:name" datatype="">Yosukee</span> on Mon, 09/16/2019 - 01:36</span></div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="og:image rdfs:seeAlso" resource="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190831_214931.jpg?itok=ArJbiV5N"><a href="/?q=node/116"><img typeof="foaf:Image" src="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190831_214931.jpg?itok=ArJbiV5N" width="220" height="165" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Wie die Welt laeft Philosophisch.</p>
+</div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/?q=taxonomy/term/269" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Philpsophy</a></div><div class="field-item odd" rel="dc:subject"><a href="/?q=taxonomy/term/270" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">von Schiller</a></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first"><a href="/?q=node/116" rel="tag" title="Die Weltweisen">Read more<span class="element-invisible"> about Die Weltweisen</span></a></li>
+<li class="comment_forbidden last"><span><a href="/?q=user/login&amp;destination=node/116%23comment-form">Log in</a> or <a href="/?q=user/register&amp;destination=node/116%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+    
+      </div>
+
+</div><div id="node-115" class="node node-article node-promoted node-teaser" about="/?q=node/115" typeof="sioc:Item foaf:Document">
+
+  
+        <h2><a href="/?q=node/115">Ancient Bag</a></h2>
+    <span property="dc:title" content="Ancient Bag" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="submitted"><span property="dc:date dc:created" content="2019-09-07T07:15:54-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/?q=user/19" typeof="sioc:UserAccount" property="foaf:name" datatype="">Leici</span> on Sat, 09/07/2019 - 07:15</span></div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="og:image rdfs:seeAlso" resource="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190815_175153.jpg?itok=jw--V4rx"><a href="/?q=node/115"><img typeof="foaf:Image" src="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190815_175153.jpg?itok=jw--V4rx" width="220" height="165" alt="" /></a></div><div class="field-item odd" rel="og:image rdfs:seeAlso" resource="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190815_175253.jpg?itok=dlyYMhr-"><a href="/?q=node/115"><img typeof="foaf:Image" src="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190815_175253.jpg?itok=dlyYMhr-" width="220" height="165" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Medicine Man Bag</p>
+</div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/?q=taxonomy/term/251" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">bag</a></div><div class="field-item odd" rel="dc:subject"><a href="/?q=taxonomy/term/268" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Ancient</a></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first"><a href="/?q=node/115" rel="tag" title="Ancient Bag">Read more<span class="element-invisible"> about Ancient Bag</span></a></li>
+<li class="comment_forbidden last"><span><a href="/?q=user/login&amp;destination=node/115%23comment-form">Log in</a> or <a href="/?q=user/register&amp;destination=node/115%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+    
+      </div>
+
+</div><div id="node-110" class="node node-article node-promoted node-teaser" about="/?q=node/110" typeof="sioc:Item foaf:Document">
+
+  
+        <h2><a href="/?q=node/110">Mosque of Yavuz Sultan Selim</a></h2>
+    <span property="dc:title" content="Mosque of Yavuz Sultan Selim" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="submitted"><span property="dc:date dc:created" content="2019-08-15T11:22:39-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/?q=user/42" typeof="sioc:UserAccount" property="foaf:name" datatype="">Yosukee</span> on Thu, 08/15/2019 - 11:22</span></div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="og:image rdfs:seeAlso" resource="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190728_120842.jpg?itok=NJjhNwzD"><a href="/?q=node/110"><img typeof="foaf:Image" src="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190728_120842.jpg?itok=NJjhNwzD" width="220" height="165" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>A simple main plan of Yavuz Sultan Selim Mosque</p>
+</div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/?q=taxonomy/term/258" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Main plan</a></div><div class="field-item odd" rel="dc:subject"><a href="/?q=taxonomy/term/259" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">mosque</a></div><div class="field-item even" rel="dc:subject"><a href="/?q=taxonomy/term/260" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Yavuz Sultan Selim</a></div><div class="field-item odd" rel="dc:subject"><a href="/?q=taxonomy/term/34" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Istanbul</a></div><div class="field-item even" rel="dc:subject"><a href="/?q=taxonomy/term/253" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Constantinopoli</a></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first"><a href="/?q=node/110" rel="tag" title="Mosque of Yavuz Sultan Selim">Read more<span class="element-invisible"> about Mosque of Yavuz Sultan Selim</span></a></li>
+<li class="comment_forbidden last"><span><a href="/?q=user/login&amp;destination=node/110%23comment-form">Log in</a> or <a href="/?q=user/register&amp;destination=node/110%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+    
+      </div>
+
+</div><div id="node-109" class="node node-article node-promoted node-teaser" about="/?q=node/109" typeof="sioc:Item foaf:Document">
+
+  
+        <h2><a href="/?q=node/109">Old Logan in Turkish</a></h2>
+    <span property="dc:title" content="Old Logan in Turkish" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="submitted"><span property="dc:date dc:created" content="2019-08-15T11:09:17-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/?q=user/42" typeof="sioc:UserAccount" property="foaf:name" datatype="">Yosukee</span> on Thu, 08/15/2019 - 11:09</span></div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="og:image rdfs:seeAlso" resource="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190813_164523.jpg?itok=EmmNMk3w"><a href="/?q=node/109"><img typeof="foaf:Image" src="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190813_164523.jpg?itok=EmmNMk3w" width="220" height="165" alt="" /></a></div><div class="field-item odd" rel="og:image rdfs:seeAlso" resource="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190813_164538.jpg?itok=ceEitzeq"><a href="/?q=node/109"><img typeof="foaf:Image" src="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190813_164538.jpg?itok=ceEitzeq" width="220" height="165" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>OMG. Old Logan in Turkish. The extend of Globalization..</p>
+</div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/?q=taxonomy/term/257" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Old Logan</a></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first"><a href="/?q=node/109" rel="tag" title="Old Logan in Turkish">Read more<span class="element-invisible"> about Old Logan in Turkish</span></a></li>
+<li class="comment_forbidden last"><span><a href="/?q=user/login&amp;destination=node/109%23comment-form">Log in</a> or <a href="/?q=user/register&amp;destination=node/109%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+    
+      </div>
+
+</div><div id="node-108" class="node node-article node-promoted node-teaser" about="/?q=node/108" typeof="sioc:Item foaf:Document">
+
+  
+        <h2><a href="/?q=node/108">Lavanta</a></h2>
+    <span property="dc:title" content="Lavanta" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="submitted"><span property="dc:date dc:created" content="2019-08-15T11:02:58-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/?q=user/42" typeof="sioc:UserAccount" property="foaf:name" datatype="">Yosukee</span> on Thu, 08/15/2019 - 11:02</span></div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="og:image rdfs:seeAlso" resource="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190814_174639.jpg?itok=s8fSKoU4"><a href="/?q=node/108"><img typeof="foaf:Image" src="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190814_174639.jpg?itok=s8fSKoU4" width="220" height="165" alt="" /></a></div><div class="field-item odd" rel="og:image rdfs:seeAlso" resource="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190814_174644.jpg?itok=k2boEt7N"><a href="/?q=node/108"><img typeof="foaf:Image" src="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190814_174644.jpg?itok=k2boEt7N" width="220" height="165" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>En güzel ve kısa Lavanta tanımı</p>
+</div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/?q=taxonomy/term/254" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Lavanta</a></div><div class="field-item odd" rel="dc:subject"><a href="/?q=taxonomy/term/255" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">çiçek</a></div><div class="field-item even" rel="dc:subject"><a href="/?q=taxonomy/term/256" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">doğa</a></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first"><a href="/?q=node/108" rel="tag" title="Lavanta">Read more<span class="element-invisible"> about Lavanta</span></a></li>
+<li class="comment_forbidden last"><span><a href="/?q=user/login&amp;destination=node/108%23comment-form">Log in</a> or <a href="/?q=user/register&amp;destination=node/108%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+    
+      </div>
+
+</div><div id="node-103" class="node node-article node-promoted node-teaser" about="/?q=node/103" typeof="sioc:Item foaf:Document">
+
+  
+        <h2><a href="/?q=node/103">The Prophet Ezra</a></h2>
+    <span property="dc:title" content="The Prophet Ezra" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="submitted"><span property="dc:date dc:created" content="2019-08-15T09:16:29-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/?q=user/19" typeof="sioc:UserAccount" property="foaf:name" datatype="">Leici</span> on Thu, 08/15/2019 - 09:16</span></div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="og:image rdfs:seeAlso" resource="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190728_120339.jpg?itok=Er3pNZ0t"><a href="/?q=node/103"><img typeof="foaf:Image" src="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190728_120339.jpg?itok=Er3pNZ0t" width="220" height="165" alt="" /></a></div><div class="field-item odd" rel="og:image rdfs:seeAlso" resource="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190728_120402.jpg?itok=1Kp7aXhk"><a href="/?q=node/103"><img typeof="foaf:Image" src="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190728_120402.jpg?itok=1Kp7aXhk" width="220" height="165" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Prophet Ezra as she is.</p>
+</div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/?q=taxonomy/term/240" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Ezra</a></div><div class="field-item odd" rel="dc:subject"><a href="/?q=taxonomy/term/241" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">prophet</a></div><div class="field-item even" rel="dc:subject"><a href="/?q=taxonomy/term/155" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">art</a></div><div class="field-item odd" rel="dc:subject"><a href="/?q=taxonomy/term/242" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">painting</a></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first"><a href="/?q=node/103" rel="tag" title="The Prophet Ezra">Read more<span class="element-invisible"> about The Prophet Ezra</span></a></li>
+<li class="comment_forbidden last"><span><a href="/?q=user/login&amp;destination=node/103%23comment-form">Log in</a> or <a href="/?q=user/register&amp;destination=node/103%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+    
+      </div>
+
+</div><div id="node-102" class="node node-article node-promoted node-teaser" about="/?q=node/102" typeof="sioc:Item foaf:Document">
+
+  
+        <h2><a href="/?q=node/102">Has Arabesk</a></h2>
+    <span property="dc:title" content="Has Arabesk" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="submitted"><span property="dc:date dc:created" content="2019-08-15T00:30:49-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/?q=user/19" typeof="sioc:UserAccount" property="foaf:name" datatype="">Leici</span> on Thu, 08/15/2019 - 00:30</span></div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="og:image rdfs:seeAlso" resource="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190813_165429.jpg?itok=9yYBd1LB"><a href="/?q=node/102"><img typeof="foaf:Image" src="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190813_165429.jpg?itok=9yYBd1LB" width="220" height="165" alt="" /></a></div><div class="field-item odd" rel="og:image rdfs:seeAlso" resource="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190813_165423.jpg?itok=wKt4mAIF"><a href="/?q=node/102"><img typeof="foaf:Image" src="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190813_165423.jpg?itok=wKt4mAIF" width="220" height="165" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Bir zamanlar Türkiye.</p>
+</div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/?q=taxonomy/term/238" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Şevval Sam</a></div><div class="field-item odd" rel="dc:subject"><a href="/?q=taxonomy/term/239" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Arabesk.</a></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first"><a href="/?q=node/102" rel="tag" title="Has Arabesk">Read more<span class="element-invisible"> about Has Arabesk</span></a></li>
+<li class="comment_forbidden last"><span><a href="/?q=user/login&amp;destination=node/102%23comment-form">Log in</a> or <a href="/?q=user/register&amp;destination=node/102%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+    
+      </div>
+
+</div><div id="node-100" class="node node-article node-promoted node-teaser" about="/?q=node/100" typeof="sioc:Item foaf:Document">
+
+  
+        <h2><a href="/?q=node/100">Laugh or Lament</a></h2>
+    <span property="dc:title" content="Laugh or Lament" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="submitted"><span property="dc:date dc:created" content="2019-08-15T00:16:40-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/?q=user/41" typeof="sioc:UserAccount" property="foaf:name" datatype="">Milwaukeeflr</span> on Thu, 08/15/2019 - 00:16</span></div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="og:image rdfs:seeAlso" resource="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190813_165726.jpg?itok=38J1dJb4"><a href="/?q=node/100"><img typeof="foaf:Image" src="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190813_165726.jpg?itok=38J1dJb4" width="220" height="165" alt="" /></a></div><div class="field-item odd" rel="og:image rdfs:seeAlso" resource="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190813_165742.jpg?itok=G9aIMEUg"><a href="/?q=node/100"><img typeof="foaf:Image" src="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190813_165742.jpg?itok=G9aIMEUg" width="220" height="165" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>From the Turkish Genious who has predicted the Turkey as oftoday.</p>
+</div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/?q=taxonomy/term/233" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Aziz Nesin</a></div><div class="field-item odd" rel="dc:subject"><a href="/?q=taxonomy/term/234" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Laughing</a></div><div class="field-item even" rel="dc:subject"><a href="/?q=taxonomy/term/235" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">lament</a></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first"><a href="/?q=node/100" rel="tag" title="Laugh or Lament">Read more<span class="element-invisible"> about Laugh or Lament</span></a></li>
+<li class="comment_forbidden last"><span><a href="/?q=user/login&amp;destination=node/100%23comment-form">Log in</a> or <a href="/?q=user/register&amp;destination=node/100%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+    
+      </div>
+
+</div><div id="node-95" class="node node-article node-promoted node-teaser" about="/?q=node/95" typeof="sioc:Item foaf:Document">
+
+  
+        <h2><a href="/?q=node/95">Mucizeler</a></h2>
+    <span property="dc:title" content="Mucizeler" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="submitted"><span property="dc:date dc:created" content="2019-08-14T03:28:35-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/?q=user/19" typeof="sioc:UserAccount" property="foaf:name" datatype="">Leici</span> on Wed, 08/14/2019 - 03:28</span></div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="og:image rdfs:seeAlso" resource="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190806_184109.jpg?itok=B1GNhurF"><a href="/?q=node/95"><img typeof="foaf:Image" src="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190806_184109.jpg?itok=B1GNhurF" width="220" height="165" alt="" /></a></div><div class="field-item odd" rel="og:image rdfs:seeAlso" resource="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190806_184323.jpg?itok=vYbO2B6Y"><a href="/?q=node/95"><img typeof="foaf:Image" src="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190806_184323.jpg?itok=vYbO2B6Y" width="220" height="165" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Beyin haritası</p>
+</div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/?q=taxonomy/term/222" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Mucize</a></div><div class="field-item odd" rel="dc:subject"><a href="/?q=taxonomy/term/62" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Beyin</a></div><div class="field-item even" rel="dc:subject"><a href="/?q=taxonomy/term/223" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">uyku</a></div><div class="field-item odd" rel="dc:subject"><a href="/?q=taxonomy/term/224" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">rem</a></div><div class="field-item even" rel="dc:subject"><a href="/?q=taxonomy/term/225" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">duygulanım</a></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first"><a href="/?q=node/95" rel="tag" title="Mucizeler">Read more<span class="element-invisible"> about Mucizeler</span></a></li>
+<li class="comment_forbidden last"><span><a href="/?q=user/login&amp;destination=node/95%23comment-form">Log in</a> or <a href="/?q=user/register&amp;destination=node/95%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+    
+      </div>
+
+</div><div id="node-94" class="node node-article node-promoted node-teaser" about="/?q=node/94" typeof="sioc:Item foaf:Document">
+
+  
+        <h2><a href="/?q=node/94">Anadolu Bozkırları</a></h2>
+    <span property="dc:title" content="Anadolu Bozkırları" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="submitted"><span property="dc:date dc:created" content="2019-08-06T12:02:01-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/?q=user/19" typeof="sioc:UserAccount" property="foaf:name" datatype="">Leici</span> on Tue, 08/06/2019 - 12:02</span></div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="og:image rdfs:seeAlso" resource="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190806_183645.jpg?itok=a3kk08WI"><a href="/?q=node/94"><img typeof="foaf:Image" src="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190806_183645.jpg?itok=a3kk08WI" width="220" height="165" alt="" /></a></div><div class="field-item odd" rel="og:image rdfs:seeAlso" resource="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190806_183842.jpg?itok=0oP1xS-d"><a href="/?q=node/94"><img typeof="foaf:Image" src="http://www.phrasesnap.com/sites/default/files/styles/medium/public/field/image/20190806_183842.jpg?itok=0oP1xS-d" width="220" height="165" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Anadolu da yok yok..</p>
+</div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even" rel="dc:subject"><a href="/?q=taxonomy/term/219" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Içanadolu</a></div><div class="field-item odd" rel="dc:subject"><a href="/?q=taxonomy/term/220" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">anadolu</a></div><div class="field-item even" rel="dc:subject"><a href="/?q=taxonomy/term/221" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">fauna</a></div></div></div>  </div>
+
+  <div class="clearfix">
+          <div class="links"><ul class="links inline"><li class="node-readmore first"><a href="/?q=node/94" rel="tag" title="Anadolu Bozkırları">Read more<span class="element-invisible"> about Anadolu Bozkırları</span></a></li>
+<li class="comment_forbidden last"><span><a href="/?q=user/login&amp;destination=node/94%23comment-form">Log in</a> or <a href="/?q=user/register&amp;destination=node/94%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+    
+      </div>
+
+</div><h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/?q=node&amp;page=1">2</a></li>
+<li class="pager-item"><a title="Go to page 3" href="/?q=node&amp;page=2">3</a></li>
+<li class="pager-item"><a title="Go to page 4" href="/?q=node&amp;page=3">4</a></li>
+<li class="pager-item"><a title="Go to page 5" href="/?q=node&amp;page=4">5</a></li>
+<li class="pager-item"><a title="Go to page 6" href="/?q=node&amp;page=5">6</a></li>
+<li class="pager-item"><a title="Go to page 7" href="/?q=node&amp;page=6">7</a></li>
+<li class="pager-item"><a title="Go to page 8" href="/?q=node&amp;page=7">8</a></li>
+<li class="pager-next"><a title="Go to next page" href="/?q=node&amp;page=1">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/?q=node&amp;page=7">last »</a></li>
+</ul></div></div>
+</div><div id="block-simplified-social-share-open-sharing" class="block block-simplified-social-share">
+
+
+<div class="content">
+<div class="os-share-widget-interface" data-share-url="http://www.phrasesnap.com/?q=node" data-share-description="" data-share-imageurl=""></div></div>
+</div>  </div>
+            
+            <a href="/?q=rss.xml" class="feed-icon" title="Subscribe to PhraseSnap RSS"><img typeof="foaf:Image" src="http://www.phrasesnap.com/misc/feed.png" width="16" height="16" alt="Subscribe to PhraseSnap RSS" /></a>            
+        </div><!-- EOF: #main -->
+        
+                <!-- #sidebar-second -->
+        <div id="sidebar-second" class="grid_4">
+        	  <div class="region region-sidebar-second">
+    <div id="block-system-main-menu" class="block block-system block-menu">
+
+<h2>Main menu</h2>
+
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="/" class="active">Home</a></li>
+<li class="leaf"><a href="/?q=node/12">About</a></li>
+<li class="last leaf"><a href="/?q=node/48">Privacy Policy</a></li>
+</ul></div>
+</div>  </div>
+        </div><!-- EOF: #sidebar-second -->
+          
+
+    </div><!-- EOF: #content-inside -->
+
+</div><!-- EOF: #content -->
+
+<!-- #footer -->    
+<div id="footer">
+	<!-- #footer-inside -->
+    <div id="footer-inside" class="container_12 clearfix">
+    
+        <div class="footer-area grid_4">
+          <div class="region region-footer-first">
+    <div id="block-node-syndicate" class="block block-node">
+
+<h2>Syndicate</h2>
+
+<div class="content">
+<a href="/?q=rss.xml" class="feed-icon" title="Subscribe to Syndicate"><img typeof="foaf:Image" src="http://www.phrasesnap.com/misc/feed.png" width="16" height="16" alt="Subscribe to Syndicate" /></a></div>
+</div>  </div>
+        </div><!-- EOF: .footer-area -->
+        
+        <div class="footer-area grid_4">
+                </div><!-- EOF: .footer-area -->
+        
+        <div class="footer-area grid_4">
+                </div><!-- EOF: .footer-area -->
+       
+    </div><!-- EOF: #footer-inside -->
+
+</div><!-- EOF: #footer -->
+
+<!-- #footer-bottom -->    
+<div id="footer-bottom">
+
+	<!-- #footer-bottom-inside --> 
+    <div id="footer-bottom-inside" class="container_12 clearfix">
+    	<!-- #footer-bottom-left --> 
+    	<div id="footer-bottom-left" class="grid_8">
+        
+                        
+              <div class="region region-footer">
+    <div id="block-system-powered-by" class="block block-system">
+
+
+<div class="content">
+<span>Powered by <a href="https://www.drupal.org">Drupal</a></span>&nbsp; | &nbsp;<a href="http://www.oneall.com/services/social-login/">Social Login</a> powered by <a href="http://www.oneall.com/">OneAll</a></div>
+</div><div id="block-user-new" class="block block-user">
+
+<h2>Who's new</h2>
+
+<div class="content">
+<div class="item-list"><ul><li class="first"><span class="username" xml:lang="" about="/?q=user/43" typeof="sioc:UserAccount" property="foaf:name" datatype="">Zanzibarr</span></li>
+<li><span class="username" xml:lang="" about="/?q=user/42" typeof="sioc:UserAccount" property="foaf:name" datatype="">Yosukee</span></li>
+<li><span class="username" xml:lang="" about="/?q=user/41" typeof="sioc:UserAccount" property="foaf:name" datatype="">Milwaukeeflr</span></li>
+<li><span class="username" xml:lang="" about="/?q=user/40" typeof="sioc:UserAccount" property="foaf:name" datatype="">Kohlmerkel</span></li>
+<li class="last"><span class="username" xml:lang="" about="/?q=user/39" typeof="sioc:UserAccount" property="foaf:name" datatype="">Stairwtohvn</span></li>
+</ul></div></div>
+</div><div id="block-user-online" class="block block-user">
+
+<h2>Who's online</h2>
+
+<div class="content">
+<p>There are currently 0 users online.</p></div>
+</div>  </div>
+            
+        </div>
+    	<!-- #footer-bottom-right --> 
+        <div id="footer-bottom-right" class="grid_4">
+        
+        	        
+        </div><!-- EOF: #footer-bottom-right -->
+       
+    </div><!-- EOF: #footer-bottom-inside -->
+    
+        <!-- #credits -->   
+    <div id="credits" class="container_12 clearfix">
+        <div class="grid_12">
+        <p>Ported to Drupal by <a href="http://www.drupalizing.com">Drupalizing</a>, a Project of <a href="http://www.morethanthemes.com">More than (just) Themes</a>. Designed by <a href="http://www.kaolti.com/">Zsolt Kacso</a></p>
+        </div>
+    </div>
+    <!-- EOF: #credits -->
+    
+</div><!-- EOF: #footer -->  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) {
+	
+	$(window).load(function() {
+	
+		$("#slideshow img").show();
+		$("#slideshow").fadeIn("slow");
+		$("#slider-controls-wrapper").fadeIn("slow");
+	
+		$("#slideshow").cycle({
+			fx:    "scrollHorz",
+			speed:  "slow",
+			timeout: "10000",
+			random: 0,
+			nowrap: 0,
+			pause: 0,
+			pager:  "#slider-navigation",
+			pagerAnchorBuilder: function(idx, slide) {
+				return "#slider-navigation li:eq(" + (idx) + ") a";
+			},
+			slideResize: true,
+			containerResize: false,
+			height: "auto",
+			fit: 1,
+			before: function(){
+				$(this).parent().find(".slider-item.current").removeClass("current");
+			},
+			after: onAfter
+		});
+	});
+	
+	function onAfter(curr, next, opts, fwd) {
+		var $ht = $(this).height();
+		$(this).parent().height($ht);
+		$(this).addClass("current");
+	}
+	
+	$(window).load(function() {
+		var $ht = $(".slider-item.current").height();
+		$("#slideshow").height($ht);
+	});
+	
+	$(window).resize(function() {
+		var $ht = $(".slider-item.current").height();
+		$("#slideshow").height($ht);
+	});
+	
+	});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+				    jQuery(document).ready(function() {
+					  jQuery('.switcher .selected').click(function() {if(!(jQuery('.switcher .option').is(':visible'))) {jQuery('.switcher .option').stop(true,true).delay(50).slideDown(800);}});
+					  jQuery('body').not('.switcher .selected').mousedown(function() {if(jQuery('.switcher .option').is(':visible')) {jQuery('.switcher .option').stop(true,true).delay(300).slideUp(800);}});
+					});
+			    
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.phrasesnap.com/sites/all/modules/simplified_social_share/js/opensocialshare_widget.js?q2xvf5"></script>
+</body>
+</html>

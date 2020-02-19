@@ -1,0 +1,747 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie ie6 " lang="fr" dir="ltr"> <![endif]-->
+<!--[if IE 7]>    <html class="ie ie7 " lang="fr" dir="ltr"> <![endif]-->
+<!--[if IE 8]>    <html class="ie ie8 " lang="fr" dir="ltr"> <![endif]-->
+<!--[if gt IE 8]> <!--> <html class=" " lang="fr" dir="ltr"> <!--<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://cerja-consulting.com/cerja/sites/default/files/fav-ico2-cerja.png" type="image/png" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<style type='text/css'>body {background-color: #ffffff !important;}</style> <title>cerja-consulting.com | Toujours plus haut !!!</title>
+<!-- Call bootstrap.css before $scripts to resolve @import conflict with respond.js -->
+<link rel="stylesheet" href="/cerja/sites/all/themes/Porto/vendor/bootstrap/css/bootstrap.min.css">
+
+<link type="text/css" rel="stylesheet" href="https://cerja-consulting.com/cerja/sites/default/files/css/css_sGiTKG2K9Fss0yO6hlrAiOZ-0gumsJrZup2yEwnCVgs.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cerja-consulting.com/cerja/sites/default/files/css/css_mbr9udPc-BkNu2NgyzdQStnODx7JNM07StFzmCJnALA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cerja-consulting.com/cerja/sites/default/files/css/css_7nB6vvs5tYm0IbLrWe6Tv1fjrBDuBeWE3x18Jb6fgWg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cerja-consulting.com/cerja/sites/all/modules/popup/popup.css?plois5" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cerja-consulting.com/cerja/sites/default/files/css/css_-2XtUu3AY1PZSJ9W8XpJltNUBhRaYfsGnbgkYTHbrIk.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.md-layer-2-0-0{z-index:998 !important;}.md-layer-2-0-1{z-index:999 !important;}.md-layer-2-0-2{z-index:1000 !important;color:#ffffff !important;font-size:1.8333333333333em;font-weight:300;font-family:"Open Sans";}.md-layer-2-0-3{z-index:997 !important;color:#ffffff !important;font-size:5.1666666666667em;font-weight:800;font-family:"Open Sans";}.md-layer-2-0-4{z-index:996 !important;color:#ffffff !important;font-size:1.6666666666667em;font-weight:400;font-family:"Open Sans";}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cerja-consulting.com/cerja/sites/default/files/css/css__Ti0pB8SyvcZZT3dnqx509KyU0AIoG8ZMlMVf7jihzA.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+.md-layer-17-0-0{z-index:997 !important;}.md-layer-17-0-1{background:#4080df;z-index:999 !important;border-left:5px solid #fdfdfd;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;color:#ffffff !important;text-align:center;font-size:1.16666666667em;font-weight:700;font-family:"Niramit";text-transform:uppercase;}.md-layer-17-0-2{background:#ffffff;z-index:998 !important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;color:#01265e !important;text-align:center;font-size:2.83333333333em;font-weight:700;font-family:"Bevan";text-transform:uppercase;}.md-layer-17-0-3{background:#01265e;z-index:1000 !important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;color:#ffffff !important;text-align:center;font-size:1.16666666667em;font-weight:700;font-family:"Niramit";text-transform:uppercase;}.md-layer-17-1-0{background:#ffffff;z-index:999 !important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;color:#01265e !important;text-align:center;font-size:2.5em;font-family:"Bevan";}.md-layer-17-1-1{background:#ffffff;z-index:1000 !important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;color:#01265e !important;text-align:center;font-size:2.5em;font-family:"Bevan";}.md-layer-17-1-2{background:#ffffff;z-index:997 !important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;color:#01265e !important;text-align:center;font-size:2.5em;font-family:"Bevan";}.md-layer-17-1-3{background:#ffffff;z-index:998 !important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;color:#01265e !important;text-align:center;font-size:2.5em;font-family:"Bevan";}.md-layer-17-2-0{background:#ffffff;z-index:993 !important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;color:#01265e !important;text-align:center;font-size:1.83333333333em;font-weight:700;font-family:"Merriweather";text-transform:uppercase;}.md-layer-17-2-1{background:#01265e;z-index:989 !important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;color:#ffffff !important;text-align:center;font-size:2em;font-weight:700;font-family:"Bevan";text-transform:uppercase;}.md-layer-17-2-2{background:#ffffff;z-index:991 !important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;color:#01265e !important;text-align:center;font-size:1.83333333333em;font-weight:700;font-family:"Merriweather";text-transform:uppercase;}.md-layer-17-2-3{background:#ffffff;z-index:992 !important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;color:#01265e !important;text-align:center;font-size:1.83333333333em;font-weight:700;font-family:"Merriweather";text-transform:uppercase;}.md-layer-17-2-4{z-index:994 !important;}.md-layer-17-2-5{background:#3787d4;z-index:1000 !important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;color:#ffffff !important;text-align:center;font-size:1.33333333333em;font-weight:700;font-family:"Merriweather";text-transform:uppercase;}.md-layer-17-2-6{background:#3787d4;z-index:995 !important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;color:#ffffff !important;text-align:center;font-size:1.33333333333em;font-weight:700;font-family:"Merriweather";text-transform:uppercase;}.md-layer-17-2-7{background:#3787d4;z-index:996 !important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;color:#ffffff !important;text-align:center;font-size:1.33333333333em;font-weight:700;font-family:"Merriweather";text-transform:uppercase;}.md-layer-17-2-8{background:#3787d4;z-index:997 !important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;color:#ffffff !important;text-align:center;font-size:1.33333333333em;font-weight:700;font-family:"Merriweather";text-transform:uppercase;}.md-layer-17-2-9{background:#3787d4;z-index:998 !important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;color:#ffffff !important;text-align:center;font-size:1.33333333333em;font-weight:700;font-family:"Merriweather";text-transform:uppercase;}.md-layer-17-2-10{background:#3787d4;z-index:999 !important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;color:#ffffff !important;text-align:center;font-size:1.33333333333em;font-weight:700;font-family:"Merriweather";text-transform:uppercase;}.md-layer-17-2-11{background:#ffffff;z-index:990 !important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;color:#01265e !important;text-align:center;font-size:1.83333333333em;font-weight:700;font-family:"Merriweather";text-transform:uppercase;}.md-layer-17-3-0{background:#ffffff;z-index:994 !important;padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;color:#01265e !important;text-align:center;font-size:2em;font-family:"Bevan";text-transform:uppercase;}.md-layer-17-3-1{background:#01265e;z-index:1000 !important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:5px;color:#ffffff !important;text-align:center;font-size:1.66666666667em;font-weight:700;font-family:"Merriweather";text-transform:uppercase;}.md-layer-17-3-2{background:#4080df;z-index:995 !important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:5px;color:#ffffff !important;text-align:center;font-size:1.66666666667em;font-weight:700;font-family:"Merriweather";text-transform:uppercase;}.md-layer-17-3-3{background:#01265e;z-index:998 !important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:5px;color:#ffffff !important;text-align:center;font-size:1.66666666667em;font-weight:700;font-family:"Merriweather";text-transform:uppercase;}.md-layer-17-3-4{background:#01265e;z-index:999 !important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:5px;color:#ffffff !important;text-align:center;font-size:1.66666666667em;font-weight:700;font-family:"Merriweather";text-transform:uppercase;}.md-layer-17-3-5{background:#4080df;z-index:996 !important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:5px;color:#ffffff !important;text-align:center;font-size:1.66666666667em;font-weight:700;font-family:"Merriweather";text-transform:uppercase;}.md-layer-17-3-6{background:#4080df;z-index:997 !important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:5px;color:#ffffff !important;text-align:center;font-size:1.66666666667em;font-weight:700;font-family:"Merriweather";text-transform:uppercase;}.md-layer-17-4-0{background:#ffffff;z-index:2 !important;padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;color:#01265e !important;text-align:center;font-size:2em;font-family:"Bevan";text-transform:uppercase;}.md-layer-17-4-1{background:#01265e;z-index:2 !important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:5px;color:#ffffff !important;text-align:center;font-size:1.66666666667em;font-weight:700;font-family:"Merriweather";text-transform:uppercase;}.md-layer-17-4-2{background:#4080df;z-index:2 !important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:5px;color:#ffffff !important;text-align:center;font-size:1.66666666667em;font-weight:700;font-family:"Merriweather";text-transform:uppercase;}.md-layer-17-4-3{background:#01265e;z-index:2 !important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:5px;color:#ffffff !important;text-align:center;font-size:1.66666666667em;font-weight:700;font-family:"Merriweather";text-transform:uppercase;}.md-layer-17-4-4{background:#01265e;z-index:2 !important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:5px;color:#ffffff !important;text-align:center;font-size:1.66666666667em;font-weight:700;font-family:"Merriweather";text-transform:uppercase;}.md-layer-17-4-5{background:#4080df;z-index:2 !important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:5px;color:#ffffff !important;text-align:center;font-size:1.66666666667em;font-weight:700;font-family:"Merriweather";text-transform:uppercase;}.md-layer-17-4-6{background:#4080df;z-index:2 !important;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:5px;color:#ffffff !important;text-align:center;font-size:1.66666666667em;font-weight:700;font-family:"Merriweather";text-transform:uppercase;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://cerja-consulting.com/cerja/sites/default/files/css/css_bXD_KwDY4Uxf2ADDnUfO7XE540GTrR5Wdcv4k3-RX2A.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+@media (max-width:460px){.hideonmobile{display:none !important;}}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bevan|Merriweather:400,700|Niramit:400,700|Slabo+27px" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cerja-consulting.com/cerja/sites/default/files/css/css_B6FrEhSzQ-LYsV2O2mZz_ffSgb9IB6S14sl6kaS-SZ0.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cerja-consulting.com/cerja/sites/default/files/css/css_4vPOklJsK9iHRzFd3jWA8yVHb2b1aLINWgtO8FWtL54.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cerja-consulting.com/cerja/sites/default/files/css/css_KLevn940KsaVS6iNiCt9sY13XTqU54F_5IOxYTblXpA.css" media="all" />
+    <script type="text/javascript" src="https://cerja-consulting.com/cerja/sites/default/files/js/js_xvYJgU6LChHqbcSh4y1AvdXfD5QBIwT3GVGVUeuksbM.js"></script>
+<script type="text/javascript" src="https://cerja-consulting.com/cerja/sites/default/files/js/js_w1dFNZHYycS4xVaP5tzVkHiMAMeMeGq683Dkm09OlEY.js"></script>
+<script type="text/javascript" src="https://cerja-consulting.com/cerja/sites/all/modules/popup/popup.js?plois5"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function($) {
+      $(document).ready(function() {
+          effectsIn = Drupal.settings.inEffects;
+          effectsOut = Drupal.settings.outEffects;
+          var options_2 = Drupal.settings.md_slider_options_2;$('#md-slider-2-block').mdSlider(options_2);
+      });
+    })(jQuery);
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function($) {
+      $(document).ready(function() {
+          effectsIn = Drupal.settings.inEffects;
+          effectsOut = Drupal.settings.outEffects;
+          var options_17 = Drupal.settings.md_slider_options_17;$('#md-slider-17-block').mdSlider(options_17);
+      });
+    })(jQuery);
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://cerja-consulting.com/cerja/sites/default/files/js/js_pobaAY0gY-GIFPcRDRqer7TdHo3mlYGQIOZuwxS9i7M.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-128948237-1", {"cookieDomain":"auto"});ga("require", "displayfeatures");ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://cerja-consulting.com/cerja/sites/default/files/js/js_jQb2pWUu1ehIHfrlE3kVmKr1obdV848UzMj_7xHST-0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/cerja\/","pathPrefix":"fr\/","ajaxPageState":{"theme":"porto","theme_token":"WPc20br8VsSHDL5lss49WjdrcNdyVClFg6ABBgi8XVw","js":{"sites\/all\/themes\/Porto\/js\/theme.js":1,"sites\/all\/themes\/Porto\/js\/views\/view.home.js":1,"sites\/all\/themes\/Porto\/js\/theme.init.js":1,"sites\/all\/themes\/Porto\/js\/examples\/examples.portfolio.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"public:\/\/languages\/fr_WDaEOidIMU7yvTsv21ZpkeADSt4cyCt7mIbLZJTB_VQ.js":1,"sites\/all\/modules\/popup\/popup.js":1,"0":1,"1":1,"sites\/all\/modules\/md_slider\/js\/md-slider.js":1,"sites\/all\/modules\/md_slider\/js\/jquery.easing.js":1,"sites\/all\/modules\/md_slider\/js\/jquery-migrate-1.2.1.min.js":1,"sites\/all\/modules\/md_slider\/js\/modernizr.js":1,"sites\/all\/modules\/md_slider\/js\/jquery.touchwipe.js":1,"misc\/textarea.js":1,"sites\/all\/modules\/webform\/js\/webform.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"2":1,"sites\/all\/themes\/Porto\/vendor\/modernizr\/modernizr.min.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery.appear\/jquery.appear.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery.easing\/jquery.easing.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery-cookie\/jquery-cookie.js":1,"sites\/all\/themes\/Porto\/vendor\/bootstrap\/js\/bootstrap.min.js":1,"sites\/all\/themes\/Porto\/vendor\/common\/common.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery.validation\/jquery.validation.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery.stellar\/jquery.stellar.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery.easy-pie-chart\/jquery.easy-pie-chart.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery.gmap\/jquery.gmap.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery.lazyload\/jquery.lazyload.js":1,"sites\/all\/themes\/Porto\/vendor\/isotope\/jquery.isotope.min.js":1,"sites\/all\/themes\/Porto\/vendor\/owl.carousel\/owl.carousel.js":1,"sites\/all\/themes\/Porto\/vendor\/jflickrfeed\/jflickrfeed.js":1,"sites\/all\/themes\/Porto\/vendor\/magnific-popup\/jquery.magnific-popup.js":1,"sites\/all\/themes\/Porto\/vendor\/vide\/vide.js":1,"sites\/all\/themes\/Porto\/vendor\/circle-flip-slideshow\/js\/jquery.flipshow.js":1,"sites\/all\/themes\/Porto\/js\/custom.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/simplenews\/simplenews.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/popup\/popup.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/flexible\/flexible.css":1,"public:\/\/ctools\/css\/b5404dc87ecd6d117da9c88dbb63a372.css":1,"modules\/locale\/locale.css":1,"0":1,"http:\/\/fonts.googleapis.com\/css?family=Open+Sans:400,300,600,700,800":1,"sites\/all\/modules\/md_slider\/css\/animate.css":1,"sites\/all\/modules\/md_slider\/css\/md-slider.css":1,"1":1,"sites\/all\/modules\/md_slider\/css\/md-slider-style.css":1,"2":1,"https:\/\/fonts.googleapis.com\/css?family=Bevan|Merriweather:400,700|Niramit:400,700|Slabo+27px":1,"sites\/all\/modules\/webform\/css\/webform.css":1,"sites\/all\/themes\/Porto\/vendor\/owl.carousel\/assets\/owl.carousel.css":1,"sites\/all\/themes\/Porto\/vendor\/font-awesome\/css\/font-awesome-legacy.css":1,"sites\/all\/themes\/Porto\/vendor\/font-awesome\/css\/font-awesome.css":1,"sites\/all\/themes\/Porto\/vendor\/simple-line-icons\/css\/simple-line-icons.css":1,"sites\/all\/themes\/Porto\/vendor\/owl.carousel\/assets\/owl.theme.default.css":1,"sites\/all\/themes\/Porto\/vendor\/prettyPhoto\/css\/prettyPhoto.css":1,"sites\/all\/themes\/Porto\/vendor\/circle-flip-slideshow\/css\/component.css":1,"sites\/all\/themes\/Porto\/vendor\/magnific-popup\/magnific-popup.css":1,"sites\/all\/themes\/Porto\/vendor\/isotope\/jquery.isotope.css":1,"sites\/all\/themes\/Porto\/css\/theme.css":1,"sites\/all\/themes\/Porto\/css\/theme-elements.css":1,"sites\/all\/themes\/Porto\/css\/theme-animate.css":1,"sites\/all\/themes\/Porto\/css\/theme-blog.css":1,"sites\/all\/themes\/Porto\/css\/theme-shop.css":1,"sites\/all\/themes\/Porto\/css\/drupal-styles.css":1,"sites\/all\/themes\/Porto\/css\/custom.css":1,"sites\/all\/themes\/Porto\/css\/less\/skin.less":1,"sites\/all\/themes\/Porto\/css\/skins\/default.css":1}},"popup":{"effects":{"show":{"default":"this.body.show();","fade":"\n        if (this.opacity){\n          this.body.fadeTo(\u0027medium\u0027,this.opacity);\n        }else{\n          this.body.fadeIn(\u0027medium\u0027);\n        }","slide-down":"this.body.slideDown(\u0027medium\u0027)","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027show\u0027,\n            opacity:(this.opacity ? this.opacity : \u0027show\u0027)\n          }, \u0027medium\u0027\n        );"},"hide":{"default":"this.body.hide();","fade":"this.body.fadeOut(\u0027medium\u0027);","slide-down":"this.body.slideUp(\u0027medium\u0027);","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027hide\u0027,\n            opacity:\u0027hide\u0027\n          }, \u0027medium\u0027\n        );"}},"linger":250,"delay":0},"inEffects":["bounceIn","bounceInDown","bounceInUp","bounceInLeft","bounceInRight","fadeIn","fadeInUp","fadeInDown","fadeInLeft","fadeInRight","fadeInUpBig","fadeInDownBig","fadeInLeftBig","fadeInRightBig","flipInX","flipInY","foolishIn","lightSpeedIn","puffIn","rollIn","rotateIn","rotateInDownLeft","rotateInDownRight","rotateInUpLeft","rotateInUpRight","twisterInDown","twisterInUp","swap","swashIn","tinRightIn","tinLeftIn","tinUpIn","tinDownIn","vanishIn","bounceIn","bounceInDown","bounceInUp","bounceInLeft","bounceInRight","fadeIn","fadeInUp","fadeInDown","fadeInLeft","fadeInRight","fadeInUpBig","fadeInDownBig","fadeInLeftBig","fadeInRightBig","flipInX","flipInY","foolishIn","lightSpeedIn","puffIn","rollIn","rotateIn","rotateInDownLeft","rotateInDownRight","rotateInUpLeft","rotateInUpRight","twisterInDown","twisterInUp","swap","swashIn","tinRightIn","tinLeftIn","tinUpIn","tinDownIn","vanishIn","bounceIn","bounceInDown","bounceInUp","bounceInLeft","bounceInRight","fadeIn","fadeInUp","fadeInDown","fadeInLeft","fadeInRight","fadeInUpBig","fadeInDownBig","fadeInLeftBig","fadeInRightBig","flipInX","flipInY","foolishIn","lightSpeedIn","puffIn","rollIn","rotateIn","rotateInDownLeft","rotateInDownRight","rotateInUpLeft","rotateInUpRight","twisterInDown","twisterInUp","swap","swashIn","tinRightIn","tinLeftIn","tinUpIn","tinDownIn","vanishIn","bounceIn","bounceInDown","bounceInUp","bounceInLeft","bounceInRight","fadeIn","fadeInUp","fadeInDown","fadeInLeft","fadeInRight","fadeInUpBig","fadeInDownBig","fadeInLeftBig","fadeInRightBig","flipInX","flipInY","foolishIn","lightSpeedIn","puffIn","rollIn","rotateIn","rotateInDownLeft","rotateInDownRight","rotateInUpLeft","rotateInUpRight","twisterInDown","twisterInUp","swap","swashIn","tinRightIn","tinLeftIn","tinUpIn","tinDownIn","vanishIn"],"outEffects":["bombRightOut","bombLeftOut","bounceOut","bounceOutDown","bounceOutUp","bounceOutLeft","bounceOutRight","fadeOut","fadeOutUp","fadeOutDown","fadeOutLeft","fadeOutRight","fadeOutUpBig","fadeOutDownBig","fadeOutLeftBig","fadeOutRightBig","flipOutX","flipOutY","foolishOut","hinge","holeOut","lightSpeedOut","puffOut","rollOut","rotateOut","rotateOutDownLeft","rotateOutDownRight","rotateOutUpLeft","rotateOutUpRight","rotateDown","rotateUp","rotateLeft","rotateRight","swashOut","tinRightOut","tinLeftOut","tinUpOut","tinDownOut","vanishOut","bombRightOut","bombLeftOut","bounceOut","bounceOutDown","bounceOutUp","bounceOutLeft","bounceOutRight","fadeOut","fadeOutUp","fadeOutDown","fadeOutLeft","fadeOutRight","fadeOutUpBig","fadeOutDownBig","fadeOutLeftBig","fadeOutRightBig","flipOutX","flipOutY","foolishOut","hinge","holeOut","lightSpeedOut","puffOut","rollOut","rotateOut","rotateOutDownLeft","rotateOutDownRight","rotateOutUpLeft","rotateOutUpRight","rotateDown","rotateUp","rotateLeft","rotateRight","swashOut","tinRightOut","tinLeftOut","tinUpOut","tinDownOut","vanishOut","bombRightOut","bombLeftOut","bounceOut","bounceOutDown","bounceOutUp","bounceOutLeft","bounceOutRight","fadeOut","fadeOutUp","fadeOutDown","fadeOutLeft","fadeOutRight","fadeOutUpBig","fadeOutDownBig","fadeOutLeftBig","fadeOutRightBig","flipOutX","flipOutY","foolishOut","hinge","holeOut","lightSpeedOut","puffOut","rollOut","rotateOut","rotateOutDownLeft","rotateOutDownRight","rotateOutUpLeft","rotateOutUpRight","rotateDown","rotateUp","rotateLeft","rotateRight","swashOut","tinRightOut","tinLeftOut","tinUpOut","tinDownOut","vanishOut","bombRightOut","bombLeftOut","bounceOut","bounceOutDown","bounceOutUp","bounceOutLeft","bounceOutRight","fadeOut","fadeOutUp","fadeOutDown","fadeOutLeft","fadeOutRight","fadeOutUpBig","fadeOutDownBig","fadeOutLeftBig","fadeOutRightBig","flipOutX","flipOutY","foolishOut","hinge","holeOut","lightSpeedOut","puffOut","rollOut","rotateOut","rotateOutDownLeft","rotateOutDownRight","rotateOutUpLeft","rotateOutUpRight","rotateDown","rotateUp","rotateLeft","rotateRight","swashOut","tinRightOut","tinLeftOut","tinUpOut","tinDownOut","vanishOut"],"md_slider_options_2":{"fullwidth":true,"transitionsSpeed":800,"width":"960","height":"700","enableDrag":true,"responsive":true,"pauseOnHover":true,"loop":true,"showLoading":false,"loadingPosition":"bottom","showArrow":false,"showBullet":false,"posBullet":"5","showThumb":false,"posThumb":"1","slideShowDelay":"8000","slideShow":false,"styleBorder":"0","styleShadow":"0","videoBox":false},"md_slider_options_17":{"fullwidth":true,"transitionsSpeed":800,"width":"960","height":"420","enableDrag":true,"responsive":true,"pauseOnHover":true,"loop":true,"showLoading":false,"loadingPosition":"bottom","showArrow":true,"showBullet":true,"posBullet":"5","showThumb":false,"posThumb":"1","slideShowDelay":"8000","slideShow":true,"styleBorder":"0","styleShadow":"0","videoBox":false},"urlIsAjaxTrusted":{"\/cerja\/fr":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});
+//--><!]]>
+</script>
+<!-- IE Fix for HTML5 Tags -->
+<!--[if lt IE 9]>
+<![endif]-->
+
+<!--[if IE]>
+  <link rel="stylesheet" href="/cerja/sites/all/themes/Porto/css/ie.css">
+<![endif]-->
+
+<!--[if lte IE 8]>
+  <script src="/cerja/sites/all/themes/Porto/vendor/respond.js"></script>
+<![endif]-->
+
+<!-- Web Fonts  -->
+<link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800&subset=latin,latin-ext" type="text/css" rel="stylesheet">
+<link href='//fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
+
+<!-- User defined CSS --><style type='text/css'>.node-type-product-display .page-header h1 {display: none;}
+.map-responsive{
+    background: #E5E3DF;
+    height: 400px;
+    margin: -35px 0 30px 0;
+    margin-top: -35px;
+    margin-right: 0px;
+    margin-bottom: 30px;
+    margin-left: 0px;
+    width: 100%;
+    overflow:hidden;
+    position:relative;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+</style><!-- End user defined CSS -->  
+</head>
+<body class="html front not-logged-in no-sidebars page-index-classic i18n-fr"  data-target="#header" data-spy="scroll" data-offset="100">
+
+<div class="body">
+    <header id="header" data-plugin-options='{"stickyEnabled": true, "stickyEnableOnBoxed": true, "stickyEnableOnMobile": true, "stickyStartAt": 57, "stickySetTop": "-57px", "stickyChangeLogo": true}'>
+<div class="header-body">
+<div class="header-container container">
+<div class="header-row">
+<div class="header-column">
+                            <div class="header-logo">
+            <a href="/cerja/fr" title="Accueil" rel="home" id="logo">
+                <img alt="Accueil" width="111" height="54" data-sticky-width="82" data-sticky-height="40" data-sticky-top="33" src="https://cerja-consulting.com/cerja/sites/default/files/logo-web-cerja3.png">
+            </a>
+        </div>
+                <div id="name-and-slogan" class="hidden">
+
+                                                <h1 id="site-name" class="hidden">
+                        <a href="/cerja/fr" title="Accueil" rel="home"><span>cerja-consulting.com</span></a>
+                    </h1>
+                            
+                            <div id="site-slogan" class="hidden">
+                    Toujours plus haut !!!                </div>
+            
+        </div> <!-- /#name-and-slogan -->
+    </div>
+<div class="header-column">
+<div class="header-row">
+            <div class="header-search hidden-xs">
+              
+<form onsubmit="if(this.search_block_form.value==&#039;Search&#039;){ alert(&#039;Please enter a search&#039;); return false; }" action="/cerja/fr" method="post" id="search-block-form" accept-charset="UTF-8"><div>
+<div class="input-group"> 
+  <input title="Indiquer les termes à rechercher" class="form-control search form-text" onblur="if (this.value == &#039;&#039;) {this.value = &#039;Search...&#039;;}" onfocus="if (this.value == &#039;Search&#039;) {this.value = &#039;&#039;;}" placeholder="Search..." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="40" maxlength="128" /><span class="input-group-btn"><button class="btn btn-default" type="submit"><i class="fa fa-search"></i></button></span><input type="hidden" name="form_build_id" value="form-NJ1Xg1iYkLxkX68lspZzlbgos9731Ws-1c_dTuyxgJ0" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>        </div>
+    
+    <nav class="header-nav-top">
+        <ul class="nav nav-pills">
+                                        <li class="hidden-xs">
+                    <a href="propos-du-cerja"><i class="fa fa-angle-right"></i> A Propos</a>
+                </li>
+                                        <li class="hidden-xs">
+                    <a href="contact-us"><i class="fa fa-angle-right"></i> Nous contacter</a>
+                </li>
+                                        <li class="hidden-xs">
+                    <span class="ws-nowrap"><i class="fa fa-phone"></i> (+237) 657850144</span>
+                </li>
+                    </ul>
+    </nav>
+
+    
+</div>
+<div class="header-row">
+<div class="header-nav">
+<button class="btn header-btn-collapse-nav h-default" data-toggle="collapse" data-target=".header-nav-main">
+    <i class="fa fa-bars"></i>
+</button>
+  
+<ul class="header-social-icons social-icons hidden-xs">
+	<li class="social-icons-facebook"><a href="http://www.facebook.com/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+	<li class="social-icons-twitter"><a href="http://www.twitter.com/" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+	<li class="social-icons-linkedin"><a href="http://www.linkedin.com/" target="_blank" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+</ul>
+<div class="header-nav-main header-nav-main-effect-1 header-nav-main-sub-effect-1 collapse">
+<nav>
+      
+<ul class="nav nav-pills nav-main" id="mainMenu"><li class="active"><a href="/cerja/fr" title="" class="active">Accueil</a></li><li class="dropdown 346"><a href="/cerja/fr/toutes-les-formations" class="dropdown-toggle disabled">Formations</a><ul class="dropdown-menu"><li class="dropdown-submenu"><a href="/cerja/fr/domaines-de-formation/finance-publique" title="">Finances Publiques</a><ul class="dropdown-menu"><li><a href="/cerja/fr/budget-programme-fi-fp1">Budget programme</a></li><li><a href="/cerja/fr/la-loi-des-finances-et-ses-modalit%C3%A9s-dex%C3%A9cution-fi-fp2">Comprendre la loi des Finances 2018 et les modalités de son exécution</a></li><li><a href="/cerja/fr/recouvrement-des-creances-fi-fp4">Recouvrement des créances</a></li><li><a href="/cerja/fr/regie-des-caisses-d%E2%80%99avance-billeteurs-ad-hoc-fifp-3">Régie des caisses d&#039;avance, Billeteurs AD HOC</a></li></ul></li><li class="dropdown-submenu"><a href="/cerja/fr/domaines-de-formation/ressources-humaines" title="">Ressources Humaines</a><ul class="dropdown-menu"><li><a href="/cerja/fr/administration-du-personnel-fi-rh1">Administration du personnel</a></li><li><a href="/cerja/fr/formation-des-formateurs-fi-rh5">Formation des formateurs</a></li><li><a href="/cerja/fr/gestion-pr%C3%A9visionnelle-des-emplois-et-des-comp%C3%A9tences-gpec-fi-rh3">Gestion Prévisionnelle des Emplois et des Compétences (GPEC)</a></li><li><a href="/cerja/fr/plan-de-formation-fi-rh4">Plan de Formation</a></li><li><a href="/cerja/fr/tableau-de-bord-des-ressources-humaines-fi-rh2">Tableau de bord des Ressources Humaines</a></li></ul></li><li class="dropdown-submenu"><a href="/cerja/fr/domaines-de-formation/formations-g%C3%A9n%C3%A9rales" title="">Management Général</a><ul class="dropdown-menu"><li><a href="/cerja/fr/r%C3%A9daction-administrative-fi-fg1">Rédaction Administrative</a></li><li><a href="/cerja/fr/techniques-archivistiques-et-conception-des-outils-de-gestion-documentaire-fi-fg2">Techniques archivistiques et conception des outils de gestion documentaire</a></li><li><a href="/cerja/fr/gestion-de-l%E2%80%99accueil-des-clients-fi-fg3">Gestion de l&#039;accueil des clients</a></li><li><a href="/cerja/fr/ecrits-professionnels-fi-fg4">Ecrits Professionnels</a></li></ul></li><li class="dropdown-submenu"><a href="/cerja/fr/domaines-de-formation/bureautique" title="">Bureautique</a><ul class="dropdown-menu"><li><a href="/cerja/fr/google-apps-utiliser-les-outils-bureautique-de-google-fi-br1">Google Apps : Utiliser les outils bureautiques de Google</a></li><li><a href="/cerja/fr/suite-office-2016">Suite Office 2016</a></li></ul></li></ul></li><li><a href="/cerja/fr/consulting">Consulting</a></li><li><a href="/cerja/fr/droit-des-affaires">Droit des affaires</a></li><li><a href="/cerja/fr/recouvrement-de-cr%C3%A9ances">Recouvrement des créances</a></li><li><a href="/cerja/fr/contact-us" title="">Nous Contacter</a></li></ul>    </nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+
+
+	<div role="main" class="main">
+        	  
+	    <div class="region region-before-content">
+    <div id="block-md-slider-md-slider-5bd64113ce8d8" class="block block-md-slider">
+
+    
+  <div class="content">
+    <div id="md-slider-17-block" class="md-slide-items" data-thumb-width='100' data-thumb-height='75'>
+          
+  <div class="md-slide-item slide-1" data-timeout='8000' data-transition="strip-up-down-right,strip-up-down-left,left-curtain" data-thumb-type='image' data-thumb-alt='' data-thumb='https://cerja-consulting.com/cerja/sites/default/files/styles/md_slider_17_thumb/public/photo%20site%20-%20modif2.JPG?itok=lLpJP-rk'>
+    <div class="md-mainimg" style="">
+              <img src="https://cerja-consulting.com/cerja/sites/default/files/photo%20site%20-%20modif2.JPG" alt="" />
+          </div>
+        <div class="md-objects">
+                <div class="md-object md-layer-17-0-0 fdsfds" data-x='352' data-y='86' data-width='222' data-height='108' data-start='1000' data-stop='7000' data-easein='swashIn' data-easeout='fadeOutUp'>
+                        <img src="https://cerja-consulting.com/cerja/sites/default/files/logo-web-cerja3_0.png" alt="logo-web-cerja3.png" />
+              </div>
+                <div class="md-object none md-layer-17-0-1 fdsfds" data-x='490' data-y='311.000015259' data-width='380' data-height='13' data-start='2000' data-stop='6000' data-easein='fadeInLeft' data-easeout='fadeOutRight' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='10'>
+                        center of study and legal research of africa              </div>
+                <div class="md-object none md-layer-17-0-2 fdsfds" data-x='207' data-y='214' data-width='533' data-height='31' data-start='1500' data-stop='6600' data-easein='flipInX' data-easeout='flipOutX' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='10'>
+                        Bienvenue / welcome              </div>
+                <div class="md-object none md-layer-17-0-3 fdsfds" data-x='90' data-y='311.000015259' data-width='380' data-height='13' data-start='2000' data-stop='6000' data-easein='fadeInRight' data-easeout='fadeOutLeft' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='10'>
+                        centre d'Etude et de Recherche juridique d'afrique              </div>
+          </div>
+  </div>
+          
+  <div class="md-slide-item slide-2" data-timeout='8000' data-transition="strip-right-left-down,right-curtain,top-curtain,fade" data-thumb-type='image' data-thumb-alt='' data-thumb='https://cerja-consulting.com/cerja/sites/default/files/styles/md_slider_17_thumb/public/bg-cerja7.png?itok=zK7pxPWB'>
+    <div class="md-mainimg" style="">
+              <img src="https://cerja-consulting.com/cerja/sites/default/files/bg-cerja7.png" alt="" />
+          </div>
+        <div class="md-objects">
+                <div class="md-object md-layer-17-1-0 fdsfds" data-x='373' data-y='138' data-width='405' data-height='57' data-start='1500' data-stop='6700' data-easein='twisterInUp' data-easeout='swashOut' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='10'>
+                        CONSEIL ET ETUDE JURIDIQUE              </div>
+                <div class="md-object md-layer-17-1-1 fdsfds" data-x='264' data-y='34' data-width='440' data-height='58' data-start='1000' data-stop='7000' data-easein='lightSpeedIn' data-easeout='lightSpeedOut' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='10'>
+                        CENTRE DE FORMATION PROFESSIONNEL              </div>
+                <div class="md-object md-layer-17-1-2 fdsfds" data-x='531' data-y='315' data-width='409' data-height='60' data-start='2300' data-stop='6300' data-easein='tinLeftIn' data-easeout='tinRightOut' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='10'>
+                        RECOUVREMENT DES CREANCES              </div>
+                <div class="md-object md-layer-17-1-3 fdsfds" data-x='452' data-y='241' data-width='398' data-height='30' data-start='2000' data-stop='6300' data-easein='tinLeftIn' data-easeout='tinRightOut' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='10'>
+                        CABINET D'AVOCATS              </div>
+          </div>
+  </div>
+          
+  <div class="md-slide-item slide-3" data-timeout='8000' data-transition="strip-left-up,strip-right-left-up,right-curtain,top-curtain,bottom-curtain" data-thumb-type='image' data-thumb-alt='' data-thumb='https://cerja-consulting.com/cerja/sites/default/files/styles/md_slider_17_thumb/public/bg8-1.png?itok=qYzXjl5q'>
+    <div class="md-mainimg" style="">
+              <img src="https://cerja-consulting.com/cerja/sites/default/files/bg8-1.png" alt="" />
+          </div>
+        <div class="md-objects">
+                <div class="md-object md-layer-17-2-0 fdsfds" data-x='161' data-y='332' data-width='285' data-height='21' data-start='1300' data-stop='6900' data-easein='bounceInRight' data-easeout='bounceOutUp' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='10'>
+                        bureautique              </div>
+                <div class="md-object md-layer-17-2-1 fdsfds" data-x='291' data-y='56' data-width='387' data-height='48' data-start='300' data-stop='7600' data-easein='fadeInLeft' data-easeout='tinLeftOut' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='10'>
+                        formation professionnelle              </div>
+                <div class="md-object md-layer-17-2-2 fdsfds" data-x='161' data-y='224.000005086' data-width='285' data-height='21' data-start='700' data-stop='7200' data-easein='foolishIn' data-easeout='flipOutY' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='10'>
+                        ressources humaines              </div>
+                <div class="md-object md-layer-17-2-3 fdsfds" data-x='161' data-y='278.000005086' data-width='285' data-height='21' data-start='1000' data-stop='7100' data-easein='bounceInUp' data-easeout='bounceOutDown' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='10'>
+                        management              </div>
+                <div class="md-object md-layer-17-2-4 fdsfds" data-x='545' data-y='160' data-width='10' data-height='230' data-start='0' data-stop='7500' data-easein='flipInY' data-easeout='flipOutY'>
+                                      </div>
+                <div class="md-object md-layer-17-2-5 fdsfds" data-x='505' data-y='359' data-width='241' data-height='17' data-start='3100' data-stop='6300' data-easein='lightSpeedIn' data-easeout='puffOut' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='10'>
+                        certificat de formation              </div>
+                <div class="md-object md-layer-17-2-6 fdsfds" data-x='505' data-y='151' data-width='241' data-height='17' data-start='2000' data-stop='7300' data-easein='lightSpeedIn' data-easeout='lightSpeedOut' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='10'>
+                        andragogie interactive              </div>
+                <div class="md-object md-layer-17-2-7 fdsfds" data-x='505' data-y='192.600003052' data-width='241' data-height='17' data-start='2200' data-stop='7100' data-easein='rollIn' data-easeout='rollOut' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='10'>
+                        horaires flexibles              </div>
+                <div class="md-object md-layer-17-2-8 fdsfds" data-x='505' data-y='234.200009155' data-width='241' data-height='17' data-start='2400' data-stop='6900' data-easein='foolishIn' data-easeout='foolishOut' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='10'>
+                        reseau d'experts              </div>
+                <div class="md-object md-layer-17-2-9 fdsfds" data-x='505' data-y='275.8' data-width='241' data-height='17' data-start='2600' data-stop='6700' data-easein='lightSpeedIn' data-easeout='puffOut' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='10'>
+                        logistique d'appoint              </div>
+                <div class="md-object md-layer-17-2-10 fdsfds" data-x='505' data-y='317.400006104' data-width='241' data-height='17' data-start='2800' data-stop='6500' data-easein='lightSpeedIn' data-easeout='lightSpeedOut' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='10'>
+                        materiel didactique              </div>
+                <div class="md-object md-layer-17-2-11 fdsfds" data-x='161' data-y='170' data-width='285' data-height='21' data-start='500' data-stop='7300' data-easein='fadeInLeft' data-easeout='tinLeftOut' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='10'>
+                        finances publiques              </div>
+          </div>
+  </div>
+          
+  <div class="md-slide-item slide-4" data-timeout='8000' data-transition="strip-right-up,strip-up-down-left,right-curtain" data-thumb-type='image' data-thumb-alt='' data-thumb='https://cerja-consulting.com/cerja/sites/default/files/styles/md_slider_17_thumb/public/bg9.png?itok=MVEaZ84p'>
+    <div class="md-mainimg" style="">
+              <img src="https://cerja-consulting.com/cerja/sites/default/files/bg9.png" alt="" />
+          </div>
+        <div class="md-objects">
+                <div class="md-object md-layer-17-3-0 fdsfds" data-x='398' data-y='82' data-width='321' data-height='48' data-start='900' data-stop='7100' data-easein='swashIn' data-easeout='swashOut' data-paddingtop='5' data-paddingright='5' data-paddingbottom='5' data-paddingleft='5'>
+                        Conseil et Etude Juridique              </div>
+                <div class="md-object md-layer-17-3-1 fdsfds" data-x='586.000015259' data-y='281' data-width='237' data-height='20' data-start='3000' data-stop='7100' data-easein='random' data-easeout='random' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='5'>
+                        satisfaction client              </div>
+                <div class="md-object md-layer-17-3-2 fdsfds" data-x='288.000015259' data-y='178' data-width='234' data-height='20' data-start='1400' data-stop='7100' data-easein='random' data-easeout='random' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='5'>
+                        Professionalisme              </div>
+                <div class="md-object md-layer-17-3-3 fdsfds" data-x='586.000015259' data-y='177' data-width='240' data-height='20' data-start='2400' data-stop='7100' data-easein='random' data-easeout='random' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='5'>
+                        collaboration              </div>
+                <div class="md-object md-layer-17-3-4 fdsfds" data-x='586.000015259' data-y='229' data-width='238' data-height='20' data-start='2700' data-stop='7100' data-easein='random' data-easeout='random' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='5'>
+                        diligence              </div>
+                <div class="md-object md-layer-17-3-5 fdsfds" data-x='288.000015259' data-y='229' data-width='234' data-height='20' data-start='1700' data-stop='7100' data-easein='random' data-easeout='random' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='5'>
+                        experience              </div>
+                <div class="md-object md-layer-17-3-6 fdsfds" data-x='288.000015259' data-y='280' data-width='234' data-height='20' data-start='1900' data-stop='7100' data-easein='random' data-easeout='random' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='5'>
+                        expertise              </div>
+          </div>
+  </div>
+          
+  <div class="md-slide-item slide-5" data-timeout='8000' data-transition="strip-right-up,strip-up-down-left,right-curtain" data-thumb-type='image' data-thumb-alt='' data-thumb='https://cerja-consulting.com/cerja/sites/default/files/styles/md_slider_17_thumb/public/bg-cerja1.jpg?itok=pVbXGUXn'>
+    <div class="md-mainimg" style="">
+              <img src="https://cerja-consulting.com/cerja/sites/default/files/bg-cerja1.jpg" alt="" />
+          </div>
+        <div class="md-objects">
+                <div class="md-object md-layer-17-4-0 fdsfds" data-x='398' data-y='82' data-width='321' data-height='48' data-start='900' data-stop='7100' data-easein='swashIn' data-easeout='swashOut' data-paddingtop='5' data-paddingright='5' data-paddingbottom='5' data-paddingleft='5'>
+                        Formation à la carte              </div>
+                <div class="md-object md-layer-17-4-1 fdsfds" data-x='586' data-y='280' data-width='311' data-height='20' data-start='3000' data-stop='7100' data-easein='random' data-easeout='random' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='5'>
+                        selon vos finances              </div>
+                <div class="md-object md-layer-17-4-2 fdsfds" data-x='259' data-y='178' data-width='269' data-height='21' data-start='1400' data-stop='7100' data-easein='random' data-easeout='random' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='5'>
+                        Sessions individuelles              </div>
+                <div class="md-object md-layer-17-4-3 fdsfds" data-x='586' data-y='177' data-width='311' data-height='20' data-start='2400' data-stop='7100' data-easein='random' data-easeout='random' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='5'>
+                        selon vos besoins              </div>
+                <div class="md-object md-layer-17-4-4 fdsfds" data-x='586' data-y='227' data-width='313' data-height='21' data-start='2700' data-stop='7100' data-easein='random' data-easeout='random' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='5'>
+                        selon votre disponibilite              </div>
+                <div class="md-object md-layer-17-4-5 fdsfds" data-x='259' data-y='229' data-width='268' data-height='20' data-start='1700' data-stop='7100' data-easein='random' data-easeout='random' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='5'>
+                        Planning ajustable              </div>
+                <div class="md-object md-layer-17-4-6 fdsfds" data-x='259' data-y='280' data-width='267' data-height='20' data-start='1900' data-stop='7100' data-easein='random' data-easeout='random' data-paddingtop='10' data-paddingright='10' data-paddingbottom='10' data-paddingleft='5'>
+                        tarifs negociables              </div>
+          </div>
+  </div>
+    </div>
+  </div>
+</div>
+  </div>
+	  <div id="content" class="content full">
+
+		        
+			    			
+					<div class="">
+					  
+			     				      			      		
+					  <div class="panel-flexible panels-flexible-4 clearfix" >
+<div class="panel-flexible-inside panels-flexible-4-inside">
+<div class="panels-flexible-region panels-flexible-region-4-center panels-flexible-region-first panels-flexible-region-last">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-4-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-block pane-block-3"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="home-intro">
+<div class="container">
+<div class="row">
+<div class="col-md-8">
+<p>Découvrez l'ensemble de nos <em>Formations.</em> <span>Nous vous attendons vivement !!!</span></p>
+</div>
+
+<div class="col-md-4">
+<div class="get-started"><a class="btn btn-lg btn-primary" href="sites/default/files/documents/Catalogue_formation_CERJA_2018.pdf">Téléchargez notre Catalogue!</a>
+
+<div class="learn-more">ou <a href="index.html">Consultez le en ligne</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-block-4"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="container">
+					<div class="row center">
+						<div class="col-md-12">
+							<h1 class="mb-sm word-rotator-title">
+								Le CERJA est spécialisé dans les activités suivantes :  
+								<strong class="inverted">
+									<span class="word-rotate" data-plugin-options='{"delay": 2000, "animDelay": 300}'>
+										<span class="word-rotate-items">
+											<span>Formations</span>
+											<span>  Etudes  </span>
+											<span>Recherches</span>
+                                                                                        <span>Séminaires</span>
+                                                                                        <span>Conférences</span>
+                                                                                        <span>Consultations</span>
+                                                                                        <span>  Conseils  </span>
+										</span>
+									</span>
+								</strong>
+							</h1>
+							
+						</div>
+					</div>
+				
+				</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-block-49"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="container">
+<div class="row">
+<hr class="tall">
+</div>
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-block-29 container"  >
+  
+      
+  
+  <div class="pane-content">
+    <section id="features">
+<div>
+<div class="row">
+						<div class="col-md-8">
+							<h2>Nos <strong>Domaines de formation</strong></h2>
+							<div class="row">
+								<div class="col-sm-6">
+									<div class="feature-box">
+										<div class="feature-box-icon">
+											<i class="fa fa-files"></i>
+										</div>
+										<div class="feature-box-info">
+											<h4 class="heading-primary mb-none"><a href="/cerja/fr/les-formations-en-finances-publiques">FINANCES PUBLIQUES</a></h4>
+											<p class="tall">Maitriser les concepts et les principes de la finance publique tels que: Le budget programme, la loi des finances, le recouvrement des créances et bien d'autres ...</p>
+										</div>
+									</div>
+									<div class="feature-box">
+										<div class="feature-box-icon">
+											<i class="fa fa-group"></i>
+										</div>
+										<div class="feature-box-info">
+											<h4 class="heading-primary mb-none"><a href="/cerja/fr/les-formations-en-ressources-humaines">RESSOURCES HUMAINES</a></h4>
+											<p class="tall">Comprendre les canons sur l'administration du personnel, la gestion prévisionnelle des emplois et des compétences, la formation continue du personnel</p>
+										</div>
+									</div>
+								</div>
+								<div class="col-sm-6">
+									<div class="feature-box">
+										<div class="feature-box-icon">
+											<i class="fa fa-film"></i>
+										</div>
+										<div class="feature-box-info">
+											<h4 class="heading-primary mb-none"><a href="/cerja/fr/les-formations-générales">FORMATIONS GENERALES</a></h4>
+											<p class="tall">Perfectionner votre rédaction administrative, votre système d'archivage et de gestion documentaire; améliorer la gestion de l'accueil des clients, etc ... </p>
+										</div>
+									</div>
+									<div class="feature-box">
+										<div class="feature-box-icon">
+											<i class="fa fa-desktop"></i>
+										</div>
+										<div class="feature-box-info">
+											<h4 class="heading-primary mb-none"><a href="/cerja/fr/les-formations-en-bureautique">BUREAUTIQUE</a></h4>
+											<p class="tall">Booster votre efficacité au travail par la maitrise des nouvelles technologies de la bureautique telles que la suite Office (Word, Excel, Powerpoint ...) et Google (G-suite).</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<h2>Et bien d'autres services ...</h2>
+				
+							<div class="panel-group" id="accordion">
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										<h4 class="panel-title">
+											<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+												<i class="fa fa-usd"></i>
+												Conseils et études juriques
+											</a>
+										</h4>
+									</div>
+									<div id="collapseOne" class="accordion-body collapse in">
+										<div class="panel-body">
+											Nos experts vous accompagnent dans la gestion  de vos affaires et vos contentieux juridiques.
+										</div>
+									</div>
+								</div>
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										<h4 class="panel-title">
+											<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+												<i class="fa fa-comment"></i>
+												Cabinet d'Avocats
+											</a>
+										</h4>
+									</div>
+									<div id="collapseTwo" class="accordion-body collapse">
+										<div class="panel-body">
+											Faites vous représenté dans le règlement de vos conflits nationaux et inernationaux par nos éminents avocats en matière du droit des affaires, de divorce et bien d'autres... 
+										</div>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+</div>
+</section>
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us20.list-manage.com","uuid":"586f122566ced949b81e4d295","lid":"5db6bae5bb","uniqueMethods":true}) })</script>  </div>
+
+  
+  </div>
+  </div>
+</div>
+</div>
+</div>
+			      
+					</div>
+			  
+				  	  </div>  
+	  
+	</div>
+
+    <div class="region region-after-content">
+    <div id="block-block-89" class="block block-block">
+
+    
+  <div class="content">
+    <div class="container">
+	
+	<div class="row">
+		
+		<div class="col-md-12">
+                        <div class="divider divider-style-2 divider-primary taller">
+			<i class="fa fa-chevron-down"></i>							
+		        </div>
+			<h4><span class="alternative-font">Ils nous ont fait confiance</span></h4>
+
+			<div class="owl-carousel owl-theme" data-plugin-options='{"items": 4, "autoplay": true, "autoplayTimeout": 3000}'>
+				<div>
+					<a href="https://www.ccaa.aero/index.php/fr/" target="_blank">
+						<img class="img-responsive" src="/cerja/sites/default/files/logo%20images/CCAA-web-partner.png" alt="logo CCAA">
+					</a>
+				</div>
+				<div>
+					<img class="img-responsive" src="/cerja/sites/default/files/logo%20images/MAETUR-web-partner.png" alt="logo MAETUR">
+				</div>
+				<div> 
+					<a href="http://www.minas.cm/index.php?lang=en" target="_blank">
+						<img class="img-responsive" src="/cerja/sites/default/files/logo%20images/MINAS-web-partner.png" alt="logo MINAS">
+					</a>
+				</div>
+				<div>
+					<img class="img-responsive" src="/cerja/sites/default/files/logo%20images/MINDCAF-web-partner.png" alt="MINDCAF">
+				</div>
+				<div> 
+					<a href="http://www.minfi.gov.cm/index.php/en" target="_blank">
+						<img class="img-responsive" src="/cerja/sites/default/files/logo%20images/minfi-web-partner.png" alt="MINFI">
+					</a>
+				</div>
+				<div>
+					<img class="img-responsive" src="/cerja/sites/default/files/logo%20images/MINDCAF-web-partner.png" alt="MINDCAF">
+				</div>
+				<div>
+					<a href="http://www.minas.cm/index.php?lang=en" target="_blank">
+						<img class="img-responsive" src="/cerja/sites/default/files/logo%20images/MINAS-web-partner.png" alt="logo MINAS">
+					</a>
+				</div>
+				<div>
+					<img class="img-responsive" src="/cerja/sites/default/files/logo%20images/MAETUR-web-partner.png" alt="MAETUR">
+				</div>
+				<div>
+					<a href="https://www.ccaa.aero/index.php/fr/" target="_blank">
+						<img class="img-responsive" src="/cerja/sites/default/files/logo%20images/CCAA-web-partner.png" alt="logo CCAA">
+					</a>
+				</div>
+				<div>
+					<a href="http://www.minfi.gov.cm/index.php/en" target="_blank">
+						<img class="img-responsive" src="/cerja/sites/default/files/logo%20images/minfi-web-partner.png" alt="MINFI">
+					</a>
+				</div>
+			</div>
+		</div>		
+	</div>
+</div>  </div>
+</div>
+<div id="block-block-43" class="block block-block">
+
+    
+  <div class="content">
+    <section class="section section-primary mb-none">
+						<div class="container">
+							<div class="row">
+								<div class="counters counters-text-light">
+									<div class="col-md-3 col-sm-6">
+										<div class="counter">
+											<strong data-to="745" data-append="+">0</strong>
+											<label>Heures de cours</label>
+										</div>
+									</div>
+									<div class="col-md-3 col-sm-6">
+										<div class="counter">
+											<strong data-to="640" data-append="+">0</strong>
+											<label>Cadres formés</label>
+										</div>
+									</div>
+									<div class="col-md-3 col-sm-6">
+										<div class="counter">
+											<strong data-to="95" data-append="+">0</strong>
+											<label>Jours de formation</label>
+										</div>
+									</div>
+									<div class="col-md-3 col-sm-6">
+										<div class="counter">
+											<strong data-to="20" data-append="+">0</strong>
+											<label>Sessions tenues</label>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</section>  </div>
+</div>
+  </div>
+
+    <footer id="footer" class="">
+            <div class="container main-footer">
+            <div class="row">
+
+                                    <div class="footer-ribbon">
+                        <span><em class="placeholder">Nous contacter !!!</em></span>
+                    </div>
+                
+                                    <div class="col-md-3">
+                          <div class="region region-footer-11">
+      <div class="region region-footer-11">
+      <div class="region region-footer-11">
+    <div id="block-simplenews-46" class="block block-simplenews">
+
+    <h2>Newsletter</h2>
+  
+  <div class="content">
+          <p>Restez informé des dernières mises à jour à propos de nos offres de formation et de service. Entrez votre adresse e-mail et inscrivez-vous à notre newsletter.</p>
+  
+      <form class="simplenews-subscribe" action="/cerja/fr" method="post" id="simplenews-block-form-46" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-mail">
+  <label for="edit-mail">Courriel <span class="form-required" title="Ce champ est requis.">*</span></label>
+ <input placeholder="Email Address" type="text" id="edit-mail" name="mail" value="" size="20" maxlength="128" class="form-text required" />
+</div>
+<input type="submit" id="edit-submit--2" name="op" value="S&#039;abonner" class="btn-primary btn form-submit" /><input type="hidden" name="form_build_id" value="form-1y9eobrJB_KXkFaFxZPhWc2sSr2GysW0CxrkWAt-9jQ" />
+<input type="hidden" name="form_id" value="simplenews_block_form_46" />
+</div></form>  
+  
+  
+    </div>
+</div>
+  </div>
+  </div>
+  </div>
+                    </div>
+                
+                                    <div class="col-md-3">
+                          <div class="region region-footer-12">
+      <div class="region region-footer-12">
+    <div id="block-block-94" class="block block-block">
+
+    
+  <div class="content">
+    <!-- Statcounter code for Cerja Consulting Website
+https://cerja-consulting.com/cerja/fr on Drupal --><script type="text/javascript">
+var sc_project=11921102;
+var sc_invisible=0;
+var sc_security="34f54583";
+var sc_https=1;
+var scJsHost = (("https:" == document.location.protocol) ? "https://secure." :
+"http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script><noscript><div class="statcounter"><a title="Web Analytics"
+href="http://statcounter.com/" target="_blank"><img class="statcounter"
+src="//c.statcounter.com/11921102/0/34f54583/0/" alt="Web
+Analytics"></a></div></noscript><!-- End of Statcounter Code -->  </div>
+</div>
+  </div>
+  </div>
+                    </div>
+                
+                                    <div class="col-md-4">
+                          <div class="region region-footer-13">
+      <div class="region region-footer-13">
+    <div id="block-block-12" class="block block-block">
+
+    <h2>Nous Contacter</h2>
+  
+  <div class="content">
+    <div class="contact-details">
+                    <ul class="contact">
+                        <li><p><i class="fa fa-map-marker"></i> <strong>Adresse:</strong> BP 15195, Yaoundé, Cameroun</p></li>
+                        <li><p><i class="fa fa-phone"></i> <strong>Téléhone:</strong> (+237) 657850144 / 691 486 831</p></li>
+                        <li><p><i class="fa fa-envelope"></i> <strong>Email:</strong> <a href="mailto:info@cerja-consulting.com">info@cerja-consulting.com</a></p></li>
+                    </ul>
+                </div>  </div>
+</div>
+  </div>
+  </div>
+                    </div>
+                
+                                    <div class="col-md-2">
+                          <div class="region region-footer-14">
+      <div class="region region-footer-14">
+    <div id="block-block-13" class="block block-block">
+
+    <h2>Suivez-nous</h2>
+  
+  <div class="content">
+    <ul class="social-icons">
+                    <li class="social-icons-facebook"><a href="http://www.facebook.com/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                    <li class="social-icons-twitter"><a href="http://www.twitter.com/" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+                    <li class="social-icons-linkedin"><a href="http://www.linkedin.com/" target="_blank" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+                </ul>  </div>
+</div>
+  </div>
+  </div>
+                    </div>
+                
+            </div>
+        </div>
+            <div class="footer-copyright">
+        <div class="container">
+            <div class="row">
+                 <div class="region region-footer-bottom">
+    <div id="block-block-88" class="block block-block">
+
+    
+  <div class="content">
+    
+                <div class="col-md-7">
+                    <p>Developped by <a href="https://nsconsulting237.com/" target="_blank">NSConsulting Cameroon</a> .</p>
+                    <p>© Copyright 2018, CERJA Cameroun.</p>
+                </div>
+                <div class="col-md-4">
+                    <nav id="sub-menu">
+                        <ul>
+                            <li><a href="faq">FAQ's</a></li>
+                            <li><a href="sitemap">Sitemap</a></li>
+                            <li><a href="contact-us">Contact</a></li>
+                        </ul>
+                    </nav>
+                </div>  </div>
+</div>
+  </div>
+            </div>
+        </div>
+    </div>
+    </footer>
+
+	
+</div>	<script type="text/javascript" src="https://cerja-consulting.com/cerja/sites/default/files/js/js_ffPLTDLur603wUaD8hQHhOkrTP2iKKGarQYg04igjc4.js"></script>
+
+<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyC7Pjsikj52mFixaUDjcMvd0pV3khU8qDo"></script>
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,679 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta charset="utf-8" />
+<link rel="shortcut icon" href="http://www.greatertzaneen.gov.za/sites/all/themes/office_responsive_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width" />
+<link rel="shortlink" href="/?q=node/3" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/?q=home" />
+<title>Home | Greater Tzaneen Municipality</title>
+<style type="text/css" media="all">
+@import url("http://www.greatertzaneen.gov.za/modules/system/system.base.css?q5ul7q");
+@import url("http://www.greatertzaneen.gov.za/modules/system/system.menus.css?q5ul7q");
+@import url("http://www.greatertzaneen.gov.za/modules/system/system.messages.css?q5ul7q");
+@import url("http://www.greatertzaneen.gov.za/modules/system/system.theme.css?q5ul7q");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.greatertzaneen.gov.za/modules/comment/comment.css?q5ul7q");
+@import url("http://www.greatertzaneen.gov.za/modules/field/theme/field.css?q5ul7q");
+@import url("http://www.greatertzaneen.gov.za/modules/node/node.css?q5ul7q");
+@import url("http://www.greatertzaneen.gov.za/modules/search/search.css?q5ul7q");
+@import url("http://www.greatertzaneen.gov.za/modules/user/user.css?q5ul7q");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.greatertzaneen.gov.za/sites/all/themes/office_responsive_theme/style.css?q5ul7q");
+@import url("http://www.greatertzaneen.gov.za/sites/all/themes/office_responsive_theme/media.css?q5ul7q");
+</style>
+<script type="text/javascript" src="http://www.greatertzaneen.gov.za/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.greatertzaneen.gov.za/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.greatertzaneen.gov.za/misc/drupal.js?q5ul7q"></script>
+<script type="text/javascript" src="http://www.greatertzaneen.gov.za/sites/all/themes/office_responsive_theme/js/custom.js?q5ul7q"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"office_responsive_theme","theme_token":"dLRUU2bPS60olAhGqlxNLVXNa24-l68JBNn316lRe98","js":{"":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/office_responsive_theme\/js\/custom.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/themes\/office_responsive_theme\/style.css":1,"sites\/all\/themes\/office_responsive_theme\/media.css":1}}});
+//--><!]]>
+</script>
+<!--[if IE 8 ]>    <html class="ie8 ielt9"> <![endif]-->
+<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body class="html front not-logged-in no-sidebars page-node page-node- page-node-3 node-type-page">
+	<div id="skip-link">
+		<a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+	</div>
+  	 <!-- /.region -->
+	
+<div id="header_wrapper">
+
+  <div class="user-menu-wrapper">
+    <div class="full-wrap">
+          </div>
+  </div>
+
+  <div id="inner_header_wrapper">
+   
+    <header id="header" role="banner"><!--
+      <div class="top_left">
+                  <div id="logo"><a href="/" title="Home"><img src="http://www.greatertzaneen.gov.za/sites/all/themes/office_responsive_theme/logo.png"/></a></div>
+                <h1 id="site-title">
+          <a href="/" title="Home">Greater Tzaneen Municipality</a>
+          <div id="site-description"></div>
+        </h1>
+      </div>
+
+      <div class="top_right">
+      
+        <div class="search_block">
+                                <div class="social-icons">
+             <ul>
+              <li><a class="rss" href="/rss.xml">RSS</a></li>
+              <li><a class="fb" href="https://www.facebook.com/zymphonies" target="_blank" rel="me">Facebook</a></li>
+              <li><a class="twitter" href="https://twitter.com/zymphonies" target="_blank" rel="me">Twitter</a></li>
+
+              <li><a class="gplus" href="https://plus.google.com/u/1/+ZymphoniesTechnologies/" target="_blank" rel="me">Gplus</a></li>
+              <li><a class="linkedin" href="https://www.linkedin.com/company/zymphonies" target="_blank" rel="me">linkedin</a></li>
+              <li><a class="pinterest" href="http://www.pinterest.com/zymphonies/" target="_blank" rel="me">pinterest</a></li>
+              <li><a class="vimeo" href="http://www.vimeo.com" target="_blank" rel="me">vimeo</a></li>
+             </ul>
+            </div>
+                  </div>
+
+      </div>
+
+    <div class="clear"></div>
+-->
+    </header>
+
+  </div>
+
+
+
+
+</div>
+  
+  <div id="container">
+      <div class="menu_wrapper">
+	 <br>
+      <nav id="main-menu"  role="navigation">
+	  <img  src = "images/tzaneen-banner_1.png">
+        <a class="nav-toggle" href="#">Navigation</a>
+        <div class="menu-navigation-container">
+          <ul class="menu"><li class="first leaf"><a href="/" class="active">Home</a></li>
+<li class="expanded"><a href="/" title="" class="active">About Municipality</a><ul class="menu"><li class="first leaf"><a href="/?q=mission">Vision</a></li>
+<li class="leaf"><a href="/?q=node/165">Mission</a></li>
+<li class="leaf"><a href="/?q=node/166">Values</a></li>
+<li class="leaf"><a href="/?q=node/167">Coat of Arms</a></li>
+<li class="expanded"><a href="/?q=ward_councilors">Councillors</a><ul class="menu"><li class="first leaf"><a href="/?q=pmt" title="">PMT</a></li>
+<li class="leaf"><a href="/?q=node/179">EXCO</a></li>
+<li class="leaf"><a href="/?q=pr_councilors">PR Councilors</a></li>
+<li class="last leaf"><a href="/?q=ward_councilors" title="">Ward Councillors</a></li>
+</ul></li>
+<li class="leaf"><a href="/?q=management">Management</a></li>
+<li class="leaf"><a href="/?q=organizational">Organisational Structure</a></li>
+<li class="leaf"><a href="/?q=node/168">Office of the Mayor</a></li>
+<li class="leaf"><a href="/?q=node/169">Office of the Speaker</a></li>
+<li class="last leaf"><a href="/?q=node/170">Office of the Chief Whip</a></li>
+</ul></li>
+<li class="expanded"><a href="/?q=by_laws_landing">Important Documents</a><ul class="menu"><li class="first leaf"><a href="/?q=by_laws_landing" title="">By-Laws</a></li>
+<li class="leaf"><a href="/?q=node/184">Council minutes</a></li>
+<li class="expanded"><a href="/" title="" class="active">GTM SDF 2017-2022</a><ul class="menu"><li class="first leaf"><a href="/?q=DENSIFICATION%20CATALOGUE">DENSIFICATION CATALOGUE</a></li>
+<li class="leaf"><a href="/?q=node/28">DENSIFICATION POLICY</a></li>
+<li class="leaf"><a href="/?q=no_dal" title="">NO DAL PLAN CATALOGUE</a></li>
+<li class="leaf"><a href="/?q=node/29">RURAL DEVELOPMENT STRATEGY</a></li>
+<li class="last leaf"><a href="/?q=node/27">SDF MAP CATALOGUE</a></li>
+</ul></li>
+<li class="leaf"><a href="/?q=water_quality">GTM Water Quality</a></li>
+<li class="leaf"><a href="/?q=led">Local Economic Development (LED)</a></li>
+<li class="leaf"><a href="/?q=LTBContract">Long Term Borrowing Contracts</a></li>
+<li class="leaf"><a href="/?q=performance_agree">Performance Agreements</a></li>
+<li class="leaf"><a href="/?q=IDP">IDP</a></li>
+<li class="leaf"><a href="/?q=SDBIP1">SDBIP</a></li>
+<li class="leaf"><a href="/?q=other_documents">Other Documents</a></li>
+<li class="leaf"><a href="/?q=policies">Policies</a></li>
+<li class="last leaf"><a href="/?q=mpac%20reports">MPAC Reports</a></li>
+</ul></li>
+<li class="leaf"><a href="/?q=tariff" title="">Tariffs</a></li>
+<li class="expanded"><a href="/" title="" class="active">Reports</a><ul class="menu"><li class="first leaf"><a href="/?q=annual_reports">Annual Reports</a></li>
+<li class="leaf"><a href="/?q=performance_report">Performance Reports</a></li>
+<li class="leaf"><a href="/?q=supply_chain_reports">Supply Chain Reports</a></li>
+<li class="last leaf"><a href="/?q=quartely_report">Quartely Reports</a></li>
+</ul></li>
+<li class="expanded"><a href="/?q=advertised_tenders_landing">Tenders</a><ul class="menu"><li class="first leaf"><a href="/?q=advertised_tenders_landing" title="">Advertised Tenders</a></li>
+<li class="leaf"><a href="/?q=awarded_tenders">Awarded Tenders</a></li>
+<li class="leaf"><a href="/?q=closing_tender_register">Closing Tender Register</a></li>
+<li class="leaf"><a href="/?q=briefing_session_register">Briefing Session Register</a></li>
+<li class="leaf"><a href="/?q=awarded_quotation">Awarded Quotation</a></li>
+<li class="last leaf"><a href="/?q=tender_ext">TENDER EXTENSION NOTICES</a></li>
+</ul></li>
+<li class="expanded"><a href="/?q=application_forms">Vacancies</a><ul class="menu"><li class="first leaf"><a href="/?q=application_forms" title="">Application Forms</a></li>
+<li class="last leaf"><a href="/?q=current_vacancies">Current Vacancies</a></li>
+</ul></li>
+<li class="expanded"><a href="/?q=news_room">Newsroom</a><ul class="menu"><li class="first leaf"><a href="/?q=events">Events</a></li>
+<li class="leaf"><a href="/?q=media_release">Media Release</a></li>
+<li class="leaf"><a href="/?q=news_letters">News Letters</a></li>
+<li class="leaf"><a href="/?q=speeches">Speeches</a></li>
+<li class="last leaf"><a href="/?q=link">Gallery</a></li>
+</ul></li>
+<li class="expanded"><a href="/?q=preliminary_budget">Budget</a><ul class="menu"><li class="first leaf"><a href="/?q=preliminary_budget" title="">Preliminary Budget</a></li>
+<li class="leaf"><a href="/?q=final_budget">Final Budget</a></li>
+<li class="leaf"><a href="/?q=adj_budget">Adjustment Budget</a></li>
+<li class="last leaf"><a href="/?q=monthly">Monthly Report</a></li>
+</ul></li>
+<li class="last expanded"><a href="/?q=archives">Archives</a><ul class="menu"><li class="first leaf"><a href="/?q=news_articles" title="">News</a></li>
+<li class="leaf"><a href="/?q=archived_notices" title="">Notices</a></li>
+<li class="last leaf"><a href="/?q=archived_tenders">Tenders</a></li>
+</ul></li>
+</ul>        </div>
+        <div class="clear"></div>
+      </nav>
+    </div><br><br>
+  <br><br>
+    <div class="content-sidebar-wrap">
+
+    <div id="content">
+
+      <div id="breadcrumbs"></div>      
+      
+        <div class="region region-slideshow">
+  <div id="block-block-1" class="block block-block">
+
+      
+  <div class="content">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box;}
+
+.mySlides {display: none;}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 98%;
+  position: relative;
+ margin:0 auto;
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+  margin-top:-40px;
+  background-color:#000;
+  opacity:0.5;
+  height:35px;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  display:none;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: none;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+</style>
+
+
+
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 5</div>
+  <img src="images/IMG_8503.JPG" style="width:100%">
+  <div class="text"></div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 5</div>
+  <img src="sslider/sports_slide/IMG-20191021-WA0001.jpg" style="width:100%">
+  <div class="text"></div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 5</div>
+  <img src="sslider/sports_slide/IMG-20191021-WA0000.jpg" style="width:100%">
+  <div class="text"></div>
+</div>
+
+<!--<div class="mySlides fade">
+  <div class="numbertext">4 / 5</div>
+  <img src="sslider/sports_slide/mbamba.jpg" style="width:100%">
+  <div class="text">MBAMBAMENCISI ROAD GETS AN UPGRADE</div>
+  
+  <div class="mySlides fade">
+  <div class="numbertext">4 / 5</div>
+  <img src="sslider/sports_slide/Kgoshigadi Mashung Funeral_1.jpg" style="width:100%">
+  <div class="text">Attendees at the funeral service of Kgoshigadi Mankgatho Mashung</div>
+</div>-->
+
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot"></span>
+  <span class="dot"></span>
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+</div>
+
+<script>
+var slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+  setTimeout(showSlides, 3000); // Change image every 2 seconds
+}
+</script>
+
+  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+		
+	<!--	<div id="sliderFrame" class="clr flexslider-container" style="vertical-align:top;">
+          <div id="slider" class="slides clr" style="vertical-align:top;">
+		  
+	
+	
+	
+	
+	
+	
+	<img class ="slide_image" src="sslider/sports_slide/mbamba.jpg" alt="MBAMBAMENCISI ROAD GETS AN UPGRADE   .<a href = 'documents/news/mbamba.pdf'><button>&nbsp;&nbsp;&nbsp;Read More...</button></a>" />
+	
+	<img class ="slide_image" src="sslider/sports_slide/Kgoshigadi Mashung Funeral_1.jpg" alt="Attendees at the funeral service of Kgoshigadi Mankgatho Mashung  .<a href = '#'><button>&nbsp;&nbsp;&nbsp;Read More...</button></a>" />
+<img class ="slide_image" src="sslider/sports_slide/tzaneen.jpg" alt="Attendees slide2   .<a href = '#'><button>&nbsp;&nbsp;&nbsp;Read More...</button></a>" />	
+	
+
+          </div>    
+        </div>-->
+		
+		
+
+                
+        
+      
+      <section id="post-content" role="main">
+                                <h1 class="page-title">Home</h1>                                        <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+                          <span property="dc:title" content="Home" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+      
+    
+  <div class="content node-page">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">  <head><link rel = "stylesheet" href = "style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+
+<div class="row">
+  <div class="columns">
+    <div class="cards">
+      <h3 class="test" style = "background:#008000"><br><center>Quicklinks</center></h3>
+
+   <ul class = "list">
+     <a href ="?q=valluation"> <li class= "lists"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;Valuation Roll</li></a>
+    <a href ="?q=advertised_tenders_landing">  <li class="lists"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;Tenders</li></a>
+     <a href ="?q=application_forms"> <li class="lists"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;Application Forms</li></a>
+     <a href ="?q=form_type"> <li class="lists"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;Other Forms</li></a>
+      <a href ="?q=current_vacancies"><li class="lists"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;Vacancies</li></a>
+      <a href ="?q=events"><li class="lists"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;Events</li></a>
+     <a href ="?q=archives">   <li class="lists"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;Archives</li></a>
+      <a href ="?q=other_documents"><li class="lists"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;Other Documents</li></a>
+      <a href ="?q=speeches"><li class="lists"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;Speeches</li></a>
+    </ul>
+    </div>
+  </div>
+
+ <div class="columnss">
+ 
+      <h3 class="test" style = "background:#008000 "><br><center>Latest News</center></h3>
+  <table  style = "border:none" class="cardo" width="555">
+   <tr>         
+
+<td style ="border:none" width="30%">
+<div class="post-image">
+    <a href="#"><img class="post-pic" src="documents/news/tzaneen_032020.jpg" alt=""></a>
+    </div>
+</td>
+
+<td style ="border:none" width="70%">2020-02-03<br>GTM takes drastic action against illegal hawking<a  href ="documents/news/GTM TAKES DRASTIC ACTION AGAINST ILLEGAL HAWKING.pdf" class = "read">read more</a><tr>         
+
+<td style ="border:none" width="30%">
+<div class="post-image">
+    <a href="#"><img class="post-pic" src="documents/news/logo-tzannen.jpg" alt=""></a>
+    </div>
+</td>
+
+<td style ="border:none" width="70%">2020-02-03<br>Load shedding stage2<a  href ="documents/news/Eskom is calling Stage 2 from 09.pdf" class = "read">read more</a><tr>         
+
+<td style ="border:none" width="30%">
+<div class="post-image">
+    <a href="#"><img class="post-pic" src="documents/news/logo-tzannen.jpg" alt=""></a>
+    </div>
+</td>
+
+<td style ="border:none" width="70%">2020-02-03<br>Load shedding<a  href ="documents/news/Load shedding.pdf" class = "read">read more</a></td> 
+</tr>
+</table>  
+
+  </div>
+
+   <div class="columns">
+  <div class="cards_tours">
+      <h3 class="test" style = "background:#008000"><br><center>Our Mayor</center></h3>
+     
+<center> <img src = "newmayor.png" style ="margin:0auto; width:200px; height:240px; "></center>
+
+    </div>
+  </div>
+  </div>
+
+<br>
+
+<div class="row">
+<div class="column">
+    <div class="card">
+      <h3 class="tests" style = "background:#FADD04"><br><center>Tourism</center></h3>
+     <a href = "?q=tourism"><img class ="img_styles" src = "images/fair7.jpg"></a>
+      <p>Greater Tzaneen is one of the <br>most visited Provinces In SA<br>come and Explore our Nature</p>
+    <!-- <a href = "?q=tourism">Read More</a>-->
+     <a href = "http://www.iinfo.co.za/Tzaneen" target="_blank">Read More</a>
+    </div>
+  </div>
+ 
+
+  <div class="column">
+    <div class="card">
+      <h3 class="tests" style = "background:#FADD04 "><br><center>Budget</center></h3>
+     <a href = "?q=preliminary_budget"><img class ="img_styles" src = "images/budget.jpg"></a>
+      <p>Get Policies & legislation, Forms<br>& Guidelines and Publications<br><br></p>
+      <a href = "?q=preliminary_budget">Read More</a>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <h3 class="tests" style = "background:#FADD04;"><br><center>Tariffs</center></h3>
+     <a href = "?q=tariffs"><img class ="img_styles" src = "images/tarrif.jpg"></a>
+      <p>Get the latest Tarrifs<br><br><br></p>
+     <a href = "?q=tariffs">Read More</a>
+    </div>
+  </div>
+   <div class="column">
+    <div class="card">
+     <h3 class="tests" style = "background:#E7CE00"><br> <center>Archive</center></h3>
+   <a href = "?q=archives"> <img class ="img_styles" src = "images/archives.jpeg"></a>
+      <p>Get updated relevant, informant<br>and opportunities of Tenders as<br>presented</p>
+    <a href = "?q=archives">Read More</a>
+    </div>
+  </div>
+  
+</div>
+<br>
+
+<div class="row">
+  <div class="columns">
+    <div class="cards">
+     
+
+                           <!--<h3 class="tests" style = "background:#FADD04"><br><center>Events Calendar</center></h3>-->
+                        <script class="calendar" type="text/javascript">calendar();</script>     
+                    
+
+    </div>
+  </div>
+
+  <div class="columnss">
+    <div class="cards">
+      <h3 class="tests" style = "background:#FADD04 "><br><center>Notice Board</center></h3>
+      <ul class = "list">
+            <li style ="width:100%" class= "lists"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;<a href = 'documents/noticeboard/TO.pdf'>Water issue</a>&nbsp;&nbsp;&nbsp;&nbsp;2020-02-04</li>
+               <li style ="width:100%" class= "lists"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;<a href = 'documents/noticeboard/PUBLIC NOTICE MPAC.pdf'>PUBLIC NOTICE MPAC</a>&nbsp;&nbsp;&nbsp;&nbsp;2020-02-03</li>
+               <li style ="width:100%" class= "lists"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;<a href = 'documents/noticeboard/Good Day.pdf'>Heavy Rainfall</a>&nbsp;&nbsp;&nbsp;&nbsp;2020-01-10</li>
+               <li style ="width:100%" class= "lists"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;<a href = 'documents/noticeboard/GTM Load Shedding Schedule 18 March 2019 Stage 8 as published.xlsx'>GTM Load Shedding Schedule 18 March 2019 Stage 8 as published</a>&nbsp;&nbsp;&nbsp;&nbsp;2019-12-09</li>
+               <li style ="width:100%" class= "lists"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;<a href = 'documents/noticeboard/MSFAS ADVERT 2020.pdf'>MSFAS ADVERT 2020</a>&nbsp;&nbsp;&nbsp;&nbsp;2019-11-26</li>
+               <li style ="width:100%" class= "lists"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;<a href = 'documents/noticeboard/SWIMMING POOL INFORMATION AND PRICES 2019.pdf'>SWIMMING POOL INFORMATION AND PRICES 2019</a>&nbsp;&nbsp;&nbsp;&nbsp;2019-11-21</li>
+               <li style ="width:100%" class= "lists"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;<a href = 'documents/noticeboard/Contact list of role players in the GTM.pdf'>Contact list of role players in the GTM</a>&nbsp;&nbsp;&nbsp;&nbsp;2019-11-20</li>
+             </ul>
+    </div>
+  </div>
+
+  <div class="columns">
+    <div class="cards">
+      <h3 class="tests" style = "background:#FADD04;"><br><center>Services</center></h3>
+      <ul class = "list">
+        <a href = "#"> <li class= "lists"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;Electricity</li></a>
+        <a href = "#"> <li class="lists"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;Disaster Management</li></a>
+         <a href = "#"><li class="lists"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;water</li></a>
+         <a href = "#"><li class="lists"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;Sewerage</li></a>
+        <!-- <a href = "#"><li class="lists"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;Service Delivery</li></a>-->
+       </ul>
+
+    </div>
+  </div>
+
+
+</div>
+
+
+</center></td></tr></table>
+<br><div class="row">
+  <div class="columns">
+    <a href = "?q=tourism"><div class="cards_tour">
+      <h3 class="test" style = "background:#008000"><br><center>Tourism</center></h3>
+      <br>
+      <br>
+      <br>
+      <br>
+     <h3><center><label class = "reds">Click Here<label/></center></h3>
+
+
+    </div></a>
+  </div>
+
+  <div class="columnss">
+    <div class="cards">
+      <h3 class="test" style = "background:#008000 "><br><center>Emergency Numbers</center></h3>
+      <div class = "row1">
+    <div class = "column1"><a href = "?q=hospitals"><center><img src="images/hospitals.jpg" ></center></a></div><div class = "column2"><a href = "?q=saps"><center><img src="images/saps.jpg" ></center></a></div>
+    </div><br>
+     <div class = "row2">
+    <div class = "column1"><a href = "https://www.facebook.com/pages/Greater-Tzaneen-Municipality/126932104003468"><center><img src="images/facebook.png" ></center></a></div><div class = "column2"><a href = "?q=disaster_center"><center><img src="images/disaster.jpg" ></center></a></div>
+    </div>
+    </div>
+  </div>
+
+  <div class="columns">
+    <div class="cards">
+     <h3 class="test" style = "background:#008000"><br> <center>Business Hours</center></h3>    
+    <p class = "green_text">
+   Weekdays -       07:30 to 16:30<br><br><br>
+   
+  Saturdays - Open for vehicle and drivers licence from 07:00 to 12:00 <br><br>
+  
+  Sunday  -   Closed
+  </p>
+
+    </div>
+  </div>
+
+
+</div>
+
+<head><link rel = "stylesheet" href = "style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<br><br>
+
+<div style = "background:#008000"class="my_footer">
+
+  <div class="column">
+    <div class="cardos">
+      <h3 class="test" ><br><center>CONTACT INFO</center></h3>
+    <ul class = "list">
+         <a href = "?q=contacts"> <li style ="width:100%" class= "listss"><i class = "fa fa-phone aria-hiddem ="true"></i>&nbsp;&nbsp;015 307 8000</li></a>
+         <!--<a href = "?q=contacts"> <li class="listss"><i class = "fa fa-fax aria-hiddem ="true"></i>&nbsp;&nbsp;015 307 4954</li></a>-->
+		 <a href = "?q=contacts"> <li class="listss"><i class="fa fa-exclamation" aria-hidden="true"></i>&nbsp;&nbsp;0800 44 66 44 ANTI-CORRUPTION</li></a>
+         <a href = "?q=contacts"> <li class="listss"><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp;info@tzaneen.gov.za</li></a>
+		 <a href = "?q=contacts"> <li class="listss"><i class="fa fa-address-card-o" aria-hidden="true"></i>&nbsp;&nbsp;P.O. Box 24, Tzaneen, 0850</li></a>
+         
+       </ul>
+    </div>
+  </div>
+
+  <div class="column">
+   <div class="cardos">
+      <h3 class="test" ><br><center>ABOUT US</center></h3>
+    <ul class = "list">
+        <a href = "http://www.iinfo.co.za/content/historical-background-tzaneen">  <li style ="width:100%" class= "listss"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;Historical Background</li></a>
+         <a href = "?q=mission"> <li class="listss"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;Vision & Mission</li></a>
+        <a href = "?q=organizational">  <li class="listss"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;Organizational Structure</li></a>
+         <a href = "?q=ward_councilors"> <li class="listss"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;Councilors</li></a>
+        <a href = "?q=management">   <li class="listss"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;Managment</li></a>
+       </ul>
+    </div>
+  </div>
+  
+  <div class="column">
+   <div class="cardos">
+      <h3 class="test" ><br><center>IMPORTANT LINKS</center></h3>
+    <ul class = "list">
+        <a href = "?q=led">  <li style ="width:100%" class= "listss"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;LED</li></a>
+         <a href = "?q=policies"> <li class="listss"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;Policies</li></a>
+        <a href = "?q=LTBContract">  <li class="listss"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;Long Term Contracts</li></a>
+         <a href = "?q=water_quality"> <li class="listss"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;GTM Water quality</li></a>
+         <a href = "?q=DENSIFICATION CATALOGUE"> <li class="listss"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;GTM SDF 2017-2022</li></a>
+         <a href = "?q=by_laws_landing"> <li class="listss"><i class="fa fa-angle-right"></i> &nbsp;&nbsp;By Laws</li></a>
+       </ul>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="cardos">
+      <h3 class="test" ><br><center>PHYSICAL ADDRESS</center></h3>
+<center><a href = "?q=map"> <img src ="images/maps_96in128dp.png"></a></center>
+    </div>
+  </div>
+  
+</div>
+
+
+
+</div></div></div>  </div>
+
+      <footer>
+          </footer>
+  
+    </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+      </section> <!-- /#main -->
+    </div>
+  
+      
+    </div>
+
+    
+
+     
+  
+<div id="footer">
+
+    
+  <div class="footer_credit">
+    <div class="footer_inner_credit">
+           <div id="foot">
+        <div class="region region-footer">
+  <div id="block-system-powered-by" class="block block-system">
+
+      
+  <div class="content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+      </div>
+         
+  
+  </div>
+  </div>
+</div>
+
+    
+    <div id="copyright">
+      <p class="copyright"><a href="?q=site_map">Site Map | </a><a href="#">Disclaimer | </a><a href="#">Copyright </a></p><p class="credits">  Greater Tzaneen Municipality &copy; 2020, All Rights Reserved  </p>
+    <div class="clear"></div>
+    </div>
+</div>
+	<script type="text/javascript" src=""></script>
+</body>
+</html>

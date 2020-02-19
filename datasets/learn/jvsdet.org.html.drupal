@@ -1,0 +1,440 @@
+
+
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="en-US">
+
+<head>
+  
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JVS Human Services | Inspiring Hope - Unlocking Potential</title>
+<link rel="pingback" href="https://www.jvshumanservices.org/xmlrpc.php">        <style type="text/css">
+        </style>
+        <link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="JVS Human Services &raquo; Feed" href="https://www.jvshumanservices.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="JVS Human Services &raquo; Comments Feed" href="https://www.jvshumanservices.org/comments/feed/" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.2.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_version         = '7.2.0';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-40739873-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-40739873-1', 'auto', {'allowAnchor':true,'allowLinker':true});
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('require', 'linkid', 'linkid.js');
+		__gaTracker('send','pageview', location.pathname + location.search + location.hash);
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.jvshumanservices.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.2"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='fts-feeds-css'  href='https://www.jvshumanservices.org/wp-content/plugins/feed-them-social/feeds/css/styles.css?ver=2.4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='fts-popup-css'  href='https://www.jvshumanservices.org/wp-content/plugins/feed-them-social/feeds/css/magnific-popup.css?ver=2.4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='x-stack-css'  href='https://www.jvshumanservices.org/wp-content/themes/x/framework/dist/css/site/stacks/integrity-light.css?ver=6.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_reset_css-css'  href='https://www.jvshumanservices.org/wp-content/plugins/gravityforms/css/formreset.min.css?ver=2.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_formsmain_css-css'  href='https://www.jvshumanservices.org/wp-content/plugins/gravityforms/css/formsmain.min.css?ver=2.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_ready_class_css-css'  href='https://www.jvshumanservices.org/wp-content/plugins/gravityforms/css/readyclass.min.css?ver=2.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_browsers_css-css'  href='https://www.jvshumanservices.org/wp-content/plugins/gravityforms/css/browsers.min.css?ver=2.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='x-gravity-forms-css'  href='https://www.jvshumanservices.org/wp-content/themes/x/framework/dist/css/site/gravity_forms/integrity-light.css?ver=6.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='x-cranium-migration-css'  href='https://www.jvshumanservices.org/wp-content/themes/x/framework/legacy/cranium/dist/css/site/integrity-light.css?ver=6.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='x-child-css'  href='https://www.jvshumanservices.org/wp-content/themes/x-child/style.css?ver=6.1.6' type='text/css' media='all' />
+<script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script type='text/javascript' src='https://www.jvshumanservices.org/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.jvshumanservices.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ftsAjax = {"ajaxurl":"https:\/\/www.jvshumanservices.org\/wp-admin\/admin-ajax.php"};
+var ftsAjax = {"ajaxurl":"https:\/\/www.jvshumanservices.org\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.jvshumanservices.org/wp-content/plugins/feed-them-social/admin/js/admin.js?ver=2.4.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"https:\/\/www.jvshumanservices.org","track_download_as":"event","internal_label":"int","hash_tracking":"true"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.jvshumanservices.org/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.2.0'></script>
+<script type='text/javascript' src='https://www.jvshumanservices.org/wp-content/plugins/feed-them-social/feeds/js/masonry.pkgd.min.js?ver=2.4.6'></script>
+<script type='text/javascript' src='https://www.jvshumanservices.org/wp-content/plugins/feed-them-social/feeds/js/imagesloaded.pkgd.min.js?ver=2.4.6'></script>
+<script type='text/javascript' src='https://www.jvshumanservices.org/wp-content/plugins/feed-them-social/feeds/js/fts-global.js?ver=2.4.6'></script>
+<script type='text/javascript' src='https://www.jvshumanservices.org/wp-content/plugins/feed-them-social/feeds/js/magnific-popup.js?ver=2.4.6'></script>
+<script type='text/javascript' src='https://www.jvshumanservices.org/wp-content/plugins/cornerstone/assets/dist/js/site/cs-head.js?ver=3.2.5'></script>
+<link rel='https://api.w.org/' href='https://www.jvshumanservices.org/wp-json/' />
+<link rel="canonical" href="https://www.jvshumanservices.org/" />
+<link rel='shortlink' href='https://www.jvshumanservices.org/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.jvshumanservices.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.jvshumanservices.org%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.jvshumanservices.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.jvshumanservices.org%2F&#038;format=xml" />
+<link rel="icon" href="https://www.jvshumanservices.org/wp-content/uploads/2020/01/cropped-Website-Favicon-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://www.jvshumanservices.org/wp-content/uploads/2020/01/cropped-Website-Favicon-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.jvshumanservices.org/wp-content/uploads/2020/01/cropped-Website-Favicon-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://www.jvshumanservices.org/wp-content/uploads/2020/01/cropped-Website-Favicon-270x270.jpg" />
+<style id="x-generated-css">a,h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover,.x-breadcrumb-wrap a:hover,.widget ul li a:hover,.widget ol li a:hover,.widget.widget_text ul li a,.widget.widget_text ol li a,.widget_nav_menu .current-menu-item > a,.x-accordion-heading .x-accordion-toggle:hover,.x-comment-author a:hover,.x-comment-time:hover,.x-recent-posts a:hover .h-recent-posts{color:rgb(19,176,190);}a:hover,.widget.widget_text ul li a:hover,.widget.widget_text ol li a:hover,.x-twitter-widget ul li a:hover{color:rgb(58,74,159);}.rev_slider_wrapper,a.x-img-thumbnail:hover,.x-slider-container.below,.page-template-template-blank-3-php .x-slider-container.above,.page-template-template-blank-6-php .x-slider-container.above{border-color:rgb(19,176,190);}.entry-thumb:before,.x-pagination span.current,.flex-direction-nav a,.flex-control-nav a:hover,.flex-control-nav a.flex-active,.mejs-time-current,.x-dropcap,.x-skill-bar .bar,.x-pricing-column.featured h2,.h-comments-title small,.x-entry-share .x-share:hover,.x-highlight,.x-recent-posts .x-recent-posts-img:after{background-color:rgb(19,176,190);}.x-nav-tabs > .active > a,.x-nav-tabs > .active > a:hover{box-shadow:inset 0 3px 0 0 rgb(19,176,190);}.x-main{width:72.536945%;}.x-sidebar{width:22.536945%;}.x-comment-author,.x-comment-time,.comment-form-author label,.comment-form-email label,.comment-form-url label,.comment-form-rating label,.comment-form-comment label,.widget_calendar #wp-calendar caption,.widget.widget_rss li .rsswidget{font-family:"Ubuntu Condensed",sans-serif;font-weight:400;}.p-landmark-sub,.p-meta,input,button,select,textarea{font-family:"Ubuntu",sans-serif;}.widget ul li a,.widget ol li a,.x-comment-time{color:rgb(68,68,68);}.widget_text ol li a,.widget_text ul li a{color:rgb(19,176,190);}.widget_text ol li a:hover,.widget_text ul li a:hover{color:rgb(58,74,159);}.comment-form-author label,.comment-form-email label,.comment-form-url label,.comment-form-rating label,.comment-form-comment label,.widget_calendar #wp-calendar th,.p-landmark-sub strong,.widget_tag_cloud .tagcloud a:hover,.widget_tag_cloud .tagcloud a:active,.entry-footer a:hover,.entry-footer a:active,.x-breadcrumbs .current,.x-comment-author,.x-comment-author a{color:rgb(19,176,190);}.widget_calendar #wp-calendar th{border-color:rgb(19,176,190);}.h-feature-headline span i{background-color:rgb(19,176,190);}@media (max-width:979px){}html{font-size:14px;}@media (min-width:480px){html{font-size:14px;}}@media (min-width:767px){html{font-size:14px;}}@media (min-width:979px){html{font-size:14px;}}@media (min-width:1200px){html{font-size:14px;}}body{font-style:normal;font-weight:400;color:rgb(68,68,68);background:rgb(255,255,255) url(//www.jvshumanservices.org/wp-content/uploads/2018/07/body-bg.jpg) center top repeat;}.w-b{font-weight:400 !important;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{font-family:"Ubuntu Condensed",sans-serif;font-style:normal;font-weight:400;}h1,.h1{letter-spacing:0em;}h2,.h2{letter-spacing:0em;}h3,.h3{letter-spacing:0em;}h4,.h4{letter-spacing:0em;}h5,.h5{letter-spacing:0em;}h6,.h6{letter-spacing:0em;}.w-h{font-weight:400 !important;}.x-container.width{width:90%;}.x-container.max{max-width:1200px;}.site,.x-site{width:90%;max-width:1200px;}.x-main.full{float:none;display:block;width:auto;}@media (max-width:979px){.x-main.full,.x-main.left,.x-main.right,.x-sidebar.left,.x-sidebar.right{float:none;display:block;width:auto !important;}}.entry-header,.entry-content{font-size:1rem;}body,input,button,select,textarea{font-family:"Ubuntu",sans-serif;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a,.h1 a,.h2 a,.h3 a,.h4 a,.h5 a,.h6 a,blockquote{color:rgb(19,176,190);}.cfc-h-tx{color:rgb(19,176,190) !important;}.cfc-h-bd{border-color:rgb(19,176,190) !important;}.cfc-h-bg{background-color:rgb(19,176,190) !important;}.cfc-b-tx{color:rgb(68,68,68) !important;}.cfc-b-bd{border-color:rgb(68,68,68) !important;}.cfc-b-bg{background-color:rgb(68,68,68) !important;}.x-btn,.button,[type="submit"]{color:#ffffff;border-color:rgb(19,176,190);background-color:rgb(19,176,190);text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);}.x-btn:hover,.button:hover,[type="submit"]:hover{color:rgb(19,176,190);border-color:rgb(19,176,190);background-color:rgb(255,255,255);text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);}.x-btn.x-btn-real,.x-btn.x-btn-real:hover{margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);}.x-btn.x-btn-real{box-shadow:0 0.25em 0 0 rgb(19,176,190),0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-real:hover{box-shadow:0 0.25em 0 0 rgb(0,0,0),0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-flat,.x-btn.x-btn-flat:hover{margin-bottom:0;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);box-shadow:none;}.x-btn.x-btn-transparent,.x-btn.x-btn-transparent:hover{margin-bottom:0;border-width:3px;text-shadow:none;text-transform:uppercase;background-color:transparent;box-shadow:none;}body .gform_wrapper .gfield_required{color:rgb(19,176,190);}body .gform_wrapper h2.gsection_title,body .gform_wrapper h3.gform_title,body .gform_wrapper .top_label .gfield_label,body .gform_wrapper .left_label .gfield_label,body .gform_wrapper .right_label .gfield_label{font-weight:400;}body .gform_wrapper h2.gsection_title{letter-spacing:0em !important;}body .gform_wrapper h3.gform_title{letter-spacing:0em !important;}body .gform_wrapper .top_label .gfield_label,body .gform_wrapper .left_label .gfield_label,body .gform_wrapper .right_label .gfield_label{color:rgb(19,176,190);}body .gform_wrapper .validation_message{font-weight:400;}.x-topbar .p-info a:hover,.x-widgetbar .widget ul li a:hover{color:rgb(19,176,190);}.x-topbar .p-info,.x-topbar .p-info a,.x-navbar .desktop .x-nav > li > a,.x-navbar .desktop .sub-menu a,.x-navbar .mobile .x-nav li > a,.x-breadcrumb-wrap a,.x-breadcrumbs .delimiter{color:rgb(255,255,255);}.x-navbar .desktop .x-nav > li > a:hover,.x-navbar .desktop .x-nav > .x-active > a,.x-navbar .desktop .x-nav > .current-menu-item > a,.x-navbar .desktop .sub-menu a:hover,.x-navbar .desktop .sub-menu .x-active > a,.x-navbar .desktop .sub-menu .current-menu-item > a,.x-navbar .desktop .x-nav .x-megamenu > .sub-menu > li > a,.x-navbar .mobile .x-nav li > a:hover,.x-navbar .mobile .x-nav .x-active > a,.x-navbar .mobile .x-nav .current-menu-item > a{color:rgb(255,255,255);}.x-navbar .desktop .x-nav > li > a:hover,.x-navbar .desktop .x-nav > .x-active > a,.x-navbar .desktop .x-nav > .current-menu-item > a{box-shadow:inset 0 4px 0 0 rgb(19,176,190);}.x-navbar .desktop .x-nav > li > a{height:50px;padding-top:16px;}.x-navbar .desktop .x-nav > li ul{top:35px;;}@media (max-width:979px){}.x-navbar.x-navbar-fixed-top.x-container.max.width{width:90%;max-width:1200px;}.x-navbar-inner{min-height:50px;}.x-logobar-inner{padding-top:20px;padding-bottom:20px;}.x-brand{font-family:inherit;font-size:42px;font-style:normal;font-weight:400;letter-spacing:0em;color:#272727;}.x-brand:hover,.x-brand:focus{color:#272727;}.x-brand img{width:325px;}.x-navbar .x-nav-wrap .x-nav > li > a{font-family:"Ubuntu Condensed",sans-serif;font-style:normal;font-weight:400;letter-spacing:0em;text-transform:uppercase;}.x-navbar .desktop .x-nav > li > a{font-size:18px;}.x-navbar .desktop .x-nav > li > a:not(.x-btn-navbar-woocommerce){padding-left:20px;padding-right:20px;}.x-navbar .desktop .x-nav > li > a > span{margin-right:-0em;}.x-btn-navbar{margin-top:5px;}.x-btn-navbar,.x-btn-navbar.collapsed{font-size:21px;}@media (max-width:979px){.x-widgetbar{left:0;right:0;}} </style><style id="cornerstone-custom-page-css"></style><link rel="stylesheet" href="//fonts.googleapis.com/css?family=Ubuntu+Condensed:400,400i|Ubuntu:300,300i,400,400i,500,500i,700,700i&#038;subset=latin,latin-ext" type="text/css" media="all" data-x-google-fonts /></head>
+
+<body data-rsssl=1 class="home page-template page-template-template-blank-4 page-template-template-blank-4-php page page-id-377 x-integrity x-integrity-light x-boxed-layout-active x-content-sidebar-active x-post-meta-disabled x-page-title-disabled x-child-theme-active x-navbar-static-active x-v6_1_6 cornerstone-v3_2_5">
+
+  <div id="x-root" class="x-root">
+
+    
+    <div id="top" class="site">
+
+    
+  
+  <header class="masthead masthead-stacked" role="banner">
+    
+
+  <div class="x-topbar">
+    <div class="x-topbar-inner x-container max width">
+            <p class="p-info"><a href="/about-us/sign-up-for-e-news/" class="btn x-btn x-btn-mini man">Signup For E-News</a></p>
+            <div class="x-social-global"><a href="https://www.facebook.com/jvshumanservices" class="facebook" title="Facebook" target="_blank"><i class="x-icon-facebook-square" data-x-icon="&#xf082;" aria-hidden="true"></i></a><a href="https://twitter.com/jvsdetroit" class="twitter" title="Twitter" target="_blank"><i class="x-icon-twitter-square" data-x-icon="&#xf081;" aria-hidden="true"></i></a><a href="https://www.linkedin.com/company/jvs-detroit/" class="linkedin" title="LinkedIn" target="_blank"><i class="x-icon-linkedin-square" data-x-icon="&#xf08c;" aria-hidden="true"></i></a><a href="https://www.youtube.com/jvsdetroit" class="youtube" title="YouTube" target="_blank"><i class="x-icon-youtube-square" data-x-icon="&#xf166;" aria-hidden="true"></i></a><a href="https://www.instagram.com/jvsdetroit/" class="instagram" title="Instagram" target="_blank"><i class="x-icon-instagram" data-x-icon="&#xf16d;" aria-hidden="true"></i></a></div>    </div>
+  </div>
+
+    
+
+  <div class="x-logobar">
+    <div class="x-logobar-inner">
+      <div class="x-container max width">
+        
+<h1 class="visually-hidden">JVS Human Services</h1>
+<a href="https://www.jvshumanservices.org/" class="x-brand img" title="Inspiring Hope - Unlocking Potential">
+  <img src="//www.jvshumanservices.org/wp-content/uploads/2018/10/JVS_logo_Horiz.png" alt="Inspiring Hope - Unlocking Potential"></a>
+
+<img src="/wp-content/uploads/2018/10/JVS_Tagline.png" alt="Inspiring Hope - Unlocking Potential" class="tagline">
+
+<a href="/general-donations/" class="donate-button" title="Donate Now Button">
+  <img src="/wp-content/uploads/2018/10/JVS_DN_Button.png" alt="Donat Now!">
+</a>      </div>
+    </div>
+  </div>
+
+  <div class="x-navbar-wrap">
+    <div class="x-navbar">
+      <div class="x-navbar-inner">
+        <div class="x-container max width">
+          
+<a href="#" id="x-btn-navbar" class="x-btn-navbar collapsed" data-x-toggle="collapse-b" data-x-toggleable="x-nav-wrap-mobile" aria-selected="false" aria-expanded="false" aria-controls="x-widgetbar">
+  <i class="x-icon-bars" data-x-icon="&#xf0c9;"></i>
+  <span class="visually-hidden">Navigation</span>
+</a>
+
+<nav class="x-nav-wrap desktop" role="navigation">
+  <ul id="menu-main" class="x-nav"><li id="menu-item-99" class="unclickable menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-99"><a href="#"><span>Who We Serve</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-94" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="https://www.jvshumanservices.org/who-we-serve/job-seekers/"><span>Job Seekers</span></a></li>
+	<li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a href="https://www.jvshumanservices.org/who-we-serve/women/"><span>Women</span></a></li>
+	<li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="https://www.jvshumanservices.org/who-we-serve/people-with-disabilities/"><span>People With Disabilities</span></a></li>
+	<li id="menu-item-96" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-96"><a href="https://www.jvshumanservices.org/who-we-serve/seniors/"><span>Seniors</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-3784" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3784"><a href="https://www.jvshumanservices.org/brown-day-program/"><span>Brown Day Program</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-97" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a href="https://www.jvshumanservices.org/who-we-serve/students/"><span>Students</span></a></li>
+	<li id="menu-item-92" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="https://www.jvshumanservices.org/who-we-serve/homebuyers/"><span>Homebuyers</span></a></li>
+	<li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93"><a href="https://www.jvshumanservices.org/who-we-serve/homeowners/"><span>Homeowners</span></a></li>
+</ul>
+</li>
+<li id="menu-item-100" class="unclickable menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-100"><a href="#"><span>Specialized Programs</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-3184" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3184"><a href="https://www.jvshumanservices.org/specialized-programs/amazon-employment/"><span>Amazon Employment</span></a></li>
+	<li id="menu-item-3203" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3203"><a href="https://www.jvshumanservices.org/career-counseling/"><span>Career Counseling</span></a></li>
+	<li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="https://www.jvshumanservices.org/specialized-programs/computer-training/"><span>Computer Training</span></a></li>
+	<li id="menu-item-88" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88"><a href="https://www.jvshumanservices.org/specialized-programs/financial-education/"><span>Financial Education</span></a></li>
+	<li id="menu-item-89" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89"><a href="https://www.jvshumanservices.org/specialized-programs/ticket-to-work/"><span>Ticket to Work</span></a></li>
+	<li id="menu-item-101" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-101"><a target="_blank" rel="noopener noreferrer" href="http://dentalhealthcouncil.org"><span>Tri-County Dental Health</span></a></li>
+</ul>
+</li>
+<li id="menu-item-117" class="unclickable menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-117"><a href="#"><span>Business Services</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-361"><a href="https://www.jvshumanservices.org/business-services/employee-recruitment/"><span>Employee Recruitment</span></a></li>
+	<li id="menu-item-113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a href="https://www.jvshumanservices.org/business-services/hr-consulting/"><span>HR Consulting</span></a></li>
+	<li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="https://www.jvshumanservices.org/business-services/electronics-recycling/"><span>Electronics Recycling</span></a></li>
+	<li id="menu-item-373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-373"><a href="https://www.jvshumanservices.org/specialized-programs/computer-training/"><span>Technical Training</span></a></li>
+	<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a href="https://www.jvshumanservices.org/business-services/janitorial-services/"><span>Janitorial Services</span></a></li>
+</ul>
+</li>
+<li id="menu-item-126" class="unclickable menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-126"><a href="#"><span>Events</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-846"><a href="https://www.jvshumanservices.org/events/whats-coming-up/"><span>What&#8217;s Coming Up</span></a></li>
+	<li id="menu-item-854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-854"><a href="https://www.jvshumanservices.org/events/employment-seminars/"><span>Employment Seminars</span></a></li>
+	<li id="menu-item-858" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-858"><a href="https://www.jvshumanservices.org/events/computer-training/"><span>Computer Training</span></a></li>
+	<li id="menu-item-862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-862"><a href="https://www.jvshumanservices.org/events/business-events/"><span>Business Events</span></a></li>
+	<li id="menu-item-869" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-869"><a href="https://www.jvshumanservices.org/events/financial-education-and-homebuyer-education/"><span>Financial Education and Homebuyer Education</span></a></li>
+	<li id="menu-item-878" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-878"><a href="https://www.jvshumanservices.org/events/caregiver-and-senior-support/"><span>Caregiver and Senior Support</span></a></li>
+	<li id="menu-item-1107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1107"><a href="https://www.jvshumanservices.org/events/strictly-business/"><span>Strictly Business</span></a></li>
+	<li id="menu-item-1821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1821"><a href="https://www.jvshumanservices.org/events/trade-secrets/"><span>Trade Secrets</span></a></li>
+</ul>
+</li>
+<li id="menu-item-150" class="unclickable menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-150"><a href="#"><span>About Us</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="https://www.jvshumanservices.org/about-us/mission-history/"><span>Mission &#038; History</span></a></li>
+	<li id="menu-item-152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="https://www.jvshumanservices.org/about-us/publications/"><span>Publications</span></a></li>
+	<li id="menu-item-886" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-886"><a href="https://www.jvshumanservices.org/about-us/news/"><span>News</span></a></li>
+	<li id="menu-item-154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="https://www.jvshumanservices.org/about-us/contact-locations/"><span>Contact &#038; Locations</span></a></li>
+	<li id="menu-item-245" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-245"><a target="_blank" rel="noopener noreferrer" href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=072ac661-78b4-4259-913b-1cf1df7f40b4"><span>Join our Team</span></a></li>
+	<li id="menu-item-156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-156"><a href="https://www.jvshumanservices.org/about-us/leadership-team/"><span>Leadership Team</span></a></li>
+	<li id="menu-item-157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157"><a href="https://www.jvshumanservices.org/about-us/board-members/"><span>Board Members</span></a></li>
+</ul>
+</li>
+<li id="menu-item-149" class="unclickable menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-149"><a href="#"><span>Support Us</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158"><a href="https://www.jvshumanservices.org/support-us/donation-options/"><span>Donation Options</span></a></li>
+	<li id="menu-item-148" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-148"><a href="https://careasy.org/nonprofit/Jewish-Vocational-Service---JVS-Detroit"><span>Donate a Vehicle</span></a></li>
+	<li id="menu-item-159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-159"><a href="https://www.jvshumanservices.org/support-us/shop-on-amazon/"><span>Shop on Amazon</span></a></li>
+	<li id="menu-item-1113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1113"><a href="https://www.jvshumanservices.org/support-us/shop-at-kroger/"><span>Shop at Kroger</span></a></li>
+	<li id="menu-item-286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-286"><a href="https://www.jvshumanservices.org/support-us/volunteer/"><span>Volunteer</span></a></li>
+	<li id="menu-item-285" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-285"><a href="https://www.jvshumanservices.org/support-us/join-our-legacy-society/"><span>Join our Legacy Society</span></a></li>
+</ul>
+</li>
+</ul></nav>
+
+<div id="x-nav-wrap-mobile" class="x-nav-wrap mobile x-collapsed" data-x-toggleable="x-nav-wrap-mobile" data-x-toggle-collapse="1" aria-hidden="true" aria-labelledby="x-btn-navbar">
+  <ul id="menu-main-1" class="x-nav"><li class="unclickable menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-99"><a href="#"><span>Who We Serve</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="https://www.jvshumanservices.org/who-we-serve/job-seekers/"><span>Job Seekers</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a href="https://www.jvshumanservices.org/who-we-serve/women/"><span>Women</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="https://www.jvshumanservices.org/who-we-serve/people-with-disabilities/"><span>People With Disabilities</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-96"><a href="https://www.jvshumanservices.org/who-we-serve/seniors/"><span>Seniors</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3784"><a href="https://www.jvshumanservices.org/brown-day-program/"><span>Brown Day Program</span></a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a href="https://www.jvshumanservices.org/who-we-serve/students/"><span>Students</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="https://www.jvshumanservices.org/who-we-serve/homebuyers/"><span>Homebuyers</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93"><a href="https://www.jvshumanservices.org/who-we-serve/homeowners/"><span>Homeowners</span></a></li>
+</ul>
+</li>
+<li class="unclickable menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-100"><a href="#"><span>Specialized Programs</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3184"><a href="https://www.jvshumanservices.org/specialized-programs/amazon-employment/"><span>Amazon Employment</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3203"><a href="https://www.jvshumanservices.org/career-counseling/"><span>Career Counseling</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="https://www.jvshumanservices.org/specialized-programs/computer-training/"><span>Computer Training</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88"><a href="https://www.jvshumanservices.org/specialized-programs/financial-education/"><span>Financial Education</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89"><a href="https://www.jvshumanservices.org/specialized-programs/ticket-to-work/"><span>Ticket to Work</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-101"><a target="_blank" rel="noopener noreferrer" href="http://dentalhealthcouncil.org"><span>Tri-County Dental Health</span></a></li>
+</ul>
+</li>
+<li class="unclickable menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-117"><a href="#"><span>Business Services</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-361"><a href="https://www.jvshumanservices.org/business-services/employee-recruitment/"><span>Employee Recruitment</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a href="https://www.jvshumanservices.org/business-services/hr-consulting/"><span>HR Consulting</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="https://www.jvshumanservices.org/business-services/electronics-recycling/"><span>Electronics Recycling</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-373"><a href="https://www.jvshumanservices.org/specialized-programs/computer-training/"><span>Technical Training</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a href="https://www.jvshumanservices.org/business-services/janitorial-services/"><span>Janitorial Services</span></a></li>
+</ul>
+</li>
+<li class="unclickable menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-126"><a href="#"><span>Events</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-846"><a href="https://www.jvshumanservices.org/events/whats-coming-up/"><span>What&#8217;s Coming Up</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-854"><a href="https://www.jvshumanservices.org/events/employment-seminars/"><span>Employment Seminars</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-858"><a href="https://www.jvshumanservices.org/events/computer-training/"><span>Computer Training</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-862"><a href="https://www.jvshumanservices.org/events/business-events/"><span>Business Events</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-869"><a href="https://www.jvshumanservices.org/events/financial-education-and-homebuyer-education/"><span>Financial Education and Homebuyer Education</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-878"><a href="https://www.jvshumanservices.org/events/caregiver-and-senior-support/"><span>Caregiver and Senior Support</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1107"><a href="https://www.jvshumanservices.org/events/strictly-business/"><span>Strictly Business</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1821"><a href="https://www.jvshumanservices.org/events/trade-secrets/"><span>Trade Secrets</span></a></li>
+</ul>
+</li>
+<li class="unclickable menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-150"><a href="#"><span>About Us</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="https://www.jvshumanservices.org/about-us/mission-history/"><span>Mission &#038; History</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="https://www.jvshumanservices.org/about-us/publications/"><span>Publications</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-886"><a href="https://www.jvshumanservices.org/about-us/news/"><span>News</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="https://www.jvshumanservices.org/about-us/contact-locations/"><span>Contact &#038; Locations</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-245"><a target="_blank" rel="noopener noreferrer" href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=072ac661-78b4-4259-913b-1cf1df7f40b4"><span>Join our Team</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-156"><a href="https://www.jvshumanservices.org/about-us/leadership-team/"><span>Leadership Team</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157"><a href="https://www.jvshumanservices.org/about-us/board-members/"><span>Board Members</span></a></li>
+</ul>
+</li>
+<li class="unclickable menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-149"><a href="#"><span>Support Us</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158"><a href="https://www.jvshumanservices.org/support-us/donation-options/"><span>Donation Options</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-148"><a href="https://careasy.org/nonprofit/Jewish-Vocational-Service---JVS-Detroit"><span>Donate a Vehicle</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-159"><a href="https://www.jvshumanservices.org/support-us/shop-on-amazon/"><span>Shop on Amazon</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1113"><a href="https://www.jvshumanservices.org/support-us/shop-at-kroger/"><span>Shop at Kroger</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-286"><a href="https://www.jvshumanservices.org/support-us/volunteer/"><span>Volunteer</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-285"><a href="https://www.jvshumanservices.org/support-us/join-our-legacy-society/"><span>Join our Legacy Society</span></a></li>
+</ul>
+</li>
+</ul></div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+    
+  </header>
+
+    
+
+  <div class="x-main full" role="main">
+
+    
+      <article id="post-377" class="post-377 page type-page status-publish hentry no-post-thumbnail">
+        
+
+<div class="entry-content content">
+
+
+  <div id="cs-content" class="cs-content" ><div id="x-section-1" class="x-section" style="margin: 0px;padding: 45px 0px; background-color: transparent;"  ><div class="x-container max width marginless-columns" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm x-1-1" style="padding: 0px;" ><div class="x-flexslider-shortcode-container"><div  class="x-flexslider x-flexslider-shortcode x-flexslider-shortcode-1" data-x-element="slider" data-x-params="{&quot;animation&quot;:&quot;slide&quot;,&quot;slideTime&quot;:&quot;5000&quot;,&quot;slideSpeed&quot;:&quot;1000&quot;,&quot;controlNav&quot;:false,&quot;prevNextNav&quot;:true,&quot;slideshow&quot;:true,&quot;random&quot;:true,&quot;touch&quot;:true,&quot;pauseOnHover&quot;:true}"  ><ul class="x-slides"><li  class="x-slide" >
+<p><a href="https://www.jvshumanservices.org/specialized-programs/amazon-employment/" rel="noopener"><img src="https://www.jvshumanservices.org/wp-content/uploads/2019/05/JVS_11533_Amazon_Jobs_ROTATOR_V5_Brownstown-Romulus.jpg" alt="" class="alignnone wp-image-1451 size-full" width="2400" height="900" /></a></p>
+</li><li  class="x-slide" >
+<p><a href="https://careasy.org/nonprofit/Jewish-Vocational-Service---JVS-Detroit" target="_blank" rel="noopener noreferrer"><img src="https://www.jvshumanservices.org/wp-content/uploads/2020/01/Hibernate-than-Accelerate_FB-Banner_1200x6281.jpg" alt="" width="2400" height="900" class="alignnone wp-image-1675 size-full" /></a></p>
+</li><li  class="x-slide" >
+<p><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=072ac661-78b4-4259-913b-1cf1df7f40b4" target="_blank" rel="noopener noreferrer"><img src="https://www.jvshumanservices.org/wp-content/uploads/2019/06/JVS_11804_Jobs_Banner_2400x900.jpg" alt="" width="2400" height="900" class="alignnone wp-image-3448 size-full" /></a></p>
+</li><li  class="x-slide" >
+<p><a href="https://www.jvshumanservices.org/events/trade-secrets/" target="_blank" rel="noopener noreferrer"><img src="https://www.jvshumanservices.org/wp-content/uploads/2019/12/JVS_11478_Trade_Secrets_Sponsorship_ROTATOR.jpg" alt="" width="2400" height="900" class="alignnone wp-image-3914 size-full" /></a></p>
+</li></ul></div></div></div></div><div class="x-container max width" style="margin: 0px auto;padding: 0px;"  ><div  class="x-column x-sm orange x-1-3" style="padding: 0px;" ><div  class="x-raw-content" ><h2>What's Coming Up</h2>
+<ul class="fm-upcoming-posts list-posts list events widget"><li class="fm-rpw-li fm-rpw-clearfix list-item"><div class="item-date"><div class="number">18</div>Feb</div>
+								<h3 class="fm-rpw-title title">Resume Strategies</h3><div class="fm-rpw-excerpt excerpt">Learn how to write a resume and cover letter.</div></li><li class="fm-rpw-li fm-rpw-clearfix list-item"><div class="item-date"><div class="number">18</div>Feb</div>
+								<h3 class="fm-rpw-title title">Protect Yourself!</h3><div class="fm-rpw-excerpt excerpt">Learn about discuss fraud, telephone scams and fair housing from experts.</div></li><li class="fm-rpw-li fm-rpw-clearfix list-item"><div class="item-date"><div class="number">18</div>Feb</div>
+								<h3 class="fm-rpw-title title">Career Club Meet-up</h3><div class="fm-rpw-excerpt excerpt">Forum for people who are passionate about professional growth.</div></li><li class="fm-rpw-li fm-rpw-clearfix list-item"><div class="item-date"><div class="number">19</div>Feb</div>
+								<h3 class="fm-rpw-title title">Gray Matters –  The Relationship between Hearing and Brain Health</h3><div class="fm-rpw-excerpt excerpt">Explore strategies that stimulate the brain’s plasticity by taking advantage of whole body connections.</div></li><li class="fm-rpw-li fm-rpw-clearfix list-item"><div class="item-date"><div class="number">20</div>Feb</div>
+								<h3 class="fm-rpw-title title">Active Career Transition</h3><div class="fm-rpw-excerpt excerpt">A job search program for people 50+.</div></li></ul><p class="btn-holder"><a class="learn-more x-btn btn" href="https://www.jvshumanservices.org/events/whats-coming-up/">Learn More</a></p></div></div><div  class="x-column x-sm green x-1-3" style="padding: 0px;" ><div  class="x-raw-content" ><h2>What's New</h2>
+<ul class="fm-upcoming-posts list-posts list whats-new widget"><li class="fm-rpw-li fm-rpw-clearfix list-item"><h3 class="fm-rpw-title title"><a href="https://www.jvshumanservices.org/new-oakland-county-michigan-works-waterford-service-center-to-help-thousands/">New Oakland County Michigan Works! Waterford service center to help thousands</a></h3><div class="fm-rpw-excerpt excerpt"><p><em>February 6, 2020</em> – Oakland County Michigan Works! is celebrating the grand opening of its new service center at 7500 Highland Road in Waterford which will support the needs of more than 2,600 job seekers a month in a more-accessible location.</p> <a href="https://www.jvshumanservices.org/new-oakland-county-michigan-works-waterford-service-center-to-help-thousands/">Read More &nbsp;&raquo;&nbsp;</a></div></li><li class="fm-rpw-li fm-rpw-clearfix list-item"><h3 class="fm-rpw-title title"><a href="https://www.jvshumanservices.org/jvs-women-to-work-program-highlighted-on-local-news/">JVS Women to Work Program Highlighted on Local News</a></h3><div class="fm-rpw-excerpt excerpt"><p>January 12, 2020 – Judy Richmond, JVS Women to Work Coordinator, and Lori VanWormer, a former program participant stopped by the Fox2 News studios to highlight how this unique program helps transform lives.</p> <a href="https://www.jvshumanservices.org/jvs-women-to-work-program-highlighted-on-local-news/">Read More &nbsp;&raquo;&nbsp;</a></div></li><li class="fm-rpw-li fm-rpw-clearfix list-item"><h3 class="fm-rpw-title title"><a href="https://www.jvshumanservices.org/jvs-human-services-names-paul-blatt-as-new-ceo/">JVS Human Services Names Paul Blatt as New CEO</a></h3><div class="fm-rpw-excerpt excerpt"><p><strong>SOUTHFIELD, Mich. (December 18, 2019)</strong> – Josh Eichenhorn, chair of the Board of Trustees of JVS Human Services,</p> <a href="https://www.jvshumanservices.org/jvs-human-services-names-paul-blatt-as-new-ceo/">Read More &nbsp;&raquo;&nbsp;</a></div></li><li class="fm-rpw-li fm-rpw-clearfix list-item"><h3 class="fm-rpw-title title"><a href="https://www.jvshumanservices.org/fox2-southfields-e-cycle-opportunities-recycles-old-electronics/">Fox2: Southfield’s E-Cycle Opportunities Recycles Old Electronics</a></h3><div class="fm-rpw-excerpt excerpt"><p><strong>SOUTHFIELD, Mich. (December 16, 2019) – </strong>Derek Kevra of Fox2 Detroit visited to learn about the importance of properly recycling electronics and the services provided by E-Cycle Opportunities to area businesses and residents.</p> <a href="https://www.jvshumanservices.org/fox2-southfields-e-cycle-opportunities-recycles-old-electronics/">Read More &nbsp;&raquo;&nbsp;</a></div></li><li class="fm-rpw-li fm-rpw-clearfix list-item"><h3 class="fm-rpw-title title"><a href="https://www.jvshumanservices.org/kevin-blackburns-story-being-a-hard-worker-does-pay-off/">Kevin Blackburn’s Story: “Being a Hard Worker Does Pay Off”</a></h3><div class="fm-rpw-excerpt excerpt"><p>December 10 – An Amazon Blog entitled, “What a catastrophic injury can’t take away,” tells how Kevin Blackburn of Trenton,</p> <a href="https://www.jvshumanservices.org/kevin-blackburns-story-being-a-hard-worker-does-pay-off/">Read More &nbsp;&raquo;&nbsp;</a></div></li></ul><p class="btn-holder"><a class="learn-more x-btn btn" href="https://www.jvshumanservices.org/about-us/whats-new/">Learn More</a></p></div></div><div  class="x-column x-sm blue x-1-3" style="padding: 0px;" ><div  class="x-raw-content" ><h2>What's the Buzz</h2>
+<div class="fts-fb-header-wrapper"><div class="fts-jal-fb-header"></div></div><div class="fts-jal-fb-group-display fts-simple-fb-wrapper  fts-mashup-hide-name feed_dynamic_classrRotPGhqBG_page fts-fb-scrollable" style="height:500px"><div class='fts-fb-photo-post-wrap fts-jal-single-fb-post' ><div  class="fts-jal-fb-right-wrap"><div class="fts-jal-fb-top-wrap "><div class="fts-jal-fb-user-thumb"><a href="https://facebook.com/93665629532" target="_blank"><img border="0" alt="JVS Detroit" src="https://graph.facebook.com/93665629532/picture"/></a></a></div><span class="fts-jal-fb-user-name"><a href="https://facebook.com/93665629532" target="_blank">JVS Detroit</a></span><span class="fts-jal-fb-post-time">1 day ago</span><div class="fts-clear"></div><div class="fts-jal-fb-message"><p>Flowers aren't just for Valentine's Day! We want to thank Market Fresh for partnering with us as participants in our Choices program brighten the day of JVS staff members with flower arrangements they have put together. After going to pick up flowers the store would...</p>
+<div class="fts-clear"></div></div> </div><div class="fts-jal-fb-link-wrap fts-album-photos-wrap"><a href="https://www.facebook.com/jvshumanservices/photos/a.248097594532/10158135667934533/?type=3" target="_blank" class="fts-jal-fb-picture fts-fb-large-photo" ><img border="0" alt="JVS Detroit" src="https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/86807344_10158135667939533_309879218936741888_o.jpg?_nc_cat=103&_nc_ohc=qdb2LjT27B8AX-Q4HJu&_nc_ht=scontent.xx&_nc_tp=7&oh=6b598b0a0c8ceaa3d0879fee7c74b658&oe=5EC914A6"></a><div class="fts-clear"></div><div class="fts-more-photos-2-or-3-photos fts-fb-more-photos-wrap fts-facebook-inline-block-centered fts-more-photos-three-photo-wrap" style="max-width:720px" data-ftsi-id=ZPSGlNbeOo_page data-ftsi-columns="2" data-ftsi-margin="1px" data-ftsi-force-columns="yes"><a href="https://www.facebook.com/jvshumanservices/photos/a.248097594532/10158135667984533/?type=3" target="_blank" class="slicker-facebook-placeholder fts-fb-thumbs-wrap fts-3-photos fts-fb-thumb-zero-wrap fts-fb-large-photo" style="background:url(https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/86971836_10158135667989533_705928061790453760_o.jpg?_nc_cat=107&_nc_ohc=GVs_Bhut7p0AX91onDy&_nc_ht=scontent.xx&_nc_tp=7&oh=45d87c3e1d5d1b0eb2f2074f2098f5a4&oe=5F003680);"></a><a href="https://www.facebook.com/jvshumanservices/photos/a.248097594532/10158135667904533/?type=3" target="_blank" class="fts-2-or-3-photos slicker-facebook-placeholder fts-fb-thumbs-wrap fts-3-photos fts-fb-thumb-one-wrap fts-fb-large-photo" style="background:url(https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/86612091_10158135667914533_5538147040116080640_o.jpg?_nc_cat=110&_nc_ohc=a_loBSaWvy4AX_cINNZ&_nc_ht=scontent.xx&_nc_tp=7&oh=3275273b854a5577fbe261d1214f6b1d&oe=5ECB3315);"></a></div><div class="slicker-facebook-album-photoshadow"></div><div class="fts-clear"></div></div><div class="fts-clear"></div></div><div class="fts-likes-shares-etc-wrap"><a href="https://www.facebook.com/jvshumanservices/photos/a.248097594532/10158135667934533/?type=3" target="_blank" class="fts-jal-fb-see-more"><i class='icon-thumbs-up'></i> 1  <i class='icon-file'></i> 4 &nbsp;&nbsp;&nbsp;View on Facebook</a></div><div class="fts-clear"></div></div><div class='fts-fb-photo-post-wrap fts-jal-single-fb-post' ><div  class="fts-jal-fb-right-wrap"><div class="fts-jal-fb-top-wrap "><div class="fts-jal-fb-user-thumb"><a href="https://facebook.com/93665629532" target="_blank"><img border="0" alt="JVS Detroit" src="https://graph.facebook.com/93665629532/picture"/></a></a></div><span class="fts-jal-fb-user-name"><a href="https://facebook.com/93665629532" target="_blank">JVS Detroit</a></span><span class="fts-jal-fb-post-time">4 days ago</span><div class="fts-clear"></div><div class="fts-jal-fb-message"><p>Share the love in a unique way and donate a vehicle! Vehicle donations are an unconventional donation that make a big difference. We take care of all the paperwork and the tow is free. Fill out our online form at <a href="http://bit.ly/DonateAVehicle" target="_blank">http://bit.ly/DonateAVehicle</a> or call...</p>
+<div class="fts-clear"></div></div> </div><div class="fts-jal-fb-link-wrap fts-album-photos-wrap"><a href="https://www.facebook.com/jvshumanservices/photos/a.248097594532/10158122716539533/?type=3" target="_blank" class="fts-jal-fb-picture fts-fb-large-photo" ><img border="0" alt="JVS Detroit" src="https://scontent.xx.fbcdn.net/v/t1.0-9/p720x720/86460039_10158122716549533_836283690773381120_o.jpg?_nc_cat=103&_nc_ohc=YkW2dTgFJeMAX-wjn7r&_nc_ht=scontent.xx&_nc_tp=6&oh=174810c2f274b0e7d70b410558287f8b&oe=5ECB20F1"></a><div class="slicker-facebook-album-photoshadow"></div><div class="fts-clear"></div></div><div class="fts-clear"></div></div><div class="fts-likes-shares-etc-wrap"><a href="https://www.facebook.com/jvshumanservices/photos/a.248097594532/10158122716539533/?type=3" target="_blank" class="fts-jal-fb-see-more"><i class='icon-thumbs-up'></i> 1   &nbsp;&nbsp;&nbsp;View on Facebook</a></div><div class="fts-clear"></div></div><div class='fts-fb-photo-post-wrap fts-jal-single-fb-post' ><div  class="fts-jal-fb-right-wrap"><div class="fts-jal-fb-top-wrap "><div class="fts-jal-fb-user-thumb"><a href="https://facebook.com/93665629532" target="_blank"><img border="0" alt="JVS Detroit" src="https://graph.facebook.com/93665629532/picture"/></a></a></div><span class="fts-jal-fb-user-name"><a href="https://facebook.com/93665629532" target="_blank">JVS Detroit</a></span><span class="fts-jal-fb-post-time">5 days ago</span><div class="fts-clear"></div><div class="fts-jal-fb-message"><p>Support and educate your workforce through disability inclusion training customized to your business. JVS employment experts offer this service at no charge for employers in the tri-county area of Oakland, Macomb, or Wayne! Contact Tim Haugh, thaugh<a target="_blank" href="https://facebook.com/jvshumanservices">@jvshumanservices</a>.org for more information on the workshop....</p>
+<div class="fts-clear"></div></div> </div><div class="fts-jal-fb-link-wrap fts-album-photos-wrap"><a href="https://www.facebook.com/jvshumanservices/photos/a.248097594532/10158122692124533/?type=3" target="_blank" class="fts-jal-fb-picture fts-fb-large-photo" ><img border="0" alt="JVS Detroit" src="https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/84259248_10158122692129533_192993191509622784_n.png?_nc_cat=110&_nc_ohc=EAaYSNi_5ZgAX86D8yZ&_nc_ht=scontent.xx&oh=fc492de5169c6cd2a3d29d38faede51a&oe=5EB74E5A"></a><div class="slicker-facebook-album-photoshadow"></div><div class="fts-clear"></div></div><div class="fts-clear"></div></div><div class="fts-likes-shares-etc-wrap"><a href="https://www.facebook.com/jvshumanservices/photos/a.248097594532/10158122692124533/?type=3" target="_blank" class="fts-jal-fb-see-more"><i class='icon-thumbs-up'></i> 2  <i class='icon-file'></i> 4 &nbsp;&nbsp;&nbsp;View on Facebook</a></div><div class="fts-clear"></div></div><div class='fts-fb-photo-post-wrap fts-jal-single-fb-post' ><div  class="fts-jal-fb-right-wrap"><div class="fts-jal-fb-top-wrap "><div class="fts-jal-fb-user-thumb"><a href="https://facebook.com/93665629532" target="_blank"><img border="0" alt="JVS Detroit" src="https://graph.facebook.com/93665629532/picture"/></a></a></div><span class="fts-jal-fb-user-name"><a href="https://facebook.com/93665629532" target="_blank">JVS Detroit</a> updated their cover photo.</span><span class="fts-jal-fb-post-time">5 days ago</span><div class="fts-clear"></div></div><div class="fts-jal-fb-link-wrap fts-album-photos-wrap"><a href="https://www.facebook.com/jvshumanservices/photos/a.10150916450929533/10158122904979533/?type=3" target="_blank" class="fts-jal-fb-picture fts-fb-large-photo" ><img border="0" alt="JVS Detroit" src="https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/84314243_10158122904989533_2727106041694126080_o.jpg?_nc_cat=110&_nc_ohc=n-FXa0Z5kj4AX_QHeHi&_nc_ht=scontent.xx&_nc_tp=7&oh=014cc15b3ac03e1fa458805b5cb32c0f&oe=5EBDB26F"></a><div class="slicker-facebook-album-photoshadow"></div><div class="fts-clear"></div></div><div class="fts-clear"></div></div><div class="fts-likes-shares-etc-wrap"><a href="https://www.facebook.com/jvshumanservices/photos/a.10150916450929533/10158122904979533/?type=3" target="_blank" class="fts-jal-fb-see-more"><i class='icon-thumbs-up'></i> 3  <i class='icon-file'></i> 2 &nbsp;&nbsp;&nbsp;View on Facebook</a></div><div class="fts-clear"></div></div><div class='fts-fb-photo-post-wrap fts-jal-single-fb-post' ><div  class="fts-jal-fb-right-wrap"><div class="fts-jal-fb-top-wrap "><div class="fts-jal-fb-user-thumb"><a href="https://facebook.com/93665629532" target="_blank"><img border="0" alt="JVS Detroit" src="https://graph.facebook.com/93665629532/picture"/></a></a></div><span class="fts-jal-fb-user-name"><a href="https://facebook.com/93665629532" target="_blank">JVS Detroit</a></span><span class="fts-jal-fb-post-time">1 week ago</span><div class="fts-clear"></div><div class="fts-jal-fb-message"><p>We're excited to share a photo from last week, kicking off our 2020 partnership with Amazon and Michigan Rehabilitation Services -- working together to provide jobs for people with disabilities in Metro Detroit! <br /> <a target="_blank" href="https://facebook.com/hashtag/jobs">#jobs</a> <a target="_blank" href="https://facebook.com/hashtag/JewishDisabilityAwarenessandInclusionMonth">#JewishDisabilityAwarenessandInclusionMonth</a></p>
+<div class="fts-clear"></div></div> </div><div class="fts-jal-fb-link-wrap fts-album-photos-wrap"><a href="https://www.facebook.com/jvshumanservices/photos/a.248097594532/10158105152704533/?type=3" target="_blank" class="fts-jal-fb-picture fts-fb-large-photo" ><img border="0" alt="JVS Detroit" src="https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/85049615_10158105152714533_1558264849962631168_o.jpg?_nc_cat=106&_nc_ohc=qRSBBBKj0e4AX9fS-I7&_nc_ht=scontent.xx&_nc_tp=7&oh=7fd820b54801a956716b818043b3db7f&oe=5EB62332"></a><div class="slicker-facebook-album-photoshadow"></div><div class="fts-clear"></div></div><div class="fts-clear"></div></div><div class="fts-likes-shares-etc-wrap"><a href="https://www.facebook.com/jvshumanservices/photos/a.248097594532/10158105152704533/?type=3" target="_blank" class="fts-jal-fb-see-more"><i class='icon-thumbs-up'></i> 17  <i class='icon-file'></i> 4 &nbsp;&nbsp;&nbsp;View on Facebook</a></div><div class="fts-clear"></div></div><div class='fts-fb-photo-post-wrap fts-jal-single-fb-post' ><div  class="fts-jal-fb-right-wrap"><div class="fts-jal-fb-top-wrap "><div class="fts-jal-fb-user-thumb"><a href="https://facebook.com/93665629532" target="_blank"><img border="0" alt="JVS Detroit" src="https://graph.facebook.com/93665629532/picture"/></a></a></div><span class="fts-jal-fb-user-name"><a href="https://facebook.com/93665629532" target="_blank">JVS Detroit</a></span><span class="fts-jal-fb-post-time">2 weeks ago</span><div class="fts-clear"></div><div class="fts-jal-fb-message"><p>Since 1986, JVS has offered janitorial and cleaning services to companies and government agencies throughout southeast Michigan. We are proud to deliver superior service, which is due to an extremely well-trained and dedicated workforce. Read more in our Annual Report >> <a href="http://bit.ly/2019JVSAnnualReport" target="_blank">http://bit.ly/2019JVSAnnualReport</a></p>
+<div class="fts-clear"></div></div> </div><div class="fts-jal-fb-link-wrap fts-album-photos-wrap"><a href="https://www.facebook.com/jvshumanservices/photos/a.248097594532/10158102254404533/?type=3" target="_blank" class="fts-jal-fb-picture fts-fb-large-photo" ><img border="0" alt="JVS Detroit" src="https://scontent.xx.fbcdn.net/v/t1.0-9/p720x720/85025461_10158102254409533_7864544749196148736_o.jpg?_nc_cat=110&_nc_ohc=eli-KGHSGjoAX-PxEiD&_nc_ht=scontent.xx&_nc_tp=6&oh=aa2228390cfc6ddc7e4f382f7f03ebd8&oe=5EB8E6A5"></a><div class="slicker-facebook-album-photoshadow"></div><div class="fts-clear"></div></div><div class="fts-clear"></div></div><div class="fts-likes-shares-etc-wrap"><a href="https://www.facebook.com/jvshumanservices/photos/a.248097594532/10158102254404533/?type=3" target="_blank" class="fts-jal-fb-see-more"><i class='icon-thumbs-up'></i> 11  <i class='icon-file'></i> 5 &nbsp;&nbsp;&nbsp;View on Facebook</a></div><div class="fts-clear"></div></div><div class='fts-fb-photo-post-wrap fts-jal-single-fb-post' ><div  class="fts-jal-fb-right-wrap"><div class="fts-jal-fb-top-wrap "><div class="fts-jal-fb-user-thumb"><a href="https://facebook.com/93665629532" target="_blank"><img border="0" alt="JVS Detroit" src="https://graph.facebook.com/93665629532/picture"/></a></a></div><span class="fts-jal-fb-user-name"><a href="https://facebook.com/93665629532" target="_blank">JVS Detroit</a> added 7 new photos.</span><span class="fts-jal-fb-post-time">2 weeks ago</span><div class="fts-clear"></div><div class="fts-jal-fb-message"><p>"It takes a village" to grow a strong workforce and provide economic opportunity and jobs. JVS Human Services is excited to be a partner in this initiative to serve job seekers and employers in northern Oakland County at the new Oakland County Michigan Works! Waterford...</p>
+<div class="fts-clear"></div></div> </div><div class="fts-jal-fb-link-wrap fts-album-photos-wrap"><a href="https://www.facebook.com/jvshumanservices/photos/a.10158102778829533/10158102819114533/?type=3" target="_blank" class="fts-jal-fb-picture fts-fb-large-photo" ><img border="0" alt="JVS Detroit" src="https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/84477492_10158102819124533_4910307788778897408_o.jpg?_nc_cat=105&_nc_ohc=NhVUqRCB6F4AX8kWOvs&_nc_ht=scontent.xx&_nc_tp=6&oh=5106cf2d9477c7e3b5a0dd0eeea11c0c&oe=5EB4C775"></a><div class="fts-clear"></div><div class="fts-more-photos-4-photos fts-fb-more-photos-wrap fts-facebook-inline-block-centered" style="max-width:720px" data-ftsi-id=mXJoDrCVaU_page data-ftsi-columns="3" data-ftsi-margin="1px" data-ftsi-force-columns="yes"><a href="https://www.facebook.com/jvshumanservices/photos/a.10158102778829533/10158102779174533/?type=3" target="_blank" class="slicker-facebook-placeholder fts-fb-thumbs-wrap fts-4-photos fts-fb-thumb-zero-wrap fts-fb-large-photo" style="background:url(https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/84685740_10158102779179533_993541564674342912_o.jpg?_nc_cat=100&_nc_ohc=aUpgOQhQVq8AX-FZW6P&_nc_ht=scontent.xx&_nc_tp=6&oh=ce17f6b5f68c8d76f1f650c79d719729&oe=5EBC6898);"></a><a href="https://www.facebook.com/jvshumanservices/photos/a.10158102778829533/10158102778899533/?type=3" target="_blank" class="fts-2-or-3-photos slicker-facebook-placeholder fts-fb-thumbs-wrap fts-4-photos fts-fb-thumb-one-wrap fts-fb-large-photo" style="background:url(https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/84053879_10158102778904533_2334858047328878592_o.jpg?_nc_cat=109&_nc_ohc=qFRh1IHEAo4AX9kbNBE&_nc_ht=scontent.xx&_nc_tp=6&oh=6bfee38df5ec560f1afada9169ac816d&oe=5EC31E67);"></a><a href="https://www.facebook.com/jvshumanservices/photos/a.10158102778829533/10158102778949533/?type=3" target="_blank" class="slicker-facebook-placeholder fts-fb-thumbs-wrap fts-4-photos fts-fb-thumb-two-wrap fts-fb-large-photo" style="background:url(https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/83949543_10158102778969533_437748186409336832_o.jpg?_nc_cat=101&_nc_ohc=uSiNV6tBDicAX_5WO-C&_nc_ht=scontent.xx&_nc_tp=7&oh=056e5024ac4eeed24689b7b4c2712c0e&oe=5EC92EF7);"><div class="fts-image-count-tint-underlay"></div><div class="fts-image-count"><span>+</span>4</div></a></div><div class="slicker-facebook-album-photoshadow"></div><div class="fts-clear"></div></div><div class="fts-clear"></div></div><div class="fts-likes-shares-etc-wrap"><a href="https://www.facebook.com/jvshumanservices/photos/a.10158102778829533/10158102819114533/?type=3" target="_blank" class="fts-jal-fb-see-more"><i class='icon-thumbs-up'></i> 6  <i class='icon-file'></i> 10 &nbsp;&nbsp;&nbsp;View on Facebook</a></div><div class="fts-clear"></div></div><div class='fts-fb-photo-post-wrap fts-jal-single-fb-post' ><div  class="fts-jal-fb-right-wrap"><div class="fts-jal-fb-top-wrap "><div class="fts-jal-fb-user-thumb"><a href="https://facebook.com/93665629532" target="_blank"><img border="0" alt="JVS Detroit" src="https://graph.facebook.com/93665629532/picture"/></a></a></div><span class="fts-jal-fb-user-name"><a href="https://facebook.com/93665629532" target="_blank">JVS Detroit</a></span><span class="fts-jal-fb-post-time">2 weeks ago</span><div class="fts-clear"></div><div class="fts-jal-fb-message"><p>We believe in working with compassion and treating all people with respect, kindness, and dignity. <a target="_blank" href="https://facebook.com/hashtag/WeBelieveWednesdays">#WeBelieveWednesdays</a> <a target="_blank" href="https://facebook.com/hashtag/JVSCoreValues">#JVSCoreValues</a></p>
+<div class="fts-clear"></div></div> </div><div class="fts-jal-fb-link-wrap fts-album-photos-wrap"><a href="https://www.facebook.com/jvshumanservices/photos/a.248097594532/10158096768109533/?type=3" target="_blank" class="fts-jal-fb-picture fts-fb-large-photo" ><img border="0" alt="JVS Detroit" src="https://scontent.xx.fbcdn.net/v/t1.0-9/p720x720/84940715_10158096768114533_5605209436864905216_o.jpg?_nc_cat=101&_nc_ohc=GzGBj9qWsiMAX9WIl7g&_nc_ht=scontent.xx&_nc_tp=6&oh=18a7b5bfb5ad44d1c0d8adb438be318a&oe=5ECD1A28"></a><div class="slicker-facebook-album-photoshadow"></div><div class="fts-clear"></div></div><div class="fts-clear"></div></div><div class="fts-likes-shares-etc-wrap"><a href="https://www.facebook.com/jvshumanservices/photos/a.248097594532/10158096768109533/?type=3" target="_blank" class="fts-jal-fb-see-more"><i class='icon-thumbs-up'></i> 7  <i class='icon-file'></i> 1 &nbsp;&nbsp;&nbsp;View on Facebook</a></div><div class="fts-clear"></div></div><div class='fts-fb-photo-post-wrap fts-jal-single-fb-post' ><div  class="fts-jal-fb-right-wrap"><div class="fts-jal-fb-top-wrap "><div class="fts-jal-fb-user-thumb"><a href="https://facebook.com/93665629532" target="_blank"><img border="0" alt="JVS Detroit" src="https://graph.facebook.com/93665629532/picture"/></a></a></div><span class="fts-jal-fb-user-name"><a href="https://facebook.com/93665629532" target="_blank">JVS Detroit</a></span><span class="fts-jal-fb-post-time">2 weeks ago</span><div class="fts-clear"></div><div class="fts-jal-fb-message"><p>Through individualized coaching, counseling and placement services, the JVS Woman to Work program helps women re-enter the workforce after significant life-changing events. By becoming a sponsor of Trade Secrets, you will provide the principal support for this life-changing program. Sign up to become a sponsor...</p>
+<div class="fts-clear"></div></div> </div><div class="fts-jal-fb-link-wrap fts-album-photos-wrap"><a href="https://www.facebook.com/jvshumanservices/photos/a.248097594532/10158093846144533/?type=3" target="_blank" class="fts-jal-fb-picture fts-fb-large-photo" ><img border="0" alt="JVS Detroit" src="https://scontent.xx.fbcdn.net/v/t1.0-9/p720x720/83483067_10158093846154533_5741110697555656704_o.jpg?_nc_cat=109&_nc_ohc=s71VtotSGdgAX8SNcZT&_nc_ht=scontent.xx&_nc_tp=6&oh=80de4239f8e9b73d6cf4ee32d225b82b&oe=5EFE947E"></a><div class="slicker-facebook-album-photoshadow"></div><div class="fts-clear"></div></div><div class="fts-clear"></div></div><div class="fts-likes-shares-etc-wrap"><a href="https://www.facebook.com/jvshumanservices/photos/a.248097594532/10158093846144533/?type=3" target="_blank" class="fts-jal-fb-see-more"><i class='icon-thumbs-up'></i> 8  <i class='icon-file'></i> 4 &nbsp;&nbsp;&nbsp;View on Facebook</a></div><div class="fts-clear"></div></div><div class='fts-fb-photo-post-wrap fts-jal-single-fb-post' ><div  class="fts-jal-fb-right-wrap"><div class="fts-jal-fb-top-wrap "><div class="fts-jal-fb-user-thumb"><a href="https://facebook.com/93665629532" target="_blank"><img border="0" alt="JVS Detroit" src="https://graph.facebook.com/93665629532/picture"/></a></a></div><span class="fts-jal-fb-user-name"><a href="https://facebook.com/93665629532" target="_blank">JVS Detroit</a></span><span class="fts-jal-fb-post-time">2 weeks ago</span><div class="fts-clear"></div><div class="fts-jal-fb-message"><p>Inclusion is the opportunity for every person to participate in meaningful ways. How do we know what is meaningful and important to another person? We open our doors, we ask, listen and we take the journey together.</p>
+<div class="fts-clear"></div></div> </div><div class="fts-jal-fb-link-wrap fts-album-photos-wrap"><a href="https://www.facebook.com/jvshumanservices/photos/a.248097594532/10158084501899533/?type=3" target="_blank" class="fts-jal-fb-picture fts-fb-large-photo" ><img border="0" alt="JVS Detroit" src="https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/83084540_10158084501904533_648740671028461568_o.png?_nc_cat=108&_nc_ohc=8v1pU7i_xooAX815O7l&_nc_ht=scontent.xx&oh=f108a49b64a28a5a37af98fc305000e7&oe=5EF854A2"></a><div class="slicker-facebook-album-photoshadow"></div><div class="fts-clear"></div></div><div class="fts-clear"></div></div><div class="fts-likes-shares-etc-wrap"><a href="https://www.facebook.com/jvshumanservices/photos/a.248097594532/10158084501899533/?type=3" target="_blank" class="fts-jal-fb-see-more"><i class='icon-thumbs-up'></i> 4   &nbsp;&nbsp;&nbsp;View on Facebook</a></div><div class="fts-clear"></div></div></div><script>jQuery.fn.isolatedScrollFacebookFTS = function() {this.bind("mousewheel DOMMouseScroll", function (e) {var delta = e.wheelDelta || (e.originalEvent && e.originalEvent.wheelDelta) || -e.detail,bottomOverflow = this.scrollTop + jQuery(this).outerHeight() - this.scrollHeight >= 0,topOverflow = this.scrollTop <= 0;if ((delta < 0 && bottomOverflow) || (delta > 0 && topOverflow)) {e.preventDefault();}});return this;};jQuery(".fts-fb-scrollable").isolatedScrollFacebookFTS();</script><div class="fts-clear"></div><div id="fb-root"></div></div></div></div></div></div>
+  
+
+</div>
+
+      </article>
+
+    
+  </div>
+
+
+
+  
+
+  
+    <footer class="x-colophon bottom" role="contentinfo">
+      <div class="x-container max width">
+
+                  
+<ul id="menu-footer-menu" class="x-nav"><li id="menu-item-723" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-377 current_page_item menu-item-723"><a href="https://www.jvshumanservices.org/" aria-current="page">Home</a></li>
+<li id="menu-item-724" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-724"><a href="https://www.jvshumanservices.org/about-us/contact-locations/">Contact &#038; Locations</a></li>
+<li id="menu-item-732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-732"><a href="https://www.jvshumanservices.org/disclaimer-and-privacy-policy/">Disclaimer and Privacy Policy</a></li>
+<li id="menu-item-731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-731"><a href="https://www.jvshumanservices.org/corporate-compliance/">Corporate Compliance</a></li>
+<li id="menu-item-887" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-887"><a href="https://www.jvshumanservices.org/about-us/news/">News</a></li>
+<li id="menu-item-819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-819"><a href="https://www.jvshumanservices.org/about-us/staff/">Staff</a></li>
+<li id="menu-item-1530" class="donate menu-item menu-item-type-post_type menu-item-object-page menu-item-1530"><a href="https://www.jvshumanservices.org/general-donations/">Donate</a></li>
+</ul>        
+                  <div class="x-social-global"><a href="https://www.facebook.com/jvshumanservices" class="facebook" title="Facebook" target="_blank"><i class="x-icon-facebook-square" data-x-icon="&#xf082;" aria-hidden="true"></i></a><a href="https://twitter.com/jvsdetroit" class="twitter" title="Twitter" target="_blank"><i class="x-icon-twitter-square" data-x-icon="&#xf081;" aria-hidden="true"></i></a><a href="https://www.linkedin.com/company/jvs-detroit/" class="linkedin" title="LinkedIn" target="_blank"><i class="x-icon-linkedin-square" data-x-icon="&#xf08c;" aria-hidden="true"></i></a><a href="https://www.youtube.com/jvsdetroit" class="youtube" title="YouTube" target="_blank"><i class="x-icon-youtube-square" data-x-icon="&#xf166;" aria-hidden="true"></i></a><a href="https://www.instagram.com/jvsdetroit/" class="instagram" title="Instagram" target="_blank"><i class="x-icon-instagram" data-x-icon="&#xf16d;" aria-hidden="true"></i></a></div>        
+                  <div class="x-colophon-content">
+            <p><a href="/about-us/sign-up-for-e-news/" class="btn x-btn x-btn-small mbm">Signup For E-News</a></p>
+<p><a href="http://www.guidestar.org/profile/38-1358013" target="_blank"><img src="/wp-content/uploads/2018/10/gximage2-o7521494lv4.png"></a></p>
+<p>29699 Southfield Road  |  Southfield, MI 48076-2063<br>
+    Phone: (248) 559-5000  |  Fax: (248) 559-0773  |  TTY: (248) 559-5145<br>
+    © Jewish Vocational Service and Community Workshop</p>          </div>
+        
+      </div>
+    </footer>
+
+  
+
+    
+    </div> <!-- END .x-site -->
+
+    
+  </div> <!-- END .x-root -->
+
+<script type='text/javascript' src='https://www.jvshumanservices.org/wp-content/plugins/cornerstone/assets/dist/js/site/cs-body.js?ver=3.2.5'></script>
+<script type='text/javascript' src='https://www.jvshumanservices.org/wp-content/themes/x/framework/dist/js/site/x.js?ver=6.1.6'></script>
+<script type='text/javascript' src='https://www.jvshumanservices.org/wp-includes/js/comment-reply.min.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://www.jvshumanservices.org/wp-includes/js/wp-embed.min.js?ver=5.3.2'></script>
+
+</body>
+</html>

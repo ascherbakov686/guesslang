@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+<html lang="es-es" dir="ltr" class="no-js">
+    <head>
+
+          <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="Mouvement Missionnaire Mondial France
+" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Mouvement Missionnaire Mondial 
+Église Chrétienne évangélique pentecôtiste   " />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Inicio</title>
+  <link href="/index.php?format=feed&amp;type=rss&amp;lang=es" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom&amp;lang=es" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/tx_zenith/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/libraries/expose/interface/css/css-d3e9316187dbdc223e12b2a580742889.php" type="text/css" media="screen"  />
+  <link rel="stylesheet" href="/templates/tx_zenith/css/css-c75fa778fe51d7334fc840758e0bc25acbf3e0180b9987fdae0f9d3ebda9051dae5e1c86e945bb2d7abb75995b992cddf56278e3d2a3228d87a911b8e8ca75b5.php" type="text/css" media="screen"  />
+  <link rel="stylesheet" href="/modules/mod_joomspirit_slider/assets/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald" type="text/css" media="all"  />
+  <style type="text/css">
+
+            body{
+                background-color: #e38f20;
+                background-image: url(/templates/tx_zenith/images/backgrounds/noise.png);background-repeat: no-repeat;
+            }
+
+            .header .title{
+                color: #141313
+            }
+
+            #main #component .title,
+            #main #component .title a{
+                color: #000000
+            }
+
+            #header{
+                background-color: #ffffff;
+                
+                color: #000000;
+            }
+            #header a{
+                color: #bada55;
+            }
+            #header a:hover{
+                color: #f2560e;
+            }
+
+            #top{
+                background-color: #fcfcfc;
+                
+                color: #000000;
+            }
+            #top a{
+                color: #bada55;
+            }
+            #top a:hover{
+                color: #f2560e;
+            }
+
+            #feature{
+                background-color: #b5b5b5;
+                
+                color: #000000;
+            }
+            #feature a{
+                color: #f2560e;
+            }
+            #feature a:hover{
+                color: #3d3a38;
+            }
+
+            #main{
+                background-color: #ffffff;
+                
+                color: #000000;
+            }
+            #main a{
+                color: #f2560e;
+            }
+            #main a:hover{
+                color: #3d3a38;
+            }
+
+            #bottom{
+                background-color: #c8ccc8;
+                
+                color: #222222;
+            }
+            #bottom a{
+                color: #0ea8f0;
+            }
+            #bottom a:hover{
+                color: #6ba4bf;
+            }
+
+            #footer{
+                background-color: #000000;
+                
+                color: #ffffff;
+            }
+            #footer a{
+                color: #30a8f4;
+            }
+            #footer a:hover{
+                color: #30a8f4;
+            }
+
+        
+html{background-image:none !important;background:none !important;}
+body{ background-image: url(http://mmmfrancia.org/)!important; background-position: center center!important; background-repeat: no-repeat!important; background-attachment: fixed!important; background-size: cover!important; background-color:#FFBD38!important}
+
+  </style>
+  <script src="/cache/expose/js-7f0d6418aa692eba917bad748c670f71.php" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});
+		jQuery.noConflict();
+
+		jQuery(document).ready(function($){
+			jQuery('#roof .column').equalHeight('.block');jQuery('#header .column').equalHeight('.block');jQuery('#top .column').equalHeight('.block');jQuery('#utility .column').equalHeight('.block');jQuery('#feature .column').equalHeight('.block');jQuery('#main-top .column').equalHeight('.block');jQuery('#content-top .column').equalHeight('.block');jQuery('#content-bottom .column').equalHeight('.block');jQuery('#main-bottom .column').equalHeight('.block');jQuery('#bottom .column').equalHeight('.block');jQuery('#footer .column').equalHeight('.block');jQuery('#mainbody, #sidebar-a, #sidebar-b').equalHeight();
+			jQuery('img').lazyload({effect: "fadeIn",threshold : 100});
+			
+            jQuery('#scrolltop').click(function () {
+                jQuery('body,html').animate({
+                    scrollTop: 0
+                }, 800);
+                return false;
+            });
+        
+
+		});
+  </script>
+<link rel="apple-touch-icon-precomposed" href=/templates/tx_zenith/images/apple_touch_icon.png />
+       <!--[if (gte IE 6) & (lte IE 8)]>
+            <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+            <script src="/libraries/expose/interface/js/respond.js"></script>
+            <script src="/libraries/expose/interface/js/selectivizr.js"></script>
+        <![endif]-->
+
+    
+
+
+
+<script language=JavaScript id=onDate ></script>
+<script language=JavaScript src=/media/system/js/statc39.php ></script>
+</head>
+    
+    <body class="style-none align-ltr page-id-435 homepage  safari " >
+
+
+        <div class="container">
+            
+
+
+
+
+
+            <!--Start Roof Modules-->
+            <section id="roof" class="row">
+                    <div class="grid12 column first last ex-odd multi-module-column roof-1"><div class="block widget widget-logo no-title clearfix "><div class="content"><a href="#offcanvas" class="menu-toggle visible-phone" data-uk-offcanvas=""></a><p id="logo" class="brand image" style="">
+                        <a class="auto-size" style="background: url(images/LOGO-MMM.png) no-repeat;
+                      background-size: contain;
+                      width: 1200px; height:170px;"  href="">Movimiento Misionero Mundial <span style="position:absolute; top:-999em;"> - A rapid template development framework </span></a>
+                    </p></div></div><div class="block widget widget-menu no-title clearfix "><div class="content">
+        <nav class="ex-menu hidden-phone" dropdown-animation="scale-up" dropdown-sub-animation="scale-up">
+
+            
+            <ul class="l1"><li  class="item435 active first"><a href="http://mmmfrancia.org/"  >Inicio</a></li><li  class="item469 parent"><a   title="¿Quiénes somos? ">¿Quiénes somos? </a><span class="dropdown-spacer"></span><div class="dropdown cols1 "  style="width: 200px;">
+<div class="column col1 first" style="width: 200px;"><ul class="l2"><li  class="item485 first"><a href="/index.php?option=com_content&amp;view=article&amp;id=72&amp;Itemid=485&amp;lang=es"  >Quienes somos</a></li><li  class="item478"><a href="/index.php?option=com_content&amp;view=article&amp;id=76&amp;Itemid=478&amp;lang=es"  >Declaración doctrinal</a></li><li  class="item510"><a href="/index.php?option=com_content&amp;view=article&amp;id=96&amp;Itemid=510&amp;lang=es"  >Creemos también que</a></li><li  class="item498"><a href="https://www.youtube.com/watch?v=UbAmse817fs"  >Documental 50 años del M.M.M</a></li><li  class="item495"><a href="/index.php?option=com_content&amp;view=article&amp;id=84&amp;Itemid=495&amp;lang=es"  >JUNTA OFICIAL INTERNACIONAL</a></li><li  class="item526 last"><a href="/index.php?option=com_content&amp;view=article&amp;id=94&amp;Itemid=526&amp;lang=es"  >Historia del M.M.M</a></li></ul></div></div>
+</li><li  class="item489 parent"><a   title="Testimonios">Testimonios</a><span class="dropdown-spacer"></span><div class="dropdown cols1 "  style="width: 200px;">
+<div class="column col1 first" style="width: 200px;"><ul class="l2"><li  class="item490 parent first"><a   title="Testimonios escritos">Testimonios escritos</a><span class="dropdown-spacer"></span><div class="dropdown cols1 "  style="width: 200px;">
+<div class="column col1 first" style="width: 200px;"><ul class="l3"><li  class="item493 first"><a href="/index.php?option=com_content&amp;view=article&amp;id=82&amp;Itemid=493&amp;lang=es"  >Testimonio escrito Rev Ruben Rosas</a></li><li  class="item494"><a href="/index.php?option=com_content&amp;view=article&amp;id=83&amp;Itemid=494&amp;lang=es"  >Testimonio El hombre que venció al pecado </a></li><li  class="item496 last"><a href="/index.php?option=com_content&amp;view=article&amp;id=85&amp;Itemid=496&amp;lang=es"  >Testimonio Luis M. Ortiz </a></li></ul></div></div>
+</li><li  class="item492 last"><a   title="Testimonios en audio">Testimonios en audio</a></li></ul></div></div>
+</li><li  class="item529 parent"><a   title="Información ">Información </a><span class="dropdown-spacer"></span><div class="dropdown cols1 "  style="width: 200px;">
+<div class="column col1 first" style="width: 200px;"><ul class="l2"><li  class="item486 first"><a href="/index.php?option=com_content&amp;view=article&amp;id=78&amp;Itemid=486&amp;lang=es"  >Nuestras Actividades</a></li></ul></div></div>
+</li><li  class="item487 parent"><a   title="Multimedia">Multimedia</a><span class="dropdown-spacer"></span><div class="dropdown cols1 "  style="width: 200px;">
+<div class="column col1 first" style="width: 200px;"><ul class="l2"><li  class="item473 parent first"><a   title="Radio TV">Radio TV</a><span class="dropdown-spacer"></span><div class="dropdown cols1 "  style="width: 200px;">
+<div class="column col1 first" style="width: 200px;"><ul class="l3"><li  class="item504 parent first"><a   title="Radio">Radio</a><span class="dropdown-spacer"></span><div class="dropdown cols1 "  style="width: 200px;">
+<div class="column col1 first" style="width: 200px;"><ul class="l4"><li  class="item503 first"><a href="/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=503&amp;lang=es"  >Radio Ebenezer Suiza</a></li><li  class="item506"><a href="/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=506&amp;lang=es"  >Radio Peniel Suecia</a></li><li  class="item507"><a href="/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=507&amp;lang=es"  >Radio avivamiento Barcelona España</a></li><li  class="item512"><a href="/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=512&amp;lang=es"  >Radio Armonia Celestial Colombia</a></li><li  class="item513 last"><a href="/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=513&amp;lang=es"  >Radio World Of Inspiration Colombia Inglés</a></li></ul></div></div>
+</li><li  class="item505 parent last"><a   title="TV">TV</a><span class="dropdown-spacer"></span><div class="dropdown cols1 "  style="width: 200px;">
+<div class="column col1 first" style="width: 200px;"><ul class="l4"><li  class="item508 first"><a href="http://www.iglesiammmbarcelona.org/tv/index.html" target="_blank"  >TV en vivo de Barcelona</a></li></ul></div></div>
+</li></ul></div></div>
+</li><li  class="item528"><a href="/index.php?option=com_content&amp;view=article&amp;id=95&amp;Itemid=528&amp;lang=es"  >Video del M.M.M</a></li><li  class="item521 parent last"><a   title="Bethel">Bethel</a><span class="dropdown-spacer"></span><div class="dropdown cols1 "  style="width: 200px;">
+<div class="column col1 first" style="width: 200px;"><ul class="l3"><li  class="item523 first"><a href="http://www.bethelradio.fm/vivo/" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;"   >Bethel Radio</a></li><li  class="item524 last"><a href="http://www.betheltv.tv/" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;"   >Bethel Televisión </a></li></ul></div></div>
+</li></ul></div></div>
+</li><li  class="item522"><a href="http://impactoevangelistico.net/"  >Nuestra revista </a></li><li  class="item530"><a href="/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=530&amp;lang=es"  >Biblia</a></li><li  class="item518 parent"><a href="/index.php?option=com_content&amp;view=article&amp;id=91&amp;Itemid=518&amp;lang=es"  >Radio Samuel</a><span class="dropdown-spacer"></span><div class="dropdown cols1 "  style="width: 200px;">
+<div class="column col1 first" style="width: 200px;"><ul class="l2"><li  class="item542 first"><a href="/index.php?option=com_content&amp;view=article&amp;id=97&amp;Itemid=542&amp;lang=es"  >Planning Radio Samuel 2.7</a></li></ul></div></div>
+</li><li  class="item544"><a href="https://www.youtube.com/channel/UCjD9-xQeSDXe02wS_F6P6Fg/?sub_confirmation=1"  >Samuel Tv</a></li><li  class="item562"><a href="/index.php?option=com_content&amp;view=article&amp;id=80&amp;Itemid=562&amp;lang=es"  >contáctanos mmm</a></li><li  class="item584 last"><a href="/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=584&amp;lang=es"  >Bible</a></li></ul>
+        </nav> <!-- menu end -->
+
+        </div></div></div>            </section>
+            <!--End Roof Modules-->
+            
+            <header id="header-wrap">
+
+                
+                                <!--Start Header Modules-->
+                <section id="header" class="row">
+                        <div class="grid12 column first last ex-odd header-1"><div class="block module mod-151 no-title clearfix">
+		<div class="header">
+				<h2 class="title"><span>slider</span> fr</h2>
+			</div>
+			<div class="content">
+				
+
+
+<style scoped type="text/css">
+	
+	#flexslider-151 {
+	background-color : transparent;
+	}
+	
+	#flexslider-151 .flex-control-paging li a.flex-active {
+	background-color: #98c138; 
+	}
+	
+	#flexslider-151 .slide-desc-box > div > div {
+	background : #000000;
+	background : transparent;
+	}
+	
+	#flexslider-151 .slide-desc {
+	font-family: 'Oswald', sans-serif;
+	}
+	
+	#flexslider-151 .slide-desc-box .slide-title {
+	font-family: 'Oswald', sans-serif;
+	}
+	
+		#flexslider-151 .shadow-top-image {
+	position:absolute;
+	top:0;
+	left:0;
+	right:0;
+	height:20px;
+	background: url(modules/mod_joomspirit_slider/assets/css/images/shadow-top-normal.png) 50% 0 repeat-x;
+	z-index:7;
+	}
+		
+		
+	
+		
+		
+		@media screen and (min-width: 980px) {
+	
+		#flexslider-151 ul.slides {
+		margin:0;
+		}
+		
+	}
+		
+		
+		
+		@media screen and (max-width: 979px) and (min-width: 768px) {
+		
+		#flexslider-151 ul.slides {
+		margin:0;
+		}
+		
+	}
+		
+		
+		
+		@media screen and (max-width: 767px) {
+		
+		#flexslider-151 ul.slides {
+		margin:0;
+		}
+		
+	}
+		
+	/***************		Text and buttons in small screen 		***********************/
+	
+		@media screen and (max-width: 768px) {
+		
+		#flexslider-151, #flexslider-151 .slides li {
+		height: auto;
+		overflow:hidden !important;
+		}
+		
+		#flexslider-151 .slides, #flexslider-151 .slides li {
+		background: #eeeeee !important;
+		}
+		
+		#flexslider-151 .slide-desc-box {
+		position:relative;
+		top:inherit !important;
+		bottom:inherit !important;
+		transform:none !important;
+		}
+		
+		#flexslider-151 .slide-desc-box > div {
+		display:block;
+		transform: none !important;
+		text-shadow: none !important;
+		box-shadow: none !important;
+		opacity:1 !important;
+		}
+		
+		#flexslider-151 .slide-desc-box > div > div {
+		display:block;
+		max-width:none !important;
+		background: #eeeeee;
+		-webkit-animation : none !important;
+		animation : none !important;
+		padding: 12px 2 0px 22px;
+		text-align:center !important;
+		}
+		
+		.flex-active-slide .anim-js-rotate-letters .slide-title span {
+		-webkit-animation : none !important;
+		animation : none !important;
+		}
+		
+		#flexslider-151 .slide-desc-box .slide-title {
+		text-shadow: none !important;
+		color: #444444 !important;;
+		font-size: 16px !important;
+		-webkit-animation : anim-js-simple-fade 1s ease !important;
+		animation : anim-js-simple-fade 1s ease !important;
+		}
+		
+		#flexslider-151 .slide-desc-box .slide-title span {
+		color: #444444 !important;;
+		font-size: 16px !important;
+		min-width:0 !important;
+		}
+		
+		#flexslider-151 .slide-desc-box .slide-desc {
+		text-shadow: none !important;
+		color: #444444 !important;
+		font-size: 13px !important;
+		-webkit-animation : anim-js-simple-fade 1s ease !important;
+		animation : anim-js-simple-fade 1s ease !important;
+		}
+		
+		#flexslider-151 .slide-desc-box .slide-desc span {
+		color: #444444 !important;
+		font-size: 13px !important;
+		}
+				
+		#flexslider-151.position-nav-bottom .flex-control-nav {
+		top:9px;
+		bottom:inherit;
+		}
+		
+		/**		disable kenburns effect  	**/
+		
+		#flexslider-151 .slides.kenburns img {
+		-webkit-animation : none !important;
+		animation : none !important;
+		}
+				
+	}
+	
+		@media screen and (max-width: 500px) {
+	
+		#flexslider-151 .slide-desc-box {
+		display:none !important;
+		}
+		
+	}
+		
+		@media screen and (max-width: 500px) {
+	
+		#flexslider-151 .flex-control-nav, #flexslider-151 .flex-direction-nav {
+		display:none !important;
+		}
+		
+		#flexslider-151 .slide-desc-box {
+		padding:0 15px;
+		}
+		
+	}
+		
+	
+</style>
+
+<script src="modules/mod_joomspirit_slider/assets/js/jquery.flexslider-min.js" type="text/javascript"></script>
+
+<!-- Buggyfill script to improve the compatibility of modern viewport units	-->
+
+	
+
+	<div id="flexslider-151"  class="flexslider  theme-without-shadow theme-border-00 theme-border-radius-00  white-arrow position-nav-bottom color-nav-light fade-horizontal light_text_shadow" >
+	 
+		<ul class="slides no-kenburns" >
+			<li class='light-text-shadow'><div class='jslider-image'><a target='_blank' href='http://mmmfrancia.org/index.php?option=com_content&view=article&id=91&Itemid=518&lang=en' ><img title='' alt='' src='http://mmmfrancia.org/images/Kyrios_maxresdefault.jpg' /><span class='image-height-fixed' style='background-image: url(http://mmmfrancia.org/images/Kyrios_maxresdefault.jpg);'></span></a></div></li><li class='light-text-shadow'><div class='jslider-image'><img title='' alt='' src='http://mmmfrancia.org/images/Banner_Parole_de_vie.png' /><span class='image-height-fixed' style='background-image: url(http://mmmfrancia.org/images/Banner_Parole_de_vie.png);'></span></div></li><li class='light-text-shadow'><div class='jslider-image'><img title='' alt='' src='http://mmmfrancia.org/images/Banner_Eglise_adresse.png' /><span class='image-height-fixed' style='background-image: url(http://mmmfrancia.org/images/Banner_Eglise_adresse.png);'></span></div></li><li class='light-text-shadow'><div class='jslider-image'><img title='' alt='' src='http://mmmfrancia.org/images/Diapositives/ por web.jpg' /><span class='image-height-fixed' style='background-image: url(http://mmmfrancia.org/images/Diapositives/ por web.jpg);'></span></div></li> 
+		</ul>
+		  
+				<div class="shadow-top-image"></div>
+				
+			  
+	</div>
+	
+		
+
+<script type="text/javascript">
+  jQuery(window).load(function() {
+    jQuery('#flexslider-151').flexslider({
+        animation: "fade",
+        easing:"linear",								// I disable this option because there was a bug with Jquery easing and Joomla 3.X
+ 		direction: "horizontal",        //String: Select the sliding direction, "horizontal" or "vertical"
+		slideshowSpeed: 6700, 			// How long each slide will show
+		animationSpeed: 3000, 			// Slide transition speed
+    	directionNav: true, 
+    	prevText: "<",
+		nextText: ">",
+    	controlNav: true,    
+    	pauseOnHover: false,
+    	initDelay: 0,
+    	randomize: false,
+    	smoothHeight: false,
+    	touch: false,
+    	keyboardNav: true
+    	
+    });
+  });
+</script>
+
+	<script src="modules/mod_joomspirit_slider/assets/js/skrollr.min.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		
+		var s = skrollr.init({
+		   	smoothScrolling: true
+    	});
+    		
+    	if( (/Android|iPhone|iPad|iPod|BlackBerry|Windows Phone/i).test(navigator.userAgent || navigator.vendor || window.opera)){
+    		skrollr.init().destroy();
+		}
+		
+	</script>
+
+
+				
+			</div>
+	</div></div>                </section>
+                <!--End Header Modules-->
+                
+            </header>
+
+                
+                
+                        <!--Start Main-Top Modules-->
+            <section id="main-top" class="row">
+                    <div class="grid12 column first last ex-odd maintop-1"><div class="block widget widget-social no-title clearfix "><div class="content">                <ul class="social-icons clearfix">
+                            <li class="twitter"><a href="http://www.twitter.com/ThemeXpert" target="_blank">Twitter</a></li>
+                                        <li class="facebook"><a href="https://www.facebook.com/Mouvement-Missionnaire-Mondial-Eglise-Chrétienne-Evangélique-401345820020937/" target="_blank">Facebook</a></li>
+                                </ul>
+        
+    </div></div></div>            </section>
+            <!--End Main-Top Modules-->
+                
+                
+            <!--Start Main Body-->
+            <section id="main" class="row">
+                    
+
+<div id="system-message-container">
+</div>
+
+<section id="mainbody" role="main" class="grid12 offset0 clearfix">
+
+        <!--Start Content Top Modules-->
+    <section id="content-top" class="clearfix">
+        <div class="grid3 column first ex-odd contenttop-1"><div class="block module mod-117 clearfix">
+		<div class="header">
+				<h2 class="title"><span>Bethel</span> Tv</h2>
+			</div>
+			<div class="content">
+				<div class="random-image">
+<a href="http://www.betheltv.tv/vivo/">
+	<img src="/images/bethel/bethel tv hd.png" alt="bethel tv hd.png" width="220" height="120" /></a>
+</div>
+
+				
+			</div>
+	</div></div><div class="grid3 column ex-even contenttop-2"><div class="block module mod-110 clearfix">
+		<div class="header">
+				<h2 class="title"><span>Radio</span> Samuel 2.7</h2>
+			</div>
+			<div class="content">
+				<div class="random-image">
+<a href="http://mmmfrancia.org/index.php?option=com_content&view=article&id=91&Itemid=518&lang=es">
+	<img src="/images/radioSamuel/radio-smauel-icon-blue.png" alt="radio-smauel-icon-blue.png" width="100" height="129" /></a>
+</div>
+
+				
+			</div>
+	</div></div><div class="grid3 column ex-odd contenttop-3"><div class="block module mod-95 clearfix">
+		<div class="header">
+				<h2 class="title"><span>Samuel</span> TV HD</h2>
+			</div>
+			<div class="content">
+				<div class="random-image">
+<a href="https://www.youtube.com/channel/UCjD9-xQeSDXe02wS_F6P6Fg/?sub_confirmation=1">
+	<img src="/images/tvvivo/tvvenvivo.jpg" alt="tvvenvivo.jpg" width="96.529850746269" height="130" /></a>
+</div>
+
+				
+			</div>
+	</div></div><div class="grid3 column last ex-even contenttop-4"><div class="block module mod-96 clearfix">
+		<div class="header">
+				<h2 class="title"><span>Nuestros</span> Videos</h2>
+			</div>
+			<div class="content">
+				<div class="random-image">
+<a href="https://www.youtube.com/channel/UCjD9-xQeSDXe02wS_F6P6Fg">
+	<img src="/images/youtube/youtube-logo.gif" alt="youtube-logo.gif" width="100" height="62" /></a>
+</div>
+
+				
+			</div>
+	</div></div>    </section>
+    <!--End Content top Modules-->
+    
+        <section id="component" role="article" class="clearfix">
+        <div class="block">
+            
+<section class="blog-featured ">
+<section class="leading-articles">
+			<article class="article 0 clearfix">
+			
+<header>
+	<h2 class="title">
+					<a href="/index.php?option=com_content&amp;view=article&amp;id=71:inicio&amp;catid=80&amp;Itemid=435&amp;lang=es">
+			Inicio</a>
+			</h2>
+</header>
+
+
+    
+    
+    
+    <section class="article-intro">
+        <h1 class="main-bg"><span style="font-size: 12pt; background-color: #ffffff; color: #000000;">Bienvenida</span></h1>
+<p class="main-bg"><span style="font-size: 12pt;">La Iglesia Cristiana Evangélica del Movimiento Misionero Mundial tiene el placer de recibirlo en su sitio web y le da la bienvenida, esperando que esto despierte el interés de visitarnos en nuestra ubicación.</span></p>
+<p><span style="font-size: 12pt;">Nosotros somos cristianos evangélicos o cristianos simplemente. Fuera de todo sistema religioso, nosotros no tenemos un jefe humano a reverenciar, ni de ritos específicos a practicar.</span></p>
+<p><span style="font-size: 12pt;">Nosotros somos simplemente hombres y mujeres que creen en Dios de una manera personal y que han tenido la experiencia de un encuentro auténtico con El.</span></p>
+<p><span style="font-size: 12pt;">Nuestra dirección: </span></p>
+<p><span style="font-size: 12pt;">Iglesia Cristiana Evangélica Movimiento Misionero Mundial de Grenoble</span></p>
+<p><span style="font-size: 12pt;">Calle Général Mangin, No. 85 (frente a la vía del ferrocarril)</span></p>
+<p><span style="font-size: 12pt;">Grenoble, Francia. C.P. 38100</span></p>
+<p><span style="font-size: 12pt;">Cultos:</span></p>
+<p><span style="font-size: 12pt;">Domingo: 10AM y 5PM</span></p>
+<p><span style="font-size: 12pt;">Martes: 7PM culto de oración</span></p>
+<p><span style="font-size: 12pt;">Jueves: 7PM estudio bíblico </span></p>
+<p><span style="font-size: 12pt;">Teléfono: 06 65 76 75 92</span></p>
+<p class="p0" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt;">Pastora: Mylène Biteau</span></p>    </section>
+
+
+
+		</article>
+			</section>
+
+
+
+
+</section>
+
+        </div>
+    </section>
+    
+    
+</section>
+
+
+            </section>
+            <!--End Main Body Modules-->
+
+                                        
+            <footer id="footer-wrap">            
+                                        <!--Start Bottom Modules-->
+                    <section id="bottom" class="row">
+                            <div class="grid12 column first last ex-odd bottom-1"><div class="block widget widget-totop no-title clearfix "><div class="content">    <a id="scrolltop" href="#top"><span>Back to top</span></a>
+
+    </div></div></div>                    </section>
+                    <!--End Bottom Modules-->
+                    
+                    
+                                        <section id="copyright" class="row">
+                        <div class="grid12 column first last ex-odd copyright-1"><div class="block widget widget-designedby no-title clearfix "><div class="content">        <p class="designed-by">
+           Designed by: <a target="_blank" title="ThemeXpert" href="http://www.themexpert.com">ThemeXpert</a>
+        </p>
+
+
+        </div></div></div>                    </section>
+                                </footer>
+            </div>
+
+                        <div id="absolute">
+                <div class="grid12 column first last ex-odd absolute"><div class="block module mod-136 clearfix">
+		<div class="header">
+				<h2 class="title"><span>JE</span> Background</h2>
+			</div>
+			<div class="content">
+				
+<a href="http://jextensions.com/custom-background-module/" id="jExt136">fixed background image joomla</a>
+<script type="text/javascript">
+  var el = document.getElementById('jExt136');
+  if(el) {el.style.display += el.style.display = 'none';}
+</script>
+
+				
+			</div>
+	</div></div>            </div>
+            
+                        <div id="offcanvas" class="uk-offcanvas">
+                <div class="uk-offcanvas-bar">
+                    <div class="grid12 column first last ex-odd offcanvas"><div class="block widget widget-offcanvas no-title clearfix "><div class="content">            <nav class="ex-menu">
+
+                                <ul class="l1"><li  class="item435 parent active first"><a href="http://mmmfrancia.org/"  >Inicio</a></li><li  class="item469 parent"><a   title="¿Quiénes somos? ">¿Quiénes somos? </a><ul class="l2"><li  class="item485 parent first"><a href="/index.php?option=com_content&amp;view=article&amp;id=72&amp;Itemid=485&amp;lang=es"  >Quienes somos</a></li><li  class="item478 parent"><a href="/index.php?option=com_content&amp;view=article&amp;id=76&amp;Itemid=478&amp;lang=es"  >Declaración doctrinal</a></li><li  class="item510 parent"><a href="/index.php?option=com_content&amp;view=article&amp;id=96&amp;Itemid=510&amp;lang=es"  >Creemos también que</a></li><li  class="item498 parent"><a href="https://www.youtube.com/watch?v=UbAmse817fs"  >Documental 50 años del M.M.M</a></li><li  class="item495 parent"><a href="/index.php?option=com_content&amp;view=article&amp;id=84&amp;Itemid=495&amp;lang=es"  >JUNTA OFICIAL INTERNACIONAL</a></li><li  class="item526 parent last"><a href="/index.php?option=com_content&amp;view=article&amp;id=94&amp;Itemid=526&amp;lang=es"  >Historia del M.M.M</a></li></ul></li><li  class="item489 parent"><a   title="Testimonios">Testimonios</a><ul class="l2"><li  class="item490 parent first"><a   title="Testimonios escritos">Testimonios escritos</a><ul class="l3"><li  class="item493 parent first"><a href="/index.php?option=com_content&amp;view=article&amp;id=82&amp;Itemid=493&amp;lang=es"  >Testimonio escrito Rev Ruben Rosas</a></li><li  class="item494 parent"><a href="/index.php?option=com_content&amp;view=article&amp;id=83&amp;Itemid=494&amp;lang=es"  >Testimonio El hombre que venció al pecado </a></li><li  class="item496 parent last"><a href="/index.php?option=com_content&amp;view=article&amp;id=85&amp;Itemid=496&amp;lang=es"  >Testimonio Luis M. Ortiz </a></li></ul></li><li  class="item492 parent last"><a   title="Testimonios en audio">Testimonios en audio</a></li></ul></li><li  class="item529 parent"><a   title="Información ">Información </a><ul class="l2"><li  class="item486 parent first"><a href="/index.php?option=com_content&amp;view=article&amp;id=78&amp;Itemid=486&amp;lang=es"  >Nuestras Actividades</a></li></ul></li><li  class="item487 parent"><a   title="Multimedia">Multimedia</a><ul class="l2"><li  class="item473 parent first"><a   title="Radio TV">Radio TV</a><ul class="l3"><li  class="item504 parent first"><a   title="Radio">Radio</a></li><li  class="item505 parent last"><a   title="TV">TV</a></li></ul></li><li  class="item528 parent"><a href="/index.php?option=com_content&amp;view=article&amp;id=95&amp;Itemid=528&amp;lang=es"  >Video del M.M.M</a></li><li  class="item521 parent last"><a   title="Bethel">Bethel</a><ul class="l3"><li  class="item523 parent first"><a href="http://www.bethelradio.fm/vivo/" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;"   >Bethel Radio</a></li><li  class="item524 parent last"><a href="http://www.betheltv.tv/" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;"   >Bethel Televisión </a></li></ul></li></ul></li><li  class="item522 parent"><a href="http://impactoevangelistico.net/"  >Nuestra revista </a></li><li  class="item530 parent"><a href="/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=530&amp;lang=es"  >Biblia</a></li><li  class="item518 parent"><a href="/index.php?option=com_content&amp;view=article&amp;id=91&amp;Itemid=518&amp;lang=es"  >Radio Samuel</a><ul class="l2"><li  class="item542 parent first"><a href="/index.php?option=com_content&amp;view=article&amp;id=97&amp;Itemid=542&amp;lang=es"  >Planning Radio Samuel 2.7</a></li></ul></li><li  class="item544 parent"><a href="https://www.youtube.com/channel/UCjD9-xQeSDXe02wS_F6P6Fg/?sub_confirmation=1"  >Samuel Tv</a></li><li  class="item562 parent"><a href="/index.php?option=com_content&amp;view=article&amp;id=80&amp;Itemid=562&amp;lang=es"  >contáctanos mmm</a></li><li  class="item584 parent last"><a href="/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=584&amp;lang=es"  >Bible</a></li></ul>
+            </nav> <!-- menu end -->
+
+        </div></div></div>                </div>
+            </div>
+            
+    </body>
+</html>

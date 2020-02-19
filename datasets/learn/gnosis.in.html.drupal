@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="ie6 ie" lang="en" dir="ltr">
+<![endif]-->
+<!--[if IE 7]>
+<html class="ie7 ie" lang="en" dir="ltr">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie8 ie" lang="en" dir="ltr">
+<![endif]-->
+<!--[if gt IE 8]>
+<!--><html class="" lang="en" dir="ltr"> 
+<!--<![endif]-->
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://gnosis.in/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Welcome to gnosis.in | gnosis.in</title>
+  <meta name="viewport" id="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=10.0,initial-scale=1.0">
+  <meta name="MobileOptimized" content="width">
+  <meta name="HandheldFriendly" content="true">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta http-equiv="cleartype" content="on">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1"> 
+  <meta name="alexaVerifyID" content="zDmv7Oin5xFbg4nEE8CASfEe5ns" />
+  <style type="text/css" media="all">@import url("https://gnosis.in/modules/system/system.base.css?nt56p6");
+@import url("https://gnosis.in/modules/system/system.menus.css?nt56p6");
+@import url("https://gnosis.in/modules/system/system.messages.css?nt56p6");
+@import url("https://gnosis.in/modules/system/system.theme.css?nt56p6");</style>
+<style type="text/css" media="all">@import url("https://gnosis.in/modules/comment/comment.css?nt56p6");
+@import url("https://gnosis.in/modules/field/theme/field.css?nt56p6");
+@import url("https://gnosis.in/modules/node/node.css?nt56p6");
+@import url("https://gnosis.in/modules/search/search.css?nt56p6");
+@import url("https://gnosis.in/modules/user/user.css?nt56p6");</style>
+<style type="text/css" media="all">@import url("https://gnosis.in/sites/all/themes/sunrise/css/normalize.min.css?nt56p6");
+@import url("https://gnosis.in/sites/all/themes/sunrise/css/fonts/fontface-style.css?nt56p6");
+@import url("https://gnosis.in/sites/all/themes/sunrise/css/bootstrap/css/bootstrap.css?nt56p6");
+@import url("https://gnosis.in/sites/all/themes/sunrise/css/bootstrap/css/bootstrap-responsive.css?nt56p6");
+@import url("https://gnosis.in/sites/all/themes/sunrise/css/fontawesome/css/font-awesome.min.css?nt56p6");
+@import url("https://gnosis.in/sites/all/themes/sunrise/css/animate.css?nt56p6");
+@import url("https://gnosis.in/sites/all/themes/sunrise/js/vegas/jquery.vegas.css?nt56p6");
+@import url("https://gnosis.in/sites/all/themes/sunrise/css/sunrise.css?nt56p6");</style>
+  <script type="text/javascript" src="https://gnosis.in/sites/all/themes/sunrise/js/jquery-1.8.1.min.js?v=1.8.1"></script>
+<script type="text/javascript" src="https://gnosis.in/sites/all/themes/sunrise/js/jquery-migrate-1.1.1.min.js?v=1.1.1"></script>
+<script type="text/javascript" src="https://gnosis.in/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://gnosis.in/misc/drupal.js?nt56p6"></script>
+<script type="text/javascript" src="https://gnosis.in/sites/all/themes/sunrise/js/modernizr-2.6.2-respond-1.1.0.min.js?nt56p6"></script>
+<script type="text/javascript" src="https://gnosis.in/sites/all/themes/sunrise/js/bootstrap.min.js?nt56p6"></script>
+<script type="text/javascript" src="https://gnosis.in/sites/all/themes/sunrise/js/jquery.easing-1.3.min.js?nt56p6"></script>
+<script type="text/javascript" src="https://gnosis.in/sites/all/themes/sunrise/js/jquery.jcarousel.min.js?nt56p6"></script>
+<script type="text/javascript" src="https://gnosis.in/sites/all/themes/sunrise/js/sunrise.js?nt56p6"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"sunrise","theme_token":"l_11piHvVNtA6NcX6734tRvKYunM5iEtdH4_mVAnK_c","js":{"misc\/jquery.js":1,"sites\/all\/themes\/sunrise\/js\/jquery-migrate-1.1.1.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/sunrise\/js\/modernizr-2.6.2-respond-1.1.0.min.js":1,"sites\/all\/themes\/sunrise\/js\/bootstrap.min.js":1,"sites\/all\/themes\/sunrise\/js\/jquery.easing-1.3.min.js":1,"sites\/all\/themes\/sunrise\/js\/jquery.jcarousel.min.js":1,"sites\/all\/themes\/sunrise\/js\/sunrise.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/themes\/sunrise\/css\/normalize.min.css":1,"sites\/all\/themes\/sunrise\/css\/fonts\/fontface-style.css":1,"sites\/all\/themes\/sunrise\/css\/bootstrap\/css\/bootstrap.css":1,"sites\/all\/themes\/sunrise\/css\/bootstrap\/css\/bootstrap-responsive.css":1,"sites\/all\/themes\/sunrise\/css\/fontawesome\/css\/font-awesome.min.css":1,"sites\/all\/themes\/sunrise\/css\/animate.css":1,"sites\/all\/themes\/sunrise\/js\/vegas\/jquery.vegas.css":1,"sites\/all\/themes\/sunrise\/css\/sunrise.css":1}}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node" >
+    <div id="skipnav" class="element-invisible">
+  <div class="container">
+    <p>Skip to:</p>
+    <ul>
+      <li><a href="#content" class="element-invisible element-focusable">Skip to content</a></li>
+            <li><a href="#main-menu" class="element-invisible element-focusable">Skip to navigation</a></li>
+          </ul>
+  </div>
+</div><!-- /#skipnav -->
+<div class="header-top">
+    <div class="container">
+        <div class="span6">
+                    </div>
+        <div class="span6">
+                    </div>
+    </div>
+</div>
+	<div id="header" class="header-wrapper clearfix"><!-- Header -->
+    	<div class="container"><!-- Container -->
+		<!-- <div class="row"> --><!-- Header Row -->
+			<div class="span5"><!-- Col Left -->
+			  				  <div id="logo"><a href="/" title="Home" rel="home"><img src="https://gnosis.in/sites/all/themes/sunrise/logo.png" alt="" role="presentation" /></a></div>
+			  			  			</div><!-- /Col Left -->
+			<div id="header-content" class="span6">
+				            </div><!-- /Col Right -->
+		<!-- </div> --><!-- /Header Row -->
+        </div><!-- /Container -->
+	</div><!-- /header -->
+<!-- Main Menu -->
+<div id="main-menu" class="clearfix">
+    <div class="container">
+    <div class="navbar">
+                    <div class="navbar-inner">
+                                    <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></a>
+                            <div class="nav-collapse">
+                    <nav role="navigation">
+                                            <ul class="menu nav"><li class="first last leaf"><a href="/" class="active">Home</a></li>
+</ul><!-- /#primary-menu -->
+                                                            </nav>
+                </div>
+                                        </div>
+            </div>                            
+    </div>
+</div>
+<!-- End Main Menu -->
+<div id="main" class="clearfix"><!-- Main -->
+	<div class="container"><!-- Container -->
+    
+    
+        
+    
+        
+    <div id="main-content" class="row-fluid"><!-- Main Content -->
+
+        <!-- sidebar-first -->
+            <div id="sidebar-first" class="sidebar span3">
+                <div class="row-fluid">  <div class="region region-sidebar-first">
+    <section id="block-user-login" class="clearfix login  block block-user odd first block-count-1 block-region-sidebar-first block-login" role="form">
+      	<div class="block-head">
+    <h2 class="block-title"><span>User login</span></h2>
+   </div>
+      <div class="content" class="block-content">
+    <form action="/node?destination=node" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul><input type="hidden" name="form_build_id" value="form-THAH5dphdUVj8h6fjBLTQ8ylwmqFyY2gGytWNu0Y2MY" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></form>  </div>
+</section><!-- /.block -->
+  </div><!-- /.region -->
+</div>
+            </div>
+        <!-- /#sidebar-first -->
+                           
+        <div id="content" class="span9">
+            <div id="content-wrapper"><!-- Content Wrapper -->
+                <div id="content-head" class="row-fluid">
+                    <div id="highlighted" class="clearfix"></div>
+                                                                                        
+                                            <div class="tabs">  </div>
+                                                                                                </div><!-- /content-head -->
+    
+                    
+                    
+                                    <div id="content-body" class="row-fluid">
+                       <div class="region region-content">
+    <div id="block-system-main" class="clearfix main  block block-system no-title odd first block-count-2 block-region-content block-main">
+        <div class="content" class="block-content">
+      </div>
+</div><!-- /.block -->
+  </div><!-- /.region -->
+  </div>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                            </div><!-- /#content-wrapper --> 
+        </div><!-- /#content -->          
+                  
+        <!-- /#sidebar-second -->
+    </div><!-- /Main Content -->
+
+     
+
+        </div><!-- /Container -->
+</div><!-- /Main -->
+<!-- Footer -->
+<div class="footer footer-wrapper clearfix">
+    <div id="footer-content" class="container">
+		<div class="row">  <div class="region region-footer">
+    <div id="block-system-powered-by" class="clearfix powered-by  block block-system no-title span12 odd first block-count-3 block-region-footer block-powered-by" role="complementary">
+        <div class="content" class="block-content">
+    <span>Powered by <a href="http://drupal.org">Drupal</a></span>  </div>
+</div><!-- /.block -->
+  </div><!-- /.region -->
+</div>
+    </div>
+</div>
+<!-- /#footer -->  </body>
+</html>

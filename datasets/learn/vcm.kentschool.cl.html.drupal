@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="The Kent School Virtual Content Manager RSS" href="http://vcm.kentschool.cl/rss.xml" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="shortcut icon" href="http://vcm.kentschool.cl/sites/default/files/icon-vcm_0.png" type="image/png" />
+  <title>The Kent School Virtual Content Manager</title>
+  <style type="text/css" media="all">
+@import url("http://vcm.kentschool.cl/modules/system/system.base.css?pptq6v");
+@import url("http://vcm.kentschool.cl/modules/system/system.menus.css?pptq6v");
+@import url("http://vcm.kentschool.cl/modules/system/system.messages.css?pptq6v");
+@import url("http://vcm.kentschool.cl/modules/system/system.theme.css?pptq6v");
+</style>
+<style type="text/css" media="all">
+@import url("http://vcm.kentschool.cl/modules/comment/comment.css?pptq6v");
+@import url("http://vcm.kentschool.cl/modules/field/theme/field.css?pptq6v");
+@import url("http://vcm.kentschool.cl/modules/node/node.css?pptq6v");
+@import url("http://vcm.kentschool.cl/modules/search/search.css?pptq6v");
+@import url("http://vcm.kentschool.cl/modules/user/user.css?pptq6v");
+@import url("http://vcm.kentschool.cl/sites/all/modules/views/css/views.css?pptq6v");
+</style>
+<style type="text/css" media="all">
+@import url("http://vcm.kentschool.cl/sites/all/modules/ctools/css/ctools.css?pptq6v");
+</style>
+<link type="text/css" rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" media="all" />
+<style type="text/css" media="all">
+@import url("http://vcm.kentschool.cl/sites/all/themes/bootstrap_business/css/style.css?pptq6v");
+@import url("http://vcm.kentschool.cl/sites/default/files/color/bootstrap_business-1baeeb25/colors.css?pptq6v");
+@import url("http://vcm.kentschool.cl/sites/all/themes/bootstrap_business/css/local.css?pptq6v");
+</style>
+
+<!--[if (lt IE 9)]>
+<link type="text/css" rel="stylesheet" href="http://vcm.kentschool.cl/sites/all/themes/bootstrap_business/css/ie8.css?pptq6v" media="all" />
+<![endif]-->
+
+    
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="http://vcm.kentschool.cl/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://vcm.kentschool.cl/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://vcm.kentschool.cl/misc/drupal.js?pptq6v"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) { 
+		$(window).scroll(function() {
+			if($(this).scrollTop() != 0) {
+				$("#toTop").fadeIn();	
+			} else {
+				$("#toTop").fadeOut();
+			}
+		});
+		
+		$("#toTop").click(function() {
+			$("body,html").animate({scrollTop:0},800);
+		});	
+		
+		});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bootstrap_business","theme_token":"OxbUKmvfB_7iYnqRlO3MgECWXuztfm-YS_doRDI0ODo","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.2.0\/css\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap_business\/css\/style.css":1,"sites\/all\/themes\/bootstrap_business\/color\/colors.css":1,"sites\/all\/themes\/bootstrap_business\/css\/local.css":1,"sites\/all\/themes\/bootstrap_business\/css\/ie8.css":1}},"urlIsAjaxTrusted":{"\/node?destination=node":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="toTop"><span class="glyphicon glyphicon-chevron-up"></span></div>
+
+
+
+
+<!-- header -->
+<header id="header" role="banner" class="clearfix">
+    <div class="container">
+
+        <!-- #header-inside -->
+        <div id="header-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+
+                                <div id="logo">
+                <a href="/" title="Home" rel="home"> <img src="http://vcm.kentschool.cl/sites/default/files/logo-vcm_0.png" alt="Home" /> </a>
+                </div>
+                
+                                <div id="site-name">
+                <a href="/" title="Home">The Kent School Virtual Content Manager</a>
+                </div>
+                                
+                                
+                
+
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #header-inside -->
+
+    </div>
+</header>
+<!-- EOF: #header --> 
+
+<!-- #main-navigation --> 
+<div id="main-navigation" class="clearfix">
+    <div class="container">
+
+        <!-- #main-navigation-inside -->
+        <div id="main-navigation-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                    <nav role="navigation">
+                        
+                        <h2 class="element-invisible">Main menu</h2><ul class="main-menu menu"><li class="menu-219 first last active"><a href="/" class="active">Home</a></li>
+</ul>
+                                            </nav>
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #main-navigation-inside -->
+
+    </div>
+</div>
+<!-- EOF: #main-navigation -->
+
+
+<!-- #page -->
+<div id="page" class="clearfix">
+    
+    
+    <!-- #main-content -->
+    <div id="main-content">
+        <div class="container">
+        
+            <!-- #messages-console -->
+                        <!-- EOF: #messages-console -->
+            
+            <div class="row">
+
+                                <aside class="col-md-4">  
+                    <!--#sidebar-first-->
+                    <section id="sidebar-first" class="sidebar clearfix">
+                      <div class="region region-sidebar-first">
+    <div id="block-user-login" class="block block-user clearfix">
+
+    <h2>User login</h2>
+  
+  <div class="content">
+    <form action="/node?destination=node" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-y8zrX0zQoeIqxdpoCp9Z6oxB_FLozhQjJpb2u_i6naw" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+                    </section>
+                    <!--EOF:#sidebar-first-->
+                </aside>
+                
+
+                <section class="col-md-8">
+
+                    <!-- #main -->
+                    <div id="main" class="clearfix">
+                    
+                        
+                        
+                        <!-- EOF:#content-wrapper -->
+                        <div id="content-wrapper">
+
+                                                                                    
+                                                  
+                            <!-- #tabs -->
+                                                            <div class="tabs">
+                                                                </div>
+                                                        <!-- EOF: #tabs -->
+
+                            <!-- #action links -->
+                                                        <!-- EOF: #action links -->
+
+                              <div class="region region-content">
+    <div id="block-system-main" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <article id="node-1" class="node node-article node-promoted node-teaser clearfix" about="/content/content-manager" typeof="sioc:Item foaf:Document">
+
+    <header>
+              <h2><a href="/content/content-manager">Content Manager</a></h2>
+        <span property="dc:title" content="Content Manager" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <div class="submitted">
+                <span class="glyphicon glyphicon-calendar"></span> <span property="dc:date dc:created" content="2018-04-18T15:20:55-03:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">webit</span> on Wed, 04/18/2018 - 15:20</span>      </div>
+      </header>
+  
+  <div class="content">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="og:image rdfs:seeAlso" resource="http://vcm.kentschool.cl/sites/default/files/styles/large/public/field/image/vcmcover.jpg?itok=byKXykQe"><a href="/content/content-manager"><img typeof="foaf:Image" src="http://vcm.kentschool.cl/sites/default/files/styles/large/public/field/image/vcmcover.jpg?itok=byKXykQe" width="480" height="227" alt="" /></a></div></div></div>  </div>
+    
+        <footer>
+        <ul class="links inline"><li class="node-readmore first"><a href="/content/content-manager" rel="tag" title="Content Manager">Read more<span class="element-invisible"> about Content Manager</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/1%23comment-form">Log in</a> or <a href="/user/register?destination=node/1%23comment-form">register</a> to post comments</span></li>
+</ul>    </footer>
+     
+
+  
+</article>  </div>
+</div>
+  </div>
+                            <a href="/rss.xml" class="feed-icon" title="Subscribe to The Kent School Virtual Content Manager RSS"><img typeof="foaf:Image" src="http://vcm.kentschool.cl/misc/feed.png" width="16" height="16" alt="Subscribe to The Kent School Virtual Content Manager RSS" /></a>
+                        </div>
+                        <!-- EOF:#content-wrapper -->
+
+                    </div>
+                    <!-- EOF:#main -->
+
+                </section>
+
+                        
+            </div>
+
+        </div>
+    </div>
+    <!-- EOF:#main-content -->
+
+    
+</div>
+<!-- EOF:#page -->
+
+
+<footer id="subfooter" class="clearfix">
+    <div class="container">
+        
+        <!-- #subfooter-inside -->
+        <div id="subfooter-inside" class="clearfix">
+            <div class="row">
+                <div class="col-md-12">
+                    <!-- #subfooter-left -->
+                    <div class="subfooter-area">
+                                            
+
+                                          <div class="region region-footer">
+    <div id="block-system-powered-by" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+</div>
+  </div>
+                    
+                    </div>
+                    <!-- EOF: #subfooter-left -->
+                </div>
+            </div>
+        </div>
+        <!-- EOF: #subfooter-inside -->
+    
+    </div>
+</footer>
+<!-- EOF:#subfooter -->  </body>
+</html>

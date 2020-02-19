@@ -1,0 +1,1643 @@
+<!DOCTYPE html>
+<html>
+
+<!---- CST Berger Microsite ---->
+<!-- Version 2.0 -->
+    
+<head>
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-117932773-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+         gtag('config', 'UA-117932773-1');
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="description" content="CST berger website">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>CST/Berger</title>
+    
+    <link rel="apple-touch-icon" sizes="57x57" href="IMG/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="IMG/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="IMG/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="IMG/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="IMG/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="IMG/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="IMG/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="IMG/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="IMG/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="IMG/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="IMG/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="IMG/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="IMG/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    
+    <link href="bootstrap.css" rel="stylesheet">
+     <link href="styles2.css" rel="stylesheet">
+    
+</head>
+    
+<body id="page-top">
+    
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+        <div class="container">
+            <a class="navbar-brand js-scroll-trigger" href="#page-top">
+                <span style="color: #efbe37">CST</span>/berger</a>
+            
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+                Menu
+            </button>
+         
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+             
+             <ul class="navbar-nav text-uppercase ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#about">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#rotary">Rotary Lasers</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#locators">Locators</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#longtapes">Long Tapes</a>
+                </li> 
+             </ul>  
+            
+         </div>   
+        </div>
+    </nav>
+        
+        
+    <!-- Header -->
+     <header class="masthead">
+      <div class="container"> 
+        <div class="intro-text">
+        <br>
+        <br>
+       
+
+     
+            
+            
+        </div>
+      </div>
+    </header>
+
+    <!-- About -->
+    <section id="about" class="">
+        
+        <div class="container">
+            
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class=""><img src="IMG/cst_berger.gif" class="col-sm-10 col-md-4 col-lg-4" style="align-content: center;"></h2>
+                    <br>
+                    <h2 class="col-lg-12 col-sm-6">No One Measures Up… Worldwide.</h2>
+                    <br>
+                    <p class="">With a history that spans three centuries, CST/berger brings an unparalleled expertise to designing, developing and manufacturing leveling and layout instruments. CST/berger tools and accessories are built to survive the toughest jobsites and packed with innovative features – leading the way for the building, construction and survey markets.</p>
+                    <p class="">The company is the union of two measuring tool specialist manufacturers: Chicago Steel Tape, founded in 1903, and Berger Instruments, founded in 1871. After merging in 1994, the company developed global leadership in leveling and layout instruments. The Robert Bosch Tool Corporation acquired CST/berger in 2008, helping it to become a leader in measuring and leveling technology.</p>
+                    <p class="">Whether you are looking for a measuring, leveling or layout solution, you can find the right tool here.</p>
+                
+                </div>            
+            </div>
+        </div>
+    </section>
+    
+    <!-- Rotary -->
+    <div id="rotary">
+    <section class="bg-light" id="category">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2 class="section-heading text-uppercase">Rotary Lasers</h2>
+                    <h3 class="section-subheading">Robust design and ultimate accuracy for outdoor and long-range indoor leveling applications.</h3>
+                </div>
+            </div>
+        <div class="row">
+            <div class="col-md-4 col-sm-6 category-item">
+            <a class="category-link" data-toggle="modal" href="#categoryModal1">
+              <div class="category-hover">
+                <div class="category-hover-content">
+                  <h4 class="">Self Leveling<br>Rotary Laser Level Kit<br><br>RL25HCK</h4>
+                </div>
+              </div>
+              <img class="img-fluid img-shadow" src="IMG/RL25HCK.jpg" alt="">
+            </a>
+          </div>
+              <div class="col-md-4 col-sm-6 category-item">
+            <a class="category-link" data-toggle="modal" href="#categoryModal2">
+              <div class="category-hover">
+                <div class="category-hover-content">
+                  <h4 class="">Self Leveling<br>Rotary Laser Level Kit<br><br>RL25HVCK</h4>
+                </div>
+              </div>
+              <img class="img-fluid img-shadow" src="IMG/RL25HVCK.jpg" alt="">
+            </a>
+          </div>
+          <div class="col-md-4 col-sm-6 category-item">
+            <a class="category-link" data-toggle="modal" href="#categoryModal3">
+              <div class="category-hover">
+                <div class="category-hover-content">
+                    <h4 class="">Horizontal/Vertical<br>Rotary Laser Kit<br><br>RL50HVCK</h4>
+                </div>
+              </div>
+              <img class="img-fluid img-shadow" src="IMG/RL25HVCK.jpg" alt="">
+            </a>
+      </div>
+            </div>
+        </div>
+    </section>
+    </div>
+            
+    
+    <!-- Locators -->
+    <div id="locators">
+    <section class="" id="category">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2 class="section-heading text-uppercase">Locators</h2>
+                    <h3 class="section-subheading">Easily locate ferrous objects.</h3>
+                
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 col-sm-6 category-item">
+            <a class="category-link" data-toggle="modal" href="#categoryModal4">
+              <div class="category-hover">
+                <div class="category-hover-content">
+                  <h4 class="">MT200 Magna-Trak®<br>200 Series</h4>
+                </div>
+              </div>
+              <img class="img-fluid img-shadow" src="IMG/19-200SC.jpg" alt="">
+            </a>
+      </div>            
+              <div class="col-md-6 col-sm-6 category-item">
+            <a class="category-link" data-toggle="modal" href="#categoryModal5">
+              <div class="category-hover">
+                <div class="category-hover-content">
+                  <h4 class="">MT202 Magna-Trak®<br>200 Series</h4>
+                </div>
+              </div>
+              <img class="img-fluid img-shadow" src="IMG/19202SC.jpg" alt="">
+            </a>
+                </div>
+            </div>
+            
+            <br>
+            <br>
+            
+        <div class="row">
+        <div class="col-md-4 col-sm-6 category-item">
+            <a class="category-link" data-toggle="modal" href="#categoryModal7">
+              <div class="category-hover">
+                <div class="category-hover-content">
+                  <h4 class="">MT101 Magna-Trak®<br>100 Series</h4>
+                </div>
+              </div>
+              <img class="img-fluid img-shadow" src="IMG/19-555.jpg" alt="">
+            </a>
+          </div>
+            <div class="col-md-4 col-sm-6 category-item">
+            <a class="category-link" data-toggle="modal" href="#categoryModal6">
+              <div class="category-hover">
+                <div class="category-hover-content">
+                  <h4 class="">MT100 Magna-Trak®<br>100 Series</h4>
+                </div>
+              </div>
+              <img class="img-fluid img-shadow" src="IMG/19-550.jpg" alt="">
+            </a>
+      </div>
+          <div class="col-md-4 col-sm-6 category-item">
+            <a class="category-link" data-toggle="modal" href="#categoryModal8">
+              <div class="category-hover">
+                <div class="category-hover-content">
+                  <h4 class="">MT102 Magna-Trak®<br>100 Series</h4>
+                </div>
+              </div>
+              <img class="img-fluid img-shadow" src="IMG/19-557.jpg" alt="">
+            </a>
+      </div>
+            </div>
+        </div>
+    
+
+    </section>
+    </div>
+            
+    
+    
+    <!-- Long Tapes -->
+    <div id="longtapes">
+    <section class="bg-light" id="category">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2 class="section-heading text-uppercase">Long Tapes</h2>
+                    <h3 class="section-subheading">Durable tapes in steel or fiberglass.</h3>
+                
+                </div>
+            </div>
+            <div class="row">
+                 <div class="col-md-6 col-sm-6 category-item">
+            <a class="category-link" data-toggle="modal" href="#categoryModal9">
+              <div class="category-hover">
+                <div class="category-hover-content">
+                  <h4 class="">Fiberglass Tapes</h4>
+                </div>
+              </div>
+              <img class="img-fluid img-shadow" src="IMG/74-Y2008.jpg" alt="">
+            </a>
+      </div>            
+              <div class="col-md-6 col-sm-6 category-item">
+            <a class="category-link" data-toggle="modal" href="#categoryModal10">
+              <div class="category-hover">
+                <div class="category-hover-content">
+                  <h4 class="">Nylon-Clad Steel Tapes</h4>
+                </div>
+              </div>
+              <img class="img-fluid img-shadow" src="IMG/82-10080b.jpg" alt="">
+            </a>
+                </div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    
+    
+      <!-- Footer -->
+    <footer>
+      <div class="footer">
+        <div class="row">
+          <div class="col-md-12">
+            <span class="copyright">Copyright &copy; Robert Bosch Tool Corporation 2018</span>
+          </div>
+          </div> 
+          <div class="row" id="footeraccordion">
+              
+              <!-- Privacy Policy -->
+          <div class="col-md-6 col-sm-12">
+            <button class="accordion" style="text-align: right;">Privacy Policy</button>
+              <div class="panel">
+                  <h3>Privacy Statement of Robert Bosch Tool Corporation in the United States</h3>
+                  <p>Robert Bosch Tool Corporation, together with its U.S. subsidiaries and affiliates (“Bosch”) is pleased to have you visit our websites and welcomes your interest in our company and our products.</p>
+                  
+                  <h3>Bosch respects your privacy</h3>
+                  <p>The protection of your privacy in the processing of your personal data is an important concern to which we pay special attention during our business processes. We process personal data collected during your visit to our websites confidentially and solely in compliance with legal provisions.
+                  <br>
+                  Data protection and information security are part of our corporate policy.</p>
+                  
+                  <h3>Collection and processing of personal data</h3>
+                  <p>Personal data is only stored when voluntarily given by you for a determined purpose e.g. in context of a registration, a survey, a contest or in performance of a contract.<br>
+                 
+                  When registering to use our personalized services, we collect certain personal data. During the registration process, e.g., for wherever registration may be required the following information will be requested:
+                  </p>
+                  
+                  <p>Obligatory information:</p>
+                  <ul>
+                      <li>Salutation</li>
+                      <li>First and last name</li>
+                      <li>Full Address</li>
+                      <li>Phone number</li>
+                      <li>E-Mail-address</li>
+                      <li>Password</li>
+                  </ul>
+                  
+                  <p>Optional information:</p>
+                  <ul>
+                      <li>Mobile number</li>
+                      <li>Date of birthe</li>
+                      <li>Answering the question “How did you hear about Bosch?”</li>
+                      <li>Grant consent to receipt of advertising</li>
+                  </ul>
+                  
+                  <p>If you are registered, you can access content and services that we offer to registered users only. Registered users also have the option to change or delete data given during the registration at any time. In addition, we can also provide all details regarding the personal information we have collected about you at any time. At your request we will correct or delete information held about you, unless there are statutory retention periods. To contact us in this regard, please use the contact information provided at the end of this Data Privacy Statement.</p>
+                  
+                  <h3>Use of personal data and purpose specification.</h3>
+                  <p>Bosch or an approved service provider engaged by Bosch may use your personal data for the purpose of:</p>
+                  <ul>
+                      <li>technical administration of our website</li>
+                      <li>customer service or supplier administration</li>
+                      <li>targeting and retargeting of users for marketing purposes</li>
+                      <li>product, engagement and user surveys</li>
+                      <li>enquiries you submit to Bosch</li>
+                      <li>for site visitors in the U.S. this data may be used for marketing and other purposes</li>
+                      <li>compliance with legal requirements</li>
+                  </ul>
+                  <p>and only in the scope necessary for this purpose.</p>
+                  
+                  <p>Your individual, identifiable, personal data will not be disclosed to third parties, other than Bosch’s affiliated entities and approved third party marketing or other approved service providers, without your consent.</p>
+                  
+                  <h3>Right to information and to the correction, deletion and blocking of data</h3>
+                  <p>Please address any questions on data protection or applications for the correction, blocking or deletion of your personal data directly to the contact persons specified in the site's legal notice.</p>
+                  
+                  <h3>Collection and processing of ISP data</h3>
+                  <p>When you visit our websites, we may also collect automatically the following ISP data: IP addresses, the website from which you visit us (referrer), pages viewed, files downloaded (downloads), videos viewed/audio tracks listened to, individual links clicked, search words or search phrases (site search), duration of visit, browser used, etc. If the visit is a result of online advertising such as banners, video ads, search engine advertising, etc., we may record which banner, adword, etc. motivated the visit to Bosch websites.</p>
+                  <p>The insights gained enable us to further optimize our websites, target and retarget users for marketing and tailor them even better to our visitors’ needs.</p>
+                  
+                  <h3>Use of the third party web analytics tools</h3>
+                  <p>Bosch, in some instances, uses the third party web analytics tools, to carry out access measurements.</p>
+                  <p>Cookies are used for metrics to enable website use to be analyzed. In particular, Bosch uses them to improve data quality, support marketing initiatives and improve the user experience.</p>
+                  <p>Only authorized persons have access to this data.</p>
+                  
+                  <h3>Use of social plugins as part of social media</h3>
+                  <p>Bosch websites use social plugins (“plugins”) from social networks like Facebook, Google+ and Twitter. The plugins are identified with the respective social media logo or the respective suffix.</p>
+                  <p>If you visit a page on our website that contains such plugins, they are initially disabled. The plugins are not enabled until you click the button that is provided. By enabling the plugins, you establish the connection to the respective social network and declare your consent to the transmission of data to it. If you are logged into the social network, it can associate the visit with your social network account. If you press the respective button, the corresponding information is transmitted directly to the social network by your browser and stored there.</p>
+                  <p>If you do not want a social network to collect data about you via our website, you have to log out of the social network before visiting our site.</p>
+                  <p>Our websites may also use the YouTube video platform that enables playback of audio and video files. When you load a page on our website, the integrated YouTube player establishes a connection to YouTube in order to ensure the technical transmission of the video or audio file. When the connection to YouTube is established, data is transferred to YouTube.</p>
+                  <p>For information about the scope and purpose of data collection, the further processing and use of the data by these social media companies, and your rights and the settings you can configure to protect your privacy, please refer to their data protection notices.</p>
+                  
+                  <h3>International Data Transfer</h3>
+                  <p>Robert Bosch LLC may transfer your personal data to its parent company in Germany, Robert Bosch GmbH, and to any worldwide affiliates when processing data. We may also transfer your data to a third party outside your country of origin to the extent regulated in this privacy statement.</p>
+                  
+                  <h3>Children’s Privacy</h3>
+                  <p>We do not knowingly collect or use any personal data from online visitors under the age of thirteen. We do not knowingly allow visitors under the age of thirteen to participate in any promotions or contests made available on our websites from time to time.</p>
+                  
+                  <h3>California Privacy Rights</h3>
+                  <p>California’s “Shine The Light” law permits those of our customers who are residents of California to annually request a list of their personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year, and the names and addresses of those third parties. At this time, we currently do not share any personal information with third parties for their direct marketing purposes.</p>
+                  <p>We do not track our customers over time and across third party websites to provide targeted advertising and therefore does not respond to Do Not Track (DNT) signals. However, some third party sites do keep track of your browsing activities when they serve you content, which enables them to tailor what they present to you.</p>
+                  
+                  <h3>Use of external links</h3>
+                  <p>Our websites may contain links to third-party websites operated by providers that are not associated with us. After you click the link, we no longer have any influence over the collection, storage, or processing of any personal data transmitted by clicking the link (such as the IP address or URL of the page that contains the link), as the behavior of third parties is, by nature, beyond our control. Therefore, Bosch is not responsible for the processing of personal data by third parties via such third party websites.</p>
+                  
+                  <h3>Security</h3>
+                  <p>Bosch takes security precautions to ensure that your data we have under our control is protected against tampering, loss, destruction, access by unauthorized persons, or unauthorized disclosure. Our security measures are being continuously improved in accordance with the state of technological developments.</p>
+                  
+                  <h3>Advertising</h3>
+                  <p>When you provide us with personal data, we use it to inform you about our products and services and, where applicable, to include you in surveys about them. If you no longer wish to receive email advertising from Bosch, you can revoke your consent at any time.</p>
+                  
+                  <h3>Use of cookies</h3>
+                  
+                  <p><strong>1) Bosch cookies</strong></p>
+                  <p>Bosch uses cookies and active components (e.g. JavaScript) to track visitors’ preferences and customize the features and design of the websites.</p>
+                  <p>Cookies are small text files stored on your computer when you visit our website. If you like, you can delete the cookies at any time. However, this can result in some functions no longer being available. For information on deleting the cookies, please consult your browser‘s help function.</p>
+                  
+                  <p><strong>2) Third-party cookies</strong></p>
+                  <p>Our websites may incorporate content and services from other providers (e.g. YouTube, Facebook, Google, Twitter) who, in turn, may use cookies and active components. Bosch has no influence on the processing of personal data by these providers. Please note that the option provided by Bosch to configure settings for cookies used has no effect on cookies and active components from other providers (e.g. YouTube, Facebook, Google, Twitter). These third parties may place cookies on your computer when you click on their links. Third-parties who place links on this site have their own privacy policies regarding their collection and use of your personally identifiable information. To understand the privacy practices of these third parties, please review the privacy policies that are posted on these third party web sites.</p>
+                  
+                  <h3>Mail Updates and Commercial Electronic Marketing List</h3>
+                  <p>If you voluntarily provide your name, and physical address to Bosch, your name and physical address will be placed on our physical mailing list for mail updates and commercial electronic marketing. If you do not wish to receive physical mail from Bosch you may call us at any time at
+                      <a href="tel:+12242322000">224-232-2000</a>, or email us at 
+                    <a href="mailto:Boschtools.marketing@us.bosch.com" target="_blank">Boschtools.marketing@us.bosch.com</a>, to be removed.  You may also join our mailing list via email by providing your email address to Bosch. If you do not wish to receive email or other commercial electronic marketing from Bosch you may call us at any time at 
+                      <a href="tel:+12242322000">224-232-2000</a>, or email us at 
+                      <a href="mailto:Boschtools.marketing@us.bosch.com" target="_blank">Boschtools.marketing@us.bosch.com</a>, to be removed.</p>
+                  
+                  <h3>Store and Service Center Locator</h3>
+                  <p>You may provide us with personally identifiable information such as your zip code and phone number if you use the Store or Service Center Locator sections of our site. The information which you enter in these sections will be managed for us by one of our third party service providers, who will provide you with retailer and service center locations which correspond to the information which you enter. Although we collect information regarding the total number of visitors to these sections, we do not currently collect, retain or use any of the information which you provide in these sections.</p>
+                  
+                  <h3>International Users</h3>
+                  <p>This is a U.S. hosted website targeted to users in the U.S. and Canada, and this site and our services are subject to the U.S. and Canadian laws, including those governing the privacy and security of your information. If you use our services, you are transferring your information to Bosch in the United States. By using the services or providing your information to us through the services you consent to the transfer of your personal information to the United States, and our handling of your information in accordance with applicable U.S. and Canadian requirements.</p>
+                  
+                  <h3>Changes to Privacy Policy</h3>
+                  <p>Due to the constantly changing nature of our business, we reserve the right to change, update or modify this privacy statement at any time at our sole discretion, and will post any new privacy statement here. Any such change, update or modification will be effective immediately upon posting on this website. Use of information that we gather now will be subject to the privacy statement in effect at the time of use. By using or navigating around the website or utilizing any of the services we provide here, you acknowledge that you have read and understand and agree to be bound by this privacy statement. If you do not agree to be so bound, do not remain on the website. You are responsible for checking our website frequently to keep apprised of recent changes.</p>
+                  
+                  <hr>
+                  
+                  <p>The effective date of this privacy statement is April 18, 2018</p>
+                  <p>Last modified: April 18, 2018</p>
+                  
+                  <h3>Contact</h3>
+                  <p>To obtain more information or to submit suggestions or complaints regarding the processing of your personal data, you can contact our Privacy Policy Administrator at the contact information below.</p>
+                  
+                  <p>For complaints in the U.S, you may contact: Digital Manager - Web</p>
+                  <p>Email Address:<a href="mailto:Boschtools.marketing@us.bosch.com" target="_blank"> boschtools.marketing@us.bosch.com</a></p>
+                  <p>For complaints in Canada, you may contact:<br>
+                <strong>Office of the Privacy Commissioner of Canada<br>
+                      30, Victoria Street<br>
+                      Gatineau, Quebec<br>
+                      K1A 1H3<br>
+                      </strong>
+                  </p>
+              
+                  <p>If incorrect information has been stored despite our efforts to maintain correct and up-to-date data, we will correct this upon your request.</p>
+                  
+                   <p><a href="mailto:privacy.policy@us.bosch.com" target="_blank">privacy.policy@us.bosch.com</a></p>
+              
+              <p>Robert Bosch LLC<br>
+                  Privacy Policy Administrator<br>
+                  38000 Hills Tech Drive<br>
+                  Farmington Hills, MI 48331
+            </p>
+                  
+                  <p style="text-align:center;"><strong>© Copyright 2018 Robert Bosch Tool Corporation</strong>
+                      <br>All Rights Reserved.</p>
+              
+              </div>
+              </div>
+              
+              <!-- Terms of Use -->
+               <div class="col-md-6 col-sm-12">
+            <button class="accordion" style="text-align: left;">Terms of Use</button>
+              <div class="panel">
+                   
+                  <h3>Terms of Use</h3>
+                  <p>The cstberger.us website is operated by Robert Bosch Tool Corporation ("Bosch"). By visiting the cstberger.us or by using any of the services provided on the cstberger.us site (collectively, "the Bosch Website"), you hereby agree to be bound by all of the following terms and conditions in these Terms of Use (these "Terms"), as well as the Privacy Statement of Robert Bosch Tool Corporation which is located at 1800 West Central Road, Mount Prospect, IL 60056, and which is incorporated herein by reference (“Privacy Statement”).</p>
+                  
+                  <p>BY USING THE BOSCH WEBSITE, YOU AGREE TO THESE TERMS; IF YOU DO NOT AGREE, DO NOT USE THE WEBSITE.</p>
+                  
+                  <h3>Overview; Changes.</h3>
+                  <p><span style="font-style: italic;">General</span>. Bosch provides company information, images, graphics, data, and other information (collectively, “Materials”) and store locator, product updates, product registration, e-repair, product information requests and other services (collectively, “Services”) that may be accessed via the Bosch Website.</p>
+                  
+                   <p><span style="font-style: italic;">Changes</span>. These Terms may change from time to time.  When accessing the Bosch Website, or through other means of notice as provided in Notices, you may be invited to review and accept material changes to these Terms.  Your continued access to and use of the Bosch Website, after we make changes, is deemed to be acceptance of those changes, whether or not you have actually reviewed them.  Bosch is not responsible for notifying you of changes to these Terms.  Please check these Terms periodically for updates.</p>
+                  
+                  
+                  <h3>Legal Compliance.</h3>
+                  <p>You agree to comply with all applicable domestic and international laws, statutes, ordinances, and regulations regarding your use of the Bosch Website. Bosch reserves the right to investigate complaints or reported violations of these Terms and to take any action we deem appropriate, including but not limited to canceling your access, reporting any suspected unlawful activity to law enforcement officials, regulators, or other third parties and disclosing any information necessary or appropriate to such persons or entities relating to your profile, e-mail addresses, usage history, posted materials, IP addresses and traffic information, as allowed under our Privacy Policy.</p>
+                  
+                  <h3>Third Party Website Links and Referrals.</h3>
+                  <p>The Bosch Website may contain links to other web sites that are operated by third parties (“Third Party Sites”) and referrals to third party vendors (“Referred Vendors”).  Such Third Party Sites and Referred Vendors are not under Bosch’s control.  Bosch provides these links and referrals only as a convenience and does not review, approve, monitor, endorse, warrant, or make any representations with respect to such Third Party Sites or Referred Vendors. Your use of these Third Party Sites is at your own risk. Bosch does not transfer any personal information or session information to any Third Party Sites or Referred Vendors.</p>
+                   
+                  <h3>Disclosure of Information.</h3>
+                   <p><span style="font-style: italic;">Submissions</span>. You may voluntarily choose to, or Bosch may invite you to submit feedback, information, data, text, software, messages, or other materials, including but not limited to reviews of Bosch products and services (each, a "Submission"). You agree that you are solely responsible for all of your Submissions and that any such Submissions are considered both non-confidential and non-proprietary. Further, we do not guarantee that you will be able to edit or delete any Submission you have submitted.</p>
+                  
+                  <p>By submitting any Submission, you represent and warrant that:</p>
+                  
+                  <ul>
+                      <li>You own all rights in your Submissions (including, without limitation, all rights to the reproduction and display of your Submissions) or, alternatively, you have acquired all necessary rights in your Submissions to enable you to grant to us the rights in your Submissions as described in these Terms;</li>
+                      <li>You have paid and will pay in full all license fees, clearance fees, and other financial obligations, of any kind, arising from any use or commercial exploitation of your Submissions;</li>
+                      <li>Your Submissions do not infringe the copyright, trademark, patent, trade secret, or other intellectual property rights, privacy rights, or any other legal or moral rights of any third party;</li>
+                      <li>You voluntarily agree to waive all "moral rights", “author’s rights” or similar rights in any jurisdiction that you may have in your Submission;</li>
+                      <li>Any information contained in your Submission is not known by you to be false, inaccurate, or misleading;</li>
+                      <li>Your Submission does not violate any law (including, but not limited to, those governing export control, consumer protection, unfair competition, anti-discrimination, or false advertising);</li>
+                      <li>Your Submission is not, and may not reasonably be considered to be, defamatory, libelous, hateful, racially, ethnically, religiously, or otherwise biased or offensive, unlawfully threatening, or unlawfully harassing to any individual, partnership, or corporation, vulgar, pornographic, obscene, or invasive of another's privacy;</li>
+                      <li>You were not and will not be compensated or granted any consideration by any third party for submitting your Submission;</li>
+                      <li>Your Submission does not incorporate materials from a third-party website, or addresses, e-mail addresses, contact information, or phone numbers (other than your own);</li>
+                      <li>Your Submission does not contain any viruses, worms, spyware, adware, or other potentially damaging programs or files;</li>
+                      <li>Your Submission does not contain any information that is confidential, proprietary, or personal to you or to any other person; and</li>
+                      <li>Your Submission does not contain or constitute any unsolicited or unauthorized advertising, promotional materials, junk mail, spam, chain letters, pyramid schemes, or any other form of solicitation.</li>
+                  </ul>
+                  
+                  <p>By submitting a Submission, you grant to Bosch and its Affiliates an irrevocable, perpetual, transferable, non-exclusive, fully-paid, worldwide, royalty-free license (sublicensable through multiple tiers) to:</p>
+                  
+                  <ul>
+                      <li>Use, distribute, reproduce, modify, adapt, publish, translate, publicly perform, and publicly display your Submissions (or any modification thereto), in whole or in part, in any format or medium now known or later developed;</li>
+                      <li>Use (and permit others to use) your Submission in any manner and for any purpose (including, without limitation, commercial purposes) that we deem appropriate in our sole discretion (including, without limitation, to incorporate your Submission or any modification thereto, in whole or in part, into any technology, product, or service);</li>
+                      <li>Display advertisements in connection with your Submissions and to use your Submissions for advertising and promotional purposes.</li>
+                  </ul>
+                  
+                  <p>We may, but are not obligated to, pre-screen Submissions or monitor any area of the Bosch Website through which Submissions may be submitted. We are not required to host, display, or distribute any Submissions on or through the Bosch Website and may remove at any time or refuse any Submissions for any reason. We are not responsible for any loss, theft, or damage of any kind to any Submissions. Further, you agree that we may freely disclose your Submission to any third party  without restriction on use or disclosure.</p>
+                  
+                  <h3>Text Messaging</h3>
+                  
+                     <p><span style="font-style: italic;">Text Messages</span>. Message and Data Rates may apply. By texting <a href="tel:+18772672499">1-877-BOSCH-99 (1-877-267-2499)</a> , you are opting in to receive customer support from Bosch and its affiliates and subsidiaries at the mobile number you provided or used. You agree to receive an automated two question customer satisfaction survey after the text support engagement ends. You also agree to receive a confirmation opt-out text from Bosch if you subsequently text "STOP" to <a href="tel:+18772672499">1-877-BOSCH-99 (1-877-267-2499)</a>. Finally, you also affirm you are 18 years of age or older, authorized to receive text messages to the mobile number you provided and responsible for any message or data rates that may be incurred.</p>
+                  
+                  <p><strong>You can opt out of texts at any time by replying "STOP" to any texts you receive, or text "STOP" to <a href="tel:+18772672499">1-877-BOSCH-99 (1-877-267-2499)</a></strong>. Before changing your mobile phone number, you agree that you will opt out of Bosch Texts. To opt back in with your new mobile number, text customer service at <a href="tel:+18772672499">1-877-BOSCH-99 (1-877-267-2499)</a>.</p>
+                  
+                  <p><strong>For help related to texts, please call 1-877-BOSCH-99 (1-877-267-2499).</strong></p>
+                   
+                  <p>Please consult your service agreement with your wireless carrier to determine your phone's pricing plan. This program may not be available on all mobile operators. Bosch may add or remove participating mobile operators without notice. If your mobile operator is not participating, you will not receive a reply to your messages. Some operators may not support some services at the prices offered. Pre-paid users may not be able to participate. Check with your mobile operator.</p>
+                  
+                  <p>For customer service related to text messages or any other communication you receive from Bosch, please call toll free to <a href="tel:+18772672499">1-877-BOSCH-99 (1-877-267-2499)</a>, or for additional information, visit Bosch's Privacy Policy.</p>
+                  
+                  <h3>Ownership and Intellectual Property</h3>
+                  <p><span style="font-style: italic;">Bosch Property</span>.  You acknowledge that all intellectual property rights, including without limitation copyrights, patents, and trademarks, in the Bosch Website, including Materials, are owned by Bosch or its affiliates or our licensors.  Your possession, access, and use of the Bosch Website, including Materials, does not transfer to you or any third party any rights, title, or interest in or to such intellectual property rights.  Bosch and its affiliates and licensors reserve all rights not granted in these Terms. You may not use the content of the Bosch Website, including Materials, in any other public or commercial way, nor may you copy or incorporate any of the content of the Bosch Website, including Materials, into any other work, unless written authorization is provided to you by Bosch.</p>
+                     
+                  <p><span style="font-style: italic;">Trademarks</span>.  Unless otherwise specified, all trademarks on the Bosch Website, as well as all other Bosch websites, are protected under trademark law. This applies to all Bosch trademarks, service marks, typefaces, company designs, logos, slogans, trade dress and emblems (collectively, “Marks”). You agree not to copy, use or otherwise infringe upon these Marks and design elements. Bosch web sites may also contain other product, service and/or company names which may be the trademarks of their respective owners.</p>
+                  
+                  <h3>Indemnification</h3>
+                  <p>You agree to defend, indemnify and hold Bosch and its licensors and suppliers harmless from any damages, liabilities, claims or demands (including costs and attorneys’ fees) made by any third party due to or arising out of (i) your use of the Bosch Website, (ii) your violation of these Terms, and (iii) your violation of any law or the rights of any third party.  Bosch reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify Bosch and you agree to cooperate with our defense of such claims.  You agree not to settle any such claim without Bosch’s prior written consent.  Bosch will use reasonable efforts to notify you of any such claim, action or proceeding upon becoming aware of it.</p>
+                  
+                  <h3>Warranty Disclaimers and Limitation of Liability</h3>
+                  
+                  <p>(a)<span style="font-style: italic;"> Disclaimers of Warranties.</span></p>
+                  <p>BOSCH WEBSITE, INCLUDING ALL MATERIALS AND SERVICES, ARE PROVIDED “AS IS”, “WITH ALL FAULTS” AND “AS AVAILABLE” AND BOSCH EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, INCLUDING ANY AND ALL WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, SATISFACTORY QUALITY, QUIET ENJOYMENT, TITLE, NON-INFRINGEMENT OR OTHER WARRANTY ARISING OUT OF THE COURSE OF ORDINARY PERFORMANCE, COURSE OF DEALING, OR USAGE OF TRADE REGARDING OR RELATING TO MATTERS COVERED UNDER THIS CONTRACT, INCLUDING WITH RESPECT TO BOSCH WEBSITE.</p>
+                  
+                   <p>(b)<span style="font-style: italic;"> Limitations on Liability.</span></p>
+                  <p>IN NO EVENT WILL BOSCH BE LIABLE FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, EXEMPLARY, SPECIAL, OR INCIDENTAL LOSSES, OR ANY LOSSES IN CONNECTION WITH (i) LOST CONTENT (INCLUDING DUE TO UNAUTHORIZED DISCLOSURE, ACCESS TO, OR PROCESSING OF, PERSONAL DATA); (ii) LOST PROFITS, LOSS OF GOODWILL OR LOSS OF BUSINESS; (iii) LACK OF SECURITY, INVASION OR LACK OF PRIVACY, VIOLATION OF THE RIGHT OF PUBLICITY, DEFAMATION; (iv) ANY PERSONAL OR BODILY INJURY, DEATH, PROPERTY DAMAGE; (v) ANY INTERRUPTION, DELAY, FAILURE, DISRUPTION, DOWNTIME, LIMITED ACCESS TO, UNAVAILABILITY, UNRELIABILITY OR NON-PERFORMANCE OF BOSCH WEBSITE; OR (vi) ANY THIRD PARTY PRODUCTS AND SERVICES.</p>
+                  <p>BOSCH’S MAXIMUM AGGREGATE LIABILITY IN CONNECTION WITH THESE TERMS, THE BOSCH WEBSITE, MATERIALS AND SERVICES, REGARDLESS OF THE FORM OF ACTION (WHETHER SUCH LIABILITY ARISES DUE TO NEGLIGENCE, BREACH OF CONTRACT, MISREPRESENTATION OR FOR ANY OTHER REASON), WILL AT ALL TIMES BE LIMITED TO US $1000.00.</p>
+                  
+                  <h3>Copyright Claims and Designated Agent.</h3>
+                  <p>It is the policy of Bosch to respond to claims of intellectual property infringement. Bosch will promptly process and investigate notices of alleged infringement and will take appropriate actions under the Digital Millennium Copyright Act, Title 17, United States Code, Section 512c2 DMCA and other applicable intellectual property laws.
+                  Pursuant to the DMCA, notifications of claimed copyright infringement should be sent to a Service Provider‘s Designated Agent. Notification must be submitted to the following Designated Agent for the Bosch Website:
+                  </p>
+                  
+                  <p>[Title, Department or Person]<br>
+                      [Street Address]<br>
+                      [City, State Zip]<br>
+                      Phone: +1(___) ___-____ 
+                  </p>
+                  
+                  <p>To be effective, the notification must be written communication that includes the following:</p>
+                  
+                  <ol>
+                      <li>A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;</li>
+                      <li>Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;</li>
+                      <li>Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit the service provider to locate the material;</li>
+                      <li>Information reasonably sufficient to permit the service provider to contact the complaining party, such as an address, telephone number and, if available, an electronic mail address at which the complaining party may be contacted;</li>
+                      <li>A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent or the law;</li>
+                      <li>A statement that the information in the notification is accurate, and, under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed</li>
+                  </ol>
+                  
+                  <p><span style="font-style: italic;">Counter-Notice</span>.  If you believe that your Content that was removed (or to which access was disabled) is not infringing, or that you have the authorization from the copyright owner, the copyright owner's agent, or pursuant to the law, to post and use the material in your Content, you may send a counter-notice containing the following information to the Designated Agent:</p>
+                  
+                  <ul>
+                      <li>Your physical or electronic signature;</li>
+                      <li>Identification of the Content that has been removed or to which access has been disabled and the location at which the Content appeared before it was removed or disabled;</li>
+                      <li>A statement that you have a good faith belief that the Content was removed or disabled as a result of mistake or a misidentification of the Content; and</li>
+                      <li>Your name, address, telephone number, and e-mail address, a statement that you consent to the jurisdiction of any federal court in Illinois, and a statement that you will accept service of process from the person who provided notification of the alleged infringement.</li>
+                  </ul>
+                  
+                  <p>If a counter-notice is received by the Copyright Agent, Bosch may send a copy of the counter-notice to the original complaining party informing that person that it may replace the removed Content or cease disabling it in 10 business days. Unless the copyright owner files an action seeking a court order against the Content provider or you, the removed Content may be replaced, or access to it restored, in 10 to 14 business days or more after receipt of the counter-notice, at Bosch's sole discretion.</p>
+                  
+                  <h3>Governing Law and Exclusive Venue</h3>
+                  <p>These Terms will be governed by and construed in accordance with the laws of the State of Illinois, without regard to its conflicts of laws provisions.</p>
+                  
+                  <h3>Arbitration</h3>
+                  <p><strong>YOU AND BOSCH AGREE THAT, THE SOLE AND EXCLUSIVE FORUM AND REMEDY FOR ANY AND ALL DISPUTES AND CLAIMS RELATING IN ANY WAY TO OR ARISING OUT OF THESE TERMS, THE PRIVACY POLICY, AND/OR BOSCH WEBSITE SHALL BE FINAL AND BINDING ARBITRATION.</strong></p>
+                  
+                  <p>You and Bosch agree to submit all disputes between you and Bosch arising out of or relating to the Bosch Website, these Terms or the Privacy Statement or the alleged breach or interpretation thereof, to binding arbitration,<span style="font-style: italic;">provided</span> that the foregoing shall not prevent Bosch from seeking injunctive relief in a court of competent jurisdiction.  Within thirty (30) days after either party has notified the other in writing that it is submitting a dispute to arbitration, three (3) arbitrators shall be chosen under the then current Rules of the American Arbitration Association (“<strong>AAA</strong>”) pertaining to commercial disputes (“<strong>Rules of the AAA</strong>”). The arbitration will be held in Cook County, Illinois, and will be conducted according to the Rules of the AAA.  The arbitration agreement shall be governed by the laws of the State of Illinois, without regard to its conflicts of law provisions.  The arbitration award shall be by a written decision containing findings of fact and conclusions of law shall be final and binding and may be enforced by any court of competent jurisdiction.  The party prevailing in the arbitration or other legal proceedings is entitled to recover its litigation costs, including reasonable attorney's fees. In no case shall the arbitrator be authorized to award costs and damages otherwise prohibited herein.</p>
+                  
+                  <h3>No Assignment</h3>
+                  <p>These Terms, and all rights and licenses granted hereunder, may not be transferred or assigned by you without our prior written consent, but may be assigned by Bosch without restriction.  Any attempted assignment by you will be null and void.</p>
+                  
+                  <h3>Force Majeure</h3>
+                  <p>Any delay in the availability of the Bosch Website or non-performance of the Bosch Website shall not be deemed a breach of these Terms if such delay or non-performance is caused by a fire, earthquake, flood, war, terrorist act, government act, failure of common carriers (including Internet service providers, labor strike or walk-out, act of God, or any other event beyond the reasonable control of Bosch or its service providers.</p>
+                  
+                  <h3>Notices</h3>
+                  <p>You agree that we may provide notices to you of changes to these Terms and/or our Privacy Policy, in one or more of the following ways: (a) a pop-up notice, web banner, push notification or other notification on or through the Bosch Website; or (b) an email or regular mail sent to an address you provide.</p>
+                  
+                  <h3>Contact Us</h3>
+                  <p>If you have any questions about these Terms or otherwise need to contact us for any reason, you can reach us at <a href="tel:+12242322000">224-232-2000</a>.</p>
+                  
+                  <p>Email Address:<a href="mailto:Boschtools.marketing@us.bosch.com" target="_blank"> boschtools.marketing@us.bosch.com</a></p>
+                  
+                   
+                  <p style="text-align:center;"><strong>© Copyright 2018 Robert Bosch Tool Corporation</strong>
+                      <br>All Rights Reserved.</p>
+                   </div>
+              </div>
+          </div>
+          </div> 
+   
+    </footer>
+    
+    
+    
+     <!-- Category Modals -->
+
+    <!-- Modal 1 -->
+    <div class="category-modal modal fade" id="categoryModal1" tabindex="-1" role="dialog">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="">
+                  <h2 class="text-uppercase">Self-Leveling<br>Rotary Laser Level Kit</h2>
+                  <h5 style="font-style: italic;">RL25HCK</h5>
+                <div>
+                  <!-- Project Details Go Here -->
+                
+                
+                    <div class="col-md-6 float-right">
+                      <img class="img-fluid img-shadow" src="IMG/RL25HCK.jpg" alt="">
+                  </div>
+                    <br>
+    
+                  <div class="col-md-6 float-left">
+                      <p>The CST/berger RL25HCK Horizontal self-leveling rotary laser has a rugged design to handle the most extreme jobsite environment. It features 3/32 In. at 100 Ft accuracy and 2000 Ft or range, as well as single axis slope control.</p>
+                </div>
+               
+                    <div class="col-md-6">
+                      
+                    <button class="accordion">Includes</button>
+                             <div class="panel">
+                          
+                        <table id="modaltable" class="col-md-12">
+                            <tr>
+                                <td>RD1 Receiver</td>
+                            </tr>
+                             <tr>
+                                <td>8-ft Grade Rod</td>
+                            </tr>
+                             <tr>
+                                <td>Bracket</td>
+                            </tr>
+                             <tr>
+                                <td>Carry Case</td>
+                            </tr>
+                             <tr>
+                                <td>Aluminum Tripod</td>
+                            </tr>
+                        </table>
+                        </div>
+                  </div>
+
+                    <br>
+                    
+                  <div class="col-md-6">
+                      <button class="accordion">Specifications</button>
+                      <div class="panel">
+                    <table id="modaltable" class="col-md-12">
+                        <tr>
+                        <th>Accuracy</th>
+                            <td>± 3/32" @ 100 ft</td>
+                        </tr>
+                        
+                    
+                        <tr>
+                         <th>Range w/ Receiver (diameter)</th>
+                            <td>1640 ft</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Range w/o Receiver (diameter)</th>
+                            <td>200 ft</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Electronic Self-Leveling</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Horizontal leveling</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Vertical leveling</th>
+                            <td>No</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Scan/Variable speed</th>
+                            <td>No</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Laser beam</th>
+                            <td>Red</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Slope</th>
+                            <td>Manual single</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Slope Range</th>
+                            <td>±8%</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Laser Class</th>
+                            <td>2</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>IP Rating</th>
+                            <td>IP56</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Battery</th>
+                            <td>(3) D Alkaline</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Battery Operation time</th>
+                            <td>85h</td>
+                        </tr>
+                    </table>
+                   
+                      </div>
+               
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+    
+    <!-- Modal 2 -->
+    <div class="category-modal modal fade" id="categoryModal2" tabindex="-1" role="dialog">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="">
+                  <h2 class="text-uppercase">Self-Leveling<br>Rotary Laser Level Kit</h2>
+                  <h5 style="font-style: italic;">RL25HVCK</h5>
+                <div>
+                  <!-- Project Details Go Here -->
+                
+                
+                    <div class="col-md-6 float-right">
+                      <img class="img-fluid img-shadow" src="IMG/RL25HVCK.jpg" alt="">
+                  </div>
+                    <br>
+    
+                  <div class="col-md-6 float-left">
+                      <p>The CST/berger RL25HVCK Horizontal &amp; Vertical self-leveling rotary laser has a rugged design to handle the most extreme jobsite environment. It features 3/32 In. at 100 Ft accuracy and 2000 Ft or range, as well as single axis slope control.</p>
+                </div>
+                    <div class="col-md-6">
+                      
+                    <button class="accordion">Includes</button>
+                             <div class="panel">
+                          
+                        <table id="modaltable" class="col-md-12">
+                            <tr>
+                                <td>RD1 Receiver</td>
+                            </tr>
+                             <tr>
+                                <td>8-ft Grade Rod</td>
+                            </tr>
+                             <tr>
+                                <td>Bracket</td>
+                            </tr>
+                            <tr>
+                                <td>Remote Control</td>
+                            </tr>
+                             <tr>
+                                <td>Magnetic Target</td>
+                            </tr>
+                             <tr>
+                                <td>Laser Glasses</td>
+                            </tr>
+                             <tr>
+                                <td>Adjustable Wall Mount</td>
+                            </tr>
+                             <tr>
+                                <td>Carry Case</td>
+                            </tr>
+                             <tr>
+                                <td>Aluminum Tripod</td>
+                            </tr>
+                        </table>
+                        </div>
+                  </div>
+
+                    <br>
+                    
+                  <div class="col-md-6">
+                      <button class="accordion">Specifications</button>
+                      <div class="panel">
+                    <table id="modaltable" class="col-md-12">
+                        <tr>
+                        <th>Accuracy</th>
+                            <td>± 3/32" @ 100 ft</td>
+                        </tr>
+                        
+                    
+                        <tr>
+                         <th>Range w/ Receiver (diameter)</th>
+                            <td>2000 ft</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Range w/o Receiver (diameter)</th>
+                            <td>200 ft</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Electronic Self-Leveling</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Horizontal leveling</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Vertical leveling</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Scan/Variable speed</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Laser beam</th>
+                            <td>Red</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Slope</th>
+                            <td>Manual single</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Slope Range</th>
+                            <td>±8%</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Laser Class</th>
+                            <td>3R</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>IP Rating</th>
+                            <td>IP56</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Battery</th>
+                            <td>(3) D Alkaline</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Battery Operation time</th>
+                            <td>55h</td>
+                        </tr>
+                    </table>
+                   
+                      </div>
+               
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+        </div>
+    
+   
+    
+    
+       <!-- Modal 3 -->
+    <div class="category-modal modal fade" id="categoryModal3" tabindex="-1" role="dialog">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="">
+                  <h2 class="text-uppercase">Horizontal/Vertical<br>Rotary Laser Kit</h2>
+                  <h5 style="font-style: italic;">RL50HVCK</h5>
+                <div>
+                  <!-- Project Details Go Here -->
+                
+                
+                    <div class="col-md-6 float-right">
+                      <img class="img-fluid img-shadow" src="IMG/RL25HVCK.jpg" alt="">
+                  </div>
+                    <br>
+    
+                  <div class="col-md-6 float-left">
+                      <p>The CST/berger RL25HVCK Horizontal Vertical self-leveling rotary laser has a rugged design to handle the most extreme jobsite environment. It features best-in-class 1/16 In. at 100 Ft accuracy and 2000 Ft or range, as well as single axis slope control.</p>
+                </div>
+               
+                    <div class="col-md-6">
+                      
+                    <button class="accordion">Includes</button>
+                             <div class="panel">
+                          
+                        <table id="modaltable" class="col-md-12">
+                           <tr>
+                                <td>RD1 Receiver</td>
+                            </tr>
+                             <tr>
+                                <td>8-ft Grade Rod</td>
+                            </tr>
+                             <tr>
+                                <td>Bracket</td>
+                            </tr>
+                            <tr>
+                                <td>Remote Control</td>
+                            </tr>
+                             <tr>
+                                <td>Magnetic Target</td>
+                            </tr>
+                             <tr>
+                                <td>Laser Glasses</td>
+                            </tr>
+                             <tr>
+                                <td>Adjustable Wall Mount</td>
+                            </tr>
+                             <tr>
+                                <td>Carry Case</td>
+                            </tr>
+                             <tr>
+                                <td>Aluminum Tripod</td>
+                            </tr>
+                        </table>
+                        </div>
+                  </div>
+
+                    <br>
+                    
+                  <div class="col-md-6">
+                      <button class="accordion">Specifications</button>
+                      <div class="panel">
+                    <table id="modaltable" class="col-md-12">
+                        <tr>
+                        <th>Accuracy</th>
+                            <td>± 1/16" @ 100 ft</td>
+                        </tr>
+                                            
+                        <tr>
+                         <th>Range w/ Receiver (diameter)</th>
+                            <td>2000 ft</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Range w/o Receiver (diameter)</th>
+                            <td>200 ft</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Electronic Self-Leveling</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Horizontal leveling</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Vertical leveling</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Scan/Variable speed</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Laser beam</th>
+                            <td>Red</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Slope</th>
+                            <td>Manual single</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Slope Range</th>
+                            <td>±8%</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Laser Class</th>
+                            <td>3R</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>IP Rating</th>
+                            <td>IP56</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Battery</th>
+                            <td>(3) D Alkaline</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Battery Operation time</th>
+                            <td>55h</td>
+                        </tr>
+                    </table>
+                   
+                      </div>
+               
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+        </div>
+    
+    
+    <!-- Modal 4 -->
+    
+    <div class="category-modal modal fade" id="categoryModal4" tabindex="-1" role="dialog">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="">
+                  <h2 class="text-uppercase">MT200 Magna-Trak® 200 Series</h2>
+                  <h5 style="font-style: italic;">19-200SC</h5>
+                <div>
+                  <!-- Project Details Go Here -->
+                
+                
+                    <div class="col-md-6 float-right">
+                      <img class="img-fluid img-shadow" src="IMG/19-200SC.jpg" alt="">
+                  </div>
+                    <br>
+    
+                  <div class="col-md-6 float-left">
+                      <p>The Magna-Trak® MT200 is ergonomically designed for complete one-handed operation so your other hand is free to use other equipment. Easily locate ferrous objects underground, underwater, or in snow. Find PK nails, iron pipes, valve covers, masonry nails, manhole covers, cast iron water and gas lines, surveyors markers and more. The MT200 includes a Power Line Indicator.</p>
+                </div>
+               
+                    
+                  <div class="col-md-6">
+                      <button class="accordion">Specifications</button>
+                      <div class="panel">
+                    <table id="modaltable" class="col-md-12">
+                        <tr>
+                        <th>Erase Feature</th>
+                            <td></td>
+                        </tr>
+                        
+                    
+                        <tr>
+                         <th>Power Line Indicator</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Sensitivity Control</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Volume Control</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>LCD Digital Display</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Low Battery Indicator</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Knob or Digital Controls</th>
+                            <td>Digital Button</td>
+                        </tr>
+                    </table>
+                   
+                      </div>
+               
+                </div>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+        </div>
+    
+    <!-- Modal 5 -->
+    <div class="category-modal modal fade" id="categoryModal5" tabindex="-1" role="dialog">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="">
+                  <h2 class="text-uppercase">MT202 Magna-Trak® 200 Series </h2>
+                  <h5 style="font-style: italic;">19-202SC</h5>
+                <div>
+                  <!-- Project Details Go Here -->
+                
+                
+                    <div class="col-md-6 float-right">
+                      <img class="img-fluid img-shadow" src="IMG/19202SC.jpg" alt="">
+                  </div>
+                    <br>
+    
+                  <div class="col-md-6 float-left">
+                      <p>The Magna-Trak® MT202 is ergonomically designed for complete one-handed operation so your other hand is free to use other equipment. Easily locate ferrous objects underground, underwater, or in snow. Find PK nails, iron pipes, valve covers, masonry nails, manhole covers, cast iron water and gas lines, surveyors markers and more. The MT202 The MT200 includes a Power Line Indicator as well as an Erase feature that lets you block out magnetic interferences that occur when working next a large metal object such as a chain-link fence.</p>
+                </div>
+               
+                    
+                  <div class="col-md-6">
+                      <button class="accordion">Specifications</button>
+                      <div class="panel">
+                    <table id="modaltable" class="col-md-12">
+                        <tr>
+                        <th>Erase Feature</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                    
+                        <tr>
+                         <th>Power Line Indicator</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Sensitivity Control</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Volume Control</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>LCD Digital Display</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Low Battery Indicator</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Knob or Digital Controls</th>
+                            <td>Digital Button</td>
+                        </tr>
+                    </table>
+                   
+                      </div>
+               
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+        </div>
+    
+    <!-- Modal 6 -->
+    <div class="category-modal modal fade" id="categoryModal6" tabindex="-1" role="dialog">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="">
+                  <h2 class="text-uppercase">MT100 Magna-Trak® 100 Series</h2>
+                  <h5 style="font-style: italic;">19-550</h5>
+                <div>
+                  <!-- Project Details Go Here -->
+                
+                
+                    <div class="col-md-6 float-right">
+                      <img class="img-fluid img-shadow" src="IMG/19-550.jpg" alt="">
+                  </div>
+                    <br>
+    
+                  <div class="col-md-6 float-left">
+                      <p>The Magna-Trak® MT100 has a waterproof tube and water-resistant housing. It also has easy-to-use on/off, volume and sensitivity controls, as well as an LCD display that complements the detection tone.</p>
+                </div>
+               
+                    
+                  <div class="col-md-6">
+                      <button class="accordion">Specifications</button>
+                      <div class="panel">
+                    <table id="modaltable" class="col-md-12">
+                        <tr>
+                        <th>Erase Feature</th>
+                            <td></td>
+                        </tr>
+                        
+                    
+                        <tr>
+                         <th>Power Line Indicator</th>
+                            <td></td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Sensitivity Control</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Volume Control</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>LCD Digital Display</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Low Battery Indicator</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Knob or Digital Controls</th>
+                            <td>Knob</td>
+                        </tr>
+                    </table>
+                   
+                      </div>
+                    </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+     
+    
+    <!-- Modal 7 -->
+    <div class="category-modal modal fade" id="categoryModal7" tabindex="-1" role="dialog">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="">
+                  <h2 class="text-uppercase">MT101 Magna-Trak® 100 Series</h2>
+                  <h5 style="font-style: italic;">19-555</h5>
+                <div>
+                  <!-- Project Details Go Here -->
+                
+                
+                    <div class="col-md-6 float-right">
+                      <img class="img-fluid img-shadow" src="IMG/19-555.jpg" alt="">
+                  </div>
+                    <br>
+    
+                  <div class="col-md-6 float-left">
+                      <p>The Magna-Trak® MT101 has a waterproof tube and water-resistant housing. It also has easy-to-use on/off, volume and sensitivity controls.</p>
+                </div>
+               
+                    
+                  <div class="col-md-6">
+                      <button class="accordion">Specifications</button>
+                      <div class="panel">
+                    <table id="modaltable" class="col-md-12">
+                        <tr>
+                        <th>Erase Feature</th>
+                            <td></td>
+                        </tr>
+                        
+                    
+                        <tr>
+                         <th>Power Line Indicator</th>
+                            <td></td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Sensitivity Control</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Volume Control</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>LCD Digital Display</th>
+                            <td></td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Low Battery Indicator</th>
+                            <td></td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Knob or Digital Controls</th>
+                            <td>Knob</td>
+                        </tr>
+                    </table>
+                   
+                      </div>
+               
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+        </div>
+    
+    <!-- Modal 8 -->
+     <div class="category-modal modal fade" id="categoryModal8" tabindex="-1" role="dialog">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="">
+                  <h2 class="text-uppercase">MT102 Magna-Trak® 100 Series</h2>
+                  <h5 style="font-style: italic;">19-557</h5>
+                <div>
+                  <!-- Project Details Go Here -->
+                
+                
+                    <div class="col-md-6 float-right">
+                      <img class="img-fluid img-shadow" src="IMG/19-557.jpg" alt="">
+                  </div>
+                    <br>
+    
+                  <div class="col-md-6 float-left">
+                      <p>The Magna-Trak® MT102 has a waterproof tube and water-resistant housing. It also has easy-to-use on/off, volume and sensitivity controls, as well as an LCD display that complements the detection tone. It includes a Power Line Indicator as well as an Erase feature that lets you block out magnetic interferences that occur when working next a large metal object such as a chain-link fence.</p>
+                </div>
+               
+                    
+                  <div class="col-md-6">
+                      <button class="accordion">Specifications</button>
+                      <div class="panel">
+                    <table id="modaltable" class="col-md-12">
+                        <tr>
+                        <th>Erase Feature</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                    
+                        <tr>
+                         <th>Power Line Indicator</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Sensitivity Control</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Volume Control</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>LCD Digital Display</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Low Battery Indicator</th>
+                            <td>&#x2713;</td>
+                        </tr>
+                        
+                        <tr>
+                         <th>Knob or Digital Controls</th>
+                            <td>Knob</td>
+                        </tr>
+                    </table>
+                   
+                      </div>
+               
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+        </div>
+    
+    
+    
+    
+    <!-- Modal 9 -->
+     <div class="category-modal modal fade" id="categoryModal9" tabindex="-1" role="dialog">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="">
+                  <h2 class="text-uppercase">Fiberglass Tapes</h2>
+                  <h5 style="font-style: italic;"></h5>
+                <div>
+                  <!-- Project Details Go Here -->
+                
+                
+                    <div class="col-md-6 float-right">
+                      <img class="img-fluid img-shadow" src="IMG/74-Y3008.jpg" alt="">
+                  </div>
+                    <br>
+    
+                  <div class="col-md-6 float-left">
+                      <p>Designed with superior accuracy, these Long Tapes offer an open-reel construction with high-impact ABS plastic and a variety of lengths to fit user needs. The ½ In. tape is made of nonwoven PVC-coated fiberglass with wear-resistant graduations.</p>
+                </div>
+               
+                    
+                  <div class="col-md-6">
+                      
+                    <button class="accordion">Available Fiberglass Tapes</button>
+                             <div class="panel">
+                          
+                        <table id="modaltable" class="col-md-12">
+                            <tr style="border-bottom: 2px solid #ddd;">
+                            <th>Model Number</th>
+                            <th style="text-align: center;">Length</th>
+                            <th style="text-align: center;">Unit</th>
+                            </tr>
+                            
+                            <tr>
+                                <th>74-Y1001</th>
+                                <td>100FT</td>
+                                <td>10THS</td>
+                            </tr>
+                            
+                            <tr>
+                                <th>74-1008</th>
+                                <td>100FT</td>
+                                <td>8THS</td>
+                            </tr>
+                            
+                              <tr>
+                                <th>74-2001</th>
+                                <td>200FT</td>
+                                <td>10THS</td>
+                            </tr>
+                            
+                              <tr>
+                                <th>74-2008</th>
+                                <td>200FT</td>
+                                <td>8THS</td>
+                            </tr>
+                            
+                               <tr>
+                                <th>74-3001</th>
+                                <td>300FT</td>
+                                <td>10THS</td>
+                            </tr>
+                            
+                              <tr>
+                                <th>74-3008</th>
+                                <td>300FT</td>
+                                <td>8THS</td>
+                            </tr>
+
+                        </table>
+                        </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+       
+    
+    
+    <!-- Modal 10 -->
+    <div class="category-modal modal fade" id="categoryModal10" tabindex="-1" role="dialog">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="">
+                  <h2 class="text-uppercase">Nylon-Clad Steel Tapes</h2>
+                  <h5 style="font-style: italic;"></h5>
+                <div>
+                  <!-- Project Details Go Here -->
+                
+                
+                    <div class="col-md-6 float-right">
+                      <img class="img-fluid img-shadow" src="IMG/82-20080b.jpg" alt="">
+                  </div>
+                    <br>
+    
+                  <div class="col-md-6 float-left">
+                      <p>Designed with superior accuracy, these Long Tapes offer an open-reel construction with high-impact ABS plastic, and a variety of lengths to fit user needs. The metallic tape offers wear-resistant graduations.</p>
+                </div>
+               
+                    
+                  <div class="col-md-6">
+                      
+                    <button class="accordion">Available Steel Tapes</button>
+                             <div class="panel">
+                          
+                        <table id="modaltable" class="col-md-12">
+                            
+                            <tr style="border-bottom: 2px solid #ddd;">
+                            <th>Model Number</th>
+                            <th style="text-align: center;">Length</th>
+                            <th style="text-align: center;">Unit</th>
+                            </tr>
+                            
+                            <tr>
+                                <th>82-10010B</th>
+                                <td>100FT</td>
+                                <td>10THS</td>
+                            </tr>
+                            
+                                <tr>
+                                <th>82-10080B</th>
+                                <td>100FT</td>
+                                <td>8THS</td>
+                            </tr>
+                            
+                                 <tr>
+                                <th>82-20010B</th>
+                                <td>200FT</td>
+                                <td>10THS</td>
+                            </tr>
+                            
+                                   <tr>
+                                <th>82-20080B</th>
+                                <td>200FT</td>
+                                <td>8THS</td>
+                            </tr>
+                            
+                                 <tr>
+                                <th>82-30010B</th>
+                                <td>300FT</td>
+                                <td>10THS</td>
+                            </tr>
+                          
+                              <tr>
+                                <th>82-30080B</th>
+                                <td>300FT</td>
+                                <td>8THS</td>
+                            </tr>
+                         
+                        
+                        </table>
+                        </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+     
+    
+    <!-- Bootstrap core JavaScript -->
+    <script src="jquery.min.js"></script>
+    <script src="bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="jquery.easing.min.js"></script>
+
+
+    <!-- Custom scripts for this template -->
+    <script src="agency.min.js"></script>
+    
+     <script src="accordion.js"></script>
+            
+     <script src="accordionslide.js"></script>
+    
+</body>
+    
+    <!-- Created by JC for Robert Bosch Tool Corporation NA -->
+    
+</html>

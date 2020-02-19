@@ -1,0 +1,615 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="l[ea]rnings RSS" href="http://lrnings.com/rss.xml" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="E-Learning und Wissensaustausch im Aussenhandel zur Überprüfung der beruflichen Handlungskompetenz und Verbesserung der Arbeitsmarktfähigkeit im Export" />
+<meta name="keywords" content="E-Learning, Aussenhandel, Fallstudien, Export, praxisrelevante Fallstudien, berufliche Handlungskompetenz" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://lrnings.com/" />
+<link rel="shortlink" href="http://lrnings.com/" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="l[ea]rnings" />
+<meta property="og:url" content="http://lrnings.com/" />
+<meta property="og:title" content="l[ea]rnings" />
+<meta property="og:description" content="Web Campus für E-learning im Aussenhandel" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="http://lrnings.com/" />
+<meta name="twitter:title" content="l[ea]rnings" />
+<meta name="twitter:description" content="Web Campus für E-learning im Aussenhandel" />
+<meta itemprop="name" content="l[ea]rnings" />
+<meta itemprop="description" content="Web Campus für E-learning im Aussenhandel" />
+<meta name="dcterms.title" content="l[ea]rnings" />
+<meta name="dcterms.description" content="Web Campus für E-learning im Aussenhandel" />
+<meta name="dcterms.type" content="Text" />
+<meta name="dcterms.identifier" content="http://lrnings.com/" />
+<meta name="dcterms.format" content="text/html" />
+<link rel="shortcut icon" href="http://www.lrnings.com/misc/favicon.ico" type="image/ico" />
+  <title>l[ea]rnings | Web Campus für E-learning im Aussenhandel</title>
+  <style type="text/css" media="all">
+@import url("http://lrnings.com/modules/system/system.base.css?oxipa6");
+@import url("http://lrnings.com/modules/system/system.menus.css?oxipa6");
+@import url("http://lrnings.com/modules/system/system.messages.css?oxipa6");
+@import url("http://lrnings.com/modules/system/system.theme.css?oxipa6");
+</style>
+<style type="text/css" media="all">
+@import url("http://lrnings.com/modules/comment/comment.css?oxipa6");
+@import url("http://lrnings.com/sites/all/modules/date/date_api/date.css?oxipa6");
+@import url("http://lrnings.com/sites/all/modules/date/date_repeat_field/date_repeat_field.css?oxipa6");
+@import url("http://lrnings.com/modules/field/theme/field.css?oxipa6");
+@import url("http://lrnings.com/modules/node/node.css?oxipa6");
+@import url("http://lrnings.com/modules/user/user.css?oxipa6");
+@import url("http://lrnings.com/modules/forum/forum.css?oxipa6");
+@import url("http://lrnings.com/sites/all/modules/views/css/views.css?oxipa6");
+</style>
+<style type="text/css" media="all">
+@import url("http://lrnings.com/sites/all/modules/ctools/css/ctools.css?oxipa6");
+@import url("http://lrnings.com/sites/all/modules/panels/css/panels.css?oxipa6");
+@import url("http://lrnings.com/sites/all/modules/widgets/widgets.css?oxipa6");
+</style>
+<link type="text/css" rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<style type="text/css" media="all">
+@import url("http://lrnings.com/sites/all/themes/scholarly/js/meanmenu/meanmenu.css?oxipa6");
+</style>
+<style type="text/css" media="all">
+@import url("http://lrnings.com/sites/all/themes/scholarly/bootstrap/css/bootstrap.css?oxipa6");
+@import url("http://lrnings.com/sites/all/themes/scholarly/js/flexslider/flexslider.css?oxipa6");
+@import url("http://lrnings.com/sites/all/themes/scholarly/style.css?oxipa6");
+</style>
+<style type="text/css" media="all">
+@import url("http://lrnings.com/sites/all/themes/scholarly/style-gray-green.css?oxipa6");
+</style>
+<link type="text/css" rel="stylesheet" href="http://lrnings.com/sites/all/themes/scholarly/fonts/http/lato-font.css?oxipa6" media="all" />
+<style type="text/css" media="all">
+@import url("http://lrnings.com/sites/all/themes/scholarly/fonts/http/sourcecodepro-font.css?oxipa6");
+@import url("http://lrnings.com/sites/all/themes/scholarly/fonts/http/ptserif-blockquote-font.css?oxipa6");
+</style>
+
+<!--[if (IE 9)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="http://lrnings.com/sites/all/themes/scholarly/ie9.css?oxipa6" media="all" />
+<![endif]-->
+<style type="text/css" media="all">
+@import url("http://lrnings.com/sites/all/themes/scholarly/local.css?oxipa6");
+</style>
+
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="http://lrnings.com/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://lrnings.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://lrnings.com/misc/drupal.js?oxipa6"></script>
+<script type="text/javascript" src="http://lrnings.com/sites/all/modules/contentanalysis/contentanalysis.js?oxipa6"></script>
+<script type="text/javascript" src="http://lrnings.com/sites/all/modules/contentanalysis/APIEXAMPLE/contentanalysisexample.js?oxipa6"></script>
+<script type="text/javascript" src="http://lrnings.com/sites/all/modules/captcha/captcha.js?oxipa6"></script>
+<script type="text/javascript" src="http://lrnings.com/sites/all/modules/google_analytics/googleanalytics.js?oxipa6"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-107752527-1", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("require", "displayfeatures");ga("set", "anonymizeIp", true);var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-12345-1']);
+window.addEventListener ?
+window.addEventListener('scroll', testScroll, false) :
+window.attachEvent('onscroll', testScroll);
+var scrollCount = 0;
+function testScroll() {
+++scrollCount;
+if (scrollCount == 2) {
+_gaq.push(['_trackEvent', 'window', 'scrolled']);
+}
+};ga("set", "page", location.pathname + location.search + location.hash);ga("send", "pageview");setTimeout('_gaq.push([\'_trackEvent\', \'NoBounce\', \'Over 10 seconds\'])',10000);
+
+_gaq.push(['_addOrganic', 'suche.t-online.de', 'q']);
+_gaq.push(['_addOrganic', 'suche.aolsvc.de', 'query']);
+_gaq.push(['_addOrganic', 'suche.web.de', 'su']);
+_gaq.push(['_addOrganic', 'suche.gmx.net', 'su']);
+_gaq.push(['_addOrganic', 'search.1und1.de', 'su']);
+_gaq.push(['_addOrganic', 'suche.freenet.de', 'query']);
+_gaq.push(['_addOrganic', 'ecosia.org', 'q']);
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://lrnings.com/sites/all/modules/piwik/piwik.js?oxipa6"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "" : "http://lrnings.com/analytics/index.php?module=CoreHome&amp;action=index&amp;date=yesterday&amp;period=day&amp;idSite=1/");_paq.push(["setSiteId", "1"]);_paq.push(["setTrackerUrl", u+"piwik.php"]);_paq.push(["setDoNotTrack", 1]);_paq.push(["trackPageView"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"piwik.js";s.parentNode.insertBefore(g,s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://lrnings.com/sites/all/themes/scholarly/bootstrap/js/bootstrap.min.js?oxipa6"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) { 
+		$(window).scroll(function() {
+			if($(this).scrollTop() != 0) {
+				$("#toTop").addClass("show");	
+			} else {
+				$("#toTop").removeClass("show");
+			}
+		});
+		
+		$("#toTop").click(function() {
+			$("body,html").animate({scrollTop:0},800);
+		});	
+		
+		});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) { 
+
+	    var map;
+	    var myLatlng;
+	    var myZoom;
+	    var marker;
+		
+		});
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) { 
+
+		if ($("#map-canvas").length>0) {
+		
+			myLatlng = new google.maps.LatLng(Drupal.settings.scholarly['google_map_latitude'], Drupal.settings.scholarly['google_map_longitude']);
+			myZoom = 13;
+			
+			function initialize() {
+			
+				var mapOptions = {
+				zoom: myZoom,
+				mapTypeId: google.maps.MapTypeId.ROADMAP,
+				center: myLatlng,
+				scrollwheel: false
+				};
+				
+				map = new google.maps.Map(document.getElementById(Drupal.settings.scholarly['google_map_canvas']),mapOptions);
+				
+				marker = new google.maps.Marker({
+				map:map,
+				draggable:true,
+				position: myLatlng
+				});
+				
+				google.maps.event.addDomListener(window, "resize", function() {
+				map.setCenter(myLatlng);
+				});
+		
+			}
+		
+			google.maps.event.addDomListener(window, "load", initialize);
+			
+		}
+		
+		});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) { 
+
+			var	headerTopHeight = $("#header-top").outerHeight(),
+			headerHeight = $("#header").outerHeight();
+			
+			$(window).scroll(function() {
+			if(($(this).scrollTop() > headerTopHeight+headerHeight) && ($(window).width() > 767)) {
+				$("body").addClass("onscroll");
+				if (($("#site-name").length > 0) && ($("#logo").length > 0)) {
+					$(".onscroll #logo").addClass("hide");
+				}
+
+				if ($("#banner").length > 0) { 
+ 					$("#banner").css("marginTop", (headerHeight)+"px");
+				} else if ($("#page-intro").length > 0) {
+					$("#page-intro").css("marginTop", (headerHeight)+"px");
+				} else {
+					$("#page").css("marginTop", (headerHeight)+"px");
+				}
+			} else {
+				$("body").removeClass("onscroll");
+				$("#logo").removeClass("hide");
+				$("#page,#banner,#page-intro").css("marginTop", (0)+"px");
+			}
+			});
+		});
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://lrnings.com/sites/all/themes/scholarly/js/meanmenu/jquery.meanmenu.fork.js?oxipa6"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) {
+
+			$("#main-navigation .sf-menu, #main-navigation .content>ul.menu, #main-navigation ul.main-menu").wrap("<div class='meanmenu-wrapper'></div>");
+			$("#main-navigation .meanmenu-wrapper").meanmenu({
+				meanScreenWidth: "767",
+				meanRemoveAttrs: true,
+				meanMenuContainer: "#header-inside",
+				meanMenuClose: ""
+			});
+
+			$("#header-top .sf-menu, #header-top .content>ul.menu").wrap("<div class='header-top-meanmenu-wrapper'></div>");
+			$("#header-top .header-top-meanmenu-wrapper").meanmenu({
+				meanScreenWidth: "767",
+				meanRemoveAttrs: true,
+				meanMenuContainer: "#header-top-inside",
+				meanMenuClose: ""
+			});
+
+		});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+        (function($) {
+		Drupal.FieldGroup = Drupal.FieldGroup || {};
+		Drupal.FieldGroup.Effects = Drupal.FieldGroup.Effects || {};
+
+            Drupal.FieldGroup.Effects.processAccordion = {
+              execute: function (context, settings, type) {
+                $("div.field-group-accordion-wrapper", context).once("fieldgroup-effects", function () {
+                  var wrapper = $(this);
+
+                  wrapper.accordion({
+                    heightStyle: "content",
+                    autoHeight: true,
+                    active: ".field-group-accordion-active",
+                    collapsible: true,
+                    changestart: function(event, ui) {
+                      if ($(this).hasClass("effect-none")) {
+                        ui.options.animated = false;
+                      }
+                      else {
+                        ui.options.animated = "slide";
+                      }
+                    }
+                  });
+                });
+              }
+            }
+	
+    	})(jQuery);
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://lrnings.com/sites/all/themes/scholarly/js/flexslider/jquery.flexslider.js?oxipa6"></script>
+<script type="text/javascript" src="http://lrnings.com/sites/all/themes/scholarly/js/jquery.browser.min.js?oxipa6"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"scholarly","theme_token":"VTj3LfbQwqhNtnY7P7Rlb72Q8jJOmUW68Dmh069heZc","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contentanalysis\/contentanalysis.js":1,"sites\/all\/modules\/contentanalysis\/APIEXAMPLE\/contentanalysisexample.js":1,"sites\/all\/modules\/captcha\/captcha.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/piwik\/piwik.js":1,"1":1,"sites\/all\/themes\/scholarly\/bootstrap\/js\/bootstrap.min.js":1,"2":1,"3":1,"https:\/\/maps.googleapis.com\/maps\/api\/js?v=3.exp\u0026sensor=false":1,"4":1,"5":1,"sites\/all\/themes\/scholarly\/js\/meanmenu\/jquery.meanmenu.fork.js":1,"6":1,"7":1,"sites\/all\/themes\/scholarly\/js\/flexslider\/jquery.flexslider.js":1,"sites\/all\/themes\/scholarly\/js\/jquery.browser.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/widgets\/widgets.css":1,"http:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"sites\/all\/themes\/scholarly\/js\/meanmenu\/meanmenu.css":1,"sites\/all\/themes\/scholarly\/bootstrap\/css\/bootstrap.css":1,"sites\/all\/themes\/scholarly\/js\/flexslider\/flexslider.css":1,"sites\/all\/themes\/scholarly\/style.css":1,"sites\/all\/themes\/scholarly\/style-gray-green.css":1,"sites\/all\/themes\/scholarly\/fonts\/http\/lato-font.css":1,"sites\/all\/themes\/scholarly\/fonts\/http\/sourcecodepro-font.css":1,"sites\/all\/themes\/scholarly\/fonts\/http\/ptserif-blockquote-font.css":1,"sites\/all\/themes\/scholarly\/ie9.css":1,"sites\/all\/themes\/scholarly\/local.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackUrlFragments":1},"piwik":{"trackMailto":0},"urlIsAjaxTrusted":{"\/node?destination=node":true},"scholarly":{"google_map_latitude":"40.726576","google_map_longitude":"-74.046822","google_map_canvas":"map-canvas"}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node i18n-en no-banner sff-7 slff-7 hff-7 pff-7 form-style-1" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="toTop"><i class="fa fa-angle-up"></i></div>
+
+
+<!-- #header -->
+<header id="header"  role="banner" class="clearfix">
+    <div class="container">
+        
+        <!-- #header-inside -->
+        <div id="header-inside" class="clearfix">
+            <div class="row">
+            
+                <div class="col-md-4">
+                    <!-- #header-inside-left -->
+                    <div id="header-inside-left" class="clearfix">
+
+                                        <div id="logo">
+                    <a href="/" title="Home" rel="home"> <img src="http://lrnings.com/sites/all/themes/scholarly/logo.png" alt="Home" /> </a>
+                    </div>
+                                        
+                                        <div id="site-name">
+                    <a href="/" title="Home">l[ea]rnings</a>
+                    </div>
+                                        
+                                        <div id="site-slogan">
+                    Web Campus für E-learning im Aussenhandel                    </div>
+                                        
+                      
+
+                    </div>
+                    <!-- EOF:#header-inside-left -->
+                </div>
+                
+                <div class="col-md-8">
+                    <!-- #header-inside-right -->
+                    <div id="header-inside-right" class="clearfix">
+
+                        <!-- #main-navigation -->
+                        <div id="main-navigation" class="clearfix">
+                            <nav role="navigation"> 
+                                                                <div id="main-menu">
+                                <h2 class="element-invisible">Main menu</h2><ul class="main-menu menu"><li class="menu-558 first active"><a href="/" title="Home" class="active">Home</a></li>
+<li class="menu-487"><a href="/content/ueber-uns">Über uns</a></li>
+<li class="menu-490"><a href="/content/benutzerregistrierung">Registrierung</a></li>
+<li class="menu-554 last"><a href="/content/Export-Fallstudien">Export Fallstudien</a></li>
+</ul>                                </div>
+                                                            </nav>
+                        </div>
+                        <!-- EOF: #main-navigation -->
+
+                    </div>
+                    <!-- EOF:#header-inside-right -->                        
+                </div>
+         
+            </div>
+        </div>
+        <!-- EOF: #header-inside -->
+
+    </div>
+</header>
+<!-- EOF: #header -->
+
+
+
+<!-- #page -->
+<div id="page" class="clearfix">
+
+    <!-- #messages-console -->
+        <!-- EOF: #messages-console -->
+
+    
+    <!-- #main-content -->
+    <div id="main-content">
+        <div class="container">
+
+            <div class="row">
+
+                                <aside class="col-md-4 fix-sidebar-first">
+                    <!--#sidebar-->
+                    <section id="sidebar-first" class="sidebar clearfix">
+                      <div class="region region-sidebar-first">
+    <div id="block-system-main-menu" class="block block-system block-menu clearfix">
+
+    <h2 class="title">Main menu</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/" title="Home" class="active">Home</a></li>
+<li class="leaf"><a href="/content/ueber-uns">Über uns</a></li>
+<li class="collapsed"><a href="/content/benutzerregistrierung">Registrierung</a></li>
+<li class="last collapsed"><a href="/content/Export-Fallstudien">Export Fallstudien</a></li>
+</ul>  </div>
+</div>
+<div id="block-system-navigation" class="block block-system block-menu clearfix">
+
+    <h2 class="title">Navigation</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first last collapsed"><a href="/forum">Forums</a></li>
+</ul>  </div>
+</div>
+<div id="block-user-login" class="block block-user clearfix">
+
+    <h2 class="title">User login</h2>
+  
+  <div class="content">
+    <form action="/node?destination=node" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">E-mail or username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-XeMI4rg6EFjUcwCl452uHO80D4rtG_XgEDma5U-o0wY" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<fieldset class="captcha form-wrapper"><legend><span class="fieldset-legend">CAPTCHA</span></legend><div class="fieldset-wrapper"><div class="fieldset-description">This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.</div><input type="hidden" name="captcha_sid" value="209445" />
+<input type="hidden" name="captcha_token" value="da419c213a5f7f758f07bbd46c67e7cc" />
+<img src="/image_captcha?sid=209445&amp;amp;ts=1582112717" width="180" height="60" alt="Image CAPTCHA" title="Image CAPTCHA" /><div class="form-item form-type-textfield form-item-captcha-response">
+  <label for="edit-captcha-response">What code is in the image? <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-captcha-response" name="captcha_response" value="" size="15" maxlength="128" class="form-text required" />
+<div class="description">Enter the characters shown in the image.</div>
+</div>
+</div></fieldset>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+                    </section>
+                    <!--EOF:#sidebar-->
+                </aside>
+                
+                <section class="col-md-8">
+
+                    <!-- #promoted -->
+                                        <!-- EOF: #promoted -->
+
+                    <!-- #main -->
+                    <div id="main" class="clearfix">
+
+                                                                        
+                        <!-- #tabs -->
+                                                    <div class="tabs">
+                                                        </div>
+                                                <!-- EOF: #tabs -->
+
+                        
+                        <!-- #action links -->
+                                                <!-- EOF: #action links -->
+
+                         
+                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <article id="node-19" class="node node-page node-promoted node-sticky node-teaser clearfix node-mt">
+            <div class="node-main-content full-width clearfix">
+            <header>
+                    <h2><a href="/content/web-campus-f%C3%BCr-e-learning-im-aussenhandel">Web Campus für E-Learning im Aussenhandel </a></h2>
+            
+              
+       
+
+    </header>
+    
+    <div class="content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Willkommen im l[ear]nings Web Campus!</p>
+<p>l[ear]nings ist ein Web Campus  für e-learning im Aussenhandel, welcher  Aussenhandelsfachleuten, aktuelle,  berufspraktische Export Fallstudien anbietet und ihnen den Austausch von Export Know-how ermöglicht.</p>
+<p>Dank seinen Export Fallstudien erhalten Personen, die als Aussenhandelsfachmann/frau oder Export Sachbearbeiter eine Ausbildung oder Weiterbildung im Export absolvieren oder neu eine Stelle in einem Exportunternehmen antreten, eine ergänzende und effiziente Lernform zum klassischem Frontalunterricht, um ihre Fachkenntnisse und beruflichen Handlungskompetenzen im Aussenhandel zu testen und zu aktualisieren.</p>
+<p>Zu diesem Zweck bietet der  l[ea]rnings Web Campus seinen Benutzern eine wachsende Anzahl von aktuellen, auf praktische Berufssituationen basierte Export Fallstudien zu verschiedenen Export- und Import Themen  an,   </p>
+<p>Deshalb eignen sich diese Export Fallstudien auch ausgezeichnet als Prüfungsvorbereitung, Selbsttest oder als firmeninterne Export-Schulung. Sie sind für registrierte Benutzer mehrheitlich kostenlos!</p>
+<p>Registrieren Sie sich noch heute mit einem Benutzernamen Ihrer Wahl und einer gültigen E-Mail-Adresse und prüfen Sie Ihre berufliche Handlungskompetenzen im Aussenhandel.  Als registrierter Benutzer haben Sie zudem auch die Möglichkeit, regelmässig Ihre berufliche Erfahrungen zu aktuellen  Export- und Import Themen mit anderen l[ea]rnings Web Campus Benutzern zu teilen, Ihren Kommentar zu den einzelnen Export Fallstudien abzugeben oder sogar ein eigenes Diskussionsforum zum Export Thema Ihrer Wahl zu starten. </p>
+<p>Der Registrierungslink lautet:</p>
+<p><a href="http://www.lrnings.com/user/register">http://www.lrnings.com/user/register</a></p>
+<p>Qualifizierte und motivierte Autoren von Export Fallstudien gesucht!</p>
+<p>Sind Sie bereits Ausbilderin / Ausbilder mit eidg. FA oder Diplom im Aussenhandel und / oder verfügen als Exportmanagerin / Exportmanager über eine langjährige Berufspraxis im Aussenhandel und möchten Ihr Know-how und Ihre Berufserfahrung als Autor in folgenden beruflichen Handlungsfeldern weitergeben? </p>
+<p>-Verkauf und Beschaffung von Investitionsgütern, Konsumgütern oder Dienstleistungen<br />
+-internationales Vetragsmanagement<br />
+-Handels- und Exportfinanzierung<br />
+-Countertrade<br />
+-Auftragsabwicklung<br />
+-Zollabwicklung, Tarifierung und Warenursprung<br />
+-Zahlungsgarantien und Leistungsgarantien<br />
+-Industrieversicherungen<br />
+-Exportverbund<br />
+-Aussenhandel Zölle und Steuern<br />
+-internationale Rahmenbedingungen<br />
+-interkulturelles Management</p>
+<p>Dann freuen wir uns auf Ihre Kontaktnahme<br />
+unter</p>
+<p><a href="mailto:info@lrnings.com">info@lrnings.com</a></p>
+</div></div></div>    </div>
+
+        <footer>
+    <ul class="links inline"><li class="node-readmore first last"><a href="/content/web-campus-f%C3%BCr-e-learning-im-aussenhandel" rel="tag" title="Web Campus für E-Learning im Aussenhandel ">Read more<span class="element-invisible"> about Web Campus für E-Learning im Aussenhandel </span></a></li>
+</ul>    </footer>
+    
+      </div>
+
+</article><article id="node-24" class="node node-article node-promoted node-teaser clearfix node-mt">
+        <div class="post-submitted-info">
+        
+                <div class="submitted-date">
+                                        <div class="month">Oct</div>
+          <div class="day">14</div>
+          <div class="year">2016</div>
+        </div>
+                        <div class="comments-count">
+          <i class="fa fa-comment"></i>
+          <div class="comment-counter">0</div>
+        </div>
+            </div>
+          <div class="node-main-content custom-width clearfix">
+            <header>
+                    <h2><a href="/content/test">TEST</a></h2>
+            
+                <div class="submitted-user">
+          By <a href="/users/stefano-c" title="View user profile." class="username">Stefano C</a>          </div>
+              
+        <div class="user-picture">
+    <a href="/users/stefano-c" title="View user profile."><img src="http://lrnings.com/sites/default/files/styles/thumbnail/public/pictures/picture-1-1446050222.jpg?itok=V7otsjSw" alt="Stefano C&#039;s picture" title="Stefano C&#039;s picture" /></a>  </div>
+ 
+
+    </header>
+    
+    <div class="content">
+      
+<div class="field-item field-type-image even"><div class="overlayed"><a href="/content/test"><img src="http://lrnings.com/sites/default/files/styles/medium/public/default_images/image3379.png?itok=n2rIkmGj" alt="" /></a></div></div> 
+    </div>
+
+        <footer>
+    <ul class="links inline"><li class="node-readmore first"><a href="/content/test" rel="tag" title="TEST">Read more<span class="element-invisible"> about TEST</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/24%23comment-form">Log in</a> or <a href="/user/register?destination=node/24%23comment-form">register</a> to post comments</span></li>
+</ul>    </footer>
+    
+      </div>
+
+</article>  </div>
+</div>
+  </div>
+                        <a href="/rss.xml" class="feed-icon" title="Subscribe to l[ea]rnings RSS"><img src="http://lrnings.com/misc/feed.png" width="16" height="16" alt="Subscribe to l[ea]rnings RSS" /></a>                        
+                    </div>
+                    <!-- EOF:#main -->
+
+                </section>
+
+                                
+            </div>
+
+        </div>
+    </div>
+    <!-- EOF:#main-content -->
+
+</div>
+<!-- EOF: #page -->
+
+<!-- #bottom-content -->
+<div id="bottom-content" class="clearfix">
+    <div class="container">
+
+        <!-- #bottom-content-inside -->
+        <div id="bottom-content-inside" class="clearfix">
+            <div class="bottom-content-area">
+                <div class="row">
+                    <div class="col-md-12">
+                      <div class="region region-bottom-content">
+    <div id="block-widgets-s-socialmedia-share-default" class="block block-widgets clearfix">
+
+    
+  <div class="content">
+    <div id="widgets-element-socialmedia_share-default" class="widgets widgets-set widgets-set-horizontal widgets-style-horizontal"><div id="widgets-element-socialmedia_socialmedia-twitter-share-button" class="widgets widgets-element widgets-element-horizontal widgets-style-horizontal"><a href="http://twitter.com/share?url=http://www.lrnings.com/node&text= http://www.lrnings.com/node via @[socialmedia:sm-twitter_username]" title="Tweet this" target="_blank"><img src="/sites/all/modules/socialmedia/icons/levelten/glossy/32x32/twitter.png" alt="Twitter icon" ></a></div><div id="widgets-element-socialmedia_socialmedia-facebook-share-button" class="widgets widgets-element widgets-element-horizontal widgets-style-horizontal"><a href="http://www.facebook.com/sharer.php?u=http://www.lrnings.com/node&t=" title="Visit Learnings on Facebook" target="_blank"><img src="/sites/all/modules/socialmedia/icons/levelten/glossy/32x32/facebook.png" alt="Facebook icon" ></a></div><div id="widgets-element-socialmedia_socialmedia-google-share-button" class="widgets widgets-element widgets-element-horizontal widgets-style-horizontal"><a href="http://www.google.com/bookmarks/mark?op=add&bkmk=http://www.lrnings.com/node&title=" title="Bookmark on Google" target="_blank"><img src="/sites/all/modules/socialmedia/icons/levelten/glossy/32x32/google.png" alt="Google icon" ></a></div><div id="widgets-element-socialmedia_socialmedia-linkedin-share-button" class="widgets widgets-element widgets-element-horizontal widgets-style-horizontal"><a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.lrnings.com/node&title=" title="Share on LinkedIn" target="_blank"><img src="/sites/all/modules/socialmedia/icons/levelten/glossy/32x32/linkedin.png" alt="LinkedIn icon" ></a></div><div class="widgets-clear"></div></div>  </div>
+</div>
+  </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- EOF:#bottom-content-inside -->
+
+    </div>
+</div>
+<!-- EOF: #bottom-content -->
+
+
+
+<div id="subfooter" class="clearfix">
+	<div class="container">
+		
+		<!-- #subfooter-inside -->
+		<div id="subfooter-inside" class="clearfix">
+            <div class="row">
+    			<div class="col-md-4">
+                    <!-- #subfooter-left -->
+                                        <!-- EOF: #subfooter-left -->
+    			</div>
+    			<div class="col-md-8">
+                    <!-- #subfooter-right -->
+                                        <div class="subfooter-area right">
+                      <div class="region region-footer">
+    <div id="block-system-powered-by" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+</div>
+  </div>
+                    </div>
+                                        <!-- EOF: #subfooter-right -->
+    			</div>
+            </div>
+		</div>
+		<!-- EOF: #subfooter-inside -->
+	
+	</div>
+</div><!-- EOF:#subfooter -->
+  </body>
+</html>
+<br />
+<b>Fatal error</b>:  Only variables can be passed by reference in <b>/home/lrningsc/public_html/scholarly/sites/all/modules/user_restrictions/user_restrictions.classes.inc</b> on line <b>228</b><br />

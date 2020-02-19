@@ -1,0 +1,191 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://equal-ist.ercis.org/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/node/1" />
+<link rel="canonical" href="/home" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Welcome to the interim database of the EQUAL-IST project | equal-ist.ercis.org</title>
+  <style type="text/css" media="all">
+@import url("http://equal-ist.ercis.org/modules/system/system.base.css?pzcwcf");
+@import url("http://equal-ist.ercis.org/modules/system/system.menus.css?pzcwcf");
+@import url("http://equal-ist.ercis.org/modules/system/system.messages.css?pzcwcf");
+@import url("http://equal-ist.ercis.org/modules/system/system.theme.css?pzcwcf");
+</style>
+<style type="text/css" media="all">
+@import url("http://equal-ist.ercis.org/modules/comment/comment.css?pzcwcf");
+@import url("http://equal-ist.ercis.org/modules/field/theme/field.css?pzcwcf");
+@import url("http://equal-ist.ercis.org/modules/node/node.css?pzcwcf");
+@import url("http://equal-ist.ercis.org/modules/search/search.css?pzcwcf");
+@import url("http://equal-ist.ercis.org/modules/user/user.css?pzcwcf");
+@import url("http://equal-ist.ercis.org/sites/all/modules/webform_confirm_email/webform_confirm_email.css?pzcwcf");
+@import url("http://equal-ist.ercis.org/modules/forum/forum.css?pzcwcf");
+@import url("http://equal-ist.ercis.org/sites/all/modules/views/css/views.css?pzcwcf");
+@import url("http://equal-ist.ercis.org/sites/all/modules/ckeditor/css/ckeditor.css?pzcwcf");
+</style>
+<style type="text/css" media="all">
+@import url("http://equal-ist.ercis.org/sites/all/modules/ctools/css/ctools.css?pzcwcf");
+</style>
+<style type="text/css" media="all">
+@import url("http://equal-ist.ercis.org/sites/equal-ist.ercis.org/themes/bartik/css/layout.css?pzcwcf");
+@import url("http://equal-ist.ercis.org/sites/equal-ist.ercis.org/themes/bartik/css/style.css?pzcwcf");
+@import url("http://equal-ist.ercis.org/sites/equal-ist.ercis.org/files/color/bartik-d37d1873/colors.css?pzcwcf");
+</style>
+<style type="text/css" media="print">
+@import url("http://equal-ist.ercis.org/sites/equal-ist.ercis.org/themes/bartik/css/print.css?pzcwcf");
+</style>
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://equal-ist.ercis.org/sites/equal-ist.ercis.org/themes/bartik/css/ie.css?pzcwcf" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="http://equal-ist.ercis.org/sites/equal-ist.ercis.org/themes/bartik/css/ie6.css?pzcwcf" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="//code.jquery.com/jquery-1.8.3.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://equal-ist.ercis.org/misc/jquery-extend-3.4.0.js?v=1.8.3"></script>
+<script type="text/javascript" src="http://equal-ist.ercis.org/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://equal-ist.ercis.org/misc/drupal.js?pzcwcf"></script>
+<script type="text/javascript" src="http://equal-ist.ercis.org/sites/all/modules/admin_menu/admin_devel/admin_devel.js?pzcwcf"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bartik","theme_token":"0M3zb6VChVc1hVt5f3r-Xm9YM64cPDgU669a4gLLzDU","js":{"\/\/code.jquery.com\/jquery-1.8.3.min.js":1,"0":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/webform_confirm_email\/webform_confirm_email.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/equal-ist.ercis.org\/themes\/bartik\/css\/layout.css":1,"sites\/equal-ist.ercis.org\/themes\/bartik\/css\/style.css":1,"sites\/equal-ist.ercis.org\/themes\/bartik\/css\/colors.css":1,"sites\/equal-ist.ercis.org\/themes\/bartik\/css\/print.css":1,"sites\/equal-ist.ercis.org\/themes\/bartik\/css\/ie.css":1,"sites\/equal-ist.ercis.org\/themes\/bartik\/css\/ie6.css":1}},"urlIsAjaxTrusted":{"\/home?destination=node\/1":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-1 node-type-page" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper"><div id="page">
+
+  <div id="header" class="without-secondary-menu"><div class="section clearfix">
+
+          <a href="/" title="Home" rel="home" id="logo">
+        <img src="http://equal-ist.ercis.org/sites/equal-ist.ercis.org/files/EQUALIST_logo_small.png" alt="Home" />
+      </a>
+    
+          <div id="name-and-slogan">
+
+                              <div id="site-name">
+              <strong>
+                <a href="/" title="Home" rel="home"><span>equal-ist.ercis.org</span></a>
+              </strong>
+            </div>
+                  
+        
+      </div> <!-- /#name-and-slogan -->
+    
+    
+          <div id="main-menu" class="navigation">
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-237 first active"><a href="/" class="active">Home</a></li>
+<li class="menu-405"><a href="/about">About</a></li>
+<li class="menu-428 last"><a href="/contact">Contact</a></li>
+</ul>      </div> <!-- /#main-menu -->
+    
+    
+  </div></div> <!-- /.section, /#header -->
+
+  
+  
+  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
+
+    
+          <div id="sidebar-first" class="column sidebar"><div class="section">
+          <div class="region region-sidebar-first">
+    <div id="block-user-login" class="block block-user">
+
+    <h2>User login</h2>
+  
+  <div class="content">
+    <form action="/home?destination=node/1" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-lINOhHhY1wA_8FOhxqOlnZWAW1WKjr9gjoXgLozcG2I" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+      </div></div> <!-- /.section, /#sidebar-first -->
+    
+    <div id="content" class="column"><div class="section">
+            <a id="main-content"></a>
+                    <h1 class="title" id="page-title">
+          Welcome to the interim database of the EQUAL-IST project        </h1>
+                          <div class="tabs">
+                  </div>
+                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1" class="node node-page node-full clearfix" about="/home" typeof="foaf:Document">
+
+      <span property="dc:title" content="Welcome to the interim database of the EQUAL-IST project" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>This database contains information about existing Gender Equality Plans (GEPs) implemented at Research Performing Organizations (RPOs) and Research Funding Organizations (RFOs) in Europe and worldwide.</p>
+<p>The information collected in this database will be used during the design of tailored GEPs at the 8 Universities forming the EQUAL-IST project consortium. The EQUAL-IST project consortium include (1) the University of Münster, (2) Ca' Foscari University of Venice, (3) the University of Liechtenstein, (4) the University of Turku, (5) Kaunas University of Technology, (6) the University of Modena and Reggio Emilia, (7) the University of Minho, and (8) Simon Kuznets Kharkiv National University of Economics.</p>
+<p>Under GEPs we understand official policy planning documents aimed at promoting gender equality and diversity. Alternative notions for GEPs in different countries and institutions include (but are not limited to) <em>Equal Opportunities Plans</em>, <em>Positive Action Plans</em> etc.</p>
+<p>We are looking for examples of approved and implemented GEPs, which have not remained ‘on paper’, but led to concrete actions put into practice, even if these actions are still at an initial or in-progress stage. As we can also learn from failures, examples of unsuccessful GEPs should also be included in the database, providing information about the reasons for not being successful, faced challenges and so on.</p>
+<p>The GEPs implemented at RPOs (research institutions) in the ICT/IST fields (Information and Communications Technologies / Information Sciences and Technology) are of particular interest for the EQUAL-IST project, but the information to be included in this database is not limited to a specific disciplinary area.</p>
+<p>On top of GEPs implemented at RPOs, those implemented at Research Funding Organizations (RFOs) are also to be included in the database. RFOs are institutions that fund large scale research projects often involving universities as partners and/or outsourcing to universities the implementation of research. For instance, in Italy examples of RFOs include such national bodies as the National Council for Research (CNR) or the Italian Institute of Technology. At the European level, RFOs include, for instance, Joint Research Centre (JRC), European Institute of Innovation &amp; Technology (EIT) and so on. The GEPs implemented at RFOs to promote internal structural change are of value because these GEPs might include gender indicators to be embedded into criteria for allocating funds, and therefore impacting research institutions when they apply for these funds.</p>
+<p>The information in this database is for internal use of the EQUAL-IST project consortium and, therefore, is not visible for general public. If you are not the member of the EQUAL-IST project consortium, but interested in the information collected in this database, please leave your message and contact details in the “Contact” section and we will get back to you.</p>
+</div></div></div>  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+      
+    </div></div> <!-- /.section, /#content -->
+
+    
+  </div></div> <!-- /#main, /#main-wrapper -->
+
+  
+  <div id="footer-wrapper"><div class="section">
+
+    
+          <div id="footer" class="clearfix">
+          <div class="region region-footer">
+    <div id="block-system-powered-by" class="block block-system">
+
+    
+  <div class="content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+</div>
+  </div>
+      </div> <!-- /#footer -->
+    
+  </div></div> <!-- /.section, /#footer-wrapper -->
+
+</div></div> <!-- /#page, /#page-wrapper -->
+  </body>
+</html>

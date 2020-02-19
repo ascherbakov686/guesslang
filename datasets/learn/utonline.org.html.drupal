@@ -1,0 +1,335 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="UTOnline.org RSS" href="http://utonline.org/cms/rss.xml" />
+<link rel="shortcut icon" href="/cms/misc/favicon.ico" type="image/x-icon" />
+    <title>UTOnline.org | The home of the Universal Translator</title>
+    <link type="text/css" rel="stylesheet" media="all" href="/cms/modules/node/node.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/cms/modules/system/defaults.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/cms/modules/system/system.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/cms/modules/system/system-menus.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/cms/modules/user/user.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/cms/sites/all/modules/img_assist/img_assist.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/cms/modules/forum/forum.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/cms/sites/all/modules/views/css/views.css?n" />
+<link type="text/css" rel="stylesheet" media="all" href="/cms/themes/garland/style.css?n" />
+<link type="text/css" rel="stylesheet" media="print" href="/cms/themes/garland/print.css?n" />
+    <script type="text/javascript" src="/cms/misc/jquery.js?n"></script>
+<script type="text/javascript" src="/cms/misc/drupal.js?n"></script>
+<script type="text/javascript" src="/cms/sites/all/modules/img_assist/img_assist.js?n"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/cms/" });
+//--><!]]>
+</script>
+    <!--[if lt IE 7]>
+      <link type="text/css" rel="stylesheet" media="all" href="/cms/themes/garland/fix-ie.css" />    <![endif]-->
+  </head>
+  <body class="sidebars">
+
+<!-- Layout -->
+  <div id="header-region" class="clear-block"></div>
+
+    <div id="wrapper">
+    <div id="container" class="clear-block">
+
+      <div id="header">
+        <div id="logo-floater">
+        <h1><a href="/cms/" title="UTOnline.org"><img src="/cms/sites/default/files/garland_logo.png" alt="UTOnline.org" id="logo" /><span>UTOnline.org</span></a></h1>        </div>
+
+                  <ul class="links primary-links"><li class="menu-115 active-trail first active"><a href="/cms/" title="UTOnline.org Home Page" class="active">Home</a></li>
+<li class="menu-205"><a href="/cms/node/103" title="Frequently Asked Questions">FAQ</a></li>
+<li class="menu-125"><a href="/cms/forum" title="Forums">Forums</a></li>
+<li class="menu-135 last"><a href="/cms/node/9" title="Contact Us">Contact Us</a></li>
+</ul>                                  
+      </div> <!-- /header -->
+
+              <div id="sidebar-left" class="sidebar">
+                    <div id="block-menu-primary-links" class="clear-block block block-menu">
+
+  <h2>Primary links</h2>
+
+  <div class="content"><ul class="menu"><li class="leaf first active-trail"><a href="/cms/" title="UTOnline.org Home Page" class="active">Home</a></li>
+<li class="leaf"><a href="/cms/node/103" title="Frequently Asked Questions">FAQ</a></li>
+<li class="leaf"><a href="/cms/forum" title="Forums">Forums</a></li>
+<li class="leaf last"><a href="/cms/node/9" title="Contact Us">Contact Us</a></li>
+</ul></div>
+</div>
+<div id="block-user-0" class="clear-block block block-user">
+
+  <h2>User login</h2>
+
+  <div class="content"><form action="/cms/node?destination=node"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
+<div class="item-list"><ul><li class="first"><a href="/cms/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/cms/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-Lm0apLqHLM_AklEJwnqMxvQlApciWJIzofy_X8taAmk" value="form-Lm0apLqHLM_AklEJwnqMxvQlApciWJIzofy_X8taAmk"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+</div>
+</div>
+        </div>
+      
+      <div id="center"><div id="squeeze"><div class="right-corner"><div class="left-corner">
+                                                                                          <div class="clear-block">
+            <div id="node-115" class="node sticky">
+
+
+  <h2><a href="/cms/node/115" title="How can I get help or support?">How can I get help or support?</a></h2>
+
+      <span class="submitted">Thu, Oct 21, 2010 - 14:42 — support</span>
+  
+  <div class="content clear-block">
+    <p><a href="/cms/node/212" title="Also submit support requests on this page.">Submit a UT3 Bug or Feature Request</a> or send an email to <a href="mailto:support@utonline.org">support@utonline.org</a>. The best way is to use the "Submit a UT3 Bug" page.</p>
+  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="comment_forbidden first"><span><a href="/cms/user/login?destination=comment%2Freply%2F115%23comment-form">Login</a> or <a href="/cms/user/register?destination=comment%2Freply%2F115%23comment-form">register</a> to post comments</span></li>
+<li class="node_read_more last"><a href="/cms/node/115" title="Read the rest of How can I get help or support?.">Read more</a></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-81" class="node sticky">
+
+
+  <h2><a href="/cms/node/81" title="What is UTOnline.org?">What is UTOnline.org?</a></h2>
+
+      <span class="submitted">Mon, Nov 09, 2009 - 14:58 — support</span>
+  
+  <div class="content clear-block">
+    <p><span class="inline inline-left"><a href="/cms/node/229"><img src="http://utonline.org/cms/system/files/images/UT3Capture.thumbnail.JPG" alt="UT3 Graphing Screenshot" title="UT3 Graphing Screenshot"  class="image image-thumbnail " width="100" height="75" /></a><span class="caption" style="width: 98px;"><strong>UT3 Graphing Screenshot</strong></span></span>The UT is software designed for the management and analysis of data from loggers and trend data from building management systems.</p>
+<div class="image-clear"></div>  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+          <div class="terms"><ul class="links inline"><li class="taxonomy_term_19 first last"><a href="/cms/forum/19" rel="tag" title="">Other</a></li>
+</ul></div>
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="comment_forbidden first"><span><a href="/cms/user/login?destination=comment%2Freply%2F81%23comment-form">Login</a> or <a href="/cms/user/register?destination=comment%2Freply%2F81%23comment-form">register</a> to post comments</span></li>
+<li class="node_read_more last"><a href="/cms/node/81" title="Read the rest of What is UTOnline.org?.">Read more</a></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-22" class="node sticky">
+
+
+  <h2><a href="/cms/node/22" title="How do I get a copy of the UT?">How do I get a copy of the UT?</a></h2>
+
+      <span class="submitted">Tue, Oct 20, 2009 - 13:47 — support</span>
+  
+  <div class="content clear-block">
+    <p>Registered users can download the latest version of the Universal Translator.</p>
+  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+          <div class="terms"><ul class="links inline"><li class="taxonomy_term_19 first last"><a href="/cms/forum/19" rel="tag" title="">Other</a></li>
+</ul></div>
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="comment_forbidden first"><span><a href="/cms/user/login?destination=comment%2Freply%2F22%23comment-form">Login</a> or <a href="/cms/user/register?destination=comment%2Freply%2F22%23comment-form">register</a> to post comments</span></li>
+<li class="node_read_more last"><a href="/cms/node/22" title="Read the rest of How do I get a copy of the UT?.">Read more</a></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-235" class="node">
+
+
+  <h2><a href="/cms/node/235" title="UT3 Release - August 2017 - version 3.0.1708.2913 Release 3">UT3 Release - August 2017 - version 3.0.1708.2913 Release 3</a></h2>
+
+      <span class="submitted">Tue, Aug 29, 2017 - 12:30 — David Wright</span>
+  
+  <div class="content clear-block">
+    <p><b><i><font color="red">NEW RELEASE - August 29, 2017</font></i></b></p>
+<p>UTOnline.org and the PG&amp;E Pacific Energy Center are pleased to announce the launch of the Universal Translator 3 (UT3).</p>
+<p>The initial UT3 version was the culmination of over 3 years of work to re-develop the Universal Translator 2 to make it fast, reliable and extensible.</p>
+  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="comment_forbidden first"><span><a href="/cms/user/login?destination=comment%2Freply%2F235%23comment-form">Login</a> or <a href="/cms/user/register?destination=comment%2Freply%2F235%23comment-form">register</a> to post comments</span></li>
+<li class="node_read_more last"><a href="/cms/node/235" title="Read the rest of UT3 Release - August 2017 - version 3.0.1708.2913 Release 3.">Read more</a></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-228" class="node">
+
+
+  <h2><a href="/cms/node/228" title="New Video on importing, resampling and exporting data from the UT3">New Video on importing, resampling and exporting data from the UT3</a></h2>
+
+      <span class="submitted">Fri, Feb 12, 2016 - 13:08 — David Wright</span>
+  
+  <div class="content clear-block">
+    <p>Today, new video was uploaded.</p>
+<p>You can see a link from this web site to youtube here --&gt;</p>
+<p><a href="http://utonline.org/cms/node/209" title="http://utonline.org/cms/node/209">http://utonline.org/cms/node/209</a></p>
+<p>or you can access the youtube channel here --&gt;</p>
+<p><a href="https://www.youtube.com/channel/UCBoX0iMkfM7utPckbauKzQA" title="https://www.youtube.com/channel/UCBoX0iMkfM7utPckbauKzQA">https://www.youtube.com/channel/UCBoX0iMkfM7utPckbauKzQA</a></p>
+<p>or access the specific video here --&gt;</p>
+<p><a href="https://www.youtube.com/watch?v=Ov2XzGRkXNQ" title="https://www.youtube.com/watch?v=Ov2XzGRkXNQ">https://www.youtube.com/watch?v=Ov2XzGRkXNQ</a></p>
+  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="comment_forbidden first last"><span><a href="/cms/user/login?destination=comment%2Freply%2F228%23comment-form">Login</a> or <a href="/cms/user/register?destination=comment%2Freply%2F228%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-224" class="node">
+
+
+  <h2><a href="/cms/node/224" title="U.S. Department of Commerce Export Control Classification Number (ECCN) for UT3 - &quot;EAR99&quot;">U.S. Department of Commerce Export Control Classification Number (ECCN) for UT3 - &quot;EAR99&quot;</a></h2>
+
+      <span class="submitted">Wed, Jul 08, 2015 - 07:51 — David Wright</span>
+  
+  <div class="content clear-block">
+    <p>Universal Translator 3 ECCN is EAR99.</p>
+  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="comment_forbidden first last"><span><a href="/cms/user/login?destination=comment%2Freply%2F224%23comment-form">Login</a> or <a href="/cms/user/register?destination=comment%2Freply%2F224%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-222" class="node">
+
+
+  <h2><a href="/cms/node/222" title="Universal Translator class follow-up">Universal Translator class follow-up</a></h2>
+
+      <span class="submitted">Wed, Apr 29, 2015 - 07:05 — David Wright</span>
+  
+  <div class="content clear-block">
+    <p><i>The following follow-up message was emailed to registrants of the recent UT3 class:</i></p>
+<p>You are getting this email as a registrant of this PG&amp;E Pacific Energy Center training that was held last week:</p>
+<p>Universal Translator (UT3) Workshop: software demonstration and interactive lab<br />
+Thursday, April 23, 2015, 8:30 am to 4:30 pm<br />
+at the PG&amp;E Pacific Energy Center, 851 Howard Street, San Francisco, CA<br />
+or as an Internet simulcast</p>
+  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="comment_forbidden first"><span><a href="/cms/user/login?destination=comment%2Freply%2F222%23comment-form">Login</a> or <a href="/cms/user/register?destination=comment%2Freply%2F222%23comment-form">register</a> to post comments</span></li>
+<li class="node_read_more last"><a href="/cms/node/222" title="Read the rest of Universal Translator class follow-up.">Read more</a></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-221" class="node">
+
+
+  <h2><a href="/cms/node/221" title="UT3 Installation Error #2503">UT3 Installation Error #2503</a></h2>
+
+      <span class="submitted">Wed, Mar 11, 2015 - 10:58 — David Wright</span>
+  
+  <div class="content clear-block">
+    <p>Recently an issue was reported where a user was trying to install the Universal Translator 3 and got an error #2503. This was on a Windows 8 machine.</p>
+<p>To get UT3 to install on Windows 8, right click on the "setup.exe" and select "Run as administrator".<span class="inline inline-left"><a href="/cms/node/220"><img src="http://utonline.org/cms/system/files/images/RunAsAdministrator.thumbnail.JPG" alt="Installer &amp;quot;setup.exe&amp;quot; &amp;quot;Run as administrator&amp;quot;" title="Installer &amp;quot;setup.exe&amp;quot; &amp;quot;Run as administrator&amp;quot;"  class="image image-thumbnail " width="100" height="50" /></a><span class="caption" style="width: 98px;"><strong>Installer &quot;setup.exe&quot; &quot;Run as administrator&quot;</strong></span></span></p>
+<div class="image-clear"></div>  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="comment_forbidden first last"><span><a href="/cms/user/login?destination=comment%2Freply%2F221%23comment-form">Login</a> or <a href="/cms/user/register?destination=comment%2Freply%2F221%23comment-form">register</a> to post comments</span></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-209" class="node">
+
+
+  <h2><a href="/cms/node/209" title="UT3 Training Videos">UT3 Training Videos</a></h2>
+
+      <span class="submitted">Tue, Mar 04, 2014 - 18:00 — David Wright</span>
+  
+  <div class="content clear-block">
+    <p>Watch Universal Translator 3 Training Videos online at the following link:</p>
+<p><a href="http://www.youtube.com/channel/UCBoX0iMkfM7utPckbauKzQA?feature=watch" title="http://www.youtube.com/channel/UCBoX0iMkfM7utPckbauKzQA?feature=watch">http://www.youtube.com/channel/UCBoX0iMkfM7utPckbauKzQA?feature=watch</a></p>
+  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="comment_comments first last"><a href="/cms/node/209#comments" title="Jump to the first comment of this posting.">1 comment</a></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-161" class="node">
+
+
+  <h2><a href="/cms/node/161" title="TAG Sample Project">TAG Sample Project</a></h2>
+
+  
+  <div class="content clear-block">
+    <p>At the last TAG meeting, several TAG members expressed an interest in working with the sample project that was used for the demonstration.  The attached sample project contains some additional features that were not demonstrated in the meeting, but were part of the conversation.</p>
+  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="comment_forbidden first"><span><a href="/cms/user/login?destination=comment%2Freply%2F161%23comment-form">Login</a> or <a href="/cms/user/register?destination=comment%2Freply%2F161%23comment-form">register</a> to post comments</span></li>
+<li class="node_read_more last"><a href="/cms/node/161" title="Read the rest of TAG Sample Project.">Read more</a></li>
+</ul></div>
+      </div>
+
+</div>
+          </div>
+          <a href="http://utonline.org/cms/rss.xml" class="feed-icon"><img src="/cms/misc/feed.png" alt="Syndicate content" title="UTOnline.org RSS" width="16" height="16" /></a>          <div id="footer"><a href="/cms/node/27">Copyright</a> 1999-2020, UTOnline.org <a href="/cms/node/28">Privacy Policy</a><div id="block-system-0" class="clear-block block block-system">
+
+
+  <div class="content"><a href="http://drupal.org"><img src="/cms/misc/powered-blue-80x15.png" alt="Powered by Drupal, an open source content management system" title="Powered by Drupal, an open source content management system" width="80" height="15" /></a></div>
+</div>
+</div>
+      </div></div></div></div> <!-- /.left-corner, /.right-corner, /#squeeze, /#center -->
+
+              <div id="sidebar-right" class="sidebar">
+                    <div id="block-user-1" class="clear-block block block-user">
+
+  <h2>Navigation</h2>
+
+  <div class="content"><ul class="menu"><li class="leaf first last"><a href="/cms/tracker">Recent posts</a></li>
+</ul></div>
+</div>
+        </div>
+      
+    </div> <!-- /container -->
+  </div>
+<!-- /layout -->
+
+    </body>
+</html>

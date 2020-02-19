@@ -1,0 +1,197 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.islandviewserviceunit.com/sites/all/themes/girlscout/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.islandviewserviceunit.com/?q=home" />
+<link rel="shortlink" href="https://www.islandviewserviceunit.com/?q=home" />
+  <title>| www.islandviewserviceunit.com</title>
+  <style>
+@import url("https://www.islandviewserviceunit.com/modules/system/system.base.css?q280n2");
+</style>
+<style>
+@import url("https://www.islandviewserviceunit.com/sites/all/modules/calendar/css/calendar_multiday.css?q280n2");
+@import url("https://www.islandviewserviceunit.com/sites/all/modules/date/date_api/date.css?q280n2");
+@import url("https://www.islandviewserviceunit.com/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?q280n2");
+@import url("https://www.islandviewserviceunit.com/sites/all/modules/date/date_repeat_field/date_repeat_field.css?q280n2");
+@import url("https://www.islandviewserviceunit.com/modules/field/theme/field.css?q280n2");
+@import url("https://www.islandviewserviceunit.com/sites/all/modules/logintoboggan/logintoboggan.css?q280n2");
+@import url("https://www.islandviewserviceunit.com/modules/node/node.css?q280n2");
+@import url("https://www.islandviewserviceunit.com/sites/all/modules/og_mailinglist/og_mailinglist.css?q280n2");
+@import url("https://www.islandviewserviceunit.com/sites/all/modules/views/css/views.css?q280n2");
+</style>
+<style>
+@import url("https://www.islandviewserviceunit.com/sites/all/modules/ctools/css/ctools.css?q280n2");
+@import url("https://www.islandviewserviceunit.com/sites/all/modules/photos/css/photos.css?q280n2");
+@import url("https://www.islandviewserviceunit.com/sites/all/modules/photos/photos_access/photos_access.css?q280n2");
+</style>
+<link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.5/css/bootstrap.css" media="all" />
+<style>
+@import url("https://www.islandviewserviceunit.com/sites/all/themes/bootstrap/css/3.3.5/overrides.min.css?q280n2");
+@import url("https://www.islandviewserviceunit.com/sites/all/themes/girlscout/css/style.css?q280n2");
+</style>
+      <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="https://www.islandviewserviceunit.com/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script src="https://www.islandviewserviceunit.com/misc/jquery-extend-3.4.0.js?v=1.10.2"></script>
+<script src="https://www.islandviewserviceunit.com/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.islandviewserviceunit.com/misc/drupal.js?q280n2"></script>
+<script src="//cdn.jsdelivr.net/bootstrap/3.3.5/js/bootstrap.js"></script>
+<script src="https://www.islandviewserviceunit.com/sites/all/modules/admin_menu/admin_devel/admin_devel.js?q280n2"></script>
+<script src="https://www.islandviewserviceunit.com/sites/all/modules/og_mailinglist/og_mailinglist.js?q280n2"></script>
+<script src="https://www.islandviewserviceunit.com/sites/all/modules/photos/js/min/photos.min.js?q280n2"></script>
+<script src="https://www.islandviewserviceunit.com/sites/all/modules/photos/photos_access/photos_access.js?q280n2"></script>
+<script src="https://www.islandviewserviceunit.com/sites/all/themes/girlscout/handle_msie.js?q280n2"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"girlscout","theme_token":"l7ZCIaEJu4sxj5NNd734-vyKD0xuCRNX2UY8mY3M3ss","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.5\/js\/bootstrap.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/og_mailinglist\/og_mailinglist.js":1,"sites\/all\/modules\/photos\/js\/min\/photos.min.js":1,"sites\/all\/modules\/photos\/photos_access\/photos_access.js":1,"sites\/all\/themes\/girlscout\/handle_msie.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/og_mailinglist\/og_mailinglist.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/photos\/css\/photos.css":1,"sites\/all\/modules\/photos\/photos_access\/photos_access.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.5\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.5\/overrides.min.css":1,"sites\/all\/themes\/girlscout\/css\/style.css":1}},"photos":{"image_edit_token":"8w4RLzGFdfTDl3uDEP4BzkC5SAG4usiiN3k53B3mjUE"},"urlIsAjaxTrusted":{"\/?q=home\u0026destination=home":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body role="document" class="html not-front not-logged-in one-sidebar sidebar-second page-home">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+        
+<div class="navbar-container">
+<header id="navbar" role="banner" class="navbar container navbar-inverse">
+  <div class="container">
+    <div class="navbar-header">
+              <a class="logo navbar-btn pull-left" href="/" title="Home">
+          <img src="https://www.islandviewserviceunit.com/sites/all/themes/girlscout/logo.png" alt="Boy Scout Troop 111 Ventura California" />
+        </a>
+      
+      
+ 
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+          </div>
+
+          <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first last leaf"><a href="/">Home</a></li>
+</ul>                                      </nav>
+      </div>
+      </div>
+</header>
+</div>
+
+<div class="main-background">
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+    
+    <section class="col-sm-9">
+              <div class="highlighted jumbotron">  <div class="region region-highlighted">
+    <section id="block-block-1" class="block block-block clearfix">
+
+        <h2 class="block-title">Looking for Girl Scouts?</h2>
+    
+  <p>Are you in the Ventura or Ojai area of California and looking for the Girl Scouts? Visit our <a href="https://www.girlscoutsccc.org/en/about-girl-scouts/join.html" target="_new_">council website</a> for more information about joining in the fun and learning.<br />
+If you are a Girl Scout leader or volunteer in the Island View Service Unit, request a password by clicking the "Create new account" link to the right.  You will receive an e-mail asking for a few details, so please check your spam filters!</p>
+
+</section>
+  </div>
+</div>
+      <!--       /-->
+      <a id="main-content"></a>
+                                                                <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <div class="view view-home view-id-home view-display-id-page view-dom-id-4746140e2ee172e1de7b933f93783279">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    <article id="node-193" class="node node-article node-promoted clearfix" about="/?q=node/193" typeof="sioc:Item foaf:Document">
+    <header>
+            <h2><a href="/?q=node/193">The Girl Scout Promise and the Girl Scout Law</a></h2>
+        <span property="dc:title" content="The Girl Scout Promise and the Girl Scout Law" class="rdf-meta element-hidden"></span>        <span class="submitted">
+            <span property="dc:date dc:created" content="2018-01-17T12:49:48-08:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/?q=user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">Darcy Wronkiewicz</span> on Wed, 01/17/2018 - 12:49pm</span>    </span>
+      </header>
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="og:image rdfs:seeAlso" resource="https://www.islandviewserviceunit.com/sites/islandviewserviceunit.com/files/styles/large/public/field/image/promiseandlaw.jpg?itok=ec7s_-lG"><img typeof="foaf:Image" class="img-responsive" src="https://www.islandviewserviceunit.com/sites/islandviewserviceunit.com/files/styles/large/public/field/image/promiseandlaw.jpg?itok=ec7s_-lG" width="371" height="480" alt="" /></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><em>Girl Scout Promise</em><br />
+On my honor, I will try:<br />
+    To serve God and my country,<br />
+    To help people at all times,<br />
+    And to live by the Girl Scout Law.</p>
+<p><em>Girl Scout Law</em><br />
+I will do my best to be<br />
+    honest and fair,<br />
+    friendly and helpful,<br />
+    considerate and caring,<br />
+    courageous and strong, and<br />
+    responsible for what I say and do,<br />
+and to<br />
+    respect myself and others,<br />
+    respect authority,<br />
+    use resources wisely,<br />
+    make the world a better place, and<br />
+    be a sister to every Girl Scout.</p>
+</div></div></div>    <footer>
+        <ul class="links list-inline"><li class="comment_forbidden first last"><span><a href="/?q=user/login&amp;destination=node/193%23comment-form">Log in</a> or <a href="/?q=user/register&amp;destination=node/193%23comment-form">register</a> to post comments</span></li>
+</ul>  </footer>
+    </article>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+  </div>
+    </section>
+
+          <aside class="col-sm-3" role="complementary">
+          <div class="region region-sidebar-second">
+    <section id="block-user-login" class="block block-user clearfix">
+
+        <h2 class="block-title">User login</h2>
+    
+  <form action="/?q=home&amp;destination=home" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-item-name form-type-textfield form-group"> <label class="control-label" for="edit-name">Username or e-mail <span class="form-required" title="This field is required.">*</span></label>
+<input class="form-control form-text required" type="text" id="edit-name" name="name" value="" size="15" maxlength="60" /></div><div class="form-item form-item-pass form-type-password form-group"> <label class="control-label" for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+<input class="form-control form-text required" type="password" id="edit-pass" name="pass" size="15" maxlength="128" /></div><div class="form-item form-item-persistent-login form-type-checkbox checkbox"> <label class="control-label" for="edit-persistent-login"><input type="checkbox" id="edit-persistent-login" name="persistent_login" value="1" class="form-checkbox" />Remember me </label>
+</div><ul><li><a href="/?q=user/register" title="Create a new user account.">Create new account</a></li>
+<li><a href="/?q=user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul><input type="hidden" name="form_build_id" value="form-4uhnYKjXZoN7WXU7-BeDH9xIhg8WJRrJ38mNVSGsG1s" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper form-group" id="edit-actions"><button type="submit" id="edit-submit" name="op" value="Log in" class="btn btn-default form-submit">Log in</button>
+</div></div></form>
+</section>
+  </div>
+      </aside>  <!-- /#sidebar-second -->
+    
+  </div>
+</div>
+</div>
+
+<div class="footer-container">
+  <footer class="footer container">
+      <div class="region region-footer">
+    <section id="block-system-powered-by" class="block block-system clearfix">
+
+      
+  <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>
+</section>
+  </div>
+  </footer>
+</div>
+  <script src="https://www.islandviewserviceunit.com/sites/all/themes/bootstrap/js/bootstrap.js?q280n2"></script>
+</body>
+</html>

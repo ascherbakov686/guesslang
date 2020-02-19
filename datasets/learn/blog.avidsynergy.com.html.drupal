@@ -1,0 +1,380 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="blog.avidsynergy.com RSS" href="http://blog.avidsynergy.com/rss.xml" />
+<link rel="shortcut icon" href="http://blog.avidsynergy.com/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>blog.avidsynergy.com</title>
+  <style type="text/css" media="all">
+@import url("http://blog.avidsynergy.com/modules/system/system.base.css?pozhj3");
+@import url("http://blog.avidsynergy.com/modules/system/system.menus.css?pozhj3");
+@import url("http://blog.avidsynergy.com/modules/system/system.messages.css?pozhj3");
+@import url("http://blog.avidsynergy.com/modules/system/system.theme.css?pozhj3");
+</style>
+<style type="text/css" media="all">
+@import url("http://blog.avidsynergy.com/modules/comment/comment.css?pozhj3");
+@import url("http://blog.avidsynergy.com/modules/field/theme/field.css?pozhj3");
+@import url("http://blog.avidsynergy.com/modules/node/node.css?pozhj3");
+@import url("http://blog.avidsynergy.com/modules/search/search.css?pozhj3");
+@import url("http://blog.avidsynergy.com/modules/user/user.css?pozhj3");
+</style>
+<style type="text/css" media="all">
+@import url("http://blog.avidsynergy.com/themes/bartik/css/layout.css?pozhj3");
+@import url("http://blog.avidsynergy.com/themes/bartik/css/style.css?pozhj3");
+@import url("http://blog.avidsynergy.com/themes/bartik/css/colors.css?pozhj3");
+</style>
+<style type="text/css" media="print">
+@import url("http://blog.avidsynergy.com/themes/bartik/css/print.css?pozhj3");
+</style>
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://blog.avidsynergy.com/themes/bartik/css/ie.css?pozhj3" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="http://blog.avidsynergy.com/themes/bartik/css/ie6.css?pozhj3" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://blog.avidsynergy.com/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://blog.avidsynergy.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://blog.avidsynergy.com/misc/drupal.js?pozhj3"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bartik","theme_token":"ZAv2FDchGRnkNjEJdFnSoAx54r4mN1uJLIaFsbSABFM","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"themes\/bartik\/css\/colors.css":1,"themes\/bartik\/css\/print.css":1,"themes\/bartik\/css\/ie.css":1,"themes\/bartik\/css\/ie6.css":1}},"urlIsAjaxTrusted":{"\/node?destination=node":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper"><div id="page">
+
+  <div id="header" class="without-secondary-menu"><div class="section clearfix">
+
+          <a href="/" title="Home" rel="home" id="logo">
+        <img src="http://blog.avidsynergy.com/themes/bartik/logo.png" alt="Home" />
+      </a>
+    
+          <div id="name-and-slogan">
+
+                              <h1 id="site-name">
+              <a href="/" title="Home" rel="home"><span>blog.avidsynergy.com</span></a>
+            </h1>
+                  
+        
+      </div> <!-- /#name-and-slogan -->
+    
+    
+          <div id="main-menu" class="navigation">
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-219 first last active"><a href="/" class="active">Home</a></li>
+</ul>      </div> <!-- /#main-menu -->
+    
+    
+  </div></div> <!-- /.section, /#header -->
+
+  
+  
+  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
+
+    
+          <div id="sidebar-first" class="column sidebar"><div class="section">
+          <div class="region region-sidebar-first">
+    <div id="block-user-login" class="block block-user">
+
+    <h2>User login</h2>
+  
+  <div class="content">
+    <form action="/node?destination=node" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-M3PlSOwqpBKD_uVnNUAp5N7bK5YEXn_3b12Ca6mlzrM" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+      </div></div> <!-- /.section, /#sidebar-first -->
+    
+    <div id="content" class="column"><div class="section">
+            <a id="main-content"></a>
+                                <div class="tabs">
+                  </div>
+                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-107" class="node node-article node-promoted node-teaser clearfix" about="/node/107" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/107">Rotation of the vector field</a>
+    </h2>
+    <span property="dc:title" content="Rotation of the vector field" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2019-04-13T17:16:29-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/2" typeof="sioc:UserAccount" property="foaf:name" datatype="">Pawel Jan Piskorz</span> on Sat, 04/13/2019 - 17:16</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>On the origin rotation or curl</p>
+<p><a href="http://www.avidsynergy.com/pdf/Curl.pdf">http://www.avidsynergy.com/pdf/Curl.pdf</a></p>
+</div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above clearfix"><h3 class="field-label">Tags: </h3><ul class="links"><li class="taxonomy-term-reference-0" rel="dc:subject"><a href="/taxonomy/term/127" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">vector calculus</a></li><li class="taxonomy-term-reference-1" rel="dc:subject"><a href="/taxonomy/term/128" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">rotation</a></li><li class="taxonomy-term-reference-2" rel="dc:subject"><a href="/taxonomy/term/129" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">curl</a></li></ul></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/107" rel="tag" title="Rotation of the vector field">Read more<span class="element-invisible"> about Rotation of the vector field</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/107%23comment-form">Log in</a> or <a href="/user/register?destination=node/107%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-106" class="node node-article node-promoted node-teaser clearfix" about="/node/106" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/106">Siepomaga.pl</a>
+    </h2>
+    <span property="dc:title" content="Siepomaga.pl" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2019-04-08T15:38:40-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/2" typeof="sioc:UserAccount" property="foaf:name" datatype="">Pawel Jan Piskorz</span> on Mon, 04/08/2019 - 15:38</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a href="Siepomaga.pl">Siepomaga.pl</a></p>
+</div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above clearfix"><h3 class="field-label">Tags: </h3><ul class="links"><li class="taxonomy-term-reference-0" rel="dc:subject"><a href="/taxonomy/term/126" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">sie pomaga</a></li></ul></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/106" rel="tag" title="Siepomaga.pl">Read more<span class="element-invisible"> about Siepomaga.pl</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/106%23comment-form">Log in</a> or <a href="/user/register?destination=node/106%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-105" class="node node-article node-promoted node-teaser clearfix" about="/node/105" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/105">My life is not your porn</a>
+    </h2>
+    <span property="dc:title" content="My life is not your porn" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="1" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2019-04-07T10:52:14-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/2" typeof="sioc:UserAccount" property="foaf:name" datatype="">Pawel Jan Piskorz</span> on Sun, 04/07/2019 - 10:52</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="og:image rdfs:seeAlso" resource="http://blog.avidsynergy.com/sites/default/files/styles/medium/public/field/image/Screen%20Shot%202019-04-07%20at%204.47.00%20PM.png?itok=Huz9VnuI"><a href="/node/105"><img typeof="foaf:Image" src="http://blog.avidsynergy.com/sites/default/files/styles/medium/public/field/image/Screen%20Shot%202019-04-07%20at%204.47.00%20PM.png?itok=Huz9VnuI" width="216" height="220" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>My life is not your porn</p>
+<p><a href="https://podroze.onet.pl/aktualnosci/korea-poludniowa-1600-osob-podgladanych-w-hotelu/rk39w4y">My life is not your porn</a></p>
+</div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above clearfix"><h3 class="field-label">Tags: </h3><ul class="links"><li class="taxonomy-term-reference-0" rel="dc:subject"><a href="/taxonomy/term/124" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">life</a></li><li class="taxonomy-term-reference-1" rel="dc:subject"><a href="/taxonomy/term/125" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">porn</a></li></ul></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/105" rel="tag" title="My life is not your porn">Read more<span class="element-invisible"> about My life is not your porn</span></a></li>
+<li class="comment-comments"><a href="/node/105#comments" title="Jump to the first comment of this posting.">1 comment</a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/105%23comment-form">Log in</a> or <a href="/user/register?destination=node/105%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-104" class="node node-article node-promoted node-teaser clearfix" about="/node/104" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/104">Sherine - Nassay | شيرين - نساي</a>
+    </h2>
+    <span property="dc:title" content="Sherine - Nassay | شيرين - نساي" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2019-04-07T06:19:36-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/2" typeof="sioc:UserAccount" property="foaf:name" datatype="">Pawel Jan Piskorz</span> on Sun, 04/07/2019 - 06:19</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Sherine - Nassay | شيرين - نساي</p>
+<p><a href="https://www.youtube.com/watch?v=cOzcBAoR1vU">Sherine - Nassay | شيرين - نساي</a></p>
+</div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above clearfix"><h3 class="field-label">Tags: </h3><ul class="links"><li class="taxonomy-term-reference-0" rel="dc:subject"><a href="/taxonomy/term/123" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Sherine - Nassay | شيرين - نساي</a></li></ul></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/104" rel="tag" title="Sherine - Nassay | شيرين - نساي">Read more<span class="element-invisible"> about Sherine - Nassay | شيرين - نساي</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/104%23comment-form">Log in</a> or <a href="/user/register?destination=node/104%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-103" class="node node-article node-promoted node-teaser clearfix" about="/node/103" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/103">Dziadziu Czesław Piskorz daje koncert...</a>
+    </h2>
+    <span property="dc:title" content="Dziadziu Czesław Piskorz daje koncert..." class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2019-04-07T06:02:31-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/2" typeof="sioc:UserAccount" property="foaf:name" datatype="">Pawel Jan Piskorz</span> on Sun, 04/07/2019 - 06:02</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a href="https://youtu.be/ZwzjxhhA_rg">https://youtu.be/ZwzjxhhA_rg</a><br />
+Dziadziu Czesław Piskorz daje koncert u cioci i wujka Frasiów na ul. Szpitalnej 3 w Krakowie.<br />
+Ciocia Stasia recytuje wiersz o garnku z popiołem. Nauczyła sie go na pamiec bedac w trzeciej klasie w roku 1909.<br />
+Spotkanie rodzinne.</p>
+<p>W czasach grabieży</p>
+<p>W czasach grabieży i niepokoju<br />
+Żył człowiek, co przez lat wiele<br />
+Zebrany pieniądz o krwawym znoju<br />
+Przechował w garnku w popiele.</p></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above clearfix"><h3 class="field-label">Tags: </h3><ul class="links"><li class="taxonomy-term-reference-0" rel="dc:subject"><a href="/taxonomy/term/122" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Dziadziu Czesław Piskorz daje koncert</a></li></ul></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/103" rel="tag" title="Dziadziu Czesław Piskorz daje koncert...">Read more<span class="element-invisible"> about Dziadziu Czesław Piskorz daje koncert...</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/103%23comment-form">Log in</a> or <a href="/user/register?destination=node/103%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-102" class="node node-article node-promoted node-teaser clearfix" about="/node/102" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/102">Iron Man (2008) - The Jericho Show of Weapons</a>
+    </h2>
+    <span property="dc:title" content="Iron Man (2008) - The Jericho Show of Weapons" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2019-04-07T05:25:44-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/2" typeof="sioc:UserAccount" property="foaf:name" datatype="">Pawel Jan Piskorz</span> on Sun, 04/07/2019 - 05:25</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>For our dear military forces: <a href="https://www.youtube.com/watch?v=KNAgFhh1ji4">The Jericho Show of Weapons</a></p>
+</div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above clearfix"><h3 class="field-label">Tags: </h3><ul class="links"><li class="taxonomy-term-reference-0" rel="dc:subject"><a href="/taxonomy/term/121" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Jericho Show of Weapons</a></li></ul></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/102" rel="tag" title="Iron Man (2008) - The Jericho Show of Weapons">Read more<span class="element-invisible"> about Iron Man (2008) - The Jericho Show of Weapons</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/102%23comment-form">Log in</a> or <a href="/user/register?destination=node/102%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-101" class="node node-article node-promoted node-teaser clearfix" about="/node/101" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/101">Pat Metheny</a>
+    </h2>
+    <span property="dc:title" content="Pat Metheny" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2019-04-07T04:48:09-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/2" typeof="sioc:UserAccount" property="foaf:name" datatype="">Pawel Jan Piskorz</span> on Sun, 04/07/2019 - 04:48</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a href="https://www.youtube.com/watch?v=pIZdsBk79eA">Sisters</a></p>
+<p><a href="https://www.youtube.com/watch?v=l4jIbLYE3gQ">Are You Going with Me?</a></p>
+</div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above clearfix"><h3 class="field-label">Tags: </h3><ul class="links"><li class="taxonomy-term-reference-0" rel="dc:subject"><a href="/taxonomy/term/118" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Pat Metheny</a></li><li class="taxonomy-term-reference-1" rel="dc:subject"><a href="/taxonomy/term/119" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Sisters</a></li><li class="taxonomy-term-reference-2" rel="dc:subject"><a href="/taxonomy/term/120" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Are You Going with Me?</a></li></ul></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/101" rel="tag" title="Pat Metheny">Read more<span class="element-invisible"> about Pat Metheny</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/101%23comment-form">Log in</a> or <a href="/user/register?destination=node/101%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-100" class="node node-article node-promoted node-teaser clearfix" about="/node/100" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/100">Mark Knopfler</a>
+    </h2>
+    <span property="dc:title" content="Mark Knopfler" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2019-04-07T04:35:16-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/2" typeof="sioc:UserAccount" property="foaf:name" datatype="">Pawel Jan Piskorz</span> on Sun, 04/07/2019 - 04:35</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a href="https://www.youtube.com/watch?v=0sYK2RwH5E8">https://www.youtube.com/watch?v=0sYK2RwH5E8</a></p>
+</div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/100" rel="tag" title="Mark Knopfler">Read more<span class="element-invisible"> about Mark Knopfler</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/100%23comment-form">Log in</a> or <a href="/user/register?destination=node/100%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-99" class="node node-article node-promoted node-teaser clearfix" about="/node/99" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/99">Norah Jones - Cold, Cold Heart</a>
+    </h2>
+    <span property="dc:title" content="Norah Jones - Cold, Cold Heart" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2019-04-07T03:29:06-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/2" typeof="sioc:UserAccount" property="foaf:name" datatype="">Pawel Jan Piskorz</span> on Sun, 04/07/2019 - 03:29</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a href="https://www.youtube.com/watch?v=zK7SdU-S1QI">Norah Jones - Cold, Cold Heart</a></p>
+</div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above clearfix"><h3 class="field-label">Tags: </h3><ul class="links"><li class="taxonomy-term-reference-0" rel="dc:subject"><a href="/taxonomy/term/116" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Norah Jones - Cold</a></li><li class="taxonomy-term-reference-1" rel="dc:subject"><a href="/taxonomy/term/117" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Cold Heart</a></li></ul></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/99" rel="tag" title="Norah Jones - Cold, Cold Heart">Read more<span class="element-invisible"> about Norah Jones - Cold, Cold Heart</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/99%23comment-form">Log in</a> or <a href="/user/register?destination=node/99%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-98" class="node node-article node-promoted node-teaser clearfix" about="/node/98" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/98">Achtung! Minen</a>
+    </h2>
+    <span property="dc:title" content="Achtung! Minen" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2019-04-06T20:50:15-04:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/2" typeof="sioc:UserAccount" property="foaf:name" datatype="">Pawel Jan Piskorz</span> on Sat, 04/06/2019 - 20:50</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Uwaga! Miny<br />
+Attention! mines</p>
+<p>Attention!</p>
+<p>some objects, constructions and buildings could be fitted with explosives even while they were built</p>
+</div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-above clearfix"><h3 class="field-label">Tags: </h3><ul class="links"><li class="taxonomy-term-reference-0" rel="dc:subject"><a href="/taxonomy/term/115" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Minen</a></li></ul></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/98" rel="tag" title="Achtung! Minen">Read more<span class="element-invisible"> about Achtung! Minen</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/98%23comment-form">Log in</a> or <a href="/user/register?destination=node/98%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/node?page=1">2</a></li>
+<li class="pager-item"><a title="Go to page 3" href="/node?page=2">3</a></li>
+<li class="pager-item"><a title="Go to page 4" href="/node?page=3">4</a></li>
+<li class="pager-item"><a title="Go to page 5" href="/node?page=4">5</a></li>
+<li class="pager-item"><a title="Go to page 6" href="/node?page=5">6</a></li>
+<li class="pager-item"><a title="Go to page 7" href="/node?page=6">7</a></li>
+<li class="pager-item"><a title="Go to page 8" href="/node?page=7">8</a></li>
+<li class="pager-item"><a title="Go to page 9" href="/node?page=8">9</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-next"><a title="Go to next page" href="/node?page=1">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/node?page=10">last »</a></li>
+</ul></div>  </div>
+</div>
+  </div>
+      <a href="/rss.xml" class="feed-icon" title="Subscribe to blog.avidsynergy.com RSS"><img typeof="foaf:Image" src="http://blog.avidsynergy.com/misc/feed.png" width="16" height="16" alt="Subscribe to blog.avidsynergy.com RSS" /></a>
+    </div></div> <!-- /.section, /#content -->
+
+    
+  </div></div> <!-- /#main, /#main-wrapper -->
+
+  
+  <div id="footer-wrapper"><div class="section">
+
+    
+          <div id="footer" class="clearfix">
+          <div class="region region-footer">
+    <div id="block-system-powered-by" class="block block-system">
+
+    
+  <div class="content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+</div>
+  </div>
+      </div> <!-- /#footer -->
+    
+  </div></div> <!-- /.section, /#footer-wrapper -->
+
+</div></div> <!-- /#page, /#page-wrapper -->
+  </body>
+</html>

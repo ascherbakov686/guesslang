@@ -1,0 +1,307 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>xaox.net</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://rever.se/blogapi/rsd" />
+<link rel="alternate" type="application/rss+xml" title="xaox.net RSS" href="http://rever.se/rss.xml" />
+  <link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/fckeditor/fckeditor.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/geshifilter/geshifilter.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/genesis/css/type.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/genesis/css/forms.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/genesis/css/messages.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/genesis/css/lists.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/genesis/css/tables.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/genesis/css/tabs.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/genesis/css/block-edit.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/genesis/css/admin.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/genesis/base.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/genesis/layout.css?r" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/genesis_darkmatter/genesis_darkmatter.css?r" />
+  <!--[if IE]>
+    <link rel="stylesheet" href="/sites/all/themes/genesis_darkmatter/ie.css" type="text/css" />
+  <![endif]-->
+  <script type="text/javascript" src="/misc/jquery.js?r"></script>
+<script type="text/javascript" src="/misc/drupal.js?r"></script>
+<script type="text/javascript" src="/sites/all/themes/genesis/script.js?r"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/" });
+//--><!]]>
+</script>
+  <script type="text/javascript"> </script>
+</head>
+<body id="genesis_1" >
+  <div id="container" class="width front not-logged-in page-node one-sidebar sidebar-left ">
+
+    				
+    <div id="header-nav" class="with-header with-nav">
+				
+						<div id="header" class="clear-block">
+								<div class="header-inner inner">
+								
+																						<div id="branding">
+																																												<div id="logo"><a href="/" title="Home" rel="home">
+						  <img src="/sites/default/files/genesis_darkmatter_logo.png" alt="Home" />
+						</a></div>
+																		
+																		
+																												
+												</div> <!-- /branding -->
+												
+										 <!-- /search-box -->
+		
+												
+								</div> <!-- /header-inner -->
+						</div>  <!-- /header -->
+		
+														<div id="nav" class="menu with-primary">
+										<div class="nav-inner">
+				
+																										<div id="primary" class="clear-block">
+														  <div class="primary-inner">
+																  <ul class="links primary-links"><li class="menu-183 first"><a href="https://xaox.net/webmail/" title="">Webmail</a></li>
+<li class="menu-182"><a href="/ca" title="VPN Information">XaoxNet CA</a></li>
+<li class="menu-201"><a href="/olf" title="Materials from my talk at Ohio LinuxFest 2017">Ohio LinuxFest</a></li>
+<li class="menu-189 last"><a href="/content/mrs-helmicks-class-materials" title="Mrs. Helmick&#039;s Class Materials">Mrs. Helmick&#039;s Class Materials</a></li>
+</ul>														  </div>
+														</div>
+																
+																
+										</div>
+								</div> <!-- /navigation -->
+										
+    </div> <!-- /header-nav -->
+				
+						
+				
+				<div id="columns" class="clear clear-block">
+						<div id="content">
+								<div id="content-inner">
+	
+											
+											
+										<div id="main-content">
+																																																												<div class="node node-teaser node-type-blog" id="node-14">
+  <div class="node-inner inner">
+
+					<h2 class="node-title"><a href="/content/bunch-updates" rel="bookmark">Bunch of updates...</a></h2>
+		
+		
+  					<div class="submitted">
+				<abbr class="date" title="Sunday, January 20, 2013 - 22:26"> January 20, 2013</abbr>
+				<span class="author"> by Mike</span>
+			</div>
+		
+		
+  <div class="node-content">
+		  <p>I have installed a new certificate on the secure side of XaoxNet so you shouldn't need to install a certificate authority. &nbsp;I have also updated Drupal to 6.28 for a security fix and update RoundCube webmail to 0.8.4 as a general upgrade. &nbsp;RoundCube now has a plugin that allows you to sync your Google contacts.<br />
+As always, let me know if you have any trouble.</p>
+  </div>
+
+		
+					<div class="actions"><ul class="links inline"><li class="blog_usernames_blog first last"><a href="/blogs/mike" title="Read Mike&#039;s latest blog entries.">Mike&#039;s blog</a></li>
+</ul></div>
+		
+	</div>
+</div> <!-- /node --><div class="node node-teaser node-type-blog" id="node-13">
+  <div class="node-inner inner">
+
+					<h2 class="node-title"><a href="/content/update-drupal-627" rel="bookmark">Update to Drupal 6.27</a></h2>
+		
+		
+  					<div class="submitted">
+				<abbr class="date" title="Monday, January 14, 2013 - 23:04"> January 14, 2013</abbr>
+				<span class="author"> by Mike</span>
+			</div>
+		
+		
+  <div class="node-content">
+		  <p>I Finally updated to the latest Drupal 6.27 release.  Let me know if you notice any problems.</p>
+  </div>
+
+		
+					<div class="actions"><ul class="links inline"><li class="blog_usernames_blog first last"><a href="/blogs/mike" title="Read Mike&#039;s latest blog entries.">Mike&#039;s blog</a></li>
+</ul></div>
+		
+	</div>
+</div> <!-- /node --><div class="node node-teaser node-type-blog" id="node-11">
+  <div class="node-inner inner">
+
+					<h2 class="node-title"><a href="/content/ipv6-coming-xaoxnet" rel="bookmark">IPv6 coming to Xaox.Net...</a></h2>
+		
+		
+  					<div class="submitted">
+				<abbr class="date" title="Sunday, July 29, 2012 - 20:50"> July 29, 2012</abbr>
+				<span class="author"> by Mike</span>
+			</div>
+		
+		
+  <div class="node-content">
+		  <p>I'm beginning the roll-out of IPv6 for Xaox.Net. So far this web page is available via IPv6. You can check your IPv6 compatibility on the left in the &quot;IPv6 Test&quot; box.<br />
+If your ISP hasn't rolled out IPv6 and you want to get started, checkout the <a href="http://www.tunnelbroker.net/">Hurricane Electric Tunnelbroker</a>.</p>
+  </div>
+
+		
+					<div class="actions"><ul class="links inline"><li class="blog_usernames_blog first last"><a href="/blogs/mike" title="Read Mike&#039;s latest blog entries.">Mike&#039;s blog</a></li>
+</ul></div>
+		
+	</div>
+</div> <!-- /node --><div class="node node-teaser node-type-blog" id="node-9">
+  <div class="node-inner inner">
+
+					<h2 class="node-title"><a href="/content/another-drupal-update-625" rel="bookmark">Another Drupal update: 6.25</a></h2>
+		
+		
+  					<div class="submitted">
+				<abbr class="date" title="Friday, March 9, 2012 - 23:20"> March 9, 2012</abbr>
+				<span class="author"> by Mike</span>
+			</div>
+		
+		
+  <div class="node-content">
+		  <p>In the process of setting up a new site, I have updated Drupal to 6.25.  Let me know if you have any problems.</p>
+  </div>
+
+		
+					<div class="actions"><ul class="links inline"><li class="blog_usernames_blog first last"><a href="/blogs/mike" title="Read Mike&#039;s latest blog entries.">Mike&#039;s blog</a></li>
+</ul></div>
+		
+	</div>
+</div> <!-- /node --><div class="node node-teaser node-type-blog" id="node-6">
+  <div class="node-inner inner">
+
+					<h2 class="node-title"><a href="/content/migration-new-server-finished" rel="bookmark">Migration to new server finished...</a></h2>
+		
+		
+  					<div class="submitted">
+				<abbr class="date" title="Friday, April 22, 2011 - 00:22"> April 22, 2011</abbr>
+				<span class="author"> by Mike</span>
+			</div>
+		
+		
+  <div class="node-content">
+		  <p>Everything should be moved to the new server now.  Let me know if you notice any problems.</p>
+  </div>
+
+		
+					<div class="actions"><ul class="links inline"><li class="blog_usernames_blog first last"><a href="/blogs/mike" title="Read Mike&#039;s latest blog entries.">Mike&#039;s blog</a></li>
+</ul></div>
+		
+	</div>
+</div> <!-- /node --><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a href="/node?page=1" title="Go to page 2" class="active">2</a></li>
+<li class="pager-next"><a href="/node?page=1" title="Go to next page" class="active">next ›</a></li>
+<li class="pager-last last"><a href="/node?page=1" title="Go to last page" class="active">last »</a></li>
+</ul></div>										</div>
+	
+											
+																						<div id="feed-icon">
+														<a href="http://rever.se/rss.xml" class="feed-icon"><img src="/sites/all/themes/genesis_darkmatter/images/rss-g.jpg" alt="Syndicate content" title="xaox.net RSS" width="19" height="19" /></a>												</div>
+										
+								</div>
+						</div>
+
+														<div id="sidebar-left">
+										<div class="inner">
+												<div id="block-user-1" class="block block-user block-odd left">
+  <div class="block-inner inner">
+
+          <h2 class="block-title">Navigation</h2>
+    
+    <div class="block-content">
+      <ul class="menu"><li class="leaf first last"><a href="/tracker">Recent posts</a></li>
+</ul>    </div>
+
+        
+  </div>
+</div><div id="block-user-0" class="block block-user block-even left">
+  <div class="block-inner inner">
+
+          <h2 class="block-title">User login</h2>
+    
+    <div class="block-content">
+      <form action="/node?destination=node"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-9984a12410d725ff908f067cbbd2f79c" value="form-9984a12410d725ff908f067cbbd2f79c"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+    </div>
+
+        
+  </div>
+</div><div id="block-block-1" class="block block-block block-odd left">
+  <div class="block-inner inner">
+
+          <h2 class="block-title">IPv6 Test</h2>
+    
+    <div class="block-content">
+      <!-- IPv6-test.com widget BEGIN --><!-- IPv6-test.com widget BEGIN --><script type="text/javascript">var _ipv6test_widget_style = {
+border: "solid 1px #000",
+font_size: "12px",
+show_country_flags: true,
+show_loading_anim: true,
+ipv4_label_color: "#41c241",
+ipv4_background_color: "#444",
+ipv6_label_color: "#4141c2",
+ipv6_background_color: "#333",
+stats_position: "bottom",
+stats_font_size: "10px",
+stats_color: "#eee",
+stats_color_v4: "#beb",
+stats_color_v6: "#bbe",
+stats_background_color: "#000"
+}</script><div id="_ipv6test_widget" style="width:210px;display:none">loading <a href="http://ipv6-test.com/">IPv6 connection test</a> ...</div>
+<script type="text/javascript" src="http://ipv6-test.com/api/widget.php?domain=referer" async="async"></script><!-- IPv6-test.com widget END --><!-- IPv6-test.com widget END -->    </div>
+
+        
+  </div>
+</div>										</div>
+								</div> <!-- /sidebar-left -->
+						
+						
+				</div> <!-- /col wrapper -->
+
+				
+    						<div id="foot-wrapper">
+				
+																		<div id="footer">
+												<div id="block-system-0" class="block block-system block-odd footer">
+  <div class="block-inner inner">
+
+    
+    <div class="block-content">
+      <a href="http://drupal.org"><img src="/misc/powered-blue-80x15.png" alt="Powered by Drupal, an open source content management system" title="Powered by Drupal, an open source content management system" width="80" height="15" /></a>    </div>
+
+        
+  </div>
+</div>										</div> <!-- /footer -->
+																
+																<div id="footer-message">
+										Questions/Comments? Email the <a href="mailto:webmaster@xaox.net">webmaster@xaox.net</a>								</div> <!-- /footer-message -->
+										
+						</div> <!-- /foot-wrapper -->
+    				
+  </div> <!-- /container -->
+		
+				
+</body>
+</html>

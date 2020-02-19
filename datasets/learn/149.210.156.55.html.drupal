@@ -1,0 +1,95 @@
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<!--Import Google Icon Font-->
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<!--Import materialize.css-->
+<link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+
+<!--Let browser know website is optimized for mobile-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<link type="text/css" rel="stylesheet" href="css/customcss.css"  media="screen,projection"/>
+		<title>Home</title>
+	</head>
+	<body>
+		
+
+<nav>
+	<div class="nav-wrapper blue mooigrijs">
+		<a href="index.php" class="brand-logo hide-on-med-and-down">LCL lanparty</a>
+		<span class="brand-logo center" id="pagetitlecontainer"></span>
+		<a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+		<ul class="right hide-on-med-and-down">
+			
+			<li><a href="index.php">Home</a></li>
+			<li><a href="register.php">Register</a></li>
+			<li><a href="login.php">Login</a></li>
+		
+		</ul>
+	</div>
+</nav>
+
+<ul class="sidenav" id="mobile-demo">
+	
+			<li><a href="index.php">Home</a></li>
+			<li><a href="register.php">Register</a></li>
+			<li><a href="login.php">Login</a></li>
+		
+</ul>
+
+<script>
+	$(document).ready(function(){
+		$('.sidenav').sidenav();
+		$(".dropdown-trigger").dropdown();
+	});
+	
+	var pagetitle = $("title").html();
+	$("#pagetitlecontainer").html(pagetitle);
+</script>
+		
+		<div class="row">
+			
+			<div class="col l4 m12 s12 right">
+				<div class="card-panel white">
+					<h4>Info</h4>
+					<div id="datecontainer">
+						Datum: <span id="lan_date"></span><br>
+						Start tijd: <span id="lan_starttime"></span><br>
+						Eind tijd: <span id="lan_endtime"></span><br>
+						Inschrijvingen: <span id="lan_participants"></span>/<span id="lan_maxparticipants"></span><br>
+					</div>
+				</div>
+				<div class="card-panel white">
+					<h4>Inschrijven</h4>
+					Om in te kunnen schrijven moet je ingelogd zijn.<br>
+				</div>
+				<div class="card-panel white">
+					<h4>Huisregels</h4>
+					<div id="rulescontainer">
+					</div>
+				</div>
+			</div>
+			<div class="col l8 m12 s12 left">
+				<div class="card-panel">
+					<div id="maininfocontainer">
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<!--JavaScript at end of body for optimized loading-->
+<script type="text/javascript" src="js/materialize.min.js"></script>
+<script type="text/javascript" src="js/functions.js"></script>
+<script src="js/sweetalert2.all.js"></script>
+		
+		<script>
+			loadinfo();
+			loaddate();
+		</script>
+		
+	</body>
+</html>

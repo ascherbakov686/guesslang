@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://iq.kybest.hu/profiles/issueq/themes/iq_garland/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Issues | IssueQ</title>
+  <style type="text/css" media="all">
+@import url("https://iq.kybest.hu/modules/system/system.base.css?q0xaaf");
+@import url("https://iq.kybest.hu/modules/system/system.menus.css?q0xaaf");
+@import url("https://iq.kybest.hu/modules/system/system.messages.css?q0xaaf");
+@import url("https://iq.kybest.hu/modules/system/system.theme.css?q0xaaf");
+</style>
+<style type="text/css" media="all">
+@import url("https://iq.kybest.hu/modules/book/book.css?q0xaaf");
+@import url("https://iq.kybest.hu/modules/comment/comment.css?q0xaaf");
+@import url("https://iq.kybest.hu/modules/field/theme/field.css?q0xaaf");
+@import url("https://iq.kybest.hu/modules/node/node.css?q0xaaf");
+@import url("https://iq.kybest.hu/modules/user/user.css?q0xaaf");
+@import url("https://iq.kybest.hu/profiles/issueq/modules/contrib/views/css/views.css?q0xaaf");
+@import url("https://iq.kybest.hu/profiles/issueq/modules/contrib/ckeditor/css/ckeditor.css?q0xaaf");
+</style>
+<style type="text/css" media="all">
+@import url("https://iq.kybest.hu/profiles/issueq/modules/contrib/ctools/css/ctools.css?q0xaaf");
+@import url("https://iq.kybest.hu/profiles/issueq/modules/contrib/dhtml_menu/dhtml_menu.css?q0xaaf");
+@import url("https://iq.kybest.hu/profiles/issueq/modules/contrib/panels/css/panels.css?q0xaaf");
+</style>
+<style type="text/css" media="all">
+@import url("https://iq.kybest.hu/themes/garland/style.css?q0xaaf");
+@import url("https://iq.kybest.hu/profiles/issueq/themes/iq_garland/css/iq-styles.css?q0xaaf");
+</style>
+<style type="text/css" media="print">
+@import url("https://iq.kybest.hu/themes/garland/print.css?q0xaaf");
+</style>
+
+<!--[if lt IE 7]>
+<link type="text/css" rel="stylesheet" href="https://iq.kybest.hu/themes/garland/fix-ie.css?q0xaaf" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="https://iq.kybest.hu/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://iq.kybest.hu/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://iq.kybest.hu/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://iq.kybest.hu/misc/drupal.js?q0xaaf"></script>
+<script type="text/javascript" src="https://iq.kybest.hu/profiles/issueq/modules/contrib/dhtml_menu/dhtml_menu.js?q0xaaf"></script>
+<script type="text/javascript" src="https://iq.kybest.hu/misc/autocomplete.js?v=7.67"></script>
+<script type="text/javascript" src="https://iq.kybest.hu/profiles/issueq/themes/iq_garland/js/iq-scripts.js?q0xaaf"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"iq_garland","theme_token":"Kinc0lM2XWL2hhgxNr9Yvc1bBWoLnzfljsVzqnjIdFs","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/issueq\/modules\/contrib\/dhtml_menu\/dhtml_menu.js":1,"misc\/autocomplete.js":1,"profiles\/issueq\/themes\/iq_garland\/js\/iq-scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"profiles\/issueq\/modules\/contrib\/views\/css\/views.css":1,"profiles\/issueq\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/issueq\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/issueq\/modules\/contrib\/dhtml_menu\/dhtml_menu.css":1,"profiles\/issueq\/modules\/contrib\/panels\/css\/panels.css":1,"themes\/garland\/style.css":1,"profiles\/issueq\/themes\/iq_garland\/css\/iq-styles.css":1,"themes\/garland\/print.css":1,"themes\/garland\/fix-ie.css":1}},"dhtmlMenu":{"nav":"clone","animation":{"effects":{"height":"height","opacity":"opacity","width":0},"speed":"500"},"effects":{"siblings":"close-same-tree","children":"none","remember":"0"},"filter":{"type":"blacklist","list":{"devel":0,"management":0,"navigation":0,"user-menu":0}}},"urlIsAjaxTrusted":{"\/issues":true,"\/issues?destination=issues":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-issues i18n-en fluid-width" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+      
+  <div id="wrapper">
+    <div id="container" class="clearfix">
+
+      <div id="header">
+        <div id="logo-floater">
+                              <div id="branding"><strong><a href="/">
+                          <img src="https://iq.kybest.hu/profiles/issueq/themes/iq_garland/logo.png" alt="IssueQ " title="IssueQ " id="logo" />
+                        <span>IssueQ</span>            </a></strong></div>
+                          </div>
+
+        <h2 class="element-invisible">Main menu</h2><ul class="links inline main-menu"><li class="menu-881 active-trail first active"><a href="/issues" class="active-trail active">Issues</a></li>
+<li class="menu-882 last"><a href="/projects">Projects</a></li>
+</ul>        <h2 class="element-invisible">Secondary menu</h2><ul class="links inline secondary-menu"><li class="menu-880 first last"><a href="/comments">Comments</a></li>
+</ul>      </div> <!-- /#header -->
+
+              <div id="sidebar-first" class="sidebar">
+            <div class="region region-sidebar-first">
+    <div id="block-system-main-menu" class="block block-system block-menu clearfix">
+
+    <h2 class="title">Main menu</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf active-trail"><a href="/issues" class="active-trail active">Issues</a></li>
+<li class="last leaf"><a href="/projects">Projects</a></li>
+</ul>  </div>
+</div>
+<div id="block-system-user-menu" class="block block-system block-menu clearfix">
+
+    <h2 class="title">User menu</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first last collapsed"><a href="/comments">Comments</a></li>
+</ul>  </div>
+</div>
+<div id="block-user-login" class="block block-user clearfix">
+
+    <h2 class="title">User login</h2>
+  
+  <div class="content">
+    <form action="/issues?destination=issues" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-ZP9aGGFoeGZkaGgD9nRzYfXRQV96EsgGxeQmkMEZMew" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+        </div>
+      
+      <div id="center"><div id="squeeze"><div class="right-corner"><div class="left-corner">
+                              <a id="main-content"></a>
+          <div id="tabs-wrapper" class="clearfix">                                <h1 id="page-title"  class="with-tabs">Issues</h1>
+                              </div>                                                  <div class="clearfix">
+              <div class="region region-content">
+    <div id="block-system-main" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <div class="view view-issues view-id-issues view-display-id-page view-dom-id-bebfbb503e5cd10c0a2c6cbac11e90ff">
+        
+      <div class="view-filters">
+      <form action="/issues" method="get" id="views-exposed-form-issues-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-project-wrapper" class="views-exposed-widget views-widget-filter-og_group_ref_target_id">
+                  <label for="edit-project">
+            Project          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-project">
+ <select id="edit-project" name="project" class="form-select"><option value="" selected="selected">All</option></select>
+</div>
+        </div>
+              </div>
+          <div id="edit-status-wrapper" class="views-exposed-widget views-widget-filter-field_issue_status_term_tid">
+                  <label for="edit-status">
+            Status          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-status">
+ <select multiple="multiple" name="status[]" id="edit-status" size="9" class="form-select"><option value="6">Backlog</option><option value="7">Planned</option><option value="8">Develop</option><option value="9">-Ongoing</option><option value="10">-Done</option><option value="11">Testing</option><option value="12">Test OK</option><option value="13">Deployable</option><option value="49">New</option><option value="50">Preparing quotation</option><option value="51">Open</option><option value="52">Waiting for feedback</option><option value="53">Postponed</option><option value="54">Duplicate</option><option value="55">Waiting for test</option><option value="56">Solved</option><option value="57">Ready to invoice</option><option value="58">Invoiced</option><option value="59">Closed</option><option value="14">Live!</option></select>
+</div>
+        </div>
+              </div>
+          <div id="edit-type-wrapper" class="views-exposed-widget views-widget-filter-field_issue_type_value">
+                  <label for="edit-type">
+            Type          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-type">
+ <select multiple="multiple" name="type[]" id="edit-type" size="4" class="form-select"><option value="0">Error</option><option value="1">Feature request</option><option value="2">General task</option><option value="3">Question</option></select>
+</div>
+        </div>
+              </div>
+          <div id="edit-assigned-to-wrapper" class="views-exposed-widget views-widget-filter-field_issue_assigned_to_target_id">
+                  <label for="edit-assigned-to">
+            Assigned to          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-assigned-to-value">
+ <select id="edit-assigned-to-value" name="assigned_to[value]" class="form-select"><option value="" selected="selected">- Any -</option><option value="0">Not assigned</option></select>
+</div>
+        </div>
+              </div>
+          <div id="edit-tag-wrapper" class="views-exposed-widget views-widget-filter-term_node_tid_depth">
+                  <label for="edit-tag">
+            Tag          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-tag">
+ <input type="text" id="edit-tag" name="tag" value="" size="15" maxlength="128" class="form-text form-autocomplete" /><input type="hidden" id="edit-tag-autocomplete" value="https://iq.kybest.hu/index.php?q=admin/views/ajax/autocomplete/taxonomy/3" disabled="disabled" class="autocomplete" />
+</div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-issues" name="" value="Apply" class="form-submit" />    </div>
+          <div class="views-exposed-widget views-reset-button">
+        <input type="submit" id="edit-reset" name="op" value="Reset" class="form-submit" />      </div>
+      </div>
+</div>
+</div></form>    </div>
+  
+  
+  
+  
+  
+  
+  
+      <div class="feed-icon">
+      <a href="/issues/export?attach=page"><img src="https://iq.kybest.hu/profiles/issueq/modules/contrib/views_data_export/images/csv.png" alt="CSV" title="CSV" /></a>    </div>
+  
+</div>  </div>
+</div>
+  </div>
+          </div>
+                      <div class="region region-footer">
+    <div id="block-system-powered-by" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+</div>
+  </div>
+      </div></div></div></div> <!-- /.left-corner, /.right-corner, /#squeeze, /#center -->
+
+      
+    </div> <!-- /#container -->
+  </div> <!-- /#wrapper -->
+  </body>
+</html>

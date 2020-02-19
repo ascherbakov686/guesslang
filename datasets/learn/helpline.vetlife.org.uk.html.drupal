@@ -1,0 +1,771 @@
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'html' -->
+<!-- FILE NAME SUGGESTIONS:
+   * html--front.html.twig
+   * html--node--1.html.twig
+   * html--node--%.html.twig
+   * html--node.html.twig
+   x html.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap/templates/system/html.html.twig' -->
+<!DOCTYPE html>
+<html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<link rel="shortlink" href="https://helpline.vetlife.org.uk/" />
+<link rel="canonical" href="https://helpline.vetlife.org.uk/" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="revision" href="https://helpline.vetlife.org.uk/welcome-vetlife-helpline" />
+
+    <title>Welcome to the Vetlife Helpline | Vetlife helpline</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_7iU7EvWsH1XLpTp8UcpmqpJS4fEmF4-zwnYDWt82-1A.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_uT6rjZ7mDU5hgXxmO3T0WRcWsNNnjJ6madoQbWll-3I.css" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Nunito:400,400i,900,900i" />
+
+    
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+
+  </head>
+  <body class="path-frontpage page-node-type-article has-glyphicons">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'off_canvas_page_wrapper' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/off-canvas-page-wrapper.html.twig' -->
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'page' -->
+<!-- FILE NAME SUGGESTIONS:
+   * page--front.html.twig
+   * page--node--1.html.twig
+   * page--node--%.html.twig
+   * page--node.html.twig
+   x page.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/serenowebsitetheme/sass/templates/system/page.html.twig' -->
+  
+    <header class='container' role="banner">
+      <div class="row">
+                                
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--top-rung.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap/templates/system/region.html.twig' -->
+  <div class="region region-top-rung">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--serenowebsitetheme-branding.html.twig
+   x block--system-branding-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/serenowebsitetheme/sass/templates/block/block--system-branding-block.html.twig' -->
+  		<div class="col-lg-3 col-md-6 col-xs-12">
+			<a class="logo navbar-btn pull-left" href="/" title="Home" rel="home">
+				<img src="/sites/default/files/vetlife.png" alt="Home" />
+			</a>
+		</div>
+  	
+  
+  
+<!-- END OUTPUT from 'themes/custom/serenowebsitetheme/sass/templates/block/block--system-branding-block.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--phonecalltoaction.html.twig
+   * block--block-content--664ba534-2bec-4b66-8a9f-9d756fada6d8.html.twig
+   * block--block-content.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap/templates/block/block.html.twig' -->
+<section id="block-phonecalltoaction" class="col-lg-8 col-md-6 col-sm-8 col-xs-12 telephone settings-tray-editable block block-block-content block-block-content664ba534-2bec-4b66-8a9f-9d756fada6d8 clearfix" data-drupal-settingstray="editable">
+  
+    
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--block-content--body--basic.html.twig
+   * field--block-content--body.html.twig
+   * field--block-content--basic.html.twig
+   * field--body.html.twig
+   * field--text-with-summary.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap/templates/field/field.html.twig' -->
+
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div class="telephone-content">
+   <span class="telephone-title">Supporting the veterinary community</span><span class="telephone-number">Helpline <a href="tel:+4403030402551">0303 040 2551</a></span>
+ </div>
+</div>
+      
+<!-- END OUTPUT from 'themes/contrib/bootstrap/templates/field/field.html.twig' -->
+
+
+  </section>
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap/templates/block/block.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--serenowebsitetheme-account-menu.html.twig
+   x block--system-menu-block--account.html.twig
+   * block--system-menu-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap/templates/block/block--system-menu-block--account.html.twig' -->
+<nav role="navigation" aria-labelledby="block-serenowebsitetheme-account-menu-menu" id="block-serenowebsitetheme-account-menu" class="col-lg-1 col-md-12 col-sm-4 col-xs-12 pull-right settings-tray-editable" data-drupal-settingstray="editable">
+            <h2 class="sr-only" id="block-serenowebsitetheme-account-menu-menu">User account menu</h2>
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__account' -->
+<!-- FILE NAME SUGGESTIONS:
+   x menu--account.html.twig
+   x menu--account.html.twig
+   * menu.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/serenowebsitetheme/sass/templates/menu/menu--account.html.twig' -->
+
+
+      <ul class="menu menu--account nav navbar-nav navbar-right">
+                        <li class="btn btn-primary">
+        <a href="/user/login" data-drupal-link-system-path="user/login">Log in</a>
+                  </li>
+        </ul>
+  
+
+<!-- END OUTPUT from 'themes/custom/serenowebsitetheme/sass/templates/menu/menu--account.html.twig' -->
+
+
+  </nav>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap/templates/block/block--system-menu-block--account.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap/templates/system/region.html.twig' -->
+
+
+                        </div>
+    </header>
+
+		
+        <header class="navbar navbar-default container" id="navbar" role="banner">
+            <div class="navbar-header">
+        
+                          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+              </div>
+
+                    <div id="navbar-collapse" class="navbar-collapse collapse">
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--navigation-collapsible.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap/templates/system/region.html.twig' -->
+  <div class="region region-navigation-collapsible">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--serenowebsitetheme-main-menu.html.twig
+   x block--system-menu-block--main.html.twig
+   * block--system-menu-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap/templates/block/block--system-menu-block--main.html.twig' -->
+<nav role="navigation" aria-labelledby="block-serenowebsitetheme-main-menu-menu" id="block-serenowebsitetheme-main-menu" class="settings-tray-editable" data-drupal-settingstray="editable">
+            <h2 class="sr-only" id="block-serenowebsitetheme-main-menu-menu">Main navigation</h2>
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__main' -->
+<!-- FILE NAME SUGGESTIONS:
+   x menu--main.html.twig
+   x menu--main.html.twig
+   * menu.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap/templates/menu/menu--main.html.twig' -->
+
+      <ul class="menu menu--main nav navbar-nav">
+                      <li class="active active-trail first">
+                                        <a href="/welcome-vetlife-helpline" title="Helpline home page" class="active-trail is-active" data-drupal-link-system-path="node/1">Home</a>
+              </li>
+                      <li>
+                                        <a href="/about-us" title="About the helpline" data-drupal-link-system-path="node/2">About us</a>
+              </li>
+                      <li class="last">
+                                        <a href="/your-privacy" title="How we protect your privacy" data-drupal-link-system-path="node/24">Your privacy</a>
+              </li>
+        </ul>
+  
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap/templates/menu/menu--main.html.twig' -->
+
+
+  </nav>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap/templates/block/block--system-menu-block--main.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap/templates/system/region.html.twig' -->
+
+
+        </div>
+                </header>
+  
+  <div role="main" class="main-container container js-quickedit-main-content">
+    <div class="row">
+
+                              <div class="col-sm-12" role="heading">
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--header.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap/templates/system/region.html.twig' -->
+  <div class="region region-header">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--serenowebsitetheme-breadcrumbs.html.twig
+   * block--system-breadcrumb-block.html.twig
+   x block--system.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap/templates/block/block--system.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'breadcrumb' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap/templates/system/breadcrumb.html.twig' -->
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap/templates/system/breadcrumb.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap/templates/block/block--system.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--serenowebsitetheme-messages.html.twig
+   x block--system-messages-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/block--system-messages-block.html.twig' -->
+<div data-drupal-messages-fallback class="hidden"></div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/block--system-messages-block.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--serenowebsitetheme-page-title.html.twig
+   x block--page-title-block.html.twig
+   * block--core.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap/templates/block/block--page-title-block.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'page_title' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap/templates/system/page-title.html.twig' -->
+  <h1 class="page-header">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--node--title--article.html.twig
+   x field--node--title.html.twig
+   * field--node--article.html.twig
+   * field--title.html.twig
+   * field--string.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/node/templates/field--node--title.html.twig' -->
+<span property="schema:name">Welcome to the Vetlife Helpline</span>
+
+<!-- END OUTPUT from 'core/modules/node/templates/field--node--title.html.twig' -->
+
+</h1>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap/templates/system/page-title.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap/templates/block/block--page-title-block.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap/templates/system/region.html.twig' -->
+
+
+          </div>
+              
+            
+                  <section class="col-sm-9">
+
+                
+                                      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--help.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap/templates/system/region.html.twig' -->
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap/templates/system/region.html.twig' -->
+
+
+                  
+                          <a id="main-content"></a>
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--content.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap/templates/system/region.html.twig' -->
+  <div class="region region-content">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--homepageservices.html.twig
+   * block--block-content--aef1b468-d6f5-4515-956d-d0f9d479a2b9.html.twig
+   * block--block-content.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap/templates/block/block.html.twig' -->
+<section id="block-homepageservices" class="settings-tray-editable block block-block-content block-block-contentaef1b468-d6f5-4515-956d-d0f9d479a2b9 clearfix" data-drupal-settingstray="editable">
+  
+    
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--block-content--body--basic.html.twig
+   * field--block-content--body.html.twig
+   * field--block-content--basic.html.twig
+   * field--body.html.twig
+   * field--text-with-summary.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap/templates/field/field.html.twig' -->
+
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div class="hp-helpline">
+	<div class="helpline">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 helpline-text-section">
+					<div class="helpline-text">If there's something troubling you, please get in touch for confidential support.</div>
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 telephone-section">
+					<div class="telephone-number"><a class="helpline-telephone" href="tel:+4403030402551">Call <span>0303 040 2551</span></a></div>
+
+					<h4><a class="helpline-email" href="tel:+4403030402551">We're here</a></h4>
+					<div class="telephone-help">
+						<a href="tel:+4403030402551">
+							<ul>
+							<li>24 hours a day</li>
+							<li>365 days a year</li>
+							</ul>
+						</a>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 email-section">
+					<div class="email-title"><a class="helpline-email" href="/user/register">Anonymous Email</a></div>
+					<div class="email-help"><a class="helpline-email" href="/user/register">Register to send an email with your address removed. You'll get a reply within 24 hours.</a></div>
+					<div class="email-help"> </div>
+					<div class="text-center">
+						<ul>
+							<li class="btn btn-primary"><a href="/user/register">Register now</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div></div>
+      
+<!-- END OUTPUT from 'themes/contrib/bootstrap/templates/field/field.html.twig' -->
+
+
+  </section>
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap/templates/block/block.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--homepagecontent.html.twig
+   * block--block-content--4cd060a6-9a6a-44fa-9119-89eb23159fd5.html.twig
+   * block--block-content.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap/templates/block/block.html.twig' -->
+<section id="block-homepagecontent" class="settings-tray-editable block block-block-content block-block-content4cd060a6-9a6a-44fa-9119-89eb23159fd5 clearfix" data-drupal-settingstray="editable">
+  
+    
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--block-content--body--basic.html.twig
+   * field--block-content--body.html.twig
+   * field--block-content--basic.html.twig
+   * field--body.html.twig
+   * field--text-with-summary.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap/templates/field/field.html.twig' -->
+
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><h3><span>Welcome to the new Vetlife Helpline site</span></h3>
+
+<p>On 13th January, we relaunched this website with an updated and improved version. If you had an account on the old site, you will need to re-register here by clicking the <strong>Register Now</strong> button above and following the steps.</p>
+
+<p>If you would like to keep your messages sent before 13th January please login to <a href="https://archive-helpline.vetlife.org.uk">https://archive-helpline.vetlife.org.uk</a> where messages will remain securely for 30 days before being deleted so you can retrieve any you wish to keep. We hope the new site is easier to use. If you have any concerns please discuss them with us in a message.</p>
+
+<h3><span><span>Support via email from Vetlife Helpline</span></span></h3>
+
+<p>Vetlife Helpline is an independent, confidential and free listening service for vets, veterinary nurses, students and all other staff working in veterinary workplaces. We also support family or colleagues who are concerned about someone. All calls and emails are completely confidential. It’s anonymous too – you can make up a name if you want.</p>
+
+<p>Calls and emails are answered by trained volunteers who have experience of the profession. We are here to listen and offer emotional support and a non-judgmental space to talk about how things are for you and whatever is on your mind. People contact us for all sorts of reasons, sometimes related to veterinary work and often for reasons outside of work.</p>
+
+<h3><span>How can you be confident the email support service is confidential and secure?</span></h3>
+
+<p><span>Before your message is seen by volunteers, your email address is automatically removed and replaced with a random number. The server will match this number to other emails you send, but no identifying details from your email address or your location will be viewable by any of our staff.</span></p>
+
+<p>Emails are kept on a secure server for 30 days so that if you want to email us again, we can see that you have contacted us before. After 30 days, all emails are automatically deleted. We don’t keep messages longer than this. If you want to keep a record of your own messages and our replies, you can copy them from the site and save them elsewhere</p>
+
+<h3><span>When will I get a reply?</span></h3>
+
+<p><span>We undertake to reply to your email within 24 hours.</span></p>
+
+<h3><span>Prefer to speak to us on the phone?</span></h3>
+
+<p><span>You are still welcome to call us on 0303 040 2551.</span></p>
+
+<h3><span>Experiencing technical difficulties with registration?</span></h3>
+
+<p><span>In the unlikely event that you have any technical issues trying to register or send a message, please email <a href="mailto:info@vetlife.org.uk">info@vetlife.org.uk</a> or call the helpline on 0303 040 2551 (no need to give your name unless you want to).</span></p>
+
+<p><span>For more general advice on the common issues faced by people in the veterinary community, visit the Vetlife main website at <a href="https://www.vetlife.org.uk/"><span>www.vetlife.org.uk</span></a></span><span><span>.</span></span></p></div>
+      
+<!-- END OUTPUT from 'themes/contrib/bootstrap/templates/field/field.html.twig' -->
+
+
+  </section>
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap/templates/block/block.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--serenowebsitetheme-content.html.twig
+   * block--system-main-block.html.twig
+   x block--system.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap/templates/block/block--system.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'node' -->
+<!-- FILE NAME SUGGESTIONS:
+   * node--1--full.html.twig
+   * node--1.html.twig
+   * node--article--full.html.twig
+   * node--article.html.twig
+   * node--full.html.twig
+   x node.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap/templates/node/node.html.twig' -->
+<article data-history-node-id="1" role="article" about="/welcome-vetlife-helpline" typeof="schema:Article" class="article full clearfix">
+
+  
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'rdf_metadata' -->
+<!-- BEGIN OUTPUT from 'core/modules/rdf/templates/rdf-metadata.html.twig' -->
+  <span property="schema:name" content="Welcome to the Vetlife Helpline" class="hidden"></span>
+
+<!-- END OUTPUT from 'core/modules/rdf/templates/rdf-metadata.html.twig' -->
+
+
+
+  
+  <div class="content">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'links__node' -->
+<!-- FILE NAME SUGGESTIONS:
+   * links--node.html.twig
+   x links.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap/templates/system/links.html.twig' -->
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap/templates/system/links.html.twig' -->
+
+
+  </div>
+
+</article>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap/templates/node/node.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap/templates/block/block--system.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap/templates/system/region.html.twig' -->
+
+
+              </section>
+
+                              <aside class="col-sm-3" role="complementary">
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--sidebar-second.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap/templates/system/region.html.twig' -->
+  <div class="well region region-sidebar-second">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--register.html.twig
+   * block--block-content--18f1858c-7b13-4ddf-b549-01be3799ff73.html.twig
+   * block--block-content.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap/templates/block/block.html.twig' -->
+<section id="block-register" class="settings-tray-editable block block-block-content block-block-content18f1858c-7b13-4ddf-b549-01be3799ff73 clearfix" data-drupal-settingstray="editable">
+  
+    
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--block-content--body--basic.html.twig
+   * field--block-content--body.html.twig
+   * field--block-content--basic.html.twig
+   * field--body.html.twig
+   * field--text-with-summary.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap/templates/field/field.html.twig' -->
+
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div class="centre-me-39-max">
+<div class="row">
+<div class="col-sm-12"><img alt="Register" class="margin-bottom-15" src="/themes/custom/serenowebsitetheme/images/helpline-email.png" /></div>
+</div>
+</div>
+
+<div class="row margin-lateral-15"><a href="/user/register">Register to send a confidential message. You'll get a reply within 24 hours.</a></div>
+</div>
+      
+<!-- END OUTPUT from 'themes/contrib/bootstrap/templates/field/field.html.twig' -->
+
+
+  </section>
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap/templates/block/block.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap/templates/system/region.html.twig' -->
+
+
+          </aside>
+                  </div>
+  </div>
+
+      <footer class="footer container" role="contentinfo">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--footer.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap/templates/system/region.html.twig' -->
+  <div class="region region-footer">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--footerstuff.html.twig
+   * block--block-content--b45174fb-9058-4da8-a176-d7c5d051ace9.html.twig
+   * block--block-content.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap/templates/block/block.html.twig' -->
+<section id="block-footerstuff" class="settings-tray-editable block block-block-content block-block-contentb45174fb-9058-4da8-a176-d7c5d051ace9 clearfix" data-drupal-settingstray="editable">
+  
+    
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--block-content--body--basic.html.twig
+   * field--block-content--body.html.twig
+   * field--block-content--basic.html.twig
+   * field--body.html.twig
+   * field--text-with-summary.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/bootstrap/templates/field/field.html.twig' -->
+
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div class="row srn-footer">
+	<div class="col-md-4 col-xs-12 srn-footer-logo">
+		<img src="/themes/custom/serenowebsitetheme/images/vetlife_footer_logo.png" alt="Vetlife" />
+	</div>
+	<div class="col-md-4 col-xs-12 srn-footer-about">
+		Vetlife is a working title of the Veterinary Benevolent Fund which is a Charitable Company Limited
+		by Guarantee Company No. 15310 Charity Registration No. 224776
+	</div>
+	<div class="col-md-4 col-xs-12 srn-footer-site-pages">
+		<div class="row">
+			<div class="col-xs-12">
+				<ul class="arrow-list">
+					<li><a href="/contact">Feedback</a></li>
+					<li><a href="https://www.vetlife.org.uk/privacy-policy/">Privacy Policy</a></li>
+					<li><a href="https://www.vetlife.org.uk/complaints-policy/">Complaints Policy</a></li>
+					<li><a href="https://www.vetlife.org.uk/accessibility/">Accessibility</a></li>
+				</ul>
+			</div>
+			<div class="col-xs-12">
+					Built by <a href="https://www.sereno.co.uk">Sereno Ltd</a>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+      
+<!-- END OUTPUT from 'themes/contrib/bootstrap/templates/field/field.html.twig' -->
+
+
+  </section>
+
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap/templates/block/block.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap/templates/system/region.html.twig' -->
+
+
+    </footer>
+  
+<!-- END OUTPUT from 'themes/custom/serenowebsitetheme/sass/templates/system/page.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/off-canvas-page-wrapper.html.twig' -->
+
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/1","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"statistics":{"data":{"nid":"1"},"url":"\/core\/modules\/statistics\/statistics.php"},"user":{"uid":0,"permissionsHash":"1b97e8bb4f008ad6e6acf515ce351d0a555c0e34d8ab8f2ac5049a9e83460a2b"}}</script>
+<script src="/sites/default/files/js/js_A_BQMaSwsqZ2LtVTqUkKXSeAKZJllXr4reJR9XXbURQ.js"></script>
+
+  </body>
+</html>
+
+<!-- END OUTPUT from 'themes/contrib/bootstrap/templates/system/html.html.twig' -->
+

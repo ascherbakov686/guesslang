@@ -1,0 +1,1990 @@
+<!DOCTYPE html>
+<html>
+	<head>
+
+		<!-- Basic -->
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">	
+
+		<title>Marco Cavallo - Personal Website</title>	
+
+		<meta name="keywords" content="HTML5 Template" />
+		<meta name="description" content="Marco Cavallo - Personal Website">
+		<meta name="author" content="okler.net">
+
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+		<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+
+		<!-- Mobile Metas -->
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<!-- Web Fonts  -->
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CShadows+Into+Light" rel="stylesheet" type="text/css">
+
+		<!-- Vendor CSS -->
+		<link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+		<link rel="stylesheet" href="vendor/font-awesome/css/font-awesome.min.css">
+		<link rel="stylesheet" href="vendor/animate/animate.min.css">
+		<link rel="stylesheet" href="vendor/simple-line-icons/css/simple-line-icons.min.css">
+		<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.carousel.min.css">
+		<link rel="stylesheet" href="vendor/owl.carousel/assets/owl.theme.default.min.css">
+		<link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.min.css">
+
+		<!-- Theme CSS -->
+		<link rel="stylesheet" href="css/theme.css">
+		<link rel="stylesheet" href="css/theme-elements.css">
+		<link rel="stylesheet" href="css/theme-blog.css">
+		<link rel="stylesheet" href="css/theme-shop.css">
+
+		<!-- Current Page CSS -->
+		<link rel="stylesheet" href="vendor/rs-plugin/css/settings.css">
+		<link rel="stylesheet" href="vendor/rs-plugin/css/layers.css">
+		<link rel="stylesheet" href="vendor/rs-plugin/css/navigation.css">
+		<link rel="stylesheet" href="vendor/circle-flip-slideshow/css/component.css">
+
+		<!-- Skin CSS -->
+		<link rel="stylesheet" href="css/skins/default.css">
+
+		<!-- Theme Custom CSS -->
+		<link rel="stylesheet" href="css/custom.css">
+
+		<!-- Head Libs -->
+		<script src="vendor/modernizr/modernizr.min.js"></script>
+
+	</head>
+	<body>
+
+		<div class="body">
+			<header id="header" class="header-narrow header-transparent header-transparent-bottom-border header-flex" data-plugin-options="{'stickyEnabled': true, 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyStartAt': 1, 'stickySetTop': '1'}">
+				<div class="header-body">
+					<div class="header-container container">
+						<div class="header-row">
+							<div class="header-column">
+								
+							</div>
+							<div class="header-column">
+								<div class="header-row">
+									<div class="header-nav header-nav-stripe">
+										<button class="btn header-btn-collapse-nav" data-toggle="collapse" data-target=".header-nav-main">
+											<i class="fa fa-bars"></i>
+										</button>
+										<ul class="header-social-icons social-icons hidden-xs">
+											
+											<li class="social-icons-linkedin"><a href="https://www.linkedin.com/in/mastercava/" target="_blank" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+										</ul>
+										<div class="header-nav-main header-nav-main-square header-nav-main-effect-2 header-nav-main-sub-effect-1 collapse">
+											<nav>
+												<ul class="nav nav-pills" id="mainNav">
+													<li class="dropdown">
+														<a class="" href="/">Home</a>
+													</li>
+													<li class="dropdown">
+														<a class="" href="/about">About Me</a>
+													</li>
+													<li class="dropdown">
+														<a class="" href="/skills">Skills</a>
+													</li>
+													<li class="dropdown">
+														<a class="" href="/projects">Projects</a>
+													</li>
+													<li class="dropdown">
+														<a class="" href="/research">Research</a>
+													</li>
+													<li class="dropdown">
+														<a class="" href="/work">Work</a>
+													</li>
+													<li class="dropdown">
+														<a class="" href="/blog">Blog</a>
+													</li>
+												</ul>
+											</nav>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</header>
+
+			<div role="main" class="main">
+				<div class="slider-container rev_slider_wrapper" style="height: 1000px;">
+					<div id="revolutionSlider" class="slider rev_slider" data-plugin-revolution-slider data-plugin-options="{'sliderLayout': 'fullscreen'}">
+						<ul>
+							<li data-transition="fade">
+								<img src="images/covers/parallax-chicago.jpg"  
+									alt=""
+									data-bgposition="center center" 
+									data-bgfit="cover" 
+									data-bgrepeat="no-repeat" 
+									class="rev-slidebg">
+
+								<div class="tp-caption"
+									data-x="center" data-hoffset="-220"
+									data-y="center" data-voffset="-95"
+									data-start="1000"
+									style="z-index: 5"
+									data-transform_in="x:[-300%];opacity:0;s:500;"><img src="img/slides/slide-title-border.png" alt=""></div>
+
+								<div class="tp-caption top-label"
+									data-x="center" data-hoffset="0"
+									data-y="center" data-voffset="-95"
+									data-start="500"
+									style="z-index: 5"
+									data-transform_in="y:[-300%];opacity:0;s:500;">Welcome to the personal website of</div>
+
+								<div class="tp-caption"
+									data-x="center" data-hoffset="220"
+									data-y="center" data-voffset="-95"
+									data-start="1000"
+									style="z-index: 5"
+									data-transform_in="x:[300%];opacity:0;s:500;"><img src="img/slides/slide-title-border.png" alt=""></div>
+
+								<div class="tp-caption main-label"
+									data-x="center" data-hoffset="0"
+									data-y="center" data-voffset="-45"
+									data-start="1500"
+									data-whitespace="nowrap"						 
+									data-transform_in="y:[100%];s:500;"
+									data-transform_out="opacity:0;s:500;"
+									style="z-index: 5"
+									data-mask_in="x:0px;y:0px;">Marco Cavallo</div>
+
+								<div class="tp-caption bottom-label"
+									data-x="center" data-hoffset="0"
+									data-y="center" data-voffset="5"
+									data-start="2000"
+									style="z-index: 5"
+									data-transform_in="y:[100%];opacity:0;s:500;">Check out my projects and skills</div>
+
+								<a class="tp-caption btn btn-lg btn-primary btn-slider-action"
+									data-x="center" data-hoffset="0"
+									data-y="center" data-voffset="80"
+									data-start="2200"
+									data-whitespace="nowrap"						 
+									data-transform_in="y:[100%];s:500;"
+									data-transform_out="opacity:0;s:500;"
+									style="z-index: 5"
+									data-mask_in="x:0px;y:0px;"
+									href="resume.pdf"
+									target="_blank">Download Resume</a>
+								
+							</li>
+
+
+							<li data-transition="fade">
+								<img src="images/covers/hybrid-reality.jpg"  
+									alt=""
+									data-bgposition="center center" 
+									data-bgfit="cover" 
+									data-bgrepeat="no-repeat" 
+									class="rev-slidebg">
+							</li>
+
+							<li data-transition="fade">
+								<img src="images/covers/dataspace.jpg"  
+									alt=""
+									data-bgposition="center center" 
+									data-bgfit="cover" 
+									data-bgrepeat="no-repeat" 
+									class="rev-slidebg">
+							</li>
+
+							<li data-transition="fade">
+								<img src="images/covers/mixed-reality.jpg"  
+									alt=""
+									data-bgposition="center center" 
+									data-bgfit="cover" 
+									data-bgrepeat="no-repeat" 
+									class="rev-slidebg">
+							</li>
+
+							<li data-transition="fade">
+								<img src="images/covers/data-visualization.jpg"  
+									alt=""
+									data-bgposition="center center" 
+									data-bgfit="cover" 
+									data-bgrepeat="no-repeat" 
+									class="rev-slidebg">
+							</li>
+
+							<li data-transition="fade">
+								<img src="images/covers/user-interfaces.jpg"  
+									alt=""
+									data-bgposition="center center" 
+									data-bgfit="cover" 
+									data-bgrepeat="no-repeat" 
+									class="rev-slidebg">
+							</li>
+
+							<li data-transition="fade">
+								<img src="images/covers/virtual-reality.jpg"  
+									alt=""
+									data-bgposition="center center" 
+									data-bgfit="cover" 
+									data-bgrepeat="no-repeat" 
+									class="rev-slidebg">
+							</li>
+
+						</ul>
+					</div>
+				</div>
+				<div class="home-intro" id="home-intro">
+					<div class="container">
+				
+						<div class="row">
+							<div class="col-md-8">
+								<p>
+									Website currently <em>under construction</em>
+									<span>Please contact me for further information.</span>
+								</p>
+							</div>
+							<div class="col-md-4">
+								<div class="get-started">
+									<a href="resume.pdf" target="_blank" class="btn btn-lg btn-primary">Download Resume</a>
+								</div>
+							</div>
+						</div>
+				
+					</div>
+				</div>
+
+				<div class="container">
+					<div class="row center">
+						<div class="col-md-12">
+							<h1 class="mb-sm word-rotator-title">
+								I do <strong class="inverted">cool</strong> things. I am a <strong>creative research engineer</strong>
+							</h1>
+							<p class="lead" style="text-align: left">
+								that loves <i>cutting-edge technology</i> and <i>innovation</i>. My <span class="alternative-font">peculiarity</span> is to combine the <strong>in-depth knowledge</strong> and <strong>efficiency</strong> of an engineer with the <strong>taste</strong> and <strong>understanding</strong> of a designer. My <span class="alternative-font">goal</span> is to create visual systems that can improve people productivity, helping them to understand and automate complex tasks.<br /><br />
+
+
+								My <span class="alternative-font">interests</span> span widely across the field of <strong>human-computer interaction</strong>, touching topics such as <i>Data Visualization</i> and <i>Visual Analytics</i>, <i>Augmented</i> and <i>Virtual Reality</i>, <i>User Interfaces</i>, <i>Machine Learning</i>, <i>Internet of Things</i>, <i>Computer Vision</i> and <i>Robotics</i>.<br />
+								I like to arm myself with a <strong>broad set of skills</strong>, since I believe the best opportunities (and the greatest fun) arise from the intersection of multiple fields. <br />
+								At the same time, I strongly believe in communication and teamwork - and this flexibility allows me to <strong>coordinate different aspects of a project</strong>, allowing me to act as the glue that holds the group together.
+								I also like to be independent, and being skilled in <i>both backend and frontend</i> enables me to concretize my ideas into prototypes and deliverables very quickly.
+
+							</p>
+						</div>
+					</div>
+				</div>
+
+
+				<div class="container">
+	<div class="row">
+		<div class="col-md-12">
+
+			<h2>Latest <strong>Projects</strong></h2>
+
+	
+			<div id="popupProject50" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>RE4CH</strong>: A Location-based AR Social Mobile Game</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/re4ch-thumb.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Project description not available yet. Stay tuned or contact Marco for more details.</p>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject49" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>Data Center</strong>: A Hybrid User Interface for Monitoring Server Failures</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/data_center.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Project description not available yet. Stay tuned or contact Marco for more details.</p><a href="https://youtu.be/jCulzzmbhMo" target="_blank" class="btn btn-success">Video</a> <span class="arrow hlb"></span>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject48" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>Holoplot</strong>: A Hybrid-platform Collaborative Visualization System</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="img/placeholder.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Project description not available yet. Stay tuned or contact Marco for more details.</p>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject47" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>A.Eye.</strong>: Simulating Human Interactions In Autistic People</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/a-eye.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Project description not available yet. Stay tuned or contact Marco for more details.</p>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject46" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>Tesseract</strong>: Lost in Dimensions</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/4d_engine_thumb.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Project description not available yet. Stay tuned or contact Marco for more details.</p><a href="https://youtu.be/PpMpsNiqMTc" target="_blank" class="btn btn-success">Video</a> <span class="arrow hlb"></span>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject51" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>eOnOff Dashboard</strong>: Assessing the Effect of Drugs on Parkinson's Disease</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/eOnOff-thumb.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Project description not available yet. Stay tuned or contact Marco for more details.</p>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject45" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>Inspaired</strong></h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/inspaired_thumb.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Project description not available yet. Stay tuned or contact Marco for more details.</p>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject44" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>Channel</strong>: An NLP-driven Videogame for GGJ 2018</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/channel_thumb.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Project description not available yet. Stay tuned or contact Marco for more details.</p>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject41" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>BuildMyNet</strong>: A Tool For ML Design and Debugging</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/buildmynet.png">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Web-based application aimed at creating and debugging data analysis and machine learning pipelines. The user imports his data and starts with a specific goal (eg. Understanding the structure of unlabeled data, classifying data, predicting future values, ...). A visual programming interface and a suggestion engine help the user quickly build and run their pipeline, of which they can track results and performance. The tool enables multiscale programming, allowing users to modify existing code blocks or create custom ones. Suggestions are generated based on the success of previous pipelines having similar input data and goal, created by several data scientists.</p>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject40" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>Unishare Mobile</strong></h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/unishare-mobile.png">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Unishare is a web platform offering several university services to more than 15'000 students in Italy, distributed across more than 23 university. On top of the Unishare website, I coordinated the development of the mobile application, soon available on both Apple Store and Google Play. The mobile app has been developed with React Native.</p>
+						<hr class="solid tall">
+
+						<h4 class="heading-primary mt-lg">Features</h4>
+
+						<ul class="list list-icons"><li><i class="fa fa-check"></i> App developed with React Native for Android and iOS</li><li><i class="fa fa-check"></i> Coordination a team of 4 developers</li></ul>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject39" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>HoloBrain</strong>: A 3D System For Brain Image Analysis</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/holobrain-thumbnail.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Built with the feedback of several neuroscientists at IBM research, Holobrain is both a VR and AR application for exploration and analysis of brain imaging data. The tool is able to import MRI and f-MRI scans, compare them with brain templates and automatically parcellate them. Users can interactively observe and filter the data interactively, leveraging several data aggregation techniques to generate insights and validate their hypotheses. Holobrain is compatible with existing FreeSurfer software and can be used to show and enhance the neuroscience results.</p><a href="https://youtu.be/Dqexz2g9ClU" target="_blank" class="btn btn-success">Video</a> <span class="arrow hlb"></span>
+						<hr class="solid tall">
+
+						<h4 class="heading-primary mt-lg">Features</h4>
+
+						<ul class="list list-icons"><li><i class="fa fa-check"></i> Visual tool developed with Unity 3D for Hololens and HTC Vive</li><li><i class="fa fa-check"></i> Research-grade neuroscience analysis through innovative interaction and data aggregation techniques</li><li><i class="fa fa-check"></i> Support for MRI, f-MRI and brain tractography data</li></ul>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject42" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>VR Shooting Augmentation</strong>: Using Autonomous Robots</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/nerf-thumb.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Project description not available yet. Stay tuned or contact Marco for more details.</p><a href="https://youtu.be/i9-zbkob-fw" target="_blank" class="btn btn-success">Video</a> <span class="arrow hlb"></span>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject36" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>IoT House</strong>: A Smart House for Monitoring Patients</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/bernen-thumb.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Project description not available yet. Stay tuned or contact Marco for more details.</p>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject34" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>BlueSky Xplorer</strong></h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/xplorer-thumb.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Detecting motor activities from sensor datasets is becoming increasingly common in a wide range of applications with the rapid commoditization of wearable sensors. To detect activities, data scientists iteratively experiment with different classifiers before deciding on a single model. Evaluating, comparing, and reasoning about prediction results of alternative classifiers is a crucial step in the process of iterative model development. However, standard aggregate performance metrics (such as accuracy score) and textual display of individual event sequences have limited granularity and scalability to effectively perform this critical step. 
+&lt;br/&gt;
+To ameliorate these limitations, we introduce Track Xplorer, an interactive visualization system to query, analyze and compare the classification output of activity detection in multi-sensor data. Track Xplorer visualizes the results of different classifiers as well as the ground truth labels and the video of activities as temporally-aligned linear tracks. Through coordinated track visualizations, Track Xplorer enables users to interactively explore and compare the results of different classifiers, assess their accuracy with respect to the ground truth labels and video. Users can brush arbitrary regions of any classifier track, zoom in and out with ease, and playback the corresponding video segment to contextualize the performance of the classifier within the selected region. 
+Track Xplorer also contributes an algebra over track representations to filter, compose, and compare classification outputs, enabling users to effectively reason about the performance of classifiers. We demonstrate how our tool helps data scientists debug misclassifications and improve the prediction performance in developing activity classifiers for real-world, multi-sensor data gathered from Parkinson's patients.</p><a href="https://arxiv.org/abs/1710.01832" target="_blank" class="btn btn-danger">Research Paper</a> <a href="https://youtu.be/pSxQVoy0AVI" target="_blank" class="btn btn-success">Video</a> <span class="arrow hlb"></span>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject33" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>Virtualitics</strong>: A Visual Analytics Framework for Mixed Reality</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/fellowship-thumb.png">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Virtual reality application devoted to data exploration, with particular focus on dimensionality reduction and clustering techniques. This research project represents a first attempt to leverage MR/VR technology to better analyze complex multidimensional datasets, which require interactive experimentation, automation and better perspective on the data in order to achieve meaningful insights.</p><a href="https://youtu.be/_y82sUmOWHQ" target="_blank" class="btn btn-success">Video</a> <span class="arrow hlb"></span>
+						<hr class="solid tall">
+
+						<h4 class="heading-primary mt-lg">Features</h4>
+
+						<ul class="list list-icons"><li><i class="fa fa-check"></i> Introduces the first-ever port of the famous library D3.js to MR/VR</li><li><i class="fa fa-check"></i> Comprehends a suggestion engine to guide users during the analysis</li><li><i class="fa fa-check"></i> Enables complex voice control for quick data manipulation</li><li><i class="fa fa-check"></i> Offers the possibility to quickly switch between 2D and 3D visualizations</li></ul>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject29" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>Analytics Framework</strong>: A Real-time Framework to Analyze Sensor Data</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/framework-thumb.png">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Project description not available yet. Stay tuned or contact Marco for more details.</p>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject28" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>BlueSky Wanderer</strong>: Tool for Live Testing of Classifiers</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/wanderer-thumb.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Detecting motor activity in temporal data collected by sensors is an important task in wearable sensor applications. Datasets of sensor data often contain limited information about the usage context of the devices and video validation is not always possible, causing a lack of interpretable ground-truth labels. This lack of context can limit the understanding of sensors data, causing data scientists to make incorrect assumptions or to run machine learning algorithms as black-box models. We introduce BlueSky Wanderer, an interactive visual analysis tool for running classification algorithms on live-streaming sensor data. Our system provides visual and quantitative methods to iteratively reason on classification performance and to develop better intuition about structured patterns in data. In particular, BlueSky Wanderer enables quick debugging, validation, and dynamic fine-tuning of classification models for activity recognition. We use a case study to demonstrate how our approach can improve the development of a set of motion classifiers for monitoring the symptoms of Parkinson's disease.</p><a href="publications/2017_07_Wanderer_VSD.pdf" target="_blank" class="btn btn-danger">Research Paper</a> <span class="arrow hlb"></span>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject26" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>Remote AR-VR Assistance</strong>: A VR System for Remote AR Assistance</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/assistance.png">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Project description not available yet. Stay tuned or contact Marco for more details.</p>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject27" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>BlueSky Expo Booth</strong></h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/booth-thumb.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>The BlueSky booth experience comprehends an interactive application to be integrated at IBM conference booths. It includes a Kinect v2 and an IMU wrist sensor streaming live data to the application backend, which computes real time motor assessments about the user. An animated avatar guides the user through the booth experience, introducing him to the IBM BlueSky technology for Parkinson's disease scoring.</p><a href="https://youtu.be/PTDsJgnxe-s" target="_blank" class="btn btn-success">Video</a> <span class="arrow hlb"></span>
+						<hr class="solid tall">
+
+						<h4 class="heading-primary mt-lg">Features</h4>
+
+						<ul class="list list-icons"><li><i class="fa fa-check"></i> Interactive application developed with Unity 3D</li><li><i class="fa fa-check"></i> Live data streaming from Kinect v2 and IMU wrist sensor</li><li><i class="fa fa-check"></i> Real time ML-based hand motor activity detection and walk assessment</li><li><i class="fa fa-check"></i> Development of custom 3D avatar animations</li></ul>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject25" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>Praxis</strong>: Exploring Dimensionality Reductions With Projections</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/praxis-thumb.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Dimensionality reduction is a common method for analyzing and visualizing high-dimensional data across domains. Dimensionality-reduction algorithms involve complex optimizations and the reduced dimensions computed by these algorithms generally lack clear relation to the initial data dimensions. Therefore, interpreting and reasoning about dimensionality reductions can be difficult. In this work, we introduce two interaction techniques, forward projection and backward projection}, for reasoning dynamically about scatter plots of dimensionally reduced data. We also contribute two related visualization techniques, prolines and feasibility map to facilitate and enrich the effective use of the proposed interactions, which we integrate in a new tool called Praxis. To evaluate our techniques, we first analyze their time and accuracy performance across varying sample and dimension sizes. We then conduct a user study in which twelve data scientists use Praxis so as to assess the usefulness of the techniques in performing exploratory data analysis tasks. Results suggest that our visual interactions are intuitive and effective for exploring dimensionality reductions and generating hypotheses about the underlying data.</p><a href="publications/2017_09_Cavallo_CHI.pdf" target="_blank" class="btn btn-danger">Research Paper</a> <a href="https://youtu.be/yzzbkCb5YI0" target="_blank" class="btn btn-success">Video</a> <span class="arrow hlb"></span>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject24" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>Clustrophile 2</strong>: A Tool For Exploratory Clustering Analysis</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/clustrophile-thumb.png">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Project description not available yet. Stay tuned or contact Marco for more details.</p><a href="https://youtu.be/UJzgrG1KMMI" target="_blank" class="btn btn-success">Video</a> <span class="arrow hlb"></span>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject22" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>Unishare v2</strong>: A Social Network for University Students</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/unishare-v2.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Project description not available yet. Stay tuned or contact Marco for more details.</p>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject21" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>Digital Quest v2</strong></h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/digitalquest-v2.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>DigitalQuest is mobile application aimed at the creation and deployment of digital scavenger hunts, which can be experienced through augmented reality. With respect to the first version of DigitalQuest, maps are tridimensional and created based on real terrain information. Items and quests are generated automatically by analyzing suitable areas around the player, enabling a new &quot;World Exploration Mode&quot; similar to the videogame Pokemon GO.</p>
+						<hr class="solid tall">
+
+						<h4 class="heading-primary mt-lg">Features</h4>
+
+						<ul class="list list-icons"><li><i class="fa fa-check"></i> Videogame developed with Unity3D</li><li><i class="fa fa-check"></i> GPS smoothing, IMU + SLAM based augmented reality</li><li><i class="fa fa-check"></i> Integration of Google Places and other location APIs</li></ul>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject19" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>Sensor Fusion Avatar</strong></h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/blue-sky.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Project description not available yet. Stay tuned or contact Marco for more details.</p><a href="https://www.youtube.com/watch?v=a3YtK5-mnMc" target="_blank" class="btn btn-success">Video</a> <span class="arrow hlb"></span>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject17" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>Timefulness VR</strong>: Visualizing EEG Data in Virtual Reality</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/timefulness-thumbnail.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>This is a room-scale virtual reality game for the HTC Vive where players motion controllers to fire a slingshot at multi-colored targets (low poly 3D shapes). Players wear an EEG brain-sensing headband that makes time slow down as the brain reaches a mindful state. Slowing time makes targets easier to shoot and creates a feedback loop that promotes mindfulness. Target colors flash and disappear, which requires working memory to remember which targets to shoot. Players progress through levels unlocking new game mechanics such as new firing modes and target types.</p><a href="https://youtu.be/OovIY7HyLGs" target="_blank" class="btn btn-success">Video</a> <span class="arrow hlb"></span>
+						<hr class="solid tall">
+
+						<h4 class="heading-primary mt-lg">Features</h4>
+
+						<ul class="list list-icons"><li><i class="fa fa-check"></i> Virtual Reality videogame for HTC Vive</li><li><i class="fa fa-check"></i> Control of time through real-time analysis EEG data</li><li><i class="fa fa-check"></i> Dynamic environment changing based on user's emotions</li></ul>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject16" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>Merging the Two Worlds</strong>: A Novel Approach to the Design of MR Experiences</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/thesis.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>In this document we present a novel approach to the design of mixed reality
+(MR) applications, which combines elements from markerless and locationbased
+augmented reality in order to explore new types of interaction, leveraging
+a spatial representation of virtual content. In particular, we propose a
+method for developing both a mobile application, that can be used by people
+to see augmented content in the real world, and an editor application,
+which can be used to design and create MR experiences. In our presentation,
+we deal with the currently available mobile technologies and we discuss
+the integration of dierent techniques in order to improve tracking within
+the context of our location-based approach, in which every content has a
+dened position in real space. After discussing the advantages and the new
+interaction possibilities enabled by our method, we dene the requirements
+for a MR authoring tool and we propose our own implementation, aimed
+at decoupling the editing process from the use of tracking techniques. We
+particularly focus on the mapping between real-world and virtual coordinates
+and on the possibilities enabled by real-time editing, which allows
+the designer to remotely preview the MR experience and to interact with
+users. We demonstrate the usefulness of our method by presenting two applications
+developed with our approach and by analyzing some real-world
+examples.</p><a href="publications/thesis.pdf" target="_blank" class="btn btn-danger">Research Paper</a> <span class="arrow hlb"></span>
+						<hr class="solid tall">
+
+						<h4 class="heading-primary mt-lg">Features</h4>
+
+						<ul class="list list-icons"><li><i class="fa fa-check"></i> Introduction of an intelligent &quot;triple camera approach&quot;, merging pattern recognition, SLAM tecniques and mobile sensors</li><li><i class="fa fa-check"></i> &quot;Mapping between the two worlds&quot;, enabling a continuous, absolute camera pose estimation</li><li><i class="fa fa-check"></i> Innovative authoring tool for editing AR content and preview the applications remotely</li></ul>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject8" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>CAVE-AR</strong>: A VR Real-time Authoring Tool for Designing AR Experiences</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/cavear-thumb.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>CAVE-AR is an innovative authoring tool for augmented and mixed reality applications built on top of a CAVE2 system, composed of a 36-node cluster and of 72 displays arranged in a 320&deg; cylindrical shape. The virtual environment is a partial representation of the outer world and is mapped 1-to-1 with real geolocations, allowing to preview how virtual content is displayed in the real world. Networked features allow to represent real-time where mobile users are looking at in the real-world, enabling positional error correction, assistance and centralized control of individual or collaborative tasks.</p><a href="publications/2016_04_Cavallo_UIST.pdf" target="_blank" class="btn btn-danger">Research Paper</a> <span class="arrow hlb"></span>
+						<hr class="solid tall">
+
+						<h4 class="heading-primary mt-lg">Features</h4>
+
+						<ul class="list list-icons"><li><i class="fa fa-check"></i> Networked 36-node cluster tracking mobile users in the outer world</li><li><i class="fa fa-check"></i> Real-time editing of augmented and mixed reality experiences in a 1-to-1 mapped virtual environment</li><li><i class="fa fa-check"></i> 74 megapixels visualization of users' real-world behavior with many interaction possibilities</li><li><i class="fa fa-check"></i> Centralized assignement and control of independent or collaborative tasks</li></ul>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject43" class="popup-inline-content">
+				<h2 class="mt-lg"><strong> Virtual Soundscapes</strong>: Designing Complex Audio Experiences in Virtual Reality</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/vr-audio-thumb.png">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>With the advent of new hardware and software technologies,
+virtual reality has gained a significant momentum recently.
+VR design tools, such as game engines, have become
+much more accessible and are being used in a variety
+of applications ranging from physical rehabilitation
+to immersive art. These tools, however, offer a limited set
+of tools for audio processing in 3D virtual environments.
+Furthermore, they are platform-dependent due to performance
+requirements and feature separate editing and rendering
+modes, which can be limiting for sonic VR implementations.
+To address these, we introduce a novel webbased
+system that makes it possible to compose and control
+the binaural rendering of a dynamic open-space auditory
+scene. Developed within a framework of well-established
+theories on sound, our system enables a highly detailed
+bottom-up construction of interactive virtual soundscapes
+by offering tools to populate navigable sound fields at various
+scales (i.e. from sound cones to 3D sound objects to
+sound zones). Based on modern web technologies, such as
+WebGL and Web Audio, our system operates on both desktop
+computers and mobile devices. This enables our system
+to be used for a variety of mixed reality applications, including
+those where users can simultaneously manipulate
+and experience a virtual soundscape.</p>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject7" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>RiverWalk</strong>: Experiencing The History of Chicago Through Augmented Reality</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/riverwalk-thumb.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Funded by the Histry Museum of Chicago, this project consists in a mobile application aimed at orienting tourists around the city and at making publicly available a huge dataset of historical photographs of Chicago. By leveraging our own augmented reality system for placing content into 3D space, overlays of old urban elements and buildings are superimposed and matched onto current views of the city, showing to the user how life in Chicago was a hundred years ago.</p><a href="publications/2016_03_Cavallo_ISMAR.pdf" target="_blank" class="btn btn-danger">Research Paper</a> <span class="arrow hlb"></span>
+						<hr class="solid tall">
+
+						<h4 class="heading-primary mt-lg">Features</h4>
+
+						<ul class="list list-icons"><li><i class="fa fa-check"></i> Overlay of digital content onto current views of the city</li><li><i class="fa fa-check"></i> Innovative spatial approach to combine location-based and marker-less AR</li><li><i class="fa fa-check"></i> Intelligent combination of &quot;helper cameras&quot; to leverage the most suitable type of tracking based on environmental circumstances</li></ul>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject35" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>Robotics School</strong>: Course for kids and adults on Robotics</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/robotics-school-thumb.png">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Project description not available yet. Stay tuned or contact Marco for more details.</p>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject1" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>Virtual Maps</strong>: 3D City Reconstruction</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/virtual-maps-thumb.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Research project made for the Computer Graphics II course at University Of Illinois At Chicago. Virtual Maps is an attemps to create a simple and automatizable way to reconstruct the geometry of urban environments by leveraging Google STreet View imagery.
+											In particular, depth information is extracted and combined with panoramic images, in order to create an explorable point cloud representation of a location. Additionally, more panoramic images can be combined in order to compose a larger urban environment.</p><a href="publications/2015_12_Cavallo-CGII.pdf" target="_blank" class="btn btn-danger">Research Paper</a> <a href="demo/virtual-maps" target="_blank" class="btn btn-primary">Live Preview</a> <span class="arrow hlb"></span>
+						<hr class="solid tall">
+
+						<h4 class="heading-primary mt-lg">Features</h4>
+
+						<ul class="list list-icons"><li><i class="fa fa-check"></i> Extraction of depth information from Google Street View panoramas</li><li><i class="fa fa-check"></i> Projection into a point cloud</li><li><i class="fa fa-check"></i> Composition of multiple point clouds to reconstruct urban environments</li></ul>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject2" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>Street View Timelapse</strong>: A VR Traveling Experience From Panoramic Photos</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/street-view-timelapse-thumb.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Creative project made for the Computer Graphics II course at University Of Illinois At Chicago. Street View Timelaps consists in a web application created with Three.js that allows the user to virtually reach a destination directly from his mobile device.
+											The application gathers all the panoramic images available along the road to the target location and combines them in order to create an interactive video timelapse starting from the user current location. During the timelapse, the user can easily look around the environment by orientating his device.
+											The final destination can be provided as a normal address or as a photo, from which the application will extract the location where is was shot.</p><a href="https://www.youtube.com/watch?v=cehs1fb_lSE" target="_blank" class="btn btn-success">Video</a> <a href="demo/timelapse" target="_blank" class="btn btn-primary">Live Preview</a> <span class="arrow hlb"></span>
+						<hr class="solid tall">
+
+						<h4 class="heading-primary mt-lg">Features</h4>
+
+						<ul class="list list-icons"><li><i class="fa fa-check"></i> Mobile-oriented panoramic images viewer</li><li><i class="fa fa-check"></i> Given a photo or an address, brings the user to that location through a timelapse</li><li><i class="fa fa-check"></i> Recreates a complete 360&deg; experience of the trip to the destination</li></ul>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject3" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>Rehabilitation Avatar</strong>: Arm rehabilitation in virtual environments</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/rehabilitation-avatar-thumb.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Rehabilitation Avatar is a project developed in the immersive environment CAVE2 of the Electronic and Visualization Laboratory of University Of Illinois At Chicago. The project was intended for the Human-Computer Interaction course held by Prof. Elizabeta Marai and had Prof. James Patton from the Rehabilitation Institute Of Chicago as a client.
+											The scope of the project was the development of a system that allows patients to do movement rehabilitation in a virtual reality environment.
+											Users should be able to reach some virtual objects with the movement of their hands, but only through some 3rd-person perspectives of an avatar representing the users and matching their movements. This project is involved in a larger study about first and third-person perspective virtual reality for rehabilitation.</p><a href="publications/2016_02_Cavallo_CASA.pdf" target="_blank" class="btn btn-danger">Research Paper</a> <a href="https://www.youtube.com/watch?v=kmUVau3c1m0" target="_blank" class="btn btn-success">Video</a> <span class="arrow hlb"></span>
+						<hr class="solid tall">
+
+						<h4 class="heading-primary mt-lg">Features</h4>
+
+						<ul class="list list-icons"><li><i class="fa fa-check"></i> Movement rehabilitation in virtual reality</li><li><i class="fa fa-check"></i> Developed with Unity 3D on a 32-nodes / 64-displays cluster</li><li><i class="fa fa-check"></i> 20-cameras TrackD system with additional Kinect v2 sensor</li></ul>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject4" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>B/W World</strong></h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/bw-world-thumb.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Videogame created for the course Videogame Design And Programming held by Prof. Lanzi at Politecnico di Milano. It is an innovative RPG-style game based on exploration and evolution of the main character, who will learn during his journey particular skills - able to bring back the colors to a world which long time ago had become misteriously black and white.</p><a href="https://youtu.be/VgHwW3jWLbM" target="_blank" class="btn btn-success">Video</a> <a href="https://play.google.com/store/apps/details?id=net.pierlucalanzi.bw_world" target="_blank" class="btn btn-primary">Live Preview</a> <span class="arrow hlb"></span>
+						<hr class="solid tall">
+
+						<h4 class="heading-primary mt-lg">Features</h4>
+
+						<ul class="list list-icons"><li><i class="fa fa-check"></i> RPG-style videogame for desktop and mobile platforms</li><li><i class="fa fa-check"></i> Innovative gameplay involving the use of colors</li><li><i class="fa fa-check"></i> Three different worlds to explore and more than 3h of gameplay</li></ul>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject5" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>Unishare</strong>: A platform for university students</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/unishare-thumb.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Unishare is a website aimed at helping students during their university life. Born as a sort of Italian version of ratemyprofessor.com, Unishare now offers several services from selling books to exchanging didactic material, allowing also interaction between students. It is also accessible via mobile application and has turned in 2015 into a startup company of which I represent one of the three cofounders and the CTO.</p><a href="http://www.unishare.it" target="_blank" class="btn btn-primary">Live Preview</a> <span class="arrow hlb"></span>
+						<hr class="solid tall">
+
+						<h4 class="heading-primary mt-lg">Features</h4>
+
+						<ul class="list list-icons"><li><i class="fa fa-check"></i> Website aimed at helping students during their university life</li><li><i class="fa fa-check"></i> 23 Italian universities involved for almost 10'000 students</li><li><i class="fa fa-check"></i> PHP backend with MySQL database, more than 30'000 lines of code</li></ul>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject6" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>Digital Quest</strong>: A Mixed Reality Approach to Scavenger Hunts</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/digitalquest-thumb.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Digital Quest is an innovative videogame that leverages the classic scavenger hunt game in order to create a futuristic mixed reality environment, suited both for fun and for marketing / team building purposes. The videogame approaches new sensor fusion and computer vision techniques for allowing a natural displacement of virtual objects in the real world.</p><a href="publications/2016_Cavallo_DigitalQuest_IEEE_VR_MRA.pdf" target="_blank" class="btn btn-danger">Research Paper</a> <span class="arrow hlb"></span>
+						<hr class="solid tall">
+
+						<h4 class="heading-primary mt-lg">Features</h4>
+
+						<ul class="list list-icons"><li><i class="fa fa-check"></i> Sensor Fusion for enhancing gyro, compass and GPS measurements</li><li><i class="fa fa-check"></i> Leverages Computer Vision techniques for augmenting scenes</li><li><i class="fa fa-check"></i> Virtual - real world mapping for a complete mixed reality experience</li></ul>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject9" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>Wildlife Defense</strong>: A Videogame For Raising Awareness About Wildlife Preservation</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/wildlife-thumbnail.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Wildlife Defense is a videogame developed non-stop in 36 hours during a hackaton organized by the company Internet Of Elephants. Classified at the second place, Wildlife Defense aims at raising awareness about the threats which may involve animals in the savannah.</p>
+						<hr class="solid tall">
+
+						<h4 class="heading-primary mt-lg">Features</h4>
+
+						<ul class="list list-icons"><li><i class="fa fa-check"></i> Videogame available both on desktop and mobile platforms</li><li><i class="fa fa-check"></i> Raise awareness on the threats caused by humans by making the player assume the perspective of the animals, which need to adapt to a dynamic environment in order to survive</li></ul>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject10" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>CNN Acceleration on FPGA</strong>: Speeding Up Convolutional Neural Networks</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/fpga-thumbnail.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>The aim of this project is to try to improve the processing time of a convolutional neural network recognizing handwritten digits. The network setup is done with LUA and Torch framework, while the feedforward operation is implemented in C and synthesized on the hardware through an optimized design, that handles transfer of data from processor to memory and thorugh the UART. So, each feedforward request is passed to the FPGA and executed, then the result is passed back to the original caller. </p><a href="publications/2015_07_NSW.pdf" target="_blank" class="btn btn-danger">Research Paper</a> <span class="arrow hlb"></span>
+						<hr class="solid tall">
+
+						<h4 class="heading-primary mt-lg">Features</h4>
+
+						<ul class="list list-icons"><li><i class="fa fa-check"></i> Implementation in C of the feedforward operation of CNN</li><li><i class="fa fa-check"></i> Definition and training of the network in LUA with Torch framework</li><li><i class="fa fa-check"></i> Optimized hardware design to speed up the process</li></ul>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject11" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>Centralized Flat Table</strong>: Distributed Systems Key Management</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/flattable-thumbnail.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>This project involves securing a chat system with centralized key management through a flat table. One node keeps track of all the keys and manages the addition and removal of clients, assuring the communication is secure for both who remians in the network and who enters / leaves.</p>
+						<hr class="solid tall">
+
+						<h4 class="heading-primary mt-lg">Features</h4>
+
+						<ul class="list list-icons"><li><i class="fa fa-check"></i> Centralized form of key distribution in distributed systems</li><li><i class="fa fa-check"></i> Encryption of a chat application for 8 users connected on a LAN</li></ul>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject12" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>Taxi Trajectory Prediction</strong>: Optimizing Taxi Service in Chicago</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/taxi-thumbnail.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>This Kaggle.com challenge involved developing a predictive framework able to infer the final destination of taxi rides in Porto, Portugal based on their (initial) partial trajectories. The output of the framework is the final trip's destination and is used to optimize the taxi service in the city, enabling the decision for which next customer to assign to each taxi. Our working group classified at the 3rd place in the challenge.</p><a href="https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i" target="_blank" class="btn btn-primary">Live Preview</a> <span class="arrow hlb"></span>
+						<hr class="solid tall">
+
+						<h4 class="heading-primary mt-lg">Features</h4>
+
+						<ul class="list list-icons"><li><i class="fa fa-check"></i> Estimation of the possible route taken by taxi drivers considering many parameters such as previous trips and starting point</li><li><i class="fa fa-check"></i> Development of a framework for optimizing taxi routes for consecutive customers</li><li><i class="fa fa-check"></i> Mostly implemented with R, Python and scikit-learn</li></ul>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject13" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>Rossmann Sales</strong>: Forecast sales using store, promotion, and competitor data</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/rossmann-thumbnail.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Rossmann operates over 3,000 drug stores in 7 European countries. Currently, 
+Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. In this Kaggle.com competition, my team developed a system for predicting 6 weeks of daily sales for 1,115 stores located across Germany.</p><a href="https://www.kaggle.com/c/rossmann-store-sales" target="_blank" class="btn btn-primary">Live Preview</a> <span class="arrow hlb"></span>
+						<hr class="solid tall">
+
+						<h4 class="heading-primary mt-lg">Features</h4>
+
+						<ul class="list list-icons"><li><i class="fa fa-check"></i> Analysis of relevant factors in store sales forecast for a famous German company</li><li><i class="fa fa-check"></i> Prediction of sales expected during the enxt 6 weeks for Business Intelligence purposes</li><li><i class="fa fa-check"></i> Mostly implemented with Python and skikit-clearn</li></ul>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject14" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>Masterpage</strong>: A Social Network for Shops and Small Companies</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/masterpage-thumbnail.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Masterpage is a web-based service aimed at helping Italian local shops and small businesses in surviving the economical crisis, by providing free services related to advertisement, interaction with customers and fidelization, collaboration between companies. The project consists in a social network to which both custumers and shop owners can subscribe and take advantage of the large number of available features. The website is based on the Apache-PHP-Mysql stack, while the mobile application has both an Android native and a web-app implementations.</p><a href="http://www.masterpage.it" target="_blank" class="btn btn-primary">Live Preview</a> <span class="arrow hlb"></span>
+						<hr class="solid tall">
+
+						<h4 class="heading-primary mt-lg">Features</h4>
+
+						<ul class="list list-icons"><li><i class="fa fa-check"></i> Social network for shops and customers based on innovative interactions to the advantage of both</li><li><i class="fa fa-check"></i> Many free services offered to shops and small companies, supporting also collaboration among shops</li><li><i class="fa fa-check"></i> Reward-based system for involving users</li><li><i class="fa fa-check"></i> PHP implementation with MySql database, with Bootstrap-based front end</li></ul>
+				</div>
+			</div>
+		</div>
+			<div id="popupProject15" class="popup-inline-content">
+				<h2 class="mt-lg"><strong>RobotProjects</strong>: A Youtube Channel About Robotics and Electronics</h2>
+
+				<div class="row">
+					<div class="col-md-5">
+						<img class="img-thumbnail img-responsive mb-lg" alt="" src="images/projects/robotprojects-thumbnail.jpg">
+					</div>
+
+					<div class="col-md-7">
+
+						<h4 class="heading-primary mb-sm">Project <strong>Description</strong></h4>
+						<p>Project description not available yet. Stay tuned or contact Marco for more details.</p><a href="https://www.youtube.com/user/RobotProjects" target="_blank" class="btn btn-primary">Live Preview</a> <span class="arrow hlb"></span>
+				</div>
+			</div>
+		</div>			
+
+			<div class="owl-carousel owl-theme mb-none" data-plugin-options='{"items": 4, "margin": 20, "loop": false, "nav": true}'>
+			
+		
+				<div>
+					<a href="#popupProject50" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/re4ch-thumb.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">RE4CH</span>
+									<span class="thumb-info-type">Videogames</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject49" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/data_center.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Data Center</span>
+									<span class="thumb-info-type">Hybrid Reality</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject48" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="img/placeholder.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Holoplot</span>
+									<span class="thumb-info-type">Data Visualization</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject47" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/a-eye.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">A.Eye.</span>
+									<span class="thumb-info-type">Videogames</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject46" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/4d_engine_thumb.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Tesseract</span>
+									<span class="thumb-info-type">Computer Graphics</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject51" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/eOnOff-thumb.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">eOnOff Dashboard</span>
+									<span class="thumb-info-type">Visual Analytics</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject45" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/inspaired_thumb.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Inspaired</span>
+									<span class="thumb-info-type">Web Development</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject44" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/channel_thumb.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Channel</span>
+									<span class="thumb-info-type">Videogames</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject41" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/buildmynet.png" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">BuildMyNet</span>
+									<span class="thumb-info-type">Machine Learning</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject40" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/unishare-mobile.png" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Unishare Mobile</span>
+									<span class="thumb-info-type">Mobile Development</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject39" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/holobrain-thumbnail.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">HoloBrain</span>
+									<span class="thumb-info-type">Mixed Reality</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject42" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/nerf-thumb.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">VR Shooting Augmentation</span>
+									<span class="thumb-info-type">Virtual Reality</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject36" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/bernen-thumb.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">IoT House</span>
+									<span class="thumb-info-type">Internet of Things</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject34" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/xplorer-thumb.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">BlueSky Xplorer</span>
+									<span class="thumb-info-type">2D Visualization</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject33" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/fellowship-thumb.png" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Virtualitics</span>
+									<span class="thumb-info-type">Virtualitics</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject29" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/framework-thumb.png" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Analytics Framework</span>
+									<span class="thumb-info-type">Software Engineering</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject28" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/wanderer-thumb.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">BlueSky Wanderer</span>
+									<span class="thumb-info-type">2D Visualization</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject26" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/assistance.png" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Remote AR-VR Assistance</span>
+									<span class="thumb-info-type">Augmented Reality</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject27" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/booth-thumb.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">BlueSky Expo Booth</span>
+									<span class="thumb-info-type">Videogames</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject25" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/praxis-thumb.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Praxis</span>
+									<span class="thumb-info-type">Data Science</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject24" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/clustrophile-thumb.png" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Clustrophile 2</span>
+									<span class="thumb-info-type">Visual Analytics</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject22" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/unishare-v2.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Unishare v2</span>
+									<span class="thumb-info-type">Web Development</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject21" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/digitalquest-v2.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Digital Quest v2</span>
+									<span class="thumb-info-type">Videogames</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject19" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/blue-sky.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Sensor Fusion Avatar</span>
+									<span class="thumb-info-type">3D Visualization</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject17" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/timefulness-thumbnail.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Timefulness VR</span>
+									<span class="thumb-info-type">Virtual Reality</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject16" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/thesis.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Merging the Two Worlds</span>
+									<span class="thumb-info-type">Augmented Reality</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject8" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/cavear-thumb.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">CAVE-AR</span>
+									<span class="thumb-info-type">Virtual Reality</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject43" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/vr-audio-thumb.png" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner"> Virtual Soundscapes</span>
+									<span class="thumb-info-type">3D Visualization</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject7" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/riverwalk-thumb.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">RiverWalk</span>
+									<span class="thumb-info-type">Augmented Reality</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject35" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/robotics-school-thumb.png" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Robotics School</span>
+									<span class="thumb-info-type">Robotics</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject1" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/virtual-maps-thumb.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Virtual Maps</span>
+									<span class="thumb-info-type">3D Visualization</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject2" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/street-view-timelapse-thumb.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Street View Timelapse</span>
+									<span class="thumb-info-type">3D Visualization</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject3" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/rehabilitation-avatar-thumb.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Rehabilitation Avatar</span>
+									<span class="thumb-info-type">Virtual Reality</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject4" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/bw-world-thumb.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">B/W World</span>
+									<span class="thumb-info-type">Videogames</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject5" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/unishare-thumb.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Unishare</span>
+									<span class="thumb-info-type">Web Development</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject6" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/digitalquest-thumb.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Digital Quest</span>
+									<span class="thumb-info-type">Videogames</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject9" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/wildlife-thumbnail.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Wildlife Defense</span>
+									<span class="thumb-info-type">Videogames</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject10" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/fpga-thumbnail.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">CNN Acceleration on FPGA</span>
+									<span class="thumb-info-type">Hardware</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject11" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/flattable-thumbnail.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Centralized Flat Table</span>
+									<span class="thumb-info-type">Computer Security</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject12" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/taxi-thumbnail.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Taxi Trajectory Prediction</span>
+									<span class="thumb-info-type">Data Mining</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject13" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/rossmann-thumbnail.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Rossmann Sales</span>
+									<span class="thumb-info-type">Data Mining</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject14" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/masterpage-thumbnail.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Masterpage</span>
+									<span class="thumb-info-type">Web Development</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="#popupProject15" data-plugin-lightbox data-plugin-options='{"type": "inline", preloader: false}'>
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper">
+								<img src="images/projects/robotprojects-thumbnail.jpg" class="img-responsive" alt="">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">RobotProjects</span>
+									<span class="thumb-info-type">Robotics</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+					
+			</div>
+		</div>
+	</div>
+</div>
+				<div class="container">
+	<div class="row">
+		<div class="col-md-12">
+
+			<h2>Latest <strong>News</strong></h2>
+
+			<div class="owl-carousel owl-theme mb-none" data-plugin-options='{"items": 4, "margin": 20, "loop": false, "nav": true}'>
+			
+		
+				<div>
+					<a href="blog">
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper" style="padding-top: 100%">
+								<img src="images/blog/ieeevis-18.jpg" class="img-responsive" alt="" style="position: absolute; height: 100%; top: 0; object-fit: cover">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Guided Visual Clustering Analysis @ IEEE VIS '18</span>
+									<span class="thumb-info-type">Oct 25, 2018</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="blog">
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper" style="padding-top: 100%">
+								<img src="images/blog/magic-leap.jpg" class="img-responsive" alt="" style="position: absolute; height: 100%; top: 0; object-fit: cover">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">LEAPCon: Magic Leap One First Impressions</span>
+									<span class="thumb-info-type">Oct 9, 2018</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="blog">
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper" style="padding-top: 100%">
+								<img src="images/blog/datatour.jpg" class="img-responsive" alt="" style="position: absolute; height: 100%; top: 0; object-fit: cover">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Data Clustering Tour Presentation @ KDD '18</span>
+									<span class="thumb-info-type">Aug 20, 2018</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="blog">
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper" style="padding-top: 100%">
+								<img src="images/blog/data_center.jpg" class="img-responsive" alt="" style="position: absolute; height: 100%; top: 0; object-fit: cover">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Data Center Monitoring Hybrid User Interface</span>
+									<span class="thumb-info-type">Jun 18, 2018</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="blog">
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper" style="padding-top: 100%">
+								<img src="images/blog/autotsne.gif" class="img-responsive" alt="" style="position: absolute; height: 100%; top: 0; object-fit: cover">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Auto-tSNE @ ACM SIGMOD 2018, Houston (TX)</span>
+									<span class="thumb-info-type">Jun 10, 2018</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+			
+				<div>
+					<a href="blog">
+						<span class="thumb-info">
+							<span class="thumb-info-wrapper" style="padding-top: 100%">
+								<img src="images/blog/eurovis18.jpg" class="img-responsive" alt="" style="position: absolute; height: 100%; top: 0; object-fit: cover">
+								<span class="thumb-info-title">
+									<span class="thumb-info-inner">Track Xplorer Presentation @ Eurovis 2018, Brno (CZ)</span>
+									<span class="thumb-info-type">Jun 6, 2018</span>
+								</span>
+								<span class="thumb-info-action">
+									<span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+					
+			</div>
+		</div>
+	</div>
+</div>
+				<br /><br/>
+				
+
+			</div>
+
+			<footer id="footer">
+				
+			</footer>
+		</div>
+
+		<!-- Vendor -->
+		<script src="vendor/jquery/jquery.min.js"></script>
+		<script src="vendor/jquery.appear/jquery.appear.min.js"></script>
+		<script src="vendor/jquery.easing/jquery.easing.min.js"></script>
+		<script src="vendor/jquery-cookie/jquery-cookie.min.js"></script>
+		<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+		<script src="vendor/common/common.min.js"></script>
+		<script src="vendor/jquery.validation/jquery.validation.min.js"></script>
+		<script src="vendor/jquery.easy-pie-chart/jquery.easy-pie-chart.min.js"></script>
+		<script src="vendor/jquery.gmap/jquery.gmap.min.js"></script>
+		<script src="vendor/jquery.lazyload/jquery.lazyload.min.js"></script>
+		<script src="vendor/isotope/jquery.isotope.min.js"></script>
+		<script src="vendor/owl.carousel/owl.carousel.min.js"></script>
+		<script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+		<script src="vendor/vide/vide.min.js"></script>
+		
+		<!-- Theme Base, Components and Settings -->
+		<script src="js/theme.js"></script>
+		
+		<!-- Current Page Vendor and Views -->
+		<script src="vendor/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+		<script src="vendor/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+		<script src="vendor/circle-flip-slideshow/js/jquery.flipshow.min.js"></script>
+		<script src="js/views/view.home.js"></script>
+		
+		<!-- Theme Custom -->
+		<script src="js/custom.js"></script>
+		
+		<!-- Theme Initialization Files -->
+		<script src="js/theme.init.js"></script>
+
+		<!-- Google Analytics: Change UA-XXXXX-X to be your site's ID. Go to http://www.google.com/analytics/ for more information.
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		
+			ga('create', 'UA-12345678-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+		 -->
+
+	</body>
+</html>

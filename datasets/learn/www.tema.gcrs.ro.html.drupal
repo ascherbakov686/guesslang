@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+  <!--[if IEMobile 7]><html class="no-js ie iem7" lang="en" dir="ltr"><![endif]-->
+  <!--[if lte IE 6]><html class="no-js ie lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+  <!--[if (IE 7)&(!IEMobile)]><html class="no-js ie lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+  <!--[if IE 8]><html class="no-js ie lt-ie9" lang="en" dir="ltr"><![endif]-->
+  <!--[if (gte IE 9)|(gt IEMobile 7)]><html class="no-js ie" lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><![endif]-->
+  <!--[if !IE]><!--><html class="no-js" lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="cleartype" content="on" />
+<link rel="apple-touch-icon-precomposed" href="http://www.tema.gcrs.ro/sites/all/themes/omega/omega/apple-touch-icon-precomposed-72x72.png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://www.tema.gcrs.ro/sites/all/themes/omega/omega/apple-touch-icon-precomposed-114x114.png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://www.tema.gcrs.ro/sites/all/themes/omega/omega/apple-touch-icon-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" href="http://www.tema.gcrs.ro/sites/all/themes/omega/omega/apple-touch-icon-precomposed-144x144.png" sizes="144x144" />
+<meta name="MobileOptimized" content="width" />
+<link rel="alternate" type="application/rss+xml" title="Drupal GCRS RSS" href="http://www.tema.gcrs.ro/rss.xml" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortcut icon" href="http://www.tema.gcrs.ro/sites/all/themes/omega/omega/starterkits/omega_kickstart/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width" />
+  <title>Drupal GCRS | Testing Drupal</title>
+  <link type="text/css" rel="stylesheet" href="http://www.tema.gcrs.ro/sites/all/themes/omega/omega/css/modules/system/system.base.css?on7slk" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.tema.gcrs.ro/sites/all/themes/omega/omega/css/modules/system/system.menus.theme.css?on7slk" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.tema.gcrs.ro/sites/all/themes/omega/omega/css/modules/system/system.messages.theme.css?on7slk" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.tema.gcrs.ro/sites/all/themes/omega/omega/css/modules/system/system.theme.css?on7slk" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.tema.gcrs.ro/sites/all/themes/omega/omega/css/modules/comment/comment.theme.css?on7slk" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.tema.gcrs.ro/modules/node/node.css?on7slk" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.tema.gcrs.ro/sites/all/themes/omega/omega/css/modules/field/field.theme.css?on7slk" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.tema.gcrs.ro/sites/all/themes/omega/omega/css/modules/search/search.theme.css?on7slk" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.tema.gcrs.ro/sites/all/themes/omega/omega/css/modules/user/user.base.css?on7slk" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.tema.gcrs.ro/sites/all/themes/omega/omega/css/modules/user/user.theme.css?on7slk" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.tema.gcrs.ro/sites/all/modules/ctools/css/ctools.css?on7slk" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.tema.gcrs.ro/sites/all/themes/omega/omega/css/omega.development.css?on7slk" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.tema.gcrs.ro/sites/all/themes/omega/ohm/css/layouts/hero/hero.layout.css?on7slk" media="all" />
+
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="http://www.tema.gcrs.ro/sites/all/themes/omega/omega/starterkits/omega_kickstart/css/ie-lte-8.css?on7slk" media="all" />
+<![endif]-->
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://www.tema.gcrs.ro/sites/all/themes/omega/omega/starterkits/omega_kickstart/css/ie-lte-7.css?on7slk" media="all" />
+<![endif]-->
+
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="http://www.tema.gcrs.ro/sites/all/themes/omega/ohm/css/layouts/hero/hero.layout.no-query.css?on7slk" media="all" />
+<![endif]-->
+  <script src="http://www.tema.gcrs.ro/misc/jquery.js?v=1.4.4"></script>
+<script src="http://www.tema.gcrs.ro/misc/jquery.once.js?v=1.2"></script>
+<script src="http://www.tema.gcrs.ro/misc/drupal.js?on7slk"></script>
+<script src="http://www.tema.gcrs.ro/sites/all/themes/omega/omega/js/no-js.js?on7slk"></script>
+<script src="http://www.tema.gcrs.ro/sites/all/themes/omega/omega/starterkits/omega_kickstart/js/omega_kickstart.js?on7slk"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","urlIsAjaxTrusted":{"\/node?destination=node":true}});</script>
+</head>
+<body class="html front not-logged-in page-node">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+    <div class="l-page has-one-sidebar has-sidebar-first">
+  <header class="l-header" role="banner">
+    <div class="l-constrained">
+      <div class="l-branding site-branding">
+                  <a href="/" title="Home" rel="home" class="site-branding__logo"><img src="http://www.tema.gcrs.ro/sites/all/themes/omega/omega/starterkits/omega_kickstart/logo.png" alt="Home" /></a>
+                          <a href="/" class="site-branding__name" title="Home" rel="home"><span>Drupal GCRS</span></a>
+                          <h2 class="site-branding__slogan">Testing Drupal</h2>
+                      </div>
+                </div>
+  </header>
+
+  
+  
+  <div class="l-main l-constrained">
+    <a id="main-content"></a>
+                
+    <div class="l-content" role="main">
+                              <article about="/node/1" typeof="sioc:Item foaf:Document" role="article" class="node node--article node--promoted node-teaser node--teaser node--article--teaser">
+        <header>
+    <h2 class="node__title"><a href="/node/1" title="First Article">First Article</a></h2>
+  </header>
+    <span property="dc:title" content="First Article" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>    <footer class="submitted">
+    <span property="dc:date dc:created" content="2017-03-22T16:48:38+02:00" datatype="xsd:dateTime" rel="sioc:has_creator">Wed, 03/22/2017 - 16:48 - <span class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">silvia</span></span>  </footer>
+    
+  
+  <div class="node__content">
+    <div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even" property="content:encoded"><p>Bla Bla Bla</p>
+</div></div></div><div class="field field--name-field-tags field--type-taxonomy-term-reference field--label-above"><div class="field__label">Tags:&nbsp;</div><div class="field__items"><div class="field__item even" rel="dc:subject"><a href="/taxonomy/term/1" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">First</a></div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"><ul class="links links--inline node__links"><li class="node-readmore first"><a href="/node/1" rel="tag" title="First Article">Read more<span class="element-invisible"> about First Article</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/1%23comment-form">Log in</a> or <a href="/user/register?destination=node/1%23comment-form">register</a> to post comments</span></li>
+</ul></nav>
+    
+      </div>
+</article>
+<div id="block-system-powered-by" role="complementary" class="block block--system block--system-powered-by">
+        <div class="block__content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+</div>
+      <a href="/rss.xml" class="feed-icon" title="Subscribe to Drupal GCRS RSS"><img typeof="foaf:Image" src="http://www.tema.gcrs.ro/misc/feed.png" width="16" height="16" alt="Subscribe to Drupal GCRS RSS" /></a>    </div>
+
+      <aside class="l-region l-region--sidebar-first">
+    <div id="block-user-login" role="form" class="block block--user block--user-login">
+        <h2 class="block__title">User login</h2>
+      <div class="block__content">
+    <form class="user-login-form" action="/node?destination=node" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<ul><li><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul><input type="hidden" name="form_build_id" value="form-4Tj_b_21t0bm_krJPnDbN15Czz1sW_Lr6Rr2dmfTYxs" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </aside>
+      </div>
+
+  <footer class="l-footer-wrapper" role="contentinfo">
+      </footer>
+</div>
+  </body>
+</html>

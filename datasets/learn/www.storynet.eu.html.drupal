@@ -1,0 +1,173 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+  <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+    <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/cms/themes/sky/favicon.ico" type="image/x-icon" />
+      <title>StoryNet | storynet</title>
+      <link type="text/css" rel="stylesheet" media="all" href="/cms/modules/node/node.css?x" />
+<link type="text/css" rel="stylesheet" media="all" href="/cms/modules/system/defaults.css?x" />
+<link type="text/css" rel="stylesheet" media="all" href="/cms/modules/system/system.css?x" />
+<link type="text/css" rel="stylesheet" media="all" href="/cms/modules/user/user.css?x" />
+<link type="text/css" rel="stylesheet" media="all" href="/cms/sites/all/modules/ckeditor/ckeditor.css?x" />
+<link type="text/css" rel="stylesheet" media="all" href="/cms/themes/sky/css/layout.css?x" />
+<link type="text/css" rel="stylesheet" media="all" href="/cms/themes/sky/style.css?x" />
+<link type="text/css" rel="stylesheet" media="all" href="/cms/sites/default/files/sky/custom.css?x" />
+      
+<!--[if lt IE 7.0]><link rel="stylesheet" href="/cms/themes/sky/css/ie-6.css" type="text/css" media="all" charset="utf-8" /><![endif]-->
+<!--[if IE 7.0]><link rel="stylesheet" href="/cms/themes/sky/css/ie-7.css" type="text/css" media="all" charset="utf-8" /><![endif]-->
+      <script type="text/javascript" src="/cms/misc/jquery.js?x"></script>
+<script type="text/javascript" src="/cms/misc/drupal.js?x"></script>
+<script type="text/javascript" src="/cms/themes/sky/scripts/hoverIntent.js?x"></script>
+<script type="text/javascript" src="/cms/themes/sky/scripts/superfish.js?x"></script>
+<script type="text/javascript" src="/cms/themes/sky/scripts/sky.js?x"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/cms/" });
+//--><!]]>
+</script>
+    </head>
+  <body class="page-node page-page page-node-view anonymous-user both" id="homepage">
+    <div id="wrapper">
+    <div id="header" class="layout-region">
+      <div id="header-inner">
+                <a href="/cms/" title="" id="logo"><img src="/cms/themes/sky/logo.png" alt="" /></a>
+                              </div>
+    </div>
+        <div id="container" class="layout-region">
+              <div id="sidebar-left" class="sidebar">
+          <div class="inner">
+            <div id="block-menu-primary-links" class="block block-menu block-odd region-odd clearfix style-menu ">
+      <h3 class="title">Menu</h3>
+    <div class="content">
+    <ul class="menu"><li class="leaf first active-trail"><a href="/cms/?q=node/2" title="Narrative Network" class="active">Home</a></li>
+<li class="expanded"><a href="/cms/?q=node/5" title="Network activities">Network events</a><ul class="menu"><li class="leaf first"><a href="/cms/?q=node/23" title="upcoming events">upcoming events</a></li>
+<li class="leaf last"><a href="/cms/?q=node/6" title="past events">past events</a></li>
+</ul></li>
+<li class="leaf last"><a href="/cms/?q=node/15" title="Other events &amp; calls">Other events &amp; calls</a></li>
+</ul>  </div>
+</div>
+<!-- /block.tpl.php --><div id="block-block-1" class="block block-block block-even region-even clearfix ">
+      <h3 class="title">Contact</h3>
+    <div class="content">
+    <p>
+	<strong>Helena&nbsp;Bilandzic</strong><br />
+	University of Augsburg<br />
+	<a href="mailto:helena.bilandzic@phil.uni-augsburg.de">Email</a></p>
+  </div>
+</div>
+<!-- /block.tpl.php --><div id="block-search-0" class="block block-search block-odd region-odd clearfix ">
+      <h3 class="title">Search</h3>
+    <div class="content">
+    <form action="/cms/"  accept-charset="UTF-8" method="post" id="search-block-form">
+<div><div class="container-inline">
+  <div class="form-item form-item-textfield" id="edit-search-block-form-1-wrapper">
+ <label for="edit-search-block-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-94455b885030035219274f5f62bd40cf" value="form-94455b885030035219274f5f62bd40cf"  />
+<input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form"  />
+</div>
+
+</div></form>
+  </div>
+</div>
+<!-- /block.tpl.php -->          </div>
+        </div>
+      <!-- END HEADER -->
+            <div id="main">
+        <div class="main-inner">
+                                                              <h1 class="title">StoryNet</h1>
+                                        <div id="content" class="clearfix">
+            <div id="node-2" class="node clearfix node-page node-full published not-promoted not-sticky without-photo ">
+    <div class="meta">
+                            </div>
+  <div class="content clearfix">
+    <div id="Inhalt">
+<div id="text">
+<p>
+			The goal of researchers in StoryNet is to explore the content, experience, and usage of narratives in the media, and to investigate the mechanisms and conditions through which fictional and factual stories influence the audience&#39;s beliefs, attitudes and behaviors. Understanding how narrative experience and effects work is prerequisite to making pro-social use of stories in the context of Health Communication, Journalism and Education; it is also crucial for understanding the commercial success of films, books and narrative computer games, and may help explain or predict the success of new narrative products. StoryNet brings together scholars from media effects, media reception, psychology, philosophy, health communication and journalism in order to develop new approaches to analyzing narrative experience and effects. The network organizes regular workshops attended by scholars from different disciplines dealing with narratives. Workshops are concerned with fictional, persuasive and journalistic media stories, and, in interdisciplinary collaboration, address aspects such as:</p>
+</div>
+<div id="Aufz">
+<p>
+			(1) systematic measures of narrative content,</p>
+<p>
+			(2) effective story elements,</p>
+<p>
+			(3) the exploration of the nature of narrative experience and the development of adequate measures,</p>
+<p>
+			(4) the mechanisms of narrative influence,</p>
+<p>
+			(5) the selection of stories, and</p>
+<p>
+			(6) the individual, social, and cultural context of media stories in everyday life.<br />
+			&nbsp;</p>
+<table border="1" cellpadding="1" cellspacing="1" width="400">
+<tr>
+<td>
+<h3>
+							News</h3>
+<p>
+							<strong>April 3, 2014</strong></p>
+<p>
+							<a href="http://www.imwk.uni-augsburg.de/kwrw/aktuelles/StoryNet-2014-Program.pdf">Program</a> and <a href="http://www.imwk.uni-augsburg.de/kwrw/aktuelles/Travel-guide.pdf">Travel guide</a><br />
+							StoryNet Symposium<br />
+							&quot;Narrative effects on the individual and the social&quot;<br />
+							Budapest, June 27 and 28, 2014</p>
+</td>
+</tr>
+</table>
+</div>
+</div>
+  </div>
+  </div>          </div>
+          <!-- END CONTENT -->
+                            </div>
+        <!-- END MAIN INNER -->
+      </div>
+      <!-- END MAIN -->
+              <div id="sidebar-right" class="sidebar">
+          <div class="inner">
+          <div id="block-user-0" class="block block-user block-even region-odd clearfix style-menu ">
+      <h3 class="title">User login</h3>
+    <div class="content">
+    <form action="/cms/?q=node/2&amp;destination=node%2F2"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item form-item-textfield form-item-required" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item form-item-password form-item-required" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit-1" value="Log in"  class="form-submit" />
+<div class="item-list"><ul><li class="first"><a href="/cms/?q=user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/cms/?q=user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-b3766db8b26f0ae649dcffca9c9f325a" value="form-b3766db8b26f0ae649dcffca9c9f325a"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+  </div>
+</div>
+<!-- /block.tpl.php -->          </div>
+        </div>
+      <!-- END SIDEBAR RIGHT -->
+          </div>
+    <!-- END CONTAINER -->
+    <div class="push">&nbsp;</div>
+  </div>
+  <!-- END WRAPPER -->
+  <div id="footer" class="layout-region">
+    <div id="footer-inner">
+      <div id="block-system-0" class="block block-system block-odd region-odd clearfix ">
+    <div class="content">
+    <a href="http://drupal.org"><img src="/cms/misc/powered-blue-80x15.png" alt="Powered by Drupal, an open source content management system" title="Powered by Drupal, an open source content management system" width="80" height="15" /></a>  </div>
+</div>
+<!-- /block.tpl.php -->      <p>
+	Copyright 2009-2010 All rights reserved.</p>
+    </div>
+  </div>
+    </body>
+</html>

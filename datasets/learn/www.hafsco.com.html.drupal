@@ -1,0 +1,213 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.hafsco.com/sites/default/files/hafsco_favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://www.hafsco.com/" />
+<link rel="shortlink" href="http://www.hafsco.com/" />
+  <title>Homepage | HAFSCO - Commercial Kitchen Design, Foodservice Consulting, Restaurant Kitchen Design | HAFSCO _ EST</title>
+  <style type="text/css" media="all">
+@import url("http://www.hafsco.com/modules/system/system.base.css?pvvzly");
+@import url("http://www.hafsco.com/modules/system/system.menus.css?pvvzly");
+@import url("http://www.hafsco.com/modules/system/system.messages.css?pvvzly");
+@import url("http://www.hafsco.com/modules/system/system.theme.css?pvvzly");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.hafsco.com/modules/comment/comment.css?pvvzly");
+@import url("http://www.hafsco.com/modules/field/theme/field.css?pvvzly");
+@import url("http://www.hafsco.com/modules/node/node.css?pvvzly");
+@import url("http://www.hafsco.com/modules/search/search.css?pvvzly");
+@import url("http://www.hafsco.com/modules/user/user.css?pvvzly");
+@import url("http://www.hafsco.com/sites/all/modules/views/css/views.css?pvvzly");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.hafsco.com/sites/all/modules/ctools/css/ctools.css?pvvzly");
+@import url("http://www.hafsco.com/sites/all/themes/hafsco/css/editor.css?pvvzly");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.hafsco.com/sites/all/themes/hafsco/css/style.css?pvvzly");
+@import url("http://www.hafsco.com/sites/all/themes/hafsco/css/mobile.css?pvvzly");
+</style>
+<style type="text/css" media="print">
+@import url("http://www.hafsco.com/sites/all/themes/hafsco/css/print.css?pvvzly");
+</style>
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.hafsco.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.hafsco.com/misc/drupal.js?pvvzly"></script>
+<script type="text/javascript" src="http://www.hafsco.com/sites/all/modules/contentanalysis/contentanalysis.js?pvvzly"></script>
+<script type="text/javascript" src="http://www.hafsco.com/sites/all/modules/contentoptimizer/contentoptimizer.js?pvvzly"></script>
+<script type="text/javascript" src="http://www.hafsco.com/sites/all/modules/google_analytics/googleanalytics.js?pvvzly"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-43988948-1", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.hafsco.com/sites/all/themes/hafsco/js/theme_scripts.js?pvvzly"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"hafsco","theme_token":"QPtiJa1wmDzpAfenjkWiL7iUgfS4ZU01UkBCVXTjMT8","js":{"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.8.3\/jquery.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contentanalysis\/contentanalysis.js":1,"sites\/all\/modules\/contentoptimizer\/contentoptimizer.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/themes\/hafsco\/js\/theme_scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/hafsco\/css\/editor.css":1,"sites\/all\/themes\/hafsco\/css\/style.css":1,"sites\/all\/themes\/hafsco\/css\/mobile.css":1,"sites\/all\/themes\/hafsco\/css\/print.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/mailer?destination=node\/1":true}});
+//--><!]]>
+</script>
+  <script type="text/javascript" src="//use.typekit.net/orn1yqm.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43988948-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-1 node-type-homepage" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+      <div class="region region-header">
+    <div id="block-system-main-menu" class="block block-system block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/about_us">About Us</a></li>
+<li class="expanded"><a href="/design">Services</a><ul class="menu"><li class="first leaf"><a href="/design">Design</a></li>
+<li class="leaf"><a href="/sales">Sales</a></li>
+<li class="leaf"><a href="/service_repair">Repair Service</a></li>
+<li class="last leaf"><a href="/warewashing-program">Warewashing Program</a></li>
+</ul></li>
+<li class="leaf"><a href="/gallery">GALLERY</a></li>
+<li class="leaf"><a href="/markets_served">Markets Served</a></li>
+<li class="leaf"><a href="/emerald">Emerald</a></li>
+<li class="leaf"><a href="http://www.ebay.com/sch/hafsco/m.html?_nkw=&amp;_armrs=1&amp;_from=&amp;_ipg=25&amp;_trksid=p3692" title="">ONLINE SPECIALS </a></li>
+<li class="leaf"><a href="/press">Press</a></li>
+<li class="last leaf"><a href="/contact">CONTACT US</a></li>
+</ul>  </div>
+</div>
+  </div>
+  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1" class="node node-homepage clearfix" about="/mailer" typeof="sioc:Item foaf:Document">
+
+  
+      <span property="dc:title" content="Homepage" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+              
+        <div id="content-top">
+            <div id="c-content-top">
+            <div id="content-top-left">
+                <a href="http://www.hafsco.com/about_us" id="content-top-left-text">
+                    Full-time foodservice                </a> 
+            </div>
+            <div id="content-top-right">
+                  <p class="p1" style="text-align: justify;"><span style="font-size: x-large;"><strong>80</strong> </span>years isn't just about the passing of time. It's an acknowledgement of quality. It's a mark of&nbsp;commitment, won only by faithful service through generations of professionals. At HAFSCO, your&nbsp;kitchen is an investment. It's how we operate—from design, sales, repair to warewashing, we're&nbsp;going to take care of your kitchen the way we take care of our reputation. Invest in the future.</p>            </div>
+            </div>
+        </div>      
+        <div id="content-bottom">
+            <div id="sub-content-bottom">
+                                <a href="design">
+                <div class="sub-content-bottom_item styleone">
+                
+                    <div class="content-logo"></div>
+                    <div class="content-title">Design</div>
+                    <div class="content-text">Our team of professionals have the experience, skills and creativity to turn your kitchen design ideas into a profitable foodservice business.</div>
+               
+                </div>
+                </a>
+                              <a href="sales">
+                <div class="sub-content-bottom_item styletwo">
+                
+                    <div class="content-logo"></div>
+                    <div class="content-title">Sales</div>
+                    <div class="content-text">Open to the public, our showroom and warehouse consists of everything you need in order to run your kitchen. From smallwares to disposables, HAFSCO has it all!</div>
+               
+                </div>
+                </a>
+                              <a href="service_repair">
+                <div class="sub-content-bottom_item stylethree">
+                
+                    <div class="content-logo"></div>
+                    <div class="content-title">Repair</div>
+                    <div class="content-text">Our fleet of factory trained refrigeration, gas, steam & warewashing technicians are on call 24/7/365 for customers in the CT, NY, NJ, RI, MA areas.</div>
+               
+                </div>
+                </a>
+                              <a href="warewashing-program">
+                <div class="sub-content-bottom_item stylefour">
+                
+                    <div class="content-logo"></div>
+                    <div class="content-title">Warewashing</div>
+                    <div class="content-text">Have a commercial dishwasher? Our warewashing program enables customers to lock in on affordable chemical prices and receive free 24/7/365 labor on service calls!</div>
+               
+                </div>
+                </a>
+                          </div>
+                
+              
+        </div>
+          
+  </div>
+
+  
+  
+</div>
+<script>
+  target(jQuery('#sub-content-bottom a'));
+</script>  </div>
+</div>
+  </div>
+  <div class="region region-sidebar-first">
+    <div id="block-user-login" class="block block-user">
+
+    <h2>User login</h2>
+  
+  <div class="content">
+    <form action="/mailer?destination=node/1" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-7D6YIIcRMFmqLzNZFqGMAWupR8suiT7gN8Q5IEuX9n4" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+  <div class="region region-footer">
+    <div id="block-system-powered-by" class="block block-system">
+
+    
+  <div class="content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+</div>
+  </div>
+  </body>
+</html>

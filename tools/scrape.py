@@ -2,10 +2,15 @@
 
 from bs4 import BeautifulSoup
 import glob
-#from urllib.request import urlopen
 from requests_html import HTMLSession
 from urllib.parse import urlsplit
 from re import compile
+
+import sys
+
+if not sys.warnoptions:
+    import warnings
+    warnings.simplefilter("ignore")
 
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
@@ -22,5 +27,8 @@ for f in glob.glob("../datasets/list_of_sites/drupal/*.html"):
       session = HTMLSession()
       r = session.get(base_url,verify=False)
       with open('../datasets/learn/%s.html.drupal' % urlsplit(a['href']).netloc, 'w', encoding='utf-8') as f_out:
-         f_out.write(r.html.html)
-         f_out.close()
+         try:
+           f_out.write(r.html.html)
+           f_out.close()
+         except:
+           pass

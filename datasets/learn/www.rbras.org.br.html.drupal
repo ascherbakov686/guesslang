@@ -1,0 +1,271 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt-br" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.rbras.org.br/sites/all/themes/rbras/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta content="A SOCIEDADE" about="/?q=pt-br/content/sociedade" property="dc:title" />
+<link rel="canonical" href="/?q=pt-br/content/sociedade" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/?q=pt-br/node/19" />
+  <title>A SOCIEDADE | Região Brasileira da Sociedade Internacional de Biometria - RBras</title>
+  <style type="text/css" media="all">@import url("http://www.rbras.org.br/modules/system/system.base.css?nfnq7c");
+@import url("http://www.rbras.org.br/modules/system/system.menus.css?nfnq7c");
+@import url("http://www.rbras.org.br/modules/system/system.messages.css?nfnq7c");
+@import url("http://www.rbras.org.br/modules/system/system.theme.css?nfnq7c");</style>
+<style type="text/css" media="all">@import url("http://www.rbras.org.br/sites/all/modules/contrib/date/date_api/date.css?nfnq7c");
+@import url("http://www.rbras.org.br/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?nfnq7c");
+@import url("http://www.rbras.org.br/sites/all/modules/contrib/date/date_repeat_field/date_repeat_field.css?nfnq7c");
+@import url("http://www.rbras.org.br/modules/field/theme/field.css?nfnq7c");
+@import url("http://www.rbras.org.br/modules/node/node.css?nfnq7c");
+@import url("http://www.rbras.org.br/modules/search/search.css?nfnq7c");
+@import url("http://www.rbras.org.br/modules/user/user.css?nfnq7c");
+@import url("http://www.rbras.org.br/sites/all/modules/contrib/views/css/views.css?nfnq7c");</style>
+<style type="text/css" media="all">@import url("http://www.rbras.org.br/sites/all/modules/contrib/ctools/css/ctools.css?nfnq7c");
+@import url("http://www.rbras.org.br/sites/all/modules/contrib/lightbox2/css/lightbox.css?nfnq7c");
+@import url("http://www.rbras.org.br/sites/all/modules/contrib/panels/css/panels.css?nfnq7c");
+@import url("http://www.rbras.org.br/sites/all/modules/contrib/nice_menus/css/nice_menus.css?nfnq7c");
+@import url("http://www.rbras.org.br/sites/all/themes/rbras/nice_menus.css?nfnq7c");</style>
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Michroma|Fjalla+One" media="all" />
+<style type="text/css" media="all">@import url("http://www.rbras.org.br/sites/all/themes/rbras/style.css?nfnq7c");</style>
+  <script type="text/javascript" src="http://www.rbras.org.br/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.rbras.org.br/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.rbras.org.br/misc/drupal.js?nfnq7c"></script>
+<script type="text/javascript" src="http://www.rbras.org.br/sites/all/modules/contrib/nice_menus/js/jquery.bgiframe.js?v=2.1"></script>
+<script type="text/javascript" src="http://www.rbras.org.br/sites/all/modules/contrib/nice_menus/js/jquery.hoverIntent.js?v=0.5"></script>
+<script type="text/javascript" src="http://www.rbras.org.br/sites/all/modules/contrib/nice_menus/js/superfish.js?v=1.4.8"></script>
+<script type="text/javascript" src="http://www.rbras.org.br/sites/all/modules/contrib/nice_menus/js/nice_menus.js?v=1.0"></script>
+<script type="text/javascript" src="http://www.rbras.org.br/sites/all/modules/contrib/admin_menu/admin_devel/admin_devel.js?nfnq7c"></script>
+<script type="text/javascript" src="http://www.rbras.org.br/sites/default/files/languages/pt-br_6YPQPbrYdM5tnbY6_Bvad3G9dELI0pDQ0r9ojg3kO3o.js?nfnq7c"></script>
+<script type="text/javascript" src="http://www.rbras.org.br/sites/all/modules/contrib/lightbox2/js/lightbox.js?1582113135"></script>
+<script type="text/javascript" src="http://www.rbras.org.br/sites/all/modules/contrib/panels/js/panels.js?nfnq7c"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"pt-br\u002F", "ajaxPageState":{"theme":"rbras", "theme_token":"my-ElTWuCXg4LFebhX1PLepF8bez9EQWXU-iS1c6LBU", "js":{"misc\u002Fjquery.js":1, "misc\u002Fjquery.once.js":1, "misc\u002Fdrupal.js":1, "sites\u002Fall\u002Fmodules\u002Fcontrib\u002Fnice_menus\u002Fjs\u002Fjquery.bgiframe.js":1, "sites\u002Fall\u002Fmodules\u002Fcontrib\u002Fnice_menus\u002Fjs\u002Fjquery.hoverIntent.js":1, "sites\u002Fall\u002Fmodules\u002Fcontrib\u002Fnice_menus\u002Fjs\u002Fsuperfish.js":1, "sites\u002Fall\u002Fmodules\u002Fcontrib\u002Fnice_menus\u002Fjs\u002Fnice_menus.js":1, "sites\u002Fall\u002Fmodules\u002Fcontrib\u002Fadmin_menu\u002Fadmin_devel\u002Fadmin_devel.js":1, "public:\u002F\u002Flanguages\u002Fpt-br_6YPQPbrYdM5tnbY6_Bvad3G9dELI0pDQ0r9ojg3kO3o.js":1, "sites\u002Fall\u002Fmodules\u002Fcontrib\u002Flightbox2\u002Fjs\u002Flightbox.js":1, "sites\u002Fall\u002Fmodules\u002Fcontrib\u002Fpanels\u002Fjs\u002Fpanels.js":1}, "css":{"modules\u002Fsystem\u002Fsystem.base.css":1, "modules\u002Fsystem\u002Fsystem.menus.css":1, "modules\u002Fsystem\u002Fsystem.messages.css":1, "modules\u002Fsystem\u002Fsystem.theme.css":1, "sites\u002Fall\u002Fmodules\u002Fcontrib\u002Fdate\u002Fdate_api\u002Fdate.css":1, "sites\u002Fall\u002Fmodules\u002Fcontrib\u002Fdate\u002Fdate_popup\u002Fthemes\u002Fdatepicker.1.7.css":1, "sites\u002Fall\u002Fmodules\u002Fcontrib\u002Fdate\u002Fdate_repeat_field\u002Fdate_repeat_field.css":1, "modules\u002Ffield\u002Ftheme\u002Ffield.css":1, "modules\u002Fnode\u002Fnode.css":1, "modules\u002Fsearch\u002Fsearch.css":1, "modules\u002Fuser\u002Fuser.css":1, "sites\u002Fall\u002Fmodules\u002Fcontrib\u002Fviews\u002Fcss\u002Fviews.css":1, "sites\u002Fall\u002Fmodules\u002Fcontrib\u002Fctools\u002Fcss\u002Fctools.css":1, "sites\u002Fall\u002Fmodules\u002Fcontrib\u002Flightbox2\u002Fcss\u002Flightbox.css":1, "sites\u002Fall\u002Fmodules\u002Fcontrib\u002Fpanels\u002Fcss\u002Fpanels.css":1, "sites\u002Fall\u002Fmodules\u002Fcontrib\u002Fnice_menus\u002Fcss\u002Fnice_menus.css":1, "sites\u002Fall\u002Fthemes\u002Frbras\u002Fnice_menus.css":1, "http:\u002F\u002Ffonts.googleapis.com\u002Fcss?family=Michroma|Fjalla+One":1, "sites\u002Fall\u002Fthemes\u002Frbras\u002Fstyle.css":1}}, "lightbox2":{"rtl":"0", "file_path":"\u002F(\u005Cw\u005Cw\u002F)public:\u002F", "default_image":"\u002Fsites\u002Fall\u002Fmodules\u002Fcontrib\u002Flightbox2\u002Fimages\u002Fbrokenimage.jpg", "border_size":10, "font_color":"000", "box_color":"fff", "top_position":"", "overlay_opacity":"0.8", "overlay_color":"000", "disable_close_click":1, "resize_sequence":0, "resize_speed":400, "fade_in_speed":400, "slide_down_speed":600, "use_alt_layout":0, "disable_resize":0, "disable_zoom":0, "force_show_nav":0, "show_caption":1, "loop_items":0, "node_link_text":"Ver Detalhes da imagem", "node_link_target":0, "image_count":"Imagem !current de !total", "video_count":"Video !current de !total", "page_count":"Página !current de !total", "lite_press_x_close":"pressione \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\u002Fkbd\u003E\u003C\u002Fa\u003E para fechar", "download_link_text":"", "enable_login":false, "enable_contact":false, "keys_close":"c x 27", "keys_previous":"p 37", "keys_next":"n 39", "keys_zoom":"z", "keys_play_pause":"32", "display_image_size":"original", "image_node_sizes":"()", "trigger_lightbox_classes":"", "trigger_lightbox_group_classes":"", "trigger_slideshow_classes":"", "trigger_lightframe_classes":"", "trigger_lightframe_group_classes":"", "custom_class_handler":0, "custom_trigger_classes":"", "disable_for_gallery_lists":true, "disable_for_acidfree_gallery_lists":true, "enable_acidfree_videos":true, "slideshow_interval":5000, "slideshow_automatic_start":true, "slideshow_automatic_exit":true, "show_play_pause":true, "pause_on_next_click":false, "pause_on_previous_click":true, "loop_slides":false, "iframe_width":600, "iframe_height":400, "iframe_border":1, "enable_video":0}, "nice_menus_options":{"delay":800, "speed":"slow"}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-19 node-type-page i18n-pt-br" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Pular para o conteúdo principal</a>
+  </div>
+    <div id="header">
+	<div id="header_content">
+   		           	<div id="logo">
+               	<a href="/?q=pt-br" title="Início"><img src="http://www.rbras.org.br/sites/all/themes/rbras/images/logo_topo.png" alt="Início" /></a>
+           	</div>
+     	        	<div id="header_up">
+				<div id="header_lang">
+   	      			<div id="search"></div>
+              		<div id="header_region_right"><a href="http://www.biometricsociety.org/" target="_blank"><img src="sites/all/themes/rbras/images/logo_ibs3.png" alt="" width="200" height="50" /></a></div>
+            	</div>
+            </div>
+        	<div id="header_down">
+        		<div id="menu">  <div class="region region-main-menu">
+    <div id="block-nice-menus-1" class="block block-nice-menus">
+
+      
+  <div class="content">
+    <ul class="nice-menu nice-menu-down nice-menu-main-menu" id="nice-menu-1"><li class="menu-237 menu-path-front first odd "><a href="/?q=pt-br" title="" class="active">HOME</a></li>
+<li class="menu-454 menu-path-node-7  even "><a href="/?q=pt-br/content/sobre-sociedade">INSTITUCIONAL</a></li>
+<li class="menu-471 menu-path-node-8  odd "><a href="/?q=pt-br/content/filiacao">FILIAÇÃO</a></li>
+<li class="menu-661 menu-path-node-195  even "><a href="/?q=pt-br/content/anuidades">ANUIDADES</a></li>
+<li class="menu-557 menu-path-galerias  odd "><a href="/?q=pt-br/galerias" title="">GALERIA DE FOTOS</a></li>
+<li class="menu-528 menu-path-contact  even last"><a href="/?q=pt-br/contact" title="">CONTATO</a></li>
+</ul>
+  </div>
+  
+</div> <!-- /.block -->
+  </div>
+</div>	
+    		</div>
+ 	</div>
+</div>
+<div id="content">
+<div id="content_int">
+  <div id="div_center">
+    <div id="node_content">
+    			<div id="node-19" class="node node-page node-promoted clearfix" about="/?q=pt-br/content/sociedade" typeof="foaf:Document">
+
+  
+      
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2>A SOCIEDADE</h2>
+<p>A Região Brasileira da Sociedade Internacional de Biometria (RBras), pertencente à <a href="http://www.biometricsociety.org/" target="_blank">The International Biometric Society</a>, é uma sociedade científica fundada em 1955, de caráter cultural, sem fins lucrativos, dedicada aos pesquisadores brasileiros que trabalham com os aspectos matemáticos e estatísticos das Ciências Agrárias, Biologia e áreas afins.</p>
+</div></div></div>  </div>
+
+  
+  
+</div>
+          <div class="region region-region-reunioes-front">
+    <div id="block-views-reunioes-block-1" class="block block-views">
+
+      
+  <div class="content">
+    <div class="view view-reunioes view-id-reunioes view-display-id-block_1 view-dom-id-a4b05671e5a0f3136cd250237e1e05c4">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    <div id="center_header">PR&Oacute;XIMA REUNI&Atilde;O</div>
+	<div id="reuniao_destaque">
+		<div id="reuniao_destaque_img"> <div class="field-content"><img typeof="foaf:Image" src="http://www.rbras.org.br/sites/default/files/styles/reuniao_home/public/1_0.png?itok=cvUoi8Su" width="100" height="100" alt="" /></div> </div>
+		<div id="reuniao_destaque_text">
+        	<h1><span class="field-content"><a href="https://www.rbras65.com.br/">65ª RBras, 20/05/2020 a 22/05/2020, Florianopolis - SC</a></span></h1>
+        	<div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2020-05-20T00:00:00-03:00">20/05/2020</span> a <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2020-05-20T00:00:00-03:00">22/05/2020</span></div>        	<div class="field-content">Florianópolis - SC	</div>      	</div>
+</div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+  </div>
+    
+    
+      
+    </div>
+    <div id="reunioes_passadas">
+    	
+      <h1><img src="sites/all/themes/rbras/images/calendario.png" alt="" width="16" height="16" /> REUNI&Otilde;ES ANTERIORES</h1>
+        <div class="region region-region-reunioes-anteriores">
+    <div id="block-views-reunioes-block-2" class="block block-views">
+
+      
+  <div class="content">
+    <div class="view view-reunioes view-id-reunioes view-display-id-block_2 view-dom-id-ab1af5fb1152e26cf81221b5f36bdaa1">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+          <h2><span class="field-content"><a href="http://www.rbras64.com.br/">64ª RBras, 29/07/2019 a 02/08/2019, Cuiabá - MT</a></span></h2>
+      <h4><div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2019-07-29T00:00:00-03:00">29/07/2019</span> a <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2019-07-29T00:00:00-03:00">02/08/2019</span></div>        <div class="field-content">Cuiabá - MT	</div></h4>
+        </div>
+  <div class="views-row views-row-2 views-row-even">
+          <h2><span class="field-content"><a href="http://www.rbras.org.br/">63ª Reunião Anual da RBras</a></span></h2>
+      <h4><div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-05-23T00:00:00-03:00">23/05/2018</span> a <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-05-23T00:00:00-03:00">25/05/2018</span></div>        <div class="field-content">Curitiba - PR	</div></h4>
+        </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+          <h2><span class="field-content"><a href="http://www.rbras.org.br/">62ª Reunião Anual da RBras e 17º SEAGRO</a></span></h2>
+      <h4><div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-07-24T00:00:00-03:00">24/07/2017</span> a <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-07-24T00:00:00-03:00">28/07/2017</span></div>        <div class="field-content">Lavras - MG	</div></h4>
+        </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+  </div>
+      <h3><a href="?q=reunioes-anteriores">Ver Mais</a></h3>
+    </div>
+    <div id="outros_eventos">
+    	
+      <h1><img src="sites/all/themes/rbras/images/clock.png" alt="" width="16" height="16" /> OUTROS EVENTOS</h1>
+        <div class="region region-region-eventos">
+    <div id="block-views-eventos-block" class="block block-views">
+
+      
+  <div class="content">
+    <div class="view view-eventos view-id-eventos view-display-id-block view-dom-id-a094dcccd1ade95808c7f74a06c71053">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+          <h2><span class="field-content"><a href="https://biometricconference.org">XXVIIIth International Biometric Conference (IBC 2016)</a></span></h2>
+      <h4><div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2016-07-10T00:00:00-03:00">10/07/2016</span> a <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2016-07-10T00:00:00-03:00">15/07/2016</span> </div>        <div class="field-content">Victoria, BC  - Canada</div></h4>
+        </div>
+  <div class="views-row views-row-2 views-row-even">
+          <h2><span class="field-content"><a href="http://www.ime.usp.br/~abe/sinape2014/">21º SINAPE</a></span></h2>
+      <h4><div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2014-07-20T00:00:00-03:00">20/07/2014</span> a <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2014-07-20T00:00:00-03:00">25/07/2014</span> </div>        <div class="field-content">Natal RN	 - Brasil</div></h4>
+        </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+          <h2><span class="field-content"><a href="http://www.biometricsociety.org/ibc2014/">XXVIIth International Biometric Conference</a></span></h2>
+      <h4><div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2014-07-06T00:00:00-03:00">06/07/2014</span> a <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2014-07-06T00:00:00-03:00">11/07/2014</span> </div>        <div class="field-content">Florence  - Italy</div></h4>
+        </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+  </div>
+      <h3><a href="?q=eventos">Ver Mais</a></h3>
+    </div>
+  </div>
+  <div id="div_right">
+  	  	    	<div id="bloco_left">  <div class="region region-sidebar-second">
+    <div id="block-block-3" class="block block-block">
+
+      
+  <div class="content">
+    <h5 style="text-align: center;"><span style="font-size: 1.077em; line-height: 1.538em;">Confira o canal do Youtube da RBras.</span></h5>
+<p> </p>
+<p style="text-align: center;"><a href="https://www.youtube.com/channel/UCy_iMTqScq4PS5jUzCTwPtg" target="_blank"><img alt="" src="http://www.rbras.org.br/site/sites/default/files/youtube.png" style="font-size: 13.008px; border-style: solid; color: rgb(0, 116, 189); line-height: 20.0063px; height: 50px; width: 120px; border-width: 0px; margin: 0px;" /></a></p>
+  </div>
+  
+</div> <!-- /.block -->
+  </div>
+</div>		<div id="bloco_left">  <div class="region region-sidebar-third">
+    <div id="block-user-login" class="block block-user">
+
+        <h1 >Login do usuário</h1>
+    
+  <div class="content">
+    <form action="/?q=pt-br/content/sociedade&amp;destination=node/19" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Usuário <span class="form-required" title="Este campo é obrigatório.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Senha <span class="form-required" title="Este campo é obrigatório.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first last"><a href="/?q=pt-br/user/password" title="Solicitar uma nova senha por email.">Recuperar senha</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-wCre6CSJltY5OWv1b4VxQa03dNMEOBhYoxrZYnR3Gik" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Entrar" class="form-submit" /></div></div></form>  </div>
+  
+</div> <!-- /.block -->
+  </div>
+</div>                        
+   </div>
+</div>
+</div>
+<div id="copyrigth">&copy; 2013 Regi&atilde;o Brasileira da Sociedade Internacional de Biometria - Todos os direitos reservados</div>
+<div id="footer">
+	<div id="footer_content">
+		
+		<div id="footer_notes"></div>
+        <div id="footer_links"></div>
+  	</div>
+</div>
+<div id="pos_footer"></div>
+</body>
+</html>  </body>
+</html>

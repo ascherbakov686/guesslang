@@ -1,0 +1,193 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>www.cecpower.com | </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="www.cecpower.com RSS" href="http://www.cecpower.com/rss.xml" />
+<link rel="shortcut icon" href="/themes/acquia_slate/favicon.ico" type="image/x-icon" />
+    <link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?Z" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?Z" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?Z" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?Z" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?Z" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/acquia_slate/style.css?Z" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/acquia_slate/dblog.css?Z" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/acquia_slate/theme_settings/fixed.css?Z" />
+<link type="text/css" rel="stylesheet" media="all" href="/themes/acquia_slate/theme_settings/fonts_1.css?Z" />
+    <!--[if IE 7]>
+      <link type="text/css" rel="stylesheet" media="all" href="/themes/acquia_slate/ie7-fixes.css" />
+    <![endif]-->
+    <!--[if lte IE 6]>
+      <link type="text/css" rel="stylesheet" media="all" href="/themes/acquia_slate/ie6-fixes.css" />
+    <![endif]-->
+        <script type="text/javascript" src="/misc/jquery.js?Z"></script>
+<script type="text/javascript" src="/misc/drupal.js?Z"></script>
+<script type="text/javascript" src="/themes/acquia_slate/script.js?Z"></script>
+<script type="text/javascript" src="/themes/acquia_slate/jquery.overlabel.js?Z"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/" });
+//--><!]]>
+</script>
+  </head>
+
+  <body class="not-logged-in front layout-first-main">
+    <div id="page">
+            <div id="skip">
+        <a href="#main-content">Skip to Main Content</a>
+      </div>
+             
+                    <div id="primary-menu">
+          <ul class="links"><li class="menu-115 first"><a href="/node/2" title="About Us">About Us</a></li>
+<li class="menu-116"><a href="/node/3" title="Contact Us">Contact Us</a></li>
+<li class="menu-114 last"><a href="/node/1" title="Introduction">Introduction</a></li>
+</ul>        </div><!-- /primary_menu -->
+            <div id="header-wrapper" class="clearfix">
+        <div id="header-first">
+           
+          <div id="logo">
+            <a href="/" title="Home"><img src="/themes/acquia_slate/logo.png" alt="Home" /></a>
+          </div>
+                              <h1><a href="/" title="Home">www.cecpower.com</a></h1>
+                  </div><!-- /header-first -->
+        <div id="header-middle">
+                            </div><!-- /header-middle -->
+        <div id="search-box">
+                  </div><!-- /search-box -->
+      </div><!-- /header-wrapper -->
+            <div id="preface-wrapper" class="clearfix" >
+                  <div id="preface-sidebar">
+            <!-- start block.tpl.php -->
+<div class="block-wrapper odd">
+
+        
+        <div id="block-menu-primary-links" class="block block-menu">
+                              <h2 class="title block-title"><span class="first-word">Primary</span> links</h2>
+                    <div class="content">
+            <ul class="menu"><li class="leaf first"><a href="/node/2" title="About Us">About Us</a></li>
+<li class="leaf"><a href="/node/3" title="Contact Us">Contact Us</a></li>
+<li class="leaf last"><a href="/node/1" title="Introduction">Introduction</a></li>
+</ul>          </div>
+        </div>
+  
+    
+</div>
+<!-- /end block.tpl.php --><!-- start block.tpl.php -->
+<div class="block-wrapper even">
+
+        
+        <div id="block-menu-secondary-links" class="block block-menu">
+                              <h2 class="title block-title"><span class="first-word">Secondary</span> links</h2>
+                    <div class="content">
+            <ul class="menu"><li class="leaf first"><a href="/node/4" title="FTP">Company FTP</a></li>
+<li class="leaf last"><a href="/node/5" title="Webmail">Webmail</a></li>
+</ul>          </div>
+        </div>
+  
+    
+</div>
+<!-- /end block.tpl.php -->          </div>
+                      </div><!-- /preface-wrapper -->
+            <div id="main-wrapper" class="clearfix">  
+                <div id="sidebar-first">
+          <!-- start block.tpl.php -->
+<div class="block-wrapper odd">
+
+    <div class="rounded-block">
+    <div class="rounded-block-top-left"></div>
+    <div class="rounded-block-top-right"></div>
+    <div class="rounded-outside">
+      <div class="rounded-inside">
+        <p class="rounded-topspace"></p>
+        
+        <div id="block-user-0" class="block block-user">
+                              <h2 class="title block-title"><span class="first-word">User</span> login</h2>
+                    <div class="content">
+            <form action="/node?destination=node"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<span class="button-wrapper"><span class="button"><span><input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" /></span></span></span>
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-23e2bb811c3cb5cf51c9170e93332b73" value="form-23e2bb811c3cb5cf51c9170e93332b73"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+          </div>
+        </div>
+  
+          <p class="rounded-bottomspace"></p>
+      </div><!-- /rounded-inside -->
+    </div>
+    <div class="rounded-block-bottom-left"></div>
+    <div class="rounded-block-bottom-right"></div>
+  </div><!-- /rounded-block -->
+    
+</div>
+<!-- /end block.tpl.php -->        </div><!-- /sidebar-first -->
+                  <div id="content-wrapper">
+                              <div id="content">
+            <a name="main-content" id="main-content"></a>
+                                    <div id="content-inner" class="clear">
+                                          
+<!-- start node.tpl.php -->
+<div id="node-" class="node odd node-unpublished teaser node-type-">
+  
+    <h2 class="title"><a href="/node/" title=""></a></h2>
+  
+  <div class="meta">
+        <span class="submitted">Posted Wed, 12/31/1969 - 20:00 by Anonymous</span>
+      </div>
+  
+    
+  <div class="content">
+    n/a  </div>
+  
+  
+  </div>
+<!-- /#node- -->                          </div>
+                        
+                      </div><!-- /content -->
+        </div><!-- /content-wrapper -->
+              </div><!-- /main-wrapper -->
+    </div><!-- /page -->
+            <div id="footer" class="clearfix">
+      <div id="footer-wrapper">
+                          <div id="footer-region">
+            <!-- start block.tpl.php -->
+<div class="block-wrapper odd">
+
+        
+        <div id="block-system-0" class="block block-system">
+                    <div class="content">
+            <a href="http://drupal.org"><img src="/misc/powered-blue-80x15.png" alt="Powered by Drupal, an open source content management system" title="Powered by Drupal, an open source content management system" width="80" height="15" /></a>          </div>
+        </div>
+  
+    
+</div>
+<!-- /end block.tpl.php -->          </div>
+              </div><!-- /footer-wrapper -->
+    </div><!-- /footer -->
+        <div id="legal-notice">Theme provided by <a href="http://www.acquia.com">Acquia, Inc.</a> under GPL license from TopNotchThemes <a href="http://www.topnotchthemes.com">Drupal themes</a></div>  <!-- WiredMinds eMetrics tracking with Enterprise Edition V5.4 START -->
+<script type='text/javascript' src='https://count.carrierzone.com/app/count_server/count.js'></script>
+<script type='text/javascript'><!--
+wm_custnum='1ed5f543553130c6';
+wm_page_name='php5-cgi';
+wm_group_name='/services/webpages/c/e/cecpower.com/cgi-bin';
+wm_campaign_key='campaign_id';
+wm_track_alt='';
+wiredminds.count();
+// -->
+</script>
+<!-- WiredMinds eMetrics tracking with Enterprise Edition V5.4 END -->
+</body>
+</html>

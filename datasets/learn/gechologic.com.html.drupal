@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8" />
+<link rel="shortcut icon" href="http://gechologic.com/sites/all/themes/professional_responsive_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width" />
+<link rel="alternate" type="application/rss+xml" title="gechologic.com RSS" href="http://gechologic.com/rss.xml" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<title>gechologic.com | Home of The Awesome Gecho Loopsynth</title>
+<style type="text/css" media="all">
+@import url("http://gechologic.com/modules/system/system.base.css?p7wyue");
+@import url("http://gechologic.com/modules/system/system.menus.css?p7wyue");
+@import url("http://gechologic.com/modules/system/system.messages.css?p7wyue");
+@import url("http://gechologic.com/modules/system/system.theme.css?p7wyue");
+</style>
+<style type="text/css" media="all">
+@import url("http://gechologic.com/modules/comment/comment.css?p7wyue");
+@import url("http://gechologic.com/modules/field/theme/field.css?p7wyue");
+@import url("http://gechologic.com/modules/node/node.css?p7wyue");
+@import url("http://gechologic.com/modules/poll/poll.css?p7wyue");
+@import url("http://gechologic.com/modules/search/search.css?p7wyue");
+@import url("http://gechologic.com/modules/user/user.css?p7wyue");
+</style>
+<style type="text/css" media="all">
+@import url("http://gechologic.com/sites/all/libraries/syntaxhighlighter/styles/shCore.css?p7wyue");
+@import url("http://gechologic.com/sites/all/libraries/syntaxhighlighter/styles/shThemeDefault.css?p7wyue");
+</style>
+<style type="text/css" media="all">
+@import url("http://gechologic.com/sites/all/themes/professional_responsive_theme/style.css?p7wyue");
+@import url("http://gechologic.com/sites/all/themes/professional_responsive_theme/media.css?p7wyue");
+</style>
+<script type="text/javascript" src="http://gechologic.com/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://gechologic.com/misc/jquery-extend-3.4.0.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://gechologic.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://gechologic.com/misc/drupal.js?p7wyue"></script>
+<script type="text/javascript" src="http://gechologic.com/sites/all/libraries/syntaxhighlighter/scripts/shCore.js?p7wyue"></script>
+<script type="text/javascript" src="http://gechologic.com/sites/all/libraries/syntaxhighlighter/scripts/shBrushCpp.js?p7wyue"></script>
+<script type="text/javascript" src="http://gechologic.com/sites/all/libraries/syntaxhighlighter/scripts/shBrushPhp.js?p7wyue"></script>
+<script type="text/javascript" src="http://gechologic.com/sites/all/themes/professional_responsive_theme/js/custom.js?p7wyue"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"professional_responsive_theme","theme_token":"ommKacZGXWYFvfXMOZGPnXpmJsvf_M4yyNgy-tYbQ4Q","js":{"sites\/all\/modules\/syntaxhighlighter\/syntaxhighlighter.min.js":1,"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/syntaxhighlighter\/scripts\/shCore.js":1,"sites\/all\/libraries\/syntaxhighlighter\/scripts\/shBrushCpp.js":1,"sites\/all\/libraries\/syntaxhighlighter\/scripts\/shBrushPhp.js":1,"sites\/all\/themes\/professional_responsive_theme\/js\/custom.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/libraries\/syntaxhighlighter\/styles\/shCore.css":1,"sites\/all\/libraries\/syntaxhighlighter\/styles\/shThemeDefault.css":1,"sites\/all\/themes\/professional_responsive_theme\/style.css":1,"sites\/all\/themes\/professional_responsive_theme\/media.css":1}},"syntaxhighlighter":{"tagName":"code"},"urlIsAjaxTrusted":{"\/node?destination=node":true}});
+//--><!]]>
+</script>
+<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node">
+    
+<div id="header_wrapper">
+  <header id="header" role="banner">
+    <div id="logo"><a href="/" title="Home"><img src="http://gechologic.com/sites/default/files/gecho_vector_11_100x_transparent.png"/></a></div>
+        <h1 id="site-title">
+      <a href="/" title="Home">gechologic.com</a>
+      <div id="site-description">Home of The Awesome Gecho Loopsynth</div>
+    </h1>
+    <div class="clear"></div>
+  </header>
+
+  <div class="menu_wrapper">
+      <nav id="main-menu"  role="navigation">
+        <a class="nav-toggle" href="#">Navigation</a>
+        <div class="menu-navigation-container">
+          <ul class="menu"><li class="first leaf"><a href="/" class="active">Home</a></li>
+<li class="leaf"><a href="http://www.gechologic.com/shop/" title="On-line store where you can get your Gecho!">Shop</a></li>
+<li class="leaf"><a href="/videos">Videos</a></li>
+<li class="leaf"><a href="/manual" title="User Manual">Manual</a></li>
+<li class="leaf"><a href="/guides" title="A collection of tutorials about extending Gecho functionality">Guides</a></li>
+<li class="leaf"><a href="http://gechologic.com/support" title="Support Forum - Technical Discussion and Customer Support">Forum</a></li>
+<li class="leaf"><a href="/extras-and-wip" title="Schematics, Diagrams and Work in Progress">Extras</a></li>
+<li class="leaf"><a href="/gecho-app">The App</a></li>
+<li class="leaf"><a href="/reviews" title="What people said">Reviews</a></li>
+<li class="leaf"><a href="/faq">FAQ</a></li>
+<li class="last leaf"><a href="/contact">Contact</a></li>
+</ul>        </div>
+        <div class="clear"></div>
+      </nav><!-- end main-menu -->
+  </div>
+</div>
+  
+  <div id="container">
+
+             <!-- Banner -->
+
+     
+    
+    
+    <div class="content-sidebar-wrap">
+
+    <div id="content">
+      <div id="breadcrumbs"></div>      <section id="post-content" role="main">
+                                                                        <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+      <article id="node-67" class="node node-article node-promoted node-teaser clearfix" about="/build_process" typeof="sioc:Item foaf:Document">
+          <header>
+	                  <h2 class="title" ><a href="/build_process">Info about the next batch</a></h2>
+            <span property="dc:title" content="Info about the next batch" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+              <span class="submitted"><span property="dc:date dc:created" content="2020-01-03T23:13:10+00:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">mario</span> on Fri, 01/03/2020 - 23:13</span></span>
+      
+          </header>
+  
+  <div class="content node-article">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><style>
+<!--/*--><![CDATA[/* ><!--*/
+
+<!--/*--><![CDATA[/* ><!--*/
+
+a.thumb {margin-right:5px;}
+a.thumb img {max-width:200px;}
+
+/*--><!]]]]><![CDATA[>*/
+
+/*--><!]]>*/
+</style><h2>Why are Gechos out of stock</h2>
+<p><img src="images/build_process/00_gecho_acrylic.jpg" /></p>
+<p>While <a href="https://www.youtube.com/watch?v=eMJk4y9NGvE">the truth about plumbuses is now out</a>, it may still be a mystery how Gechos are made. Let me try to illustrate what is involved and why it takes so long to make them.</p></div></div></div>  </div>
+
+      <footer>
+      <ul class="links inline"><li class="node-readmore first"><a href="/build_process" rel="tag" title="Info about the next batch">Read more<span class="element-invisible"> about Info about the next batch</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/67%23comment-form">Log in</a> or <a href="/user/register?destination=node/67%23comment-form">register</a> to post comments</span></li>
+</ul>    </footer>
+  
+    </article> <!-- /.node -->
+  <article id="node-66" class="node node-article node-promoted node-teaser clearfix" about="/firmware_update" typeof="sioc:Item foaf:Document">
+          <header>
+	                  <h2 class="title" ><a href="/firmware_update">Firmware update</a></h2>
+            <span property="dc:title" content="Firmware update" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+              <span class="submitted"><span property="dc:date dc:created" content="2019-12-25T21:30:06+00:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">mario</span> on Wed, 12/25/2019 - 21:30</span></span>
+      
+          </header>
+  
+  <div class="content node-article">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h1>The new firmware is out</h1>
+<p>Hi Guys, the update is out and it has been tested by a few of you already, thanks for your help! So I think it is safe enough to publish it. In any case, you can revert back to the original one  at any time (<a href="http://gechologic.com/v2/manual/Gecho_v2_quick_start_02d.png">B3 in service menu</a>), as it never gets erased, Gecho has 3x 1MB "slots" reserved for the firmware; one from the "factory", and two more for updates, used alternatively.</p>
+<p>To find your current firmware you can run the channel #4112:</p>
+<p><img src="http://gechologic.com/v2/manual/version_indicator_channel_4112.jpg" /></p>
+<p>If your firmware is 1.0.115 or older, <a href="http://gechologic.com/manual">this manual applies</a>.</p></div></div></div>  </div>
+
+      <footer>
+      <ul class="links inline"><li class="node-readmore first"><a href="/firmware_update" rel="tag" title="Firmware update">Read more<span class="element-invisible"> about Firmware update</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/66%23comment-form">Log in</a> or <a href="/user/register?destination=node/66%23comment-form">register</a> to post comments</span></li>
+</ul>    </footer>
+  
+    </article> <!-- /.node -->
+  <article id="node-65" class="node node-article node-promoted node-teaser clearfix" about="/channels_controls" typeof="sioc:Item foaf:Document">
+          <header>
+	                  <h2 class="title" ><a href="/channels_controls">Channels controls</a></h2>
+            <span property="dc:title" content="Channels controls" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+              <span class="submitted"><span property="dc:date dc:created" content="2019-11-19T23:53:40+00:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">mario</span> on Tue, 11/19/2019 - 23:53</span></span>
+      
+          </header>
+  
+  <div class="content node-article">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h1>Channels controls (v2)</h1>
+<p>Before I have chance to make more demos detailing individual channels, here is a summary to help you explore what can be done. This article is work in progress but published early to not keep you waiting.</p>
+<p>Please note that depending on your firmware version, channels #23-24 and highlighted bugfixes may not yet be present in your unit. Guide about how to update your firmware will be published later this month.</p></div></div></div>  </div>
+
+      <footer>
+      <ul class="links inline"><li class="node-readmore first"><a href="/channels_controls" rel="tag" title="Channels controls">Read more<span class="element-invisible"> about Channels controls</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/65%23comment-form">Log in</a> or <a href="/user/register?destination=node/65%23comment-form">register</a> to post comments</span></li>
+</ul>    </footer>
+  
+    </article> <!-- /.node -->
+  <article id="node-63" class="node node-article node-promoted node-teaser clearfix" about="/settings_leaflet_explained" typeof="sioc:Item foaf:Document">
+          <header>
+	                  <h2 class="title" ><a href="/settings_leaflet_explained">Settings leaflet (explained)</a></h2>
+            <span property="dc:title" content="Settings leaflet (explained)" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+              <span class="submitted"><span property="dc:date dc:created" content="2019-09-19T13:41:27+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">mario</span> on Thu, 09/19/2019 - 13:41</span></span>
+      
+          </header>
+  
+  <div class="content node-article">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h1>Gecho v2 Settings leaflet explained</h1>
+<p>The <a href="http://gechologic.com/settings_leaflet">leaflet that you received with your unit</a> contains many settings and it is often not obvious from the name alone what every one of them does and how to use it. Please check this detailed explanation, and if something is not clear, feel free to ask in the comments below or <a href="http://gechologic.com/support/">on the forum</a>.</p>
+<p><em>Settings marked as WIP (work in progress) may not be implemented in your current firmware version yet. To avoid confusion and need for multiple printed versions of the manual, the place for these settings has been reserved.</em></p>
+<p> </p>
+<p><a href="http://gechologic.com/v2/manual/Gecho_v2_quick_start_02a.png"><img src="http://gechologic.com/v2/manual/Gecho_v2_quick_start_02a.png" /></a></p></div></div></div>  </div>
+
+      <footer>
+      <ul class="links inline"><li class="node-readmore first"><a href="/settings_leaflet_explained" rel="tag" title="Settings leaflet (explained)">Read more<span class="element-invisible"> about Settings leaflet (explained)</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/63%23comment-form">Log in</a> or <a href="/user/register?destination=node/63%23comment-form">register</a> to post comments</span></li>
+</ul>    </footer>
+  
+    </article> <!-- /.node -->
+  <article id="node-56" class="node node-article node-promoted node-teaser clearfix" about="/shipping_update_august" typeof="sioc:Item foaf:Document">
+          <header>
+	                  <h2 class="title" ><a href="/shipping_update_august">Gecho v2 shipping update</a></h2>
+            <span property="dc:title" content="Gecho v2 shipping update" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+              <span class="submitted"><span property="dc:date dc:created" content="2019-08-30T20:50:06+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">mario</span> on Fri, 08/30/2019 - 20:50</span></span>
+      
+          </header>
+  
+  <div class="content node-article">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h1>Gecho v2 shipping update - August</h1>
+<h2>The production went well</h2>
+<p>Everything arrived in mid August - boards, accessories and other material - so we could finally start building Gechos for you! The first bunch of parcels was sent on their way and some people already received theirs.</p>
+<p>Please be patient, we're doing what we can! To get an idea when you are likely to receive your parcel, check your order page - if you don't know where it is, check your inbox for recent newsletter, it might have ended up in spam or promotions tab. If your order is relatively new, please wait a few days for the next newsletter.</p>
+<p><a href="http://gechologic.com/v2/images/gecho_v2_first_units.jpg"><img src="http://gechologic.com/v2/images/gecho_v2_first_units_800x.jpg" /></a></p></div></div></div>  </div>
+
+      <footer>
+      <ul class="links inline"><li class="node-readmore first"><a href="/shipping_update_august" rel="tag" title="Gecho v2 shipping update">Read more<span class="element-invisible"> about Gecho v2 shipping update</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/56%23comment-form">Log in</a> or <a href="/user/register?destination=node/56%23comment-form">register</a> to post comments</span></li>
+</ul>    </footer>
+  
+    </article> <!-- /.node -->
+  <article id="node-55" class="node node-article node-promoted node-teaser clearfix" about="/production_update_august" typeof="sioc:Item foaf:Document">
+          <header>
+	                  <h2 class="title" ><a href="/production_update_august">Gecho v2 production update - August</a></h2>
+            <span property="dc:title" content="Gecho v2 production update - August" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+              <span class="submitted"><span property="dc:date dc:created" content="2019-08-12T22:25:26+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">mario</span> on Mon, 08/12/2019 - 22:25</span></span>
+      
+          </header>
+  
+  <div class="content node-article">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h1>Gecho v2 production update - August</h1>
+<h2>PCB Assembly is done</h2>
+<p>And the boards are on the way to us. Can't wait! :)</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UBDGqo1cp44" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><p> </p>
+<h2>The software is pretty much ready as well</h2>
+<p>During last month, I've been focusing mainly on getting the firmware to a complete enough state. It is never entirely done, as usually by implementing one thing, two more ideas come to mind :) But there was a few key things to get done for version 1.0 that will be shipped with your units.</p></div></div></div>  </div>
+
+      <footer>
+      <ul class="links inline"><li class="node-readmore first"><a href="/production_update_august" rel="tag" title="Gecho v2 production update - August">Read more<span class="element-invisible"> about Gecho v2 production update - August</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/55%23comment-form">Log in</a> or <a href="/user/register?destination=node/55%23comment-form">register</a> to post comments</span></li>
+</ul>    </footer>
+  
+    </article> <!-- /.node -->
+  <article id="node-54" class="node node-article node-promoted node-teaser clearfix" about="/production_update_june" typeof="sioc:Item foaf:Document">
+          <header>
+	                  <h2 class="title" ><a href="/production_update_june">Gecho v2 production update - June</a></h2>
+            <span property="dc:title" content="Gecho v2 production update - June" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+              <span class="submitted"><span property="dc:date dc:created" content="2019-06-27T19:05:42+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">mario</span> on Thu, 06/27/2019 - 19:05</span></span>
+      
+          </header>
+  
+  <div class="content node-article">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h1>Gecho v2 production update - June</h1>
+<h2>Because you asked for Lime Green</h2>
+<p><a href="http://gechologic.com/v2/images/Gecho_acrylic_sandwich_lime_green_buttons.jpg"><img src="http://gechologic.com/v2/images/Gecho_acrylic_sandwich_lime_green_buttons_800x.jpg" /></a></p>
+<p>We added a new colour to silicone buttons selection. Hope you like it! :)</p>
+<p><a href="http://gechologic.com/v2/images/Gecho_both_versions_lime_green_buttons.jpg"><img src="http://gechologic.com/v2/images/Gecho_both_versions_lime_green_buttons_800x.jpg" /></a></p></div></div></div>  </div>
+
+      <footer>
+      <ul class="links inline"><li class="node-readmore first"><a href="/production_update_june" rel="tag" title="Gecho v2 production update - June">Read more<span class="element-invisible"> about Gecho v2 production update - June</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/54%23comment-form">Log in</a> or <a href="/user/register?destination=node/54%23comment-form">register</a> to post comments</span></li>
+</ul>    </footer>
+  
+    </article> <!-- /.node -->
+  <article id="node-53" class="node node-article node-promoted node-teaser clearfix" about="/production_update_may" typeof="sioc:Item foaf:Document">
+          <header>
+	                  <h2 class="title" ><a href="/production_update_may">Production update - May</a></h2>
+            <span property="dc:title" content="Production update - May" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="2" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+              <span class="submitted"><span property="dc:date dc:created" content="2019-05-18T21:43:47+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">mario</span> on Sat, 05/18/2019 - 21:43</span></span>
+      
+          </header>
+  
+  <div class="content node-article">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h1>Gecho v2 production update - May</h1>
+<p>During the past three weeks we were busy (apart from shipping <a href="http://phonicbloom.com">whales</a>), with designing, testing and planning the production of new lizards.</p>
+<h2>Silicone buttons</h2>
+<p><a href="http://gechologic.com/v2/images/silicone_buttons_01.jpg"><img src="http://gechologic.com/v2/images/silicone_buttons_01_800x.jpg" /></a></p>
+<p>The production samples have arrived. Ain't they beautiful? :)</p>
+<p><a href="http://gechologic.com/v2/images/silicone_buttons_02.jpg"><img src="http://gechologic.com/v2/images/silicone_buttons_02_800x.jpg" /></a></p>
+<p>Three colours for now - translucent, sunflower yellow and bordeaux violet. We may add more later. Lime green or neon green has been suggested, only we cannot agree on an exact shade, please help!</p>
+<p><a href="http://gechologic.com/v2/images/gecho_v2_panels_with_buttons_01.jpg"><img src="http://gechologic.com/v2/images/gecho_v2_panels_with_buttons_01.jpg" /></a></p></div></div></div>  </div>
+
+      <footer>
+      <ul class="links inline"><li class="node-readmore first"><a href="/production_update_may" rel="tag" title="Production update - May">Read more<span class="element-invisible"> about Production update - May</span></a></li>
+<li class="comment-comments"><a href="/production_update_may#comments" title="Jump to the first comment of this posting.">2 comments</a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/53%23comment-form">Log in</a> or <a href="/user/register?destination=node/53%23comment-form">register</a> to post comments</span></li>
+</ul>    </footer>
+  
+    </article> <!-- /.node -->
+  <article id="node-51" class="node node-article node-promoted node-teaser clearfix" about="/new-batch-update-04" typeof="sioc:Item foaf:Document">
+          <header>
+	                  <h2 class="title" ><a href="/new-batch-update-04">Gecho v2 prototyping is done</a></h2>
+            <span property="dc:title" content="Gecho v2 prototyping is done" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+              <span class="submitted"><span property="dc:date dc:created" content="2019-04-01T22:51:41+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">mario</span> on Mon, 04/01/2019 - 22:51</span></span>
+      
+          </header>
+  
+  <div class="content node-article">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><iframe width="560" height="315" src="https://www.youtube.com/embed/-kZH4EVvuE8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><h2>The final Gecho v2 prototype</h2>
+<p>Since the <a href="http://gechologic.com/new-batch-update-03">previous update about v2</a> that was posted in August last year, it took 3 more revisions to get here. Although the first prototype of Gecho v2 has been completed, blueprints verified by our skilled hobbyist friends who hand-assembled their own boards, and it even passed CE/FCC testing with flying colours, so we could go ahead with the production - it was just not good enough. It needed a small upgrade or two. And, things tend to turn more complicated than they appear :)</p>
+<p>Thanks to everyone for encouraging comments, questions and feedback during the past few months, it has been very helpful and contributed a lot to shaping the new model.</p></div></div></div>  </div>
+
+      <footer>
+      <ul class="links inline"><li class="node-readmore first"><a href="/new-batch-update-04" rel="tag" title="Gecho v2 prototyping is done">Read more<span class="element-invisible"> about Gecho v2 prototyping is done</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/51%23comment-form">Log in</a> or <a href="/user/register?destination=node/51%23comment-form">register</a> to post comments</span></li>
+</ul>    </footer>
+  
+    </article> <!-- /.node -->
+  <article id="node-47" class="node node-article node-promoted node-teaser clearfix" about="/youtube-channel" typeof="sioc:Item foaf:Document">
+          <header>
+	                  <h2 class="title" ><a href="/youtube-channel">Demo Videos</a></h2>
+            <span property="dc:title" content="Demo Videos" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+              <span class="submitted"><span property="dc:date dc:created" content="2018-09-17T15:10:46+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">mario</span> on Mon, 09/17/2018 - 15:10</span></span>
+      
+          </header>
+  
+  <div class="content node-article">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h1>Demo Videos</h1>
+<p>Curious how to use Gecho and get the most out of it's FX powers, either in stand-alone mode or with external signal source is connected? <a href="http://gechologic.com/manual">The manual</a> is great to have at hand but there are videos too:</p>
+<p><a href="https://www.youtube.com/channel/UCkhjf0UIGRTIiyVAtGWPaXg/videos"><img src="http://gechologic.com/images/gecholoopsynth_youtube_channel.png" /></a></p>
+</div></div></div>  </div>
+
+      <footer>
+      <ul class="links inline"><li class="node-readmore first"><a href="/youtube-channel" rel="tag" title="Demo Videos">Read more<span class="element-invisible"> about Demo Videos</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/47%23comment-form">Log in</a> or <a href="/user/register?destination=node/47%23comment-form">register</a> to post comments</span></li>
+</ul>    </footer>
+  
+    </article> <!-- /.node -->
+<h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/node?page=1">2</a></li>
+<li class="pager-item"><a title="Go to page 3" href="/node?page=2">3</a></li>
+<li class="pager-next"><a title="Go to next page" href="/node?page=1">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/node?page=2">last »</a></li>
+</ul></div>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+      </section> <!-- /#main -->
+    </div>
+  
+          <aside id="sidebar-first" role="complementary">
+        <div class="region region-sidebar-first">
+  <div id="block-user-login" class="block block-user">
+
+        <h2 >User login</h2>
+    
+  <div class="content">
+    <form action="/node?destination=node" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-_684K8FvrSTkjUR8N9pCSrIrnp2uGHbsscAX5hCU1QA" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-system-main-menu" class="block block-system block-menu">
+
+        <h2 >Main menu</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/" class="active">Home</a></li>
+<li class="leaf"><a href="http://www.gechologic.com/shop/" title="On-line store where you can get your Gecho!">Shop</a></li>
+<li class="leaf"><a href="/videos">Videos</a></li>
+<li class="leaf"><a href="/manual" title="User Manual">Manual</a></li>
+<li class="leaf"><a href="/guides" title="A collection of tutorials about extending Gecho functionality">Guides</a></li>
+<li class="leaf"><a href="http://gechologic.com/support" title="Support Forum - Technical Discussion and Customer Support">Forum</a></li>
+<li class="leaf"><a href="/extras-and-wip" title="Schematics, Diagrams and Work in Progress">Extras</a></li>
+<li class="leaf"><a href="/gecho-app">The App</a></li>
+<li class="leaf"><a href="/reviews" title="What people said">Reviews</a></li>
+<li class="leaf"><a href="/faq">FAQ</a></li>
+<li class="last leaf"><a href="/contact">Contact</a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+      </aside>  <!-- /#sidebar-first -->
+      
+    </div>
+
+      
+</div>
+
+<div id="footer">
+  <div id="footer_wrapper">
+      </div>
+  <div class="footer_credit">
+    <div class="footer_inner_credit">
+           <div id="foot">
+        <div class="region region-footer">
+  <div id="block-block-1" class="block block-block">
+
+        <h2 >Follow us and subscribe to our channel!</h2>
+    
+  <div class="content">
+    <ul><li><a href="https://www.facebook.com/gechologic"><img src="http://gechologic.com/sites/all/themes/professional_responsive_theme/images/icon_fb.png" /></a></li>
+<li><a href="https://www.instagram.com/gechologic/"><img src="http://gechologic.com/sites/all/themes/professional_responsive_theme/images/icon_in.png" /></a></li>
+<li><a href="https://www.youtube.com/c/GechoLoopsynth"><img src="http://gechologic.com/sites/all/themes/professional_responsive_theme/images/icon_yt.png" /></a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-system-powered-by" class="block block-system">
+
+      
+  <div class="content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+      </div>
+         
+    <div id="copyright">
+     <p class="copyright">Copyright &copy; 2020, Gechologic.com / PhonicBloom Limited</p> <p class="credits"> Designed by  <a href="http://www.zymphonies.com">Zymphonies</a></p>
+    <div class="clear"></div>
+    </div>
+  </div>
+  </div>
+</div>  <script type="text/javascript" src="http://gechologic.com/sites/all/modules/syntaxhighlighter/syntaxhighlighter.min.js?p7wyue"></script>
+</body>
+</html>

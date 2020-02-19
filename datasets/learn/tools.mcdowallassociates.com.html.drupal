@@ -1,0 +1,146 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>mcdatest</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/all/themes/cti_flex/favicon.ico" type="image/x-icon" />
+  <link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/cti_flex/css/html-reset.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/cti_flex/css/wireframes.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/cti_flex/css/tabs.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/cti_flex/css/messages.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/cti_flex/css/pages.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/cti_flex/css/block-editing.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/cti_flex/css/blocks.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/cti_flex/css/navigation.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/cti_flex/css/nodes.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/cti_flex/css/comments.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/cti_flex/css/forms.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/cti_flex/css/cti-flex.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/cti_flex/css/layout-fixed.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/cti_flex/colors/teal.css?9" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/cti_flex/css/local.css?9" />
+<link type="text/css" rel="stylesheet" media="print" href="/sites/all/themes/cti_flex/css/print.css?9" />
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/cti_flex/css/ie.css?9" />
+<![endif]-->
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/cti_flex/css/ie6.css?9" />
+<![endif]-->
+      <style type="text/css">
+</style>
+  <!--[if lte IE 6]>
+  <script type="text/javascript" src="/sites/all/themes/cti_flex/js/suckerfish.js"></script>
+  <![endif]-->
+</head>
+
+<body class="page front not-logged-in one-sidebar sidebar-first empty-nav ">
+
+  <div id="page-wrapper"><div id="page">
+
+    <div id="header"><div class="section clearfix">
+
+      
+              <div id="logo-title">
+
+                      <div id="logo"><a href="/" title="Home" rel="home"><img src="/sites/all/themes/cti_flex/logo.png" alt="Home" id="logo-image" /></a></div>
+          
+              <div id="title-slogan">
+
+                      <div class="no-slogan">              <h1 id="site-name">
+                <a href="/" title="Home" rel="home">
+                mcdatest                </a>
+              </h1>
+            </div>          
+          
+          </div> <!-- /#title-slogan -->
+        
+        </div> <!-- /#logo-title -->
+      
+      
+    </div></div> <!-- /.section, /#header -->
+
+    <div id="main-wrapper"><div id="main" class="clearfix ">
+
+      <div id="content" class="column"><div class="section">
+
+        
+        
+                                        
+        
+        <div id="content-area">
+          <div id="first-time"><h1 class="title">Welcome to your new Drupal website!</h1><p>Please follow these steps to set up and start using your website:</p><ol><li><strong>Configure your website</strong> Once logged in, visit the <a href="/admin">administration section</a>, where you can <a href="/admin/settings">customize and configure</a> all aspects of your website.</li><li><strong>Enable additional functionality</strong> Next, visit the <a href="/admin/build/modules">module list</a> and enable features which suit your specific needs. You can find additional modules in the <a href="http://drupal.org/project/modules">Drupal modules download section</a>.</li><li><strong>Customize your website design</strong> To change the "look and feel" of your website, visit the <a href="/admin/build/themes">themes section</a>. You may choose from one of the included themes or download additional themes from the <a href="http://drupal.org/project/themes">Drupal themes download section</a>.</li><li><strong>Start posting content</strong> Finally, you can <a href="/node/add">create content</a> for your website. This message will disappear once you have promoted a post to the front page.</li></ol><p>For more information, please refer to the <a href="/admin/help">help section</a>, or the <a href="http://drupal.org/handbooks">online Drupal handbooks</a>. You may also post at the <a href="http://drupal.org/forum">Drupal forum</a>, or view the wide range of <a href="http://drupal.org/support">other support options</a> available.</p></div>        </div>
+
+        
+        
+      </div></div> <!-- /.section, /#content -->
+
+      <div id="navigation"><div class="section clearfix">
+
+	 
+        
+        
+      </div></div> <!-- /.section, /#navigation -->
+
+      <div class="region region-sidebar-first column sidebar"><div class="section">
+  
+<div id="block-user-0" class="block block-user first last region-odd odd region-count-1 count-1  block-1"><div class="block-inner">
+
+      <h2 class="title">User login</h2>
+  
+  <div class="content">
+    <form action="/node?destination=node"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-VHnQ5RRVBg2oy59ese1PiFO33S-7oGMJVumAn85LWOc" value="form-VHnQ5RRVBg2oy59ese1PiFO33S-7oGMJVumAn85LWOc"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+</div></div><!-- /.section, /.region -->
+
+      
+    </div></div> <!-- /#main, /#main-wrapper -->
+
+          <div id="footer"><div class="section">
+
+        
+        <div class="region region-footer">
+  
+<div id="block-system-0" class="block block-system first last region-odd even region-count-1 count-2  no-header block-1"><div class="block-inner">
+
+  
+  <div class="content">
+    <a href="http://drupal.org"><img src="/misc/powered-blue-80x15.png" alt="Powered by Drupal, an open source content management system" title="Powered by Drupal, an open source content management system" width="80" height="15" /></a>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+</div><!-- /.region -->
+
+      </div></div> <!-- /.section, /#footer -->
+    
+  </div></div> <!-- /#page, /#page-wrapper -->
+
+  
+  
+</body>
+</html>

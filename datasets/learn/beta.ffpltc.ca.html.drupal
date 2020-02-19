@@ -1,0 +1,1607 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-104440086-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<meta name="title" content="FFPLTC | Fort Frances Public Library Technology Centre" />
+<link rel="shortlink" href="https://www.ffpltc.ca/" />
+<link rel="canonical" href="https://www.ffpltc.ca/" />
+<meta name="description" content="The FFPLTC is a public library serving Fort Frances and the Rainy River District, with over 50 thousand books, movies, and other items to borrow and over 100 thousand items available to download online." />
+<meta name="keywords" content="FFPLTC,Fort Frances Public Library Technology Centre,Rainy River District" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/themes/industrial_zymphonies_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="revision" href="/front" />
+
+    <title>FFPLTC | Fort Frances Public Library Technology Centre</title>
+    <style media="all">
+@import url("/libraries/slick/slick/slick.css?q5cj4l");
+@import url("/modules/slick/css/layout/slick.module.css?q5cj4l");
+@import url("/core/themes/stable/css/system/components/ajax-progress.module.css?q5cj4l");
+@import url("/core/themes/stable/css/system/components/align.module.css?q5cj4l");
+@import url("/core/themes/stable/css/system/components/autocomplete-loading.module.css?q5cj4l");
+@import url("/core/themes/stable/css/system/components/fieldgroup.module.css?q5cj4l");
+@import url("/core/themes/stable/css/system/components/container-inline.module.css?q5cj4l");
+@import url("/core/themes/stable/css/system/components/clearfix.module.css?q5cj4l");
+@import url("/core/themes/stable/css/system/components/details.module.css?q5cj4l");
+@import url("/core/themes/stable/css/system/components/hidden.module.css?q5cj4l");
+@import url("/core/themes/stable/css/system/components/item-list.module.css?q5cj4l");
+@import url("/core/themes/stable/css/system/components/js.module.css?q5cj4l");
+@import url("/core/themes/stable/css/system/components/nowrap.module.css?q5cj4l");
+@import url("/core/themes/stable/css/system/components/position-container.module.css?q5cj4l");
+@import url("/core/themes/stable/css/system/components/progress.module.css?q5cj4l");
+@import url("/core/themes/stable/css/system/components/reset-appearance.module.css?q5cj4l");
+@import url("/core/themes/stable/css/system/components/resize.module.css?q5cj4l");
+@import url("/core/themes/stable/css/system/components/sticky-header.module.css?q5cj4l");
+@import url("/core/themes/stable/css/system/components/system-status-counter.css?q5cj4l");
+@import url("/core/themes/stable/css/system/components/system-status-report-counters.css?q5cj4l");
+@import url("/core/themes/stable/css/system/components/system-status-report-general-info.css?q5cj4l");
+@import url("/core/themes/stable/css/system/components/tabledrag.module.css?q5cj4l");
+@import url("/core/themes/stable/css/system/components/tablesort.module.css?q5cj4l");
+@import url("/core/themes/stable/css/system/components/tree-child.module.css?q5cj4l");
+@import url("/core/themes/stable/css/views/views.module.css?q5cj4l");
+@import url("/modules/blazy/css/components/blazy.loading.css?q5cj4l");
+@import url("/modules/library_programs/css/lp_slideshow.css?q5cj4l");
+@import url("/modules/library_programs/css/lp_upcoming.css?q5cj4l");
+@import url("/modules/library_programs/css/lp_featured.css?q5cj4l");
+@import url("/modules/library_programs/css/lp_related.css?q5cj4l");
+@import url("/modules/library_programs/css/lp.css?q5cj4l");
+</style>
+<style media="print">
+@import url("/modules/library_programs/css/lp_print.css?q5cj4l");
+</style>
+<style media="all">
+@import url("/libraries/slick/slick/slick-theme.css?q5cj4l");
+@import url("/modules/slick/css/theme/slick.theme.css?q5cj4l");
+@import url("/modules/slick/css/theme/slick.theme--full.css?q5cj4l");
+@import url("/modules/slick/css/theme/slick.theme--fullwidth.css?q5cj4l");
+</style>
+<style media="all">
+@import url("/core/themes/classy/css/components/node.css?q5cj4l");
+@import url("/core/themes/classy/css/components/messages.css?q5cj4l");
+@import url("/themes/industrial_zymphonies_theme/includes/bootstrap/css/bootstrap.min.css?q5cj4l");
+@import url("/themes/industrial_zymphonies_theme/css/sm-core-css.css?q5cj4l");
+@import url("/themes/industrial_zymphonies_theme/css/base.css?q5cj4l");
+@import url("/themes/industrial_zymphonies_theme/css/font-awesome.css?q5cj4l");
+@import url("/themes/industrial_zymphonies_theme/css/custom-style.css?q5cj4l");
+@import url("/themes/industrial_zymphonies_theme/css/custom-media.css?q5cj4l");
+@import url("/themes/industrial_zymphonies_theme/css/ffpltc.css?q5cj4l");
+</style>
+
+    
+<!--[if lte IE 8]>
+<script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
+<![endif]-->
+
+  </head>
+  <body class="path-frontpage page-node-type-page">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+    
+
+<!-- Header and Navbar -->
+<header class="main-header">
+  <nav class="navbar topnav navbar-default" role="navigation">
+    <div class="container">
+      <div class="row">
+      <div class="navbar-header col-md-2">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navigation">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+                    <div class="region region-header">
+    <div id="block-industrial-zymphonies-theme-branding" class="site-branding block block-system block-system-branding-block">
+  
+      
+        <div class="brand logo">
+      <a href="/" title="Home" rel="home" class="site-branding__logo">
+        <img src="/sites/default/files/images/FFPLTC.png" alt="Home" />
+      </a>
+    </div>
+    </div>
+
+  </div>
+
+              </div>
+
+      <!-- Navigation -->
+      <div class="col-md-7">
+                    <div class="region region-primary-menu">
+    <nav role="navigation" aria-labelledby="block-industrial-zymphonies-theme-main-menu-menu" id="block-industrial-zymphonies-theme-main-menu">
+            
+  <h2 class="visually-hidden" id="block-industrial-zymphonies-theme-main-menu-menu">Main navigation</h2>
+  
+
+        
+              <ul class="sm menu-base-theme" id="main-menu"  class="menu nav navbar-nav">
+                      <li>
+        <a href="/programs" data-target="#" data-toggle="dropdown">Events</a>
+                                  <ul>
+                      <li>
+        <a href="/node/901" data-drupal-link-system-path="node/901">Book Club</a>
+                  </li>
+                  <li>
+        <a href="/node/888" data-drupal-link-system-path="node/888">For Kids</a>
+                  </li>
+                  <li>
+        <a href="/node/920" data-drupal-link-system-path="node/920">For Teens</a>
+                  </li>
+                  <li>
+        <a href="/node/895" data-drupal-link-system-path="node/895">For Adults &amp; Seniors</a>
+                  </li>
+                  <li>
+        <a href="/programs/events/upcoming" data-drupal-link-system-path="programs/events/upcoming">Upcoming Events</a>
+                  </li>
+        </ul>
+  
+            </li>
+                  <li>
+        <a href="https://olsn.ent.sirsidynix.net/client/en_US/fortfrance" data-target="#" data-toggle="dropdown">Collection</a>
+                                  <ul>
+                      <li>
+        <a href="/eresources/bookmyne" data-drupal-link-system-path="eresources/468">Get Our App</a>
+                  </li>
+                  <li>
+        <a href="https://olsn.ent.sirsidynix.net/client/en_US/fortfrance/">Renew My Books</a>
+                  </li>
+                  <li>
+        <a href="https://olsn.ent.sirsidynix.net/client/en_US/fortfrance">Our Catalogue</a>
+                  </li>
+                  <li>
+        <a href="/services/delivery" data-drupal-link-system-path="services/454">Home Delivery</a>
+                  </li>
+                  <li>
+        <a href="/services/ill" data-drupal-link-system-path="node/1849">Interlibrary Loan</a>
+                  </li>
+        </ul>
+  
+            </li>
+                  <li>
+        <a href="/make" data-target="#" data-toggle="dropdown">Makerspace</a>
+                                  <ul>
+                      <li>
+        <a href="/3D" data-drupal-link-system-path="node/911">3D Printing</a>
+                  </li>
+                  <li>
+        <a href="/buttons" data-drupal-link-system-path="node/1528">Button Making</a>
+                  </li>
+                  <li>
+        <a href="/cutting" data-drupal-link-system-path="node/1531">Machine Cutting</a>
+                  </li>
+                  <li>
+        <a href="/VR" data-drupal-link-system-path="node/1497">Virtual Reality</a>
+                  </li>
+        </ul>
+  
+            </li>
+                  <li>
+        <a href="/use" data-target="#" data-toggle="dropdown">Using the Library</a>
+                                  <ul>
+                      <li>
+        <a href="/use/card" data-drupal-link-system-path="node/293">My Library Card</a>
+                  </li>
+                  <li>
+        <a href="/use/space/booking" data-drupal-link-system-path="node/295">Book Our Space</a>
+                  </li>
+                  <li>
+        <a href="/eresources" data-drupal-link-system-path="eresources">eResources</a>
+                  </li>
+                  <li>
+        <a href="/services" data-drupal-link-system-path="services">Services</a>
+                  </li>
+                  <li>
+        <a href="/policy" data-drupal-link-system-path="policy">Policies</a>
+                  </li>
+                  <li>
+        <a href="/use/code" data-drupal-link-system-path="node/1708">Our Code of Conduct</a>
+                  </li>
+        </ul>
+  
+            </li>
+                  <li>
+        <a href="/board" data-target="#" data-toggle="dropdown">Connect</a>
+                                  <ul>
+                      <li>
+        <a href="/contact" data-drupal-link-system-path="contact">Contact Us</a>
+                  </li>
+                  <li>
+        <a href="/use/hours" data-drupal-link-system-path="node/341">Hours of Operation</a>
+                  </li>
+                  <li>
+        <a href="/support/friends" data-drupal-link-system-path="node/286">Friends of the Library</a>
+                  </li>
+                  <li>
+        <a href="/employment" data-drupal-link-system-path="employment">Employment Opportunities</a>
+                  </li>
+                  <li>
+        <a href="/support/donate" data-drupal-link-system-path="node/287">Donate</a>
+                  </li>
+                  <li>
+        <a href="/board" data-drupal-link-system-path="node/907">Our Board</a>
+                  </li>
+        </ul>
+  
+            </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+              </div>
+      <!--End Navigation -->
+
+      <!-- Navigation -->
+      <div class="col-md-3">
+        <!--Search-->
+                        <div class="region region-search">
+    <div id="block-searchcatalogue" class="block block-block-content block-block-content3653eb6d-9813-4c5c-b049-0cfe02e7e8dd">
+  
+      
+      <div class="content">
+                  <div><form action="https://olsn.ent.sirsidynix.net/client/en_US/fortfrance/search/results" method="get" id="search-block-form" accept-charset="UTF-8" data-drupal-form-fields="edit-keys">
+	<div class="js-form-item form-item js-form-type-search form-item-keys js-form-item-keys form-no-label">
+		<label for="qu" class="visually-hidden">Search</label>
+		<input title="Search our catalogue..." data-drupal-selector="edit-keys" type="search" id="qu" name="qu" value="" size="15" maxlength="128" class="form-search" placeholder="Search our catalogue..." /></div>
+	<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" class="button js-form-submit form-submit" /></div>
+</form><div id="deck_filter_tooltips"></div></div>
+      
+    </div>
+  </div>
+
+  </div>
+
+                  <!--End Search-->
+
+      </div>
+      <!--End Navigation -->
+
+      </div>
+    </div>
+  </nav>
+
+  <!-- Banner -->
+    
+    <div class="slideshow">
+        <div class="region region-slideshow">
+    <div class="views-element-container block block-views block-views-blocklp-block-featured" id="block-views-block-lp-block-featured">
+  
+      
+      <div class="content">
+      <div><div class="library-programs featured js-view-dom-id-d3ea0eae1cbe57b861833c7e8e37d64cce552de15d98fbbf5b005976825a000e">
+  
+  
+  
+
+  
+  
+  
+
+  
+
+<div id="slick-views-lp-block-featured-1" class="slick slick--view--lp slick--view--lp--block-featured slick--skin--fullwidth slick--optionset--featured-library-programs"><div id="slick-views-lp-block-featured-1-slider" data-slick="{&quot;dots&quot;:true}" class="slick__slider"><div class="slick__slide slide slide--0"><article class="slide__caption library-programs featured"><script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Fireside Yarn Club",
+        "startDate": "2020-02-19T18:00:00-0600",
+        "location": {
+      "@type": "Place",
+      "name": "Fort Frances Public Library Technology Centre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "601 Reid Avenue",
+        "addressLocality": "Fort Frances",
+        "postalCode": "P9A0A2",
+        "addressRegion": "ON",
+        "addressCountry": "CA"
+      }
+    },
+    "image": "https://www.ffpltc.ca/sites/default/files/images/programs/backgrounds/yarn-club.jpg",
+        "description": "Everyone is welcome to join in, learn and share their love of all things &quot;yarn&quot;.
+",
+        "endDate": "2020-02-19T20:00:00-0600",
+        "offers": {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+                  "validFrom": "2020-02-18T13:46:57-0600"
+    }
+      }
+  </script><div class="background program" aria-hidden="true"><img src="/sites/default/files/styles/lp_background/public/images/programs/backgrounds/yarn-club.jpg?itok=mQHHIqu8" width="1920" height="1200" alt="" typeof="foaf:Image" /></div><div class="content"><div class="header"><div class="date"><span class="month">Feb</span><span class="date-short">19</span></div><h1 class="title"><a href="/node/2192">Fireside Yarn Club</a></h1></div><div class="details"><div class="time">Wednesday @   <time datetime="2020-02-20T00:00:00Z">6:00 PM</time>
+
+ -   <time datetime="2020-02-20T02:00:00Z">8:00 PM</time></div><div class="fee"></div><div class="location"><a href="/node/938" hreflang="en">Eisenhauer Lounge</a></div><p>Everyone is welcome to join in, learn and share their love of all things &quot;yarn&quot;.
+</p><div class="attachments"></div></div></div><div class="logo"><a href="/node/896"><img src="/sites/default/files/styles/large/public/images/programs/logos/Fireside%20Yarn%20Club.png?itok=u4RVQhd-" width="480" height="254" alt="Fireside Yarn Club" typeof="foaf:Image" /></a></div></article></div><div class="slick__slide slide slide--1"><article class="slide__caption library-programs featured"><script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Yoga with Meghan ",
+        "startDate": "2020-02-20T16:30:00-0600",
+        "location": {
+      "@type": "Place",
+      "name": "Fort Frances Public Library Technology Centre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "601 Reid Avenue",
+        "addressLocality": "Fort Frances",
+        "postalCode": "P9A0A2",
+        "addressRegion": "ON",
+        "addressCountry": "CA"
+      }
+    },
+    "image": "https://www.ffpltc.ca/sites/default/files/images/programs/backgrounds/yogamat_5.jpg",
+        "description": "Join us for an hour of gentle stretch Hatha yoga with local instructor Meghan Spooner. Please wear comfortable clothes and bring a water bottle. This free program is open to ages 16+. Mats available. No registration required.",
+        "endDate": "2020-02-20T17:30:00-0600",
+        "offers": {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+                  "validFrom": "2020-02-13T09:29:28-0600"
+    }
+      }
+  </script><div class="background event" aria-hidden="true"><img src="/sites/default/files/styles/lp_background/public/images/programs/backgrounds/yogamat_5.jpg?itok=502tEaa8" width="1920" height="640" alt="" typeof="foaf:Image" /></div><div class="content"><div class="header"><div class="date"><span class="month">Feb</span><span class="date-short">20</span></div><h1 class="title"><a href="/node/2206">Yoga with Meghan </a></h1></div><div class="details"><div class="time">Thursday @   <time datetime="2020-02-20T22:30:00Z">4:30 PM</time>
+
+ -   <time datetime="2020-02-20T23:30:00Z">5:30 PM</time></div><div class="fee"></div><div class="location"><a href="/node/933" hreflang="en">Shaw Community Hub</a></div><p>Join us for an hour of gentle stretch Hatha yoga with local instructor Meghan Spooner. Please wear comfortable clothes and bring a water bottle. This free program is open to ages 16+. Mats available. No registration required.</p><div class="attachments"></div></div></div><div class="logo"><a href="/node/1592"><img src="/sites/default/files/styles/large/public/images/programs/logos/FFPLTC_8.png?itok=B-CIrlDt" width="480" height="240" alt="ffpltc logo" typeof="foaf:Image" /></a></div></article></div><div class="slick__slide slide slide--2"><article class="slide__caption library-programs featured"><script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Author Visit - Ian Jarvis ",
+        "startDate": "2020-02-24T18:00:00-0600",
+        "location": {
+      "@type": "Place",
+      "name": "Fort Frances Public Library Technology Centre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "601 Reid Avenue",
+        "addressLocality": "Fort Frances",
+        "postalCode": "P9A0A2",
+        "addressRegion": "ON",
+        "addressCountry": "CA"
+      }
+    },
+    "image": "http://172.17.20.13/sites/default/files/images/programs/backgrounds/Author%20Visit_0.jpg",
+        "description": "Join us for a special evening with local author Ian Jarvis, who will be reading from his book &quot;Light in the Sky&quot;. Copies will be available to purchase for $32.00 and light refreshments will be served. ",
+        "endDate": "2020-02-24T19:00:00-0600",
+        "offers": {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+                  "validFrom": "2020-02-07T13:25:07-0600"
+    }
+      }
+  </script><div class="background event" aria-hidden="true"><img src="/sites/default/files/styles/lp_background/public/images/programs/backgrounds/Author%20Visit_0.jpg?itok=2WA757i0" width="1920" height="960" alt="" typeof="foaf:Image" /></div><div class="content"><div class="header"><div class="date"><span class="month">Feb</span><span class="date-short">24</span></div><h1 class="title"><a href="/node/2186">Author Visit - Ian Jarvis </a></h1></div><div class="details"><div class="time">Monday @   <time datetime="2020-02-25T00:00:00Z">6:00 PM</time>
+
+ -   <time datetime="2020-02-25T01:00:00Z">7:00 PM</time></div><div class="fee"></div><div class="location"><a href="/node/971" hreflang="en">Great Space</a></div><p>Join us for a special evening with local author Ian Jarvis, who will be reading from his book &quot;Light in the Sky&quot;. Copies will be available to purchase for $32.00 and light refreshments will be served. </p><div class="attachments"></div></div></div><div class="logo"><a href="/node/1667"><img src="/sites/default/files/styles/large/public/images/programs/logos/FFPLTC-Colour-Acronym.png?itok=G7M3B8lI" width="480" height="249" alt="ffpltc" typeof="foaf:Image" /></a></div></article></div><div class="slick__slide slide slide--3"><article class="slide__caption library-programs featured"><script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Baby Food Making Workshop",
+        "startDate": "2020-02-20T10:30:00-0600",
+        "location": {
+      "@type": "Place",
+      "name": "Fort Frances Public Library Technology Centre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "601 Reid Avenue",
+        "addressLocality": "Fort Frances",
+        "postalCode": "P9A0A2",
+        "addressRegion": "ON",
+        "addressCountry": "CA"
+      }
+    },
+    "image": "https://www.ffpltc.ca/sites/default/files/images/programs/backgrounds/food-3245357_1920.jpg",
+        "description": "Learn how to make your own baby food from a Registered Dietitian/Nutrition Lead from Gizhewaadiziwin Health Access Centre.  This workshop is FREE to attend, but you must register one week in advance.  Baby will need an additional caretaker if you would like them to participate in the regular Baby Time program this day.",
+        "endDate": "2020-02-20T00:00:00-0600",
+        "offers": {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+                  "url": "http://alpha.ffpltc.ca/form/basic-registration-limit-15",
+            "validFrom": "2020-02-18T13:46:57-0600"
+    }
+      }
+  </script><div class="background event" aria-hidden="true"><img src="/sites/default/files/styles/lp_background/public/images/programs/backgrounds/food-3245357_1920.jpg?itok=JSHdjaid" width="1920" height="1279" alt="" typeof="foaf:Image" /></div><div class="content"><div class="header"><div class="date"><span class="month">Feb</span><span class="date-short">20</span></div><h1 class="title"><a href="/node/2158">Baby Food Making Workshop</a></h1></div><div class="details"><div class="time">Thursday @   <time datetime="2020-02-20T16:30:00Z">10:30 AM</time>
+
+ -   <time datetime="2020-02-20T06:00:00Z">12:00 AM</time></div><div class="fee"></div><div class="location"></div><p>Learn how to make your own baby food from a Registered Dietitian/Nutrition Lead from Gizhewaadiziwin Health Access Centre.  This workshop is FREE to attend, but you must register one week in advance.  Baby will need an additional caretaker if you would like them to participate in the regular Baby Time program this day.</p><div class="attachments"></div></div><div class="registration event btn"><a href="/form/basic-registration-limit-15?source_entity_type=node&amp;source_entity_id=2158">Sign Up</a></div></div><div class="logo"><a href="/node/891"><img src="/sites/default/files/styles/large/public/images/programs/logos/Babytime.png?itok=dHl3pYzS" width="443" height="249" alt="Baby Time" typeof="foaf:Image" /></a></div></article></div><div class="slick__slide slide slide--4"><article class="slide__caption library-programs featured"><script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Baby Time",
+        "startDate": "2020-02-20T10:30:00-0600",
+        "location": {
+      "@type": "Place",
+      "name": "Fort Frances Public Library Technology Centre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "601 Reid Avenue",
+        "addressLocality": "Fort Frances",
+        "postalCode": "P9A0A2",
+        "addressRegion": "ON",
+        "addressCountry": "CA"
+      }
+    },
+    "image": "https://www.ffpltc.ca/sites/default/files/images/programs/backgrounds/baby-time-back.jpg",
+        "description": "Bouncing and tickling rhymes, songs and stories that will make your baby smile.",
+        "endDate": "2020-02-20T11:15:00-0600",
+        "offers": {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+                  "url": "    <a href="/form/registration-baby-time?source_entity_type=node&amp;source_entity_id=891">Sign Up</a>
+
+",
+            "validFrom": "2020-02-18T13:46:57-0600"
+    }
+      }
+  </script><div class="background program" aria-hidden="true"><img src="/sites/default/files/styles/lp_background/public/images/programs/backgrounds/baby-time-back.jpg?itok=UGI8Omd2" width="1920" height="2251" alt="" typeof="foaf:Image" /></div><div class="content"><div class="header"><div class="date"><span class="month">Feb</span><span class="date-short">20</span></div><h1 class="title"><a href="/node/2134">Baby Time</a></h1></div><div class="details"><div class="time">Thursday @   <time datetime="2020-02-20T16:30:00Z">10:30 AM</time>
+
+ -   <time datetime="2020-02-20T17:15:00Z">11:15 AM</time></div><div class="fee"></div><div class="location"></div><p>Bouncing and tickling rhymes, songs and stories that will make your baby smile.</p><div class="attachments"></div></div><div class="registration program btn"><a href="/form/registration-baby-time?source_entity_type=node&amp;source_entity_id=891">Sign Up</a></div></div><div class="logo"><a href="/node/891"><img src="/sites/default/files/styles/large/public/images/programs/logos/Babytime.png?itok=dHl3pYzS" width="443" height="249" alt="Baby Time" typeof="foaf:Image" /></a></div></article></div><div class="slick__slide slide slide--5"><article class="slide__caption library-programs featured"><script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Craft Club",
+        "startDate": "2020-02-22T10:30:00-0600",
+        "location": {
+      "@type": "Place",
+      "name": "Fort Frances Public Library Technology Centre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "601 Reid Avenue",
+        "addressLocality": "Fort Frances",
+        "postalCode": "P9A0A2",
+        "addressRegion": "ON",
+        "addressCountry": "CA"
+      }
+    },
+    "image": "https://www.ffpltc.ca/sites/default/files/images/programs/backgrounds/craft-club.jpg",
+        "description": "Drop-in and create some wild &amp; wacky crafts to take home! Children under 8 must be accompanied by an adult. 
+",
+        "endDate": "2020-02-22T11:30:00-0600",
+        "offers": {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+                  "validFrom": "2020-02-10T14:51:33-0600"
+    }
+      }
+  </script><div class="background program" aria-hidden="true"><img src="/sites/default/files/styles/lp_background/public/images/programs/backgrounds/craft-club.jpg?itok=CpMlc65Q" width="1920" height="1440" alt="" typeof="foaf:Image" /></div><div class="content"><div class="header"><div class="date"><span class="month">Feb</span><span class="date-short">22</span></div><h1 class="title"><a href="/node/2169">Craft Club</a></h1></div><div class="details"><div class="time">Saturday @   <time datetime="2020-02-22T10:30:00Z">10:30 AM</time>
+
+ -   <time datetime="2020-02-22T11:30:00Z">11:30 AM</time></div><div class="fee"></div><div class="location"></div><p>Drop-in and create some wild &amp; wacky crafts to take home! Children under 8 must be accompanied by an adult. 
+</p><div class="attachments"></div></div></div><div class="logo"><a href="/node/1254"><img src="/sites/default/files/styles/large/public/images/programs/logos/FFPLTC_1.png?itok=zFAxbDfb" width="480" height="240" alt="FFPLTC" typeof="foaf:Image" /></a></div></article></div><div class="slick__slide slide slide--6"><article class="slide__caption library-programs featured"><script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Tween Club",
+        "startDate": "2020-02-25T16:00:00-0600",
+        "location": {
+      "@type": "Place",
+      "name": "Fort Frances Public Library Technology Centre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "601 Reid Avenue",
+        "addressLocality": "Fort Frances",
+        "postalCode": "P9A0A2",
+        "addressRegion": "ON",
+        "addressCountry": "CA"
+      }
+    },
+    "image": "https://www.ffpltc.ca/sites/default/files/images/programs/backgrounds/tween.jpg",
+        "description": "Join us each Tuesday afternoon for fun and informative activities geared for youth.",
+        "endDate": "2020-02-25T17:00:00-0600",
+        "offers": {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+                  "validFrom": "2020-02-18T13:46:57-0600"
+    }
+      }
+  </script><div class="background program" aria-hidden="true"><img src="/sites/default/files/styles/lp_background/public/images/programs/backgrounds/tween.jpg?itok=ue7l-Srq" width="1920" height="1280" alt="" typeof="foaf:Image" /></div><div class="content"><div class="header"><div class="date"><span class="month">Feb</span><span class="date-short">25</span></div><h1 class="title"><a href="/node/2181">Tween Club</a></h1></div><div class="details"><div class="time">Tuesday @   <time datetime="2020-02-25T22:00:00Z">4:00 PM</time>
+
+ -   <time datetime="2020-02-25T23:00:00Z">5:00 PM</time></div><div class="fee"></div><div class="location"></div><p>Join us each Tuesday afternoon for fun and informative activities geared for youth.</p><div class="attachments"></div></div></div><div class="logo"><a href="/node/893"><img src="/sites/default/files/styles/large/public/images/programs/logos/Tween%20Club.png?itok=3EVOkePz" width="480" height="240" alt="Tween Club" typeof="foaf:Image" /></a></div></article></div><div class="slick__slide slide slide--7"><article class="slide__caption library-programs featured"><script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Fireside Yarn Club",
+        "startDate": "2020-02-26T18:00:00-0600",
+        "location": {
+      "@type": "Place",
+      "name": "Fort Frances Public Library Technology Centre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "601 Reid Avenue",
+        "addressLocality": "Fort Frances",
+        "postalCode": "P9A0A2",
+        "addressRegion": "ON",
+        "addressCountry": "CA"
+      }
+    },
+    "image": "https://www.ffpltc.ca/sites/default/files/images/programs/backgrounds/yarn-club.jpg",
+        "description": "Everyone is welcome to join in, learn and share their love of all things &quot;yarn&quot;.
+",
+        "endDate": "2020-02-26T20:00:00-0600",
+        "offers": {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+                  "validFrom": "2020-02-18T13:46:58-0600"
+    }
+      }
+  </script><div class="background program" aria-hidden="true"><img src="/sites/default/files/styles/lp_background/public/images/programs/backgrounds/yarn-club.jpg?itok=mQHHIqu8" width="1920" height="1200" alt="" typeof="foaf:Image" /></div><div class="content"><div class="header"><div class="date"><span class="month">Feb</span><span class="date-short">26</span></div><h1 class="title"><a href="/node/2193">Fireside Yarn Club</a></h1></div><div class="details"><div class="time">Wednesday @   <time datetime="2020-02-27T00:00:00Z">6:00 PM</time>
+
+ -   <time datetime="2020-02-27T02:00:00Z">8:00 PM</time></div><div class="fee"></div><div class="location"><a href="/node/938" hreflang="en">Eisenhauer Lounge</a></div><p>Everyone is welcome to join in, learn and share their love of all things &quot;yarn&quot;.
+</p><div class="attachments"></div></div></div><div class="logo"><a href="/node/896"><img src="/sites/default/files/styles/large/public/images/programs/logos/Fireside%20Yarn%20Club.png?itok=u4RVQhd-" width="480" height="254" alt="Fireside Yarn Club" typeof="foaf:Image" /></a></div></article></div><div class="slick__slide slide slide--8"><article class="slide__caption library-programs featured"><script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Baby Time",
+        "startDate": "2020-02-27T10:30:00-0600",
+        "location": {
+      "@type": "Place",
+      "name": "Fort Frances Public Library Technology Centre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "601 Reid Avenue",
+        "addressLocality": "Fort Frances",
+        "postalCode": "P9A0A2",
+        "addressRegion": "ON",
+        "addressCountry": "CA"
+      }
+    },
+    "image": "https://www.ffpltc.ca/sites/default/files/images/programs/backgrounds/baby-time-back.jpg",
+        "description": "Bouncing and tickling rhymes, songs and stories that will make your baby smile.",
+        "endDate": "2020-02-27T11:15:00-0600",
+        "offers": {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+                  "url": "    <a href="/form/registration-baby-time?source_entity_type=node&amp;source_entity_id=891">Sign Up</a>
+
+",
+            "validFrom": "2020-02-18T13:46:58-0600"
+    }
+      }
+  </script><div class="background program" aria-hidden="true"><img src="/sites/default/files/styles/lp_background/public/images/programs/backgrounds/baby-time-back.jpg?itok=UGI8Omd2" width="1920" height="2251" alt="" typeof="foaf:Image" /></div><div class="content"><div class="header"><div class="date"><span class="month">Feb</span><span class="date-short">27</span></div><h1 class="title"><a href="/node/2135">Baby Time</a></h1></div><div class="details"><div class="time">Thursday @   <time datetime="2020-02-27T16:30:00Z">10:30 AM</time>
+
+ -   <time datetime="2020-02-27T17:15:00Z">11:15 AM</time></div><div class="fee"></div><div class="location"></div><p>Bouncing and tickling rhymes, songs and stories that will make your baby smile.</p><div class="attachments"></div></div><div class="registration program btn"><a href="/form/registration-baby-time?source_entity_type=node&amp;source_entity_id=891">Sign Up</a></div></div><div class="logo"><a href="/node/891"><img src="/sites/default/files/styles/large/public/images/programs/logos/Babytime.png?itok=dHl3pYzS" width="443" height="249" alt="Baby Time" typeof="foaf:Image" /></a></div></article></div><div class="slick__slide slide slide--9"><article class="slide__caption library-programs featured"><script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Yoga with Meghan",
+        "startDate": "2020-02-27T16:30:00-0600",
+        "location": {
+      "@type": "Place",
+      "name": "Fort Frances Public Library Technology Centre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "601 Reid Avenue",
+        "addressLocality": "Fort Frances",
+        "postalCode": "P9A0A2",
+        "addressRegion": "ON",
+        "addressCountry": "CA"
+      }
+    },
+    "image": "https://www.ffpltc.ca/sites/default/files/images/programs/backgrounds/yogamat_6.jpg",
+        "description": "Join us for an hour of gentle stretch Hatha yoga with local instructor Meghan Spooner. Please wear comfortable clothes and bring a water bottle. This free program is open to ages 16+. Mats available. No registration required.",
+        "endDate": "2020-02-27T17:30:00-0600",
+        "offers": {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+                  "validFrom": "2020-02-11T16:08:07-0600"
+    }
+      }
+  </script><div class="background event" aria-hidden="true"><img src="/sites/default/files/styles/lp_background/public/images/programs/backgrounds/yogamat_6.jpg?itok=mrJor1GQ" width="1920" height="640" alt="" typeof="foaf:Image" /></div><div class="content"><div class="header"><div class="date"><span class="month">Feb</span><span class="date-short">27</span></div><h1 class="title"><a href="/node/2207">Yoga with Meghan</a></h1></div><div class="details"><div class="time">Thursday @   <time datetime="2020-02-27T16:30:00Z">4:30 PM</time>
+
+ -   <time datetime="2020-02-27T17:30:00Z">5:30 PM</time></div><div class="fee"></div><div class="location"><a href="/node/933" hreflang="en">Shaw Community Hub</a></div><p>Join us for an hour of gentle stretch Hatha yoga with local instructor Meghan Spooner. Please wear comfortable clothes and bring a water bottle. This free program is open to ages 16+. Mats available. No registration required.</p><div class="attachments"></div></div></div><div class="logo"><a href="/node/1592"><img src="/sites/default/files/styles/large/public/images/programs/logos/FFPLTC_8.png?itok=B-CIrlDt" width="480" height="240" alt="ffpltc logo" typeof="foaf:Image" /></a></div></article></div></div><nav class="slick__arrow"><button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0" role="button">Previous</button><button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0" role="button">Next</button></nav></div>
+  
+  
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+    </div>
+  </div>
+
+  </div>
+
+    </div>
+    <!-- End Banner -->
+
+</header>
+<!--End Header & Navbar -->
+
+
+<!--Home page message-->
+      <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+            <div class="region region-homepagemessage">
+    <div id="block-today-2" class="block block-library-hours block-hours-until-block">
+  
+      
+      <div class="content">
+      <div class='hours-until'><div class='hours-circle hours-circle-open'></div>Open until 8:00 PM today.</div>
+    </div>
+  </div>
+<div class="views-element-container block block-views block-views-blockeresources-block-featured" id="block-views-block-eresources-block-featured">
+  
+      <h2 class="title">Featured eResources</h2>
+      
+      <div class="content">
+      <div><div class="eResources js-view-dom-id-7b9d5bccd4549f4dcb17f7896600f1b3715432d14f6d45b4bde37ee2721d34d1">
+  
+  
+  
+
+  
+  
+  
+
+  
+<div>
+  
+  <ul  class="item-list" class="arrow_list" >
+
+          <li class="list-group-item"><div class="views-field views-field-field-logo"><div class="field-content"><a href="/eresources/1656">  <img src="/sites/default/files/styles/thumbnail/public/eresources/images/logos/Mango_0.png?itok=yeTOExf9" width="100" height="100" alt="Mango Languages" typeof="foaf:Image" />
+
+
+</a></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/eresources/1656">Mango</a></span></div><div class="views-field views-field-field-eresource-vendor"><span class="views-label views-label-field-eresource-vendor">By</span><div class="field-content"><a href="/taxonomy/term/52" hreflang="en">EBSCO</a></div></div><div class="views-field views-field-field-slogan"><div class="field-content"><a href="https://connect.mangolanguages.com/fort-frances/start">Learn Languages</a></div></div></li>
+          <li class="list-group-item"><div class="views-field views-field-field-logo"><div class="field-content"><a href="/eresources/libby">  <img src="/sites/default/files/styles/thumbnail/public/eresources/images/logos/Libby.png?itok=SvGXUq2k" width="86" height="100" alt="Libby" typeof="foaf:Image" />
+
+
+</a></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/eresources/libby">Libby</a></span></div><div class="views-field views-field-field-eresource-vendor"><span class="views-label views-label-field-eresource-vendor">By</span><div class="field-content"><a href="/taxonomy/term/58" hreflang="en">OverDrive</a></div></div><div class="views-field views-field-field-slogan"><div class="field-content"><a href="https://odmc.overdrive.com/">Download Books</a></div></div></li>
+          <li class="list-group-item"><div class="views-field views-field-field-logo"><div class="field-content"><a href="/eresources/bookmyne">  <img src="/sites/default/files/styles/thumbnail/public/eresources/images/logos/BookMyne.png?itok=VQYxe5qo" width="100" height="100" alt="BookMyne" typeof="foaf:Image" />
+
+
+</a></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/eresources/bookmyne">BookMyne</a></span></div><div class="views-field views-field-field-eresource-vendor"><span class="views-label views-label-field-eresource-vendor">By</span><div class="field-content"><a href="/taxonomy/term/96" hreflang="en">SirsiDynix</a></div></div><div class="views-field views-field-field-slogan"><div class="field-content"><a href="https://olsn.ent.sirsidynix.net/client/en_US/fortfrance">Your Account</a></div></div></li>
+          <li class="list-group-item"><div class="views-field views-field-field-logo"><div class="field-content"><a href="/eresources/368">  <img src="/sites/default/files/styles/thumbnail/public/eresources/images/logos/TumbleBook%20Library.png?itok=eLKSS4Pl" width="100" height="100" alt="TumbleBook Library" typeof="foaf:Image" />
+
+
+</a></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/eresources/368">TumbleBook Library</a></span></div><div class="views-field views-field-field-eresource-vendor"><span class="views-label views-label-field-eresource-vendor">By</span><div class="field-content"><a href="/taxonomy/term/60" hreflang="en">Tumbleweed Press</a></div></div><div class="views-field views-field-field-slogan"><div class="field-content"><a href="http://www.tumblebooklibrary.com/autologin.aspx?userid=nveJZomUtxKLs3yqRdM/Cg%3D%3D">Animated Stories</a></div></div></li>
+          <li class="list-group-item"><div class="views-field views-field-field-logo"><div class="field-content"><a href="/eresources/367">  <img src="/sites/default/files/styles/thumbnail/public/eresources/images/logos/PebbleGo_0.png?itok=nHRl1boP" width="100" height="100" alt="PebbleGo" typeof="foaf:Image" />
+
+
+</a></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/eresources/367">PebbleGo</a></span></div><div class="views-field views-field-field-eresource-vendor"><span class="views-label views-label-field-eresource-vendor">By</span><div class="field-content"><a href="/taxonomy/term/53" hreflang="en">Eduref and Capstone Publishing</a></div></div><div class="views-field views-field-field-slogan"><div class="field-content"><a href="https://www.pebblego.com/UserLogin.aspx?sqs=mm%40gDQ%40BPe14l8q1DfW7rA%3D%3D">Play, Read, Learn</a></div></div></li>
+          <li class="list-group-item"><div class="views-field views-field-field-logo"><div class="field-content"><a href="/eresources/363">  <img src="/sites/default/files/styles/thumbnail/public/eresources/images/logos/Ancestry_0.png?itok=MTWt-MBN" width="100" height="100" alt="Ancestry Library Edition" typeof="foaf:Image" />
+
+
+</a></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/eresources/363">Ancestry Library Edition</a></span></div><div class="views-field views-field-field-eresource-vendor"><span class="views-label views-label-field-eresource-vendor">By</span><div class="field-content"><a href="/taxonomy/term/56" hreflang="en">Micromedia Proquest</a></div></div><div class="views-field views-field-field-slogan"><div class="field-content"><a href="http://www.ancestrylibrary.com/">Your Family History</a></div></div></li>
+    
+  </ul>
+
+</div>
+
+  
+  
+
+  
+  
+
+      <footer>
+      <p><a href="/eresources"><strong>More eResources</strong></a></p>
+    </footer>
+  
+  
+</div>
+</div>
+
+    </div>
+  </div>
+<div class="views-element-container block block-views block-views-blockservices-block-featured" id="block-views-block-services-block-featured">
+  
+      <h2 class="title">Featured Services</h2>
+      
+      <div class="content">
+      <div><div class="services js-view-dom-id-f25ab9e96db6959e36cd728bc39ee2785215456299c1bfa7f159d9ae4208de35">
+  
+  
+  
+
+  
+  
+  
+
+  
+<div>
+  
+  <ul  class="item-list" class="arrow_list" >
+
+          <li class="list-group-item"><div class="views-field views-field-field-icon"><div class="field-content"><a href="/services/452">  <img src="/sites/default/files/styles/thumbnail/public/images/icons/Tackleshare_0.png?itok=iakD4JiV" width="100" height="50" alt="TackleShare" typeof="foaf:Image" />
+
+
+</a></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/services/452">TackleShare</a></span></div></li>
+          <li class="list-group-item"><div class="views-field views-field-field-icon"><div class="field-content"><a href="/services/1849">  <img src="/sites/default/files/styles/thumbnail/public/images/icons/Interlibrary%20Loan.png?itok=PBTsrvGi" width="100" height="78" alt="Interlibrary Loan" typeof="foaf:Image" />
+
+
+</a></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/services/1849">Interlibrary Loan</a></span></div></li>
+          <li class="list-group-item"><div class="views-field views-field-field-icon"><div class="field-content"><a href="/services/RRDLC">  <img src="/sites/default/files/styles/thumbnail/public/images/icons/RRDLC.png?itok=RMRLE7V8" width="100" height="100" alt="Student Access" typeof="foaf:Image" />
+
+
+</a></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/services/RRDLC">Student Access</a></span></div></li>
+          <li class="list-group-item"><div class="views-field views-field-field-icon"><div class="field-content"><a href="/services/463">  <img src="/sites/default/files/styles/thumbnail/public/images/icons/ServiceOntario.png?itok=dEznH-JW" width="100" height="100" alt="ServiceOntario" typeof="foaf:Image" />
+
+
+</a></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/services/463">ServiceOntario</a></span></div></li>
+          <li class="list-group-item"><div class="views-field views-field-field-icon"><div class="field-content"><a href="/services/458">  <img src="/sites/default/files/styles/thumbnail/public/images/icons/Seed%20Library_0.png?itok=xFfJxmkt" width="100" height="100" alt="Seed Library" typeof="foaf:Image" />
+
+
+</a></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/services/458">Seed Library</a></span></div></li>
+          <li class="list-group-item"><div class="views-field views-field-field-icon"><div class="field-content"><a href="/services/453">  <img src="/sites/default/files/styles/thumbnail/public/images/icons/Tech%20Help.png?itok=mubLKm7d" width="100" height="100" alt="Tech Help" typeof="foaf:Image" />
+
+
+</a></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/services/453">Tech Help</a></span></div></li>
+    
+  </ul>
+
+</div>
+
+  
+  
+
+  
+  
+
+      <footer>
+      <p><a href="/services"><strong>More Services</strong></a></p>
+    </footer>
+  
+  
+</div>
+</div>
+
+    </div>
+  </div>
+
+  </div>
+
+        </div>
+      </div>
+    </div>
+  <!--End Highlighted-->
+
+
+<!--Highlighted-->
+      <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+            <div class="region region-highlighted">
+    
+
+
+  </div>
+
+        </div>
+      </div>
+    </div>
+  <!--End Highlighted-->
+
+
+<!-- Start Top Widget -->
+  
+      <div class="topwidget">
+      <div class="container">
+        <div class="row">
+      <!-- start: Container -->
+      <!-- Top widget first region -->          
+                      <div class = col-sm-6>
+                <div class="region region-topwidget-first">
+    <div class="views-element-container block block-views block-views-blocklp-announcements" id="block-views-block-lp-announcements">
+  
+      <h2 class="title">Announcements</h2>
+      
+      <div class="content">
+      <div><div class="library-programs featured js-view-dom-id-d4b8edd92feef95fd39eb9720fcc729db88994bf1de66defcdec725488652b96">
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+    </div>
+  </div>
+<div id="block-thisweek-2" class="block block-library-hours block-hours-week-block">
+  
+      <h2 class="title">Hours This Week</h2>
+      
+      <div class="content">
+      <ul id='hours-list'><li><div class='hours-day'>Wednesday</div> <div class='hours-irregular'>3:00 PM - 8:00 PM</div></li><li><div class='hours-day'>Thursday</div> <div class='hours-open'>10:00 AM - 8:00 PM</div></li><li><div class='hours-day'>Friday</div> <div class='hours-open'>10:00 AM - 6:00 PM</div></li><li><div class='hours-day'>Saturday</div> <div class='hours-open'>10:00 AM - 5:00 PM</div></li><li><div class='hours-day'>Sunday</div> <div class='hours-open'>1:00 PM - 5:00 PM</div></li><li><div class='hours-day'>Monday</div> <div class='hours-open'>10:00 AM - 8:00 PM</div></li><li><div class='hours-day'>Tuesday</div> <div class='hours-open'>10:00 AM - 8:00 PM</div></li></ul>
+    </div>
+  </div>
+<div class="views-element-container block block-views block-views-blocklp-block-week" id="block-views-block-lp-block-week">
+  
+      <h2 class="title">Events This Week</h2>
+      
+      <div class="content">
+      <div><div class="library-programs upcoming js-view-dom-id-8938e626d1c1ffc389a5019d1fea7cf456f35a3c2aca1d112f61ebf00338c88f">
+  
+  
+  
+
+  
+  
+  
+
+  
+<div>
+  
+  <ul  class="item-list" class="arrow_list" >
+
+          <li class="list-group-item"><div class="library-programs upcoming">
+  
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Fireside Yarn Club",
+        "startDate": "2020-02-19T18:00:00-0600",
+        "location": {
+      "@type": "Place",
+      "name": "Fort Frances Public Library Technology Centre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "601 Reid Avenue",
+        "addressLocality": "Fort Frances",
+        "postalCode": "P9A0A2",
+        "addressRegion": "ON",
+        "addressCountry": "CA"
+      }
+    },
+    "image": "https://www.ffpltc.ca/sites/default/files/images/programs/backgrounds/yarn-club.jpg",
+        "description": "Everyone is welcome to join in, learn and share their love of all things &quot;yarn&quot;.
+",
+        "endDate": "2020-02-19T20:00:00-0600",
+        "offers": {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      
+      "validFrom": "2020-02-13T09:29:29-0600"
+    }
+      }
+  </script>
+  
+  <div class="date">
+    <span class="month">Feb</span>
+    <span class="date-short">19</span>
+  </div>
+  <h3 class="title"><a href="/node/2192">Fireside Yarn Club</a></h3>
+  <div class="details">
+  
+        <div class="time">Wednesday @   <time datetime="2020-02-19T18:00:00Z">6:00 PM</time>
+
+ -   <time datetime="2020-02-19T20:00:00Z">8:00 PM</time>
+
+</div>
+        
+    <div class="fee"></div>
+    <div class="location">  <a href="/node/938" hreflang="en">Eisenhauer Lounge</a>
+</div>
+  </div>
+  <div class="buttons">
+          </div>
+</div></li>
+          <li class="list-group-item"><div class="library-programs upcoming">
+  
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Baby Food Making Workshop",
+        "startDate": "2020-02-20T10:30:00-0600",
+        "location": {
+      "@type": "Place",
+      "name": "Fort Frances Public Library Technology Centre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "601 Reid Avenue",
+        "addressLocality": "Fort Frances",
+        "postalCode": "P9A0A2",
+        "addressRegion": "ON",
+        "addressCountry": "CA"
+      }
+    },
+    "image": "http://172.17.20.13/sites/default/files/images/programs/backgrounds/food-3245357_1920.jpg",
+        "description": "Learn how to make your own baby food from a Registered Dietitian/Nutrition Lead from Gizhewaadiziwin Health Access Centre.  This workshop is FREE to attend, but you must register one week in advance.  Baby will need an additional caretaker if you would like them to participate in the regular Baby Time program this day.",
+        "endDate": "2020-02-20T00:00:00-0600",
+        "offers": {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      
+      "validFrom": "2020-02-07T14:25:49-0600"
+    }
+      }
+  </script>
+  
+  <div class="date">
+    <span class="month">Feb</span>
+    <span class="date-short">20</span>
+  </div>
+  <h3 class="title"><a href="/node/2158">Baby Food Making Workshop</a></h3>
+  <div class="details">
+  
+        <div class="time">Thursday @   <time datetime="2020-02-20T16:30:00Z">10:30 AM</time>
+
+ -   <time datetime="2020-02-20T06:00:00Z">12:00 AM</time>
+
+</div>
+        
+    <div class="fee"></div>
+    <div class="location"></div>
+  </div>
+  <div class="buttons">
+        <div class="registration event btn">
+        <a href="/form/basic-registration-limit-15?source_entity_type=node&amp;source_entity_id=2158">Sign Up</a>
+
+    </div>
+          </div>
+</div></li>
+          <li class="list-group-item"><div class="library-programs upcoming">
+  
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Baby Time",
+        "startDate": "2020-02-20T10:30:00-0600",
+        "location": {
+      "@type": "Place",
+      "name": "Fort Frances Public Library Technology Centre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "601 Reid Avenue",
+        "addressLocality": "Fort Frances",
+        "postalCode": "P9A0A2",
+        "addressRegion": "ON",
+        "addressCountry": "CA"
+      }
+    },
+    "image": "https://www.ffpltc.ca/sites/default/files/images/programs/backgrounds/baby-time-back.jpg",
+        "description": "Bouncing and tickling rhymes, songs and stories that will make your baby smile.",
+        "endDate": "2020-02-20T11:15:00-0600",
+        "offers": {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      
+      "validFrom": "2020-02-18T13:46:58-0600"
+    }
+      }
+  </script>
+  
+  <div class="date">
+    <span class="month">Feb</span>
+    <span class="date-short">20</span>
+  </div>
+  <h3 class="title"><a href="/node/2134">Baby Time</a></h3>
+  <div class="details">
+  
+        <div class="time">Thursday @   <time datetime="2020-02-20T10:30:00Z">10:30 AM</time>
+
+ -   <time datetime="2020-02-20T11:15:00Z">11:15 AM</time>
+
+</div>
+        
+    <div class="fee"></div>
+    <div class="location"></div>
+  </div>
+  <div class="buttons">
+        <div class="registration program btn">
+          <a href="/form/registration-baby-time?source_entity_type=node&amp;source_entity_id=891">Sign Up</a>
+
+
+      
+    </div>
+          </div>
+</div></li>
+          <li class="list-group-item"><div class="library-programs upcoming">
+  
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Yoga with Meghan ",
+        "startDate": "2020-02-20T16:30:00-0600",
+        "location": {
+      "@type": "Place",
+      "name": "Fort Frances Public Library Technology Centre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "601 Reid Avenue",
+        "addressLocality": "Fort Frances",
+        "postalCode": "P9A0A2",
+        "addressRegion": "ON",
+        "addressCountry": "CA"
+      }
+    },
+    "image": "https://www.ffpltc.ca/sites/default/files/images/programs/backgrounds/yogamat_5.jpg",
+        "description": "Join us for an hour of gentle stretch Hatha yoga with local instructor Meghan Spooner. Please wear comfortable clothes and bring a water bottle. This free program is open to ages 16+. Mats available. No registration required.",
+        "endDate": "2020-02-20T17:30:00-0600",
+        "offers": {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      
+      "validFrom": "2020-02-13T09:44:51-0600"
+    }
+      }
+  </script>
+  
+  <div class="date">
+    <span class="month">Feb</span>
+    <span class="date-short">20</span>
+  </div>
+  <h3 class="title"><a href="/node/2206">Yoga with Meghan </a></h3>
+  <div class="details">
+  
+        <div class="time">Thursday @   <time datetime="2020-02-20T22:30:00Z">4:30 PM</time>
+
+ -   <time datetime="2020-02-20T23:30:00Z">5:30 PM</time>
+
+</div>
+        
+    <div class="fee"></div>
+    <div class="location">  <a href="/node/933" hreflang="en">Shaw Community Hub</a>
+</div>
+  </div>
+  <div class="buttons">
+          </div>
+</div></li>
+          <li class="list-group-item"><div class="library-programs upcoming">
+  
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Craft Club",
+        "startDate": "2020-02-22T10:30:00-0600",
+        "location": {
+      "@type": "Place",
+      "name": "Fort Frances Public Library Technology Centre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "601 Reid Avenue",
+        "addressLocality": "Fort Frances",
+        "postalCode": "P9A0A2",
+        "addressRegion": "ON",
+        "addressCountry": "CA"
+      }
+    },
+    "image": "http://172.17.20.13/sites/default/files/images/programs/backgrounds/craft-club.jpg",
+        "description": "Drop-in and create some wild &amp; wacky crafts to take home! Children under 8 must be accompanied by an adult. 
+",
+        "endDate": "2020-02-22T11:30:00-0600",
+        "offers": {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      
+      "validFrom": "2020-02-07T14:34:13-0600"
+    }
+      }
+  </script>
+  
+  <div class="date">
+    <span class="month">Feb</span>
+    <span class="date-short">22</span>
+  </div>
+  <h3 class="title"><a href="/node/2169">Craft Club</a></h3>
+  <div class="details">
+  
+        <div class="time">Saturday @   <time datetime="2020-02-22T16:30:00Z">10:30 AM</time>
+
+ -   <time datetime="2020-02-22T17:30:00Z">11:30 AM</time>
+
+</div>
+        
+    <div class="fee"></div>
+    <div class="location"></div>
+  </div>
+  <div class="buttons">
+          </div>
+</div></li>
+          <li class="list-group-item"><div class="library-programs upcoming">
+  
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Author Visit - Ian Jarvis ",
+        "startDate": "2020-02-24T18:00:00-0600",
+        "location": {
+      "@type": "Place",
+      "name": "Fort Frances Public Library Technology Centre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "601 Reid Avenue",
+        "addressLocality": "Fort Frances",
+        "postalCode": "P9A0A2",
+        "addressRegion": "ON",
+        "addressCountry": "CA"
+      }
+    },
+    "image": "http://172.17.20.13/sites/default/files/images/programs/backgrounds/Author%20Visit_0.jpg",
+        "description": "Join us for a special evening with local author Ian Jarvis, who will be reading from his book &quot;Light in the Sky&quot;. Copies will be available to purchase for $32.00 and light refreshments will be served. ",
+        "endDate": "2020-02-24T19:00:00-0600",
+        "offers": {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      
+      "validFrom": "2020-02-07T14:34:13-0600"
+    }
+      }
+  </script>
+  
+  <div class="date">
+    <span class="month">Feb</span>
+    <span class="date-short">24</span>
+  </div>
+  <h3 class="title"><a href="/node/2186">Author Visit - Ian Jarvis </a></h3>
+  <div class="details">
+  
+        <div class="time">Monday @   <time datetime="2020-02-25T00:00:00Z">6:00 PM</time>
+
+ -   <time datetime="2020-02-25T01:00:00Z">7:00 PM</time>
+
+</div>
+        
+    <div class="fee"></div>
+    <div class="location">  <a href="/node/971" hreflang="en">Great Space</a>
+</div>
+  </div>
+  <div class="buttons">
+          </div>
+</div></li>
+          <li class="list-group-item"><div class="library-programs upcoming">
+  
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Tween Club",
+        "startDate": "2020-02-25T16:00:00-0600",
+        "location": {
+      "@type": "Place",
+      "name": "Fort Frances Public Library Technology Centre",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "601 Reid Avenue",
+        "addressLocality": "Fort Frances",
+        "postalCode": "P9A0A2",
+        "addressRegion": "ON",
+        "addressCountry": "CA"
+      }
+    },
+    "image": "https://www.ffpltc.ca/sites/default/files/images/programs/backgrounds/tween.jpg",
+        "description": "Join us each Tuesday afternoon for fun and informative activities geared for youth.",
+        "endDate": "2020-02-25T17:00:00-0600",
+        "offers": {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      
+      "validFrom": "2020-02-18T13:54:02-0600"
+    }
+      }
+  </script>
+  
+  <div class="date">
+    <span class="month">Feb</span>
+    <span class="date-short">25</span>
+  </div>
+  <h3 class="title"><a href="/node/2181">Tween Club</a></h3>
+  <div class="details">
+  
+        <div class="time">Tuesday @   <time datetime="2020-02-25T22:00:00Z">4:00 PM</time>
+
+ -   <time datetime="2020-02-25T23:00:00Z">5:00 PM</time>
+
+</div>
+        
+    <div class="fee"></div>
+    <div class="location"></div>
+  </div>
+  <div class="buttons">
+          </div>
+</div></li>
+    
+  </ul>
+
+</div>
+
+  
+  
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+    </div>
+  </div>
+
+  </div>
+
+            </div>
+                    
+          <!-- End top widget third region -->
+
+          <!-- Top widget second region -->          
+                    
+          <!-- End top widget third region -->
+          
+          <!-- Top widget third region -->          
+                      <div class = col-sm-6>
+                <div class="region region-topwidget-third">
+    <div id="block-suggestion" class="block block-block-content block-block-content74a442a0-1fb5-4ee8-bba8-9e43cf3f91d8">
+  
+      <h2 class="title">Have a Suggestion?</h2>
+      
+      <div class="content">
+                  <div><p><a href="/suggestion">Tell us what it is!</a></p>
+<div id="deck_filter_tooltips"></div>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+            </div>
+                    
+          <!-- End top widget third region -->
+        </div>
+      </div>
+    </div>
+  <!--End Top Widget -->
+
+
+<!-- Page Title -->
+<!-- End Page Title ---- >
+
+
+<!-- layout -->
+<div id="wrapper">
+  <!-- start: Container -->
+  <div class="container">
+    
+    <!--Content top-->
+          <!--End Content top-->
+    
+    <!--start:content -->
+    <div class="row">
+      <div class="col-md-12">  <div class="region region-breadcrumb">
+    
+  </div>
+</div>
+    </div>
+    
+    <div class="row layout">
+      <!--- Start Left SideBar -->
+              <div class="sidebar" >
+          <div class = col-md-3 >
+            
+          </div>
+        </div>
+            <!---End Right SideBar -->
+
+      <!--- Start content -->
+              <div class="content_layout" id="main-content">
+          <div class=col-md-9 >
+              <div class="region region-content">
+    <div id="block-industrial-zymphonies-theme-content" class="block block-system block-system-main-block">
+  
+      
+      <div class="content">
+      
+<article data-history-node-id="659" role="article" about="/front" typeof="schema:WebPage" class="node node--type-page node--view-mode-full">
+
+  
+      <span property="schema:name" content="Home" class="hidden"></span>
+
+
+  
+  <div class="node__content">
+                <div property="schema:text"><p>Welcome to the Fort Frances Public Library Technology Centre!</p>
+
+<p>The FFPLTC is a public library serving Fort Frances and the Rainy River District, with over 50 thousand books, movies, and other items to borrow and over 100 thousand items available to download online.</p></div>
+      
+  </div>
+
+</article>
+
+    </div>
+  </div>
+
+  </div>
+
+          </div>
+        </div>
+            <!---End content -->
+
+      <!--- Start Right SideBar -->
+            <!---End Right SideBar -->
+      
+    </div>
+    <!--End Content -->
+
+    <!--Start Content Bottom-->
+        <!--End Content Bottom-->
+  </div>
+</div>
+<!-- End layout -->
+
+
+
+<!-- start: Footer -->
+  <div class="footerwidget">
+    <div class="container">
+      
+      <div class="row">
+
+        <!-- Start Footer First Region -->
+        
+                  <div class = >
+              <div class="region region-footer-first">
+    <div class="views-element-container block block-views block-views-blockacknowledgments-block" id="block-views-block-acknowledgments-block">
+  
+      <h2 class="title">Proudly Supported By</h2>
+      
+      <div class="content">
+      <div><div class="acknowledgments js-view-dom-id-a98062db8d86398f1f6d8c0c4b412f09e9d8642109032e3480efb18ce7e0e4a8">
+  
+  
+  
+
+  
+  
+  
+
+  
+<div>
+  
+  <ul  class="item-list" class="arrow_list" >
+
+          <li class="list-group-item"><div class="views-field views-field-field-logo"><div class="field-content"><a href="/acknowledgments/482">  <img src="/sites/default/files/styles/200_x_60/public/images/logos/Northern%20Ontario%20Heritage%20Fund.png?itok=IgNx-8km" width="200" height="60" alt="Northern Ontario Heritage Fund" typeof="foaf:Image" />
+
+
+</a></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/acknowledgments/482">Northern Ontario Heritage Fund</a></span></div></li>
+          <li class="list-group-item"><div class="views-field views-field-field-logo"><div class="field-content"><a href="/acknowledgments/485">  <img src="/sites/default/files/styles/200_x_60/public/images/logos/Southern%20Ontario%20Library%20Service.png?itok=dd9aOUxJ" width="200" height="60" alt="Southern Ontario Library Service" typeof="foaf:Image" />
+
+
+</a></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/acknowledgments/485">Southern Ontario Library Service</a></span></div></li>
+          <li class="list-group-item"><div class="views-field views-field-field-logo"><div class="field-content"><a href="/acknowledgments/484">  <img src="/sites/default/files/styles/200_x_60/public/images/logos/Ontario%20Ministry%20of%20Tourism%2C%20Culture%20and%20Sport.png?itok=n5q_9vzz" width="200" height="60" alt="Ontario Ministry of Tourism, Culture and Sport" typeof="foaf:Image" />
+
+
+</a></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/acknowledgments/484">Ontario Ministry of Tourism, Culture and Sport</a></span></div></li>
+          <li class="list-group-item"><div class="views-field views-field-field-logo"><div class="field-content"><a href="/acknowledgments/486">  <img src="/sites/default/files/styles/200_x_60/public/images/logos/Town%20of%20Fort%20Frances.png?itok=TnuP6Pc2" width="200" height="60" alt="Town of Fort Frances" typeof="foaf:Image" />
+
+
+</a></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/acknowledgments/486">Town of Fort Frances</a></span></div></li>
+          <li class="list-group-item"><div class="views-field views-field-field-logo"><div class="field-content"><a href="/acknowledgments/483">  <img src="/sites/default/files/styles/200_x_60/public/images/logos/Ontario%20Library%20Service%20-%20North.png?itok=9gsEHfRz" width="200" height="60" alt="Ontario Library Service - North" typeof="foaf:Image" />
+
+
+</a></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/acknowledgments/483">Ontario Library Service - North</a></span></div></li>
+          <li class="list-group-item"><div class="views-field views-field-field-logo"><div class="field-content"><a href="/acknowledgments/478">  <img src="/sites/default/files/styles/200_x_60/public/images/logos/Building%20Canada%20Fund.png?itok=44XqH4SQ" width="200" height="60" alt="Building Canada Fund" typeof="foaf:Image" />
+
+
+</a></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/acknowledgments/478">Building Canada Fund</a></span></div></li>
+          <li class="list-group-item"><div class="views-field views-field-field-logo"><div class="field-content"><a href="/acknowledgments/480">  <img src="/sites/default/files/styles/200_x_60/public/images/logos/FedNor.png?itok=M4wI2AoL" width="200" height="60" alt="FedNor" typeof="foaf:Image" />
+
+
+</a></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/acknowledgments/480">FedNor</a></span></div></li>
+          <li class="list-group-item"><div class="views-field views-field-field-logo"><div class="field-content"><a href="/acknowledgments/481">  <img src="/sites/default/files/styles/200_x_60/public/images/logos/Government%20of%20Canada.png?itok=rlJcVMVZ" width="200" height="60" alt="Government of Canada" typeof="foaf:Image" />
+
+
+</a></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/acknowledgments/481">Government of Canada</a></span></div></li>
+    
+  </ul>
+
+</div>
+
+  
+  
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+    </div>
+  </div>
+
+  </div>
+
+          </div>
+                
+        <!-- End Footer First Region -->
+
+        <!-- Start Footer Second Region -->
+        
+                
+        <!-- End Footer Second Region -->
+
+        <!-- Start Footer third Region -->
+        
+                
+        <!-- End Footer Third Region -->
+      </div>
+    </div>
+  </div>
+<!--End Footer -->
+
+
+
+<!-- Start bottom -->
+  
+  <!--End Bottom -->
+
+
+<!-- Start Footer Menu -->
+  <div class="footer-menu">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6">
+            <div class="region region-footer-menu">
+    <nav role="navigation" aria-labelledby="block-industrial-zymphonies-theme-footer-menu" id="block-industrial-zymphonies-theme-footer">
+            
+  <h2 class="visually-hidden" id="block-industrial-zymphonies-theme-footer-menu">Footer menu</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="/programs" title="A list of all programming offered at the FFPLTC.">Programs</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/node/891" data-drupal-link-system-path="node/891">Babytime</a>
+              </li>
+                <li class="menu-item">
+        <a href="/node/901" title="Various book clubs held at the FFPLTC." data-drupal-link-system-path="node/901">Book Club</a>
+              </li>
+                <li class="menu-item">
+        <a href="/PL2" title="A league for game players at the FFPLTC." data-drupal-link-system-path="node/914">Public Library Players League</a>
+              </li>
+                <li class="menu-item">
+        <a href="/node/889" data-drupal-link-system-path="node/889">Storytime</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="https://olsn.ent.sirsidynix.net/client/en_US/fortfrance" title="Browse our collection of books and other resources.">Collection</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/eresources/bookmyne" title="Download an app to help you find resources at the FFPLTC." data-drupal-link-system-path="eresources/468">Get our App</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://olsn.ent.sirsidynix.net/client/en_US/fortfrance/" title="Use the online catalogue to renew items.">Renew my Books</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/board" title="Details about the Fort Frances Public Library Board." data-drupal-link-system-path="node/907">Our Board</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/policy" title="Policies that apply at the FFPLTC." data-drupal-link-system-path="policy">Policies</a>
+              </li>
+                <li class="menu-item">
+        <a href="/user/login" data-drupal-link-system-path="user/login">Staff Login</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/contact" data-drupal-link-system-path="contact">Contact</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/support/donate" title="Make a donation to the FFPLTC." data-drupal-link-system-path="node/287">Donate</a>
+              </li>
+                <li class="menu-item">
+        <a href="/employment" title="Job opportunities will be posted here!" data-drupal-link-system-path="employment">Employment Opportunities</a>
+              </li>
+                <li class="menu-item">
+        <a href="/support/friends" title="Friends of the Library" data-drupal-link-system-path="node/286">Friends of the Library</a>
+              </li>
+                <li class="menu-item">
+        <a href="/use/hours" title="Hours of operation for the FFPLTC." data-drupal-link-system-path="node/341">Hours of Operation</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+        </div>
+                <div class="col-sm-6">
+          <div class="social-media">
+                          <a href="https://www.facebook.com/FFPLTC"  class="facebook" target="_blank"><i class="fa fa-facebook"></i><span class="accessible-link">Facebook</span></a>
+                                                  <a href="https://twitter.com/FFPLTC" class="twitter" target="_blank" ><i class="fa fa-twitter"></i><span class="accessible-link">Twitter</span></a>
+                                      <a href="https://www.linkedin.com/company/fort-frances-public-library-technology-centre" class="linkedin" target="_blank"><i class="fa fa-linkedin"></i><span class="accessible-link">LinkedIn</span></a>
+                                                  <a href="rss.xml" class="rss" target="_blank" ><i class="fa fa-rss"></i><span class="accessible-link">RSS</span></a>
+                      </div>
+        </div>
+              </div>
+    </div>
+  </div>
+<!-- End Footer Menu -->
+
+
+<div class="copyright">
+  <div class="container">
+    <div class="row">
+
+      <!-- Copyright -->
+      <div class="col-sm-6">
+        <p>Copyright © 2020. All rights reserved</p>
+      </div>
+      <!-- End Copyright -->
+
+      <!-- Credit link -->
+            <!-- End Credit link -->
+      
+    </div>
+  </div>
+</div>
+
+
+<!-- Google map -->
+  <div class="google_map">
+      <div class="region region-google-map">
+    <div id="block-googlemap" class="block block-block-content block-block-content771c65c8-103c-4e7d-b188-acc3ee6e8d45">
+  
+      
+      <div class="content">
+                  <div><iframe title="Google Map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2637.9130517758203!2d-93.38249858397862!3d48.611507579264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52bb7cf4ebf3517b%3A0x950489fafab7642e!2sFort+Frances+Public+Library+Technology+Centre!5e0!3m2!1sen!2sca!4v1502721158950" width="100%" height="500" frameborder="0" style="border:0" allowfullscreen=""></iframe><div id="deck_filter_tooltips"></div></div>
+      
+    </div>
+  </div>
+
+  </div>
+
+  </div>
+<!-- End Google map -->
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/659","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","ajaxPageState":{"libraries":"blazy\/loading,classy\/messages,classy\/node,core\/html5shiv,google_analytics\/google_analytics,industrial_zymphonies_theme\/bootstrap,industrial_zymphonies_theme\/global-components,library_programs\/lp,library_programs\/lp_featured,library_programs\/lp_related,library_programs\/lp_slideshow,library_programs\/lp_upcoming,slick\/slick.css,slick\/slick.easing,slick\/slick.main.fullwidth,slick\/slick.theme,system\/base,views\/views.module","theme":"industrial_zymphonies_theme","theme_token":null},"ajaxTrustedUrl":[],"google_analytics":{"trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"slick":{"accessibility":true,"adaptiveHeight":false,"autoplay":false,"autoplaySpeed":3000,"pauseOnHover":true,"pauseOnDotsHover":false,"arrows":true,"downArrow":false,"downArrowTarget":"","downArrowOffset":0,"centerMode":false,"centerPadding":"50px","dots":false,"dotsClass":"slick-dots","draggable":true,"fade":false,"focusOnSelect":false,"infinite":true,"initialSlide":0,"lazyLoad":"ondemand","mouseWheel":false,"randomize":false,"rtl":false,"rows":1,"slidesPerRow":1,"slide":"","slidesToShow":1,"slidesToScroll":1,"speed":500,"swipe":true,"swipeToSlide":false,"edgeFriction":0.35,"touchMove":true,"touchThreshold":5,"useCSS":true,"cssEase":"ease","cssEaseBezier":"","cssEaseOverride":"","useTransform":true,"easing":"linear","variableWidth":false,"vertical":false,"verticalSwiping":false,"waitForAnimate":true},"user":{"uid":0,"permissionsHash":"5695c755b493076e04cabbfe1eafab07eff95ce108f38b64149920750472c41e"}}</script>
+<script src="/core/assets/vendor/domready/ready.min.js?v=1.0.8"></script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=2.2.4"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.1.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=8.3.5"></script>
+<script src="/core/misc/drupal.js?v=8.3.5"></script>
+<script src="/core/misc/drupal.init.js?v=8.3.5"></script>
+<script src="/libraries/easing/jquery.easing.min.js?v=1.3"></script>
+<script src="/libraries/slick/slick/slick.min.js?v=1.x"></script>
+<script src="/modules/google_analytics/js/google_analytics.js?v=8.3.5"></script>
+<script src="/core/misc/progress.js?v=8.3.5"></script>
+<script src="/core/modules/responsive_image/js/responsive_image.ajax.js?v=8.3.5"></script>
+<script src="/core/misc/ajax.js?v=8.3.5"></script>
+<script src="/themes/industrial_zymphonies_theme/includes/bootstrap/js/bootstrap.min.js?v=1.x"></script>
+<script src="/themes/industrial_zymphonies_theme/js/jquery.smartmenus.min.js?q5cj4l"></script>
+<script src="/themes/industrial_zymphonies_theme/js/custom.js?q5cj4l"></script>
+<script src="/modules/slick/js/slick.load.min.js?v=8.3.5"></script>
+
+  </body>
+</html>

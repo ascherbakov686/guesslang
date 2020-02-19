@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.edgcumbepark.com/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="Community Matters RSS" href="http://www.edgcumbepark.com/rss.xml" />
+  <title>Community Matters</title>
+   <style type="text/css" media="all">
+@import url("http://www.edgcumbepark.com/modules/system/system.base.css?p6xan3");
+@import url("http://www.edgcumbepark.com/modules/system/system.menus.css?p6xan3");
+@import url("http://www.edgcumbepark.com/modules/system/system.messages.css?p6xan3");
+@import url("http://www.edgcumbepark.com/modules/system/system.theme.css?p6xan3");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.edgcumbepark.com/modules/comment/comment.css?p6xan3");
+@import url("http://www.edgcumbepark.com/sites/all/modules/date/date_api/date.css?p6xan3");
+@import url("http://www.edgcumbepark.com/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?p6xan3");
+@import url("http://www.edgcumbepark.com/modules/field/theme/field.css?p6xan3");
+@import url("http://www.edgcumbepark.com/modules/node/node.css?p6xan3");
+@import url("http://www.edgcumbepark.com/modules/search/search.css?p6xan3");
+@import url("http://www.edgcumbepark.com/sites/all/modules/simpleads/simpleads.css?p6xan3");
+@import url("http://www.edgcumbepark.com/modules/user/user.css?p6xan3");
+@import url("http://www.edgcumbepark.com/modules/forum/forum.css?p6xan3");
+@import url("http://www.edgcumbepark.com/sites/all/modules/views/css/views.css?p6xan3");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.edgcumbepark.com/sites/all/modules/ed_classified/theme/classified.css?p6xan3");
+@import url("http://www.edgcumbepark.com/sites/all/modules/ctools/css/ctools.css?p6xan3");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.edgcumbepark.com/sites/all/themes/likable/css/layout.css?p6xan3");
+@import url("http://www.edgcumbepark.com/sites/all/themes/likable/css/slider.css?p6xan3");
+@import url("http://www.edgcumbepark.com/sites/all/themes/likable/css/menu.css?p6xan3");
+@import url("http://www.edgcumbepark.com/sites/all/themes/likable/css/style.css?p6xan3");
+</style>
+   <script type="text/javascript" src="http://www.edgcumbepark.com/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.edgcumbepark.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.edgcumbepark.com/misc/drupal.js?p6xan3"></script>
+<script type="text/javascript" src="http://www.edgcumbepark.com/sites/all/modules/simpleads/simpleads.js?p6xan3"></script>
+<script type="text/javascript" src="http://www.edgcumbepark.com/sites/all/modules/simpleads/modules/simpleads_campaigns/simpleads_campaigns.js?p6xan3"></script>
+<script type="text/javascript" src="http://www.edgcumbepark.com/sites/all/themes/likable/js/script.js?p6xan3"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"likable_clean_theme","theme_token":"E_f_vsmxBPKEQoN0c-VH7uAOfdwfoxvPGeZMvO0jSHk","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/simpleads\/simpleads.js":1,"sites\/all\/modules\/simpleads\/modules\/simpleads_campaigns\/simpleads_campaigns.js":1,"sites\/all\/themes\/likable\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"sites\/all\/modules\/simpleads\/simpleads.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ed_classified\/theme\/classified.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/likable\/css\/layout.css":1,"sites\/all\/themes\/likable\/css\/slider.css":1,"sites\/all\/themes\/likable\/css\/menu.css":1,"sites\/all\/themes\/likable\/css\/style.css":1}},"urlIsAjaxTrusted":{"\/node?destination=node":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in two-sidebars page-node" >
+    <div id="page-wrapper"><div id="page">
+
+  <div id="header"><div class="section">
+				
+					<div id="sitename">
+			<h1>
+			    			    	Community Matters			    			</h1>
+			<h2></h2>
+			</div>
+		
+	    <div id="main-menu">
+	       	<ul class="menu"><li class="first leaf"><a href="/" class="active">Home</a></li>
+<li class="leaf"><a href="/for-sale" title="Houses currently for sale on Edgcumbe Park">For sale</a></li>
+<li class="leaf"><a href="/forum" title="">Forums</a></li>
+<li class="last leaf"><a href="/The%20Edgcumbe%20Park%20Preservation%20Association%20EPPA" title="The Edgcumbe Park Preservation Association">The EPPA</a></li>
+</ul>	    </div>
+	    
+    	    	
+  </div></div> <!-- /#header -->
+  
+  
+
+  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
+  
+  		<div id="slideshow">  <div class="region region-slideshow">
+    <div id="block-block-1" class="block block-block">
+
+    
+  <div class="content">
+    <p><img style="margin:0px auto;display:block" src="sites/default/files/ep1000_wide.jpg" alt="Edgcumbe Park" width="80%" /></p>
+  </div>
+</div>
+  </div>
+</div>		
+  
+		    
+	    	      <div id="sidebar-first" class="column sidebar"><div class="section">
+	          <div class="region region-sidebar-first">
+    <div id="block-block-2" class="block block-block">
+
+    
+  <div class="content">
+    
+  </div>
+</div>
+<div id="block-user-login" class="block block-user">
+
+    <h2>User login</h2>
+  
+  <div class="content">
+    <form action="/node?destination=node" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-Mx2yAQXCtwG7rZMBT9pUuRDl7yT0bQxUoP8kEZmAdCE" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+	      </div></div> <!-- /.section, /#sidebar-first -->
+	    
+    	<div id="content" class="column"><div class="section">
+    
+	    		    
+		     			  
+			  			  
+		      		      		      		      		        <div class="tabs">
+		          		        </div>
+		      		           
+		        
+      		    <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-21" class="node node-home node-promoted node-teaser clearfix" about="/node/21" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/21">2 bedroom bungalow for sale</a>
+    </h2>
+    <span property="dc:title" content="2 bedroom bungalow for sale" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+      <span property="dc:date dc:created" content="2014-06-07T14:26:08+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/72" typeof="sioc:UserAccount" property="foaf:name" datatype="">Michael Hardy</span> on Sat, 2014-06-07 14:26</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div class="clearfix" style="color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 12px; line-height: 16.2239990234375px;">
+<h3><img alt="" src="/sites/default/files/hg.jpg" style="border-style:solid; border-width:0px; float:left; height:60px; margin:10px; width:80px" />Property features</h3>
+<ul>
+<li>Tenure: Leasehold</li>
+</ul>
+</div>
+<div class="bottom-plus-half" style="color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 12px; line-height: 16.2239990234375px; margin-bottom: 1.5em !important;">
+<h3>Property description</h3></div></div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/21" rel="tag" title="2 bedroom bungalow for sale">Read more<span class="element-invisible"> about 2 bedroom bungalow for sale</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/21%23comment-form">Log in</a> or <a href="/user/register?destination=node/21%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-19" class="node node-estate-agent node-promoted node-teaser clearfix" about="/node/19" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/19">Michael Hardy Property Estate Agents</a>
+    </h2>
+    <span property="dc:title" content="Michael Hardy Property Estate Agents" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+      <span property="dc:date dc:created" content="2014-06-05T18:14:10+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/72" typeof="sioc:UserAccount" property="foaf:name" datatype="">Michael Hardy</span> on Thu, 2014-06-05 18:14</span>    </div>
+  
+  <div class="content clearfix">
+      </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/19" rel="tag" title="Michael Hardy Property Estate Agents">Read more<span class="element-invisible"> about Michael Hardy Property Estate Agents</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/19%23comment-form">Log in</a> or <a href="/user/register?destination=node/19%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-18" class="node node-estate-agent node-promoted node-teaser clearfix" about="/node/18" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/node/18">Frank Schippers</a>
+    </h2>
+    <span property="dc:title" content="Frank Schippers" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+      <span property="dc:date dc:created" content="2014-06-05T18:11:17+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">admin</span> on Thu, 2014-06-05 18:11</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Frank Schippers Independent Estate Agents - Crowthorne</p>
+</div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/node/18" rel="tag" title="Frank Schippers">Read more<span class="element-invisible"> about Frank Schippers</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/18%23comment-form">Log in</a> or <a href="/user/register?destination=node/18%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-2" class="node node-home node-promoted node-teaser clearfix" about="/15%20Edgcumbe%20Park%20Drive" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/15%20Edgcumbe%20Park%20Drive">15 Edgcumbe Park Drive</a>
+    </h2>
+    <span property="dc:title" content="15 Edgcumbe Park Drive" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+      <span property="dc:date dc:created" content="2013-11-12T18:38:45+00:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/8" typeof="sioc:UserAccount" property="foaf:name" datatype="">nick henfrey</span> on Tue, 2013-11-12 18:38</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><img alt="15 Edgcumbe Park Drive" src="/sites/default/files/collage_15EPD.jpg" style="float:right; margin:20px; width:60%" /></p>
+<p>Our four bedroom Renway Type 62R chalet style house in Edgcumbe Park Drive on a sunny day in Spring</p>
+<p>The cherry tree out front blossoms over the front lawn</p>
+<p>A mini-meadow in the rear garden flows up to two towering pine trees, pinkbells and whitebells joining in the massed display of bluebells</p>
+<p>The steeply sloped chalet roof contains its own bedroom looking out into the trees complete with its own bathroom</p>
+<p>The bluebells...</p></div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/15%20Edgcumbe%20Park%20Drive" rel="tag" title="15 Edgcumbe Park Drive">Read more<span class="element-invisible"> about 15 Edgcumbe Park Drive</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/2%23comment-form">Log in</a> or <a href="/user/register?destination=node/2%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-1" class="node node-community node-promoted node-teaser clearfix" about="/Edgcumbe%20Park" typeof="sioc:Item foaf:Document">
+
+        <h2>
+      <a href="/Edgcumbe%20Park">Edgcumbe Park</a>
+    </h2>
+    <span property="dc:title" content="Edgcumbe Park" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+      <span property="dc:date dc:created" content="2013-11-04T08:07:31+00:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/1" typeof="sioc:UserAccount" property="foaf:name" datatype="">admin</span> on Mon, 2013-11-04 08:07</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Edgcumbe Park, Crowthorne, Berkshire UK </p>
+<p>A mid-century futuristic housing park, every bit as desirable now as it was fifty years ago, probably more so</p>
+<p>From the original Renway brochure...</p>
+<p><img alt="" src="/sites/default/files/renwaybrochure1.png" style="width:100%" /></p>
+<p>"'Edgcumbe Park', where each season is more delightful than the last, combined with the best of Modern Home Building, is rapidly becoming THE place to live West of London."</p>
+<p>Famous visitors...</p>
+<p><img alt="" src="/sites/default/files/juliechristie.jpg" /></p></div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/Edgcumbe%20Park" rel="tag" title="Edgcumbe Park">Read more<span class="element-invisible"> about Edgcumbe Park</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/1%23comment-form">Log in</a> or <a href="/user/register?destination=node/1%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+      
+    	</div></div> <!-- /.section, /#content -->
+
+	    	      <div id="sidebar-second" class="column sidebar"><div class="section">
+	      	  <div class="region region-sidebar-second">
+    <div id="block-simpleads-ad-groups-14" class="block block-simpleads">
+
+    <h2>Advertisement</h2>
+  
+  <div class="content">
+    <div class="header">
+  <div class="ad-link"></div>
+</div>
+<div class="adslist">
+  <script type="text/javascript">
+    _simpelads_load('.simpleads-14', 14, 1);
+  </script>
+    <div class="simpleads-14"></div>
+
+    
+</div>
+  </div>
+</div>
+  </div>
+	      </div></div> <!-- /.section, /#sidebar-second -->
+	        
+    	<div class="clear"></div>
+    
+    	
+  </div></div> <!-- /#main, /#main-wrapper -->
+
+</div></div>
+  
+
+	<div id="footer-wrapper"><div class="section">
+  		
+		    
+	    	          <div class="region region-footer">
+    <div id="block-system-powered-by" class="block block-system">
+
+    
+  <div class="content">
+    <span>Powered by <a href="https://www.drupal.org">Drupal</a></span>  </div>
+</div>
+  </div>
+	        
+	    <div id="copyright">Copyright &copy; 2020 Community Matters</div>
+		
+		<div id="developed" style="text-align: right">Developed by  <a href="http://www.best-drupal.com">Katrin</a>
+
+		</div>
+		<div class="clear"></div>
+	
+  </div></div> <!-- /.section, /#footer-wrapper -->
+
+ <!-- /#page, /#page-wrapper -->
+  </body>
+</html>

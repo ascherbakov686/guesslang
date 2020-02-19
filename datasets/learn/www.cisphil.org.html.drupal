@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+
+	<title>Center For Ignatian Spirituality &#8211; Philippines &#8211; Website Under &#8211; Construction</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Center For Ignatian Spirituality - Philippines &raquo; Feed" href="https://cisphil.org/website/?page_id=2/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Center For Ignatian Spirituality - Philippines &raquo; Comments Feed" href="https://cisphil.org/website/?page_id=2/?feed=comments-rss2" />
+<link rel="alternate" type="application/rss+xml" title="Center For Ignatian Spirituality - Philippines &raquo; Website Under &#8211; Construction Comments Feed" href="https://cisphil.org/website/?page_id=2&#038;feed=rss2" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.10.4 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<!-- Note: MonsterInsights is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the MonsterInsights settings panel. -->
+<!-- No UA code set -->
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/cisphil.org\/website\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.2"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://cisphil.org/website/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='catch-sketch-fonts-css'  href='https://fonts.googleapis.com/css?family=Rubik%3A300%2C400%2C500%2C700%2C900%7CRoboto%3A300%2C400%2C500%2C700%2C900%7CEB+Garamond%3A300%2C400%2C500%2C700%2C900&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://cisphil.org/website/wp-content/themes/catch-sketch/assets/css/font-awesome/css/font-awesome.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='catch-sketch-style-css'  href='https://cisphil.org/website/wp-content/themes/catch-sketch/style.css?ver=5.3.2' type='text/css' media='all' />
+<style id='catch-sketch-style-inline-css' type='text/css'>
+.testimonials-content-wrapper {
+			background-image: url("https://cisphil.org/website/wp-content/themes/catch-sketch/assets/images/testimonial-bg.png");
+			background-attachment: scroll;
+			background-repeat: no-repeat;
+			background-size: cover;
+			background-position: center center;
+		}
+.custom-header:after { background-color: rgba(0, 0, 0, 0.02); } 
+</style>
+<link rel='stylesheet' id='catch-sketch-block-style-css'  href='https://cisphil.org/website/wp-content/themes/catch-sketch/assets/css/blocks.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://cisphil.org/website/wp-content/plugins/jetpack/css/jetpack.css?ver=8.2.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://cisphil.org/website/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://cisphil.org/website/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://cisphil.org/website/?page_id=2%2Findex.php&#038;rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://cisphil.org/website/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://cisphil.org/website/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.3.2" />
+<link rel="canonical" href="https://cisphil.org/website/?page_id=2/" />
+<link rel='shortlink' href='https://cisphil.org/website/?page_id=2/' />
+<link rel="alternate" type="application/json+oembed" href="https://cisphil.org/website/?page_id=2%2Findex.php&#038;rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Fcisphil.org%2Fwebsite%2F%3Fpage_id%3D2%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://cisphil.org/website/?page_id=2%2Findex.php&#038;rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Fcisphil.org%2Fwebsite%2F%3Fpage_id%3D2%2F&#038;format=xml" />
+
+<link rel='dns-prefetch' href='//i0.wp.com'/>
+<link rel='dns-prefetch' href='//i1.wp.com'/>
+<link rel='dns-prefetch' href='//i2.wp.com'/>
+<style type='text/css'>img#wpstats{display:none}</style><link rel="pingback" href="https://cisphil.org/website/xmlrpc.php">			<style type="text/css" rel="header-image">
+				.custom-header:before {
+					background-image: url( https://cisphil.org/website/wp-content/uploads/2020/01/cropped-Photo1779-scaled-1.jpg);
+					background-position: center;
+					background-repeat: no-repeat;
+					background-size: cover;
+				}
+			</style>
+				<style type="text/css">
+					.site-title a,
+			.site-description {
+				color: #000000;
+			}
+				</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #8b9ec4; }
+</style>
+	</head>
+
+<body class="home page-template-default page page-id-2 custom-background wp-embed-responsive navigation-default fluid-layout no-sidebar content-width-layout no-featured-slider color-scheme-default">
+
+	
+	<div id="page" class="site">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+		<header id="masthead" class="site-header">
+			<div class="wrapper">
+				<div class="site-header-main">
+					<div class="site-branding">
+	
+	<div class="site-identity">
+					<p class="site-title"><a href="https://cisphil.org/website/?page_id=2/" rel="home">Center For Ignatian Spirituality &#8211; Philippines</a></p>
+		
+					<p class="site-description">Website Under &#8211; Construction</p>
+			</div>
+</div><!-- .site-branding -->
+
+					<div id="site-header-menu" class="site-header-menu">
+	<div id="primary-menu-wrapper" class="menu-wrapper">
+
+		<div class="header-overlay"></div>
+
+		<div class="menu-toggle-wrapper">
+			<button id="menu-toggle" class="menu-toggle" aria-controls="top-menu" aria-expanded="false">
+				<div class="menu-bars">
+					<div class="bars bar1"></div>
+	  				<div class="bars bar2"></div>
+	  				<div class="bars bar3"></div>
+  				</div>
+				<span class="menu-label">Menu</span>
+			</button>
+		</div><!-- .menu-toggle-wrapper -->
+
+		<div class="menu-inside-wrapper">
+			
+					<nav id="site-navigation" class="main-navigation" role="navigation" aria-label="Primary Menu">
+		<ul id="primary-menu" class="menu nav-menu"><li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a href="https://www.facebook.com/cisphil/">Facebook Page</a></li>
+</ul>
+	</nav><!-- .main-navigation -->
+
+					<div class="mobile-social-search">
+						<div class="search-container">
+							
+
+<form role="search" method="get" class="search-form" action="https://cisphil.org/website/?page_id=2/">
+	<label for="search-form-5e4d214e71f26">
+		<span class="screen-reader-text">Search for:</span>
+	</label>
+	<input type="search" id="search-form-5e4d214e71f26" class="search-field" placeholder="" value="" name="s" title="Search for:">
+	</label>
+
+	<button type="submit" class="search-submit fa fa-search"></button>
+</form>
+						</div>
+					</div><!-- .mobile-social-search -->
+		</div><!-- .menu-inside-wrapper -->
+	</div><!-- #primary-menu-wrapper.menu-wrapper -->
+
+	<div class="search-social-container">
+		<div id="primary-search-wrapper" class="menu-wrapper">
+			<div class="menu-toggle-wrapper">
+				<button id="social-search-toggle" class="menu-toggle">
+					<span class="menu-label screen-reader-text">Search</span>
+				</button>
+			</div><!-- .menu-toggle-wrapper -->
+
+			<div class="menu-inside-wrapper">
+				<div class="search-container">
+					
+
+<form role="search" method="get" class="search-form" action="https://cisphil.org/website/?page_id=2/">
+	<label for="search-form-5e4d214e72318">
+		<span class="screen-reader-text">Search for:</span>
+	</label>
+	<input type="search" id="search-form-5e4d214e72318" class="search-field" placeholder="" value="" name="s" title="Search for:">
+	</label>
+
+	<button type="submit" class="search-submit fa fa-search"></button>
+</form>
+				</div>
+			</div><!-- .menu-inside-wrapper -->
+		</div><!-- #social-search-wrapper.menu-wrapper -->
+	</div> <!-- .search-social-container -->
+
+	
+	</div><!-- .site-header-menu -->
+
+
+
+
+				</div> <!-- .site-header-main -->
+
+				<!-- <div id="header-navigation-area">
+									</div> --> <!-- #header-navigation-area -->
+
+			</div> <!-- .wrapper -->
+		</header><!-- #masthead -->
+
+		<div class="below-site-header">
+
+			<div class="site-overlay"><span class="screen-reader-text">Site Overlay</span></div>
+
+			
+<div class="custom-header">
+		<div class="custom-header-media">
+		<img src="https://cisphil.org/website/wp-content/uploads/2020/01/cropped-Photo1779-scaled-1.jpg"/>	</div>
+	
+			<div class="custom-header-content content-aligned-center text-aligned-center">
+			<div class="entry-container">
+				<div class="entry-container-wrap">
+					<header class="entry-header">
+						<h2 class="entry-title">
+							Website Under Construction						</h2>
+					</header>
+					<div class="entry-summary"><p><span class="more-button"><a href="https://www.facebook.com/cisphil/" target="_blank" class="more-link">Visit our facebook page here<span class="screen-reader-text">Website Under Construction</span></a></span></p>
+</div>				</div> <!-- .entry-container-wrap -->
+			</div>
+		</div> <!-- entry-container -->
+		</div><!-- .custom-header -->
+
+
+
+
+
+
+
+			<div id="content" class="site-content section">
+				<div class="wrapper">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main">
+			<div class="singular-content-wrap">
+				
+<article id="post-2" class="post-2 page type-page status-publish hentry">
+	<!-- Page/Post Single Image Disabled -->
+	<div class="entry-container">
+		
+		<div class="entry-content">
+			
+<h2 class="has-text-align-center"><strong>About Us</strong></h2>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<h2>IDENTITY AND PURPOSE (VISION)</h2>
+
+
+
+<p>The Center for Ignatian Spirituality &#8211; Philippines (CIS Philippines) 
+aims to be a resource, training, network and renewal center for those 
+who aspire to deepen their faith life in the light of Ignatian 
+Spirituality and for those who sense a call to accompany others in their
+ spiritual journey. CIS shares the gifts of the Spiritual Exercises and 
+Ignatian Spirituality through spiritual direction, retreats, workshops, 
+conferences, supervised retreat-giving experiences, and courses for 
+retreat givers and spiritual directors in partnership with the Loyola 
+School of Theology.</p>
+
+
+
+<h2>MISSION</h2>
+
+
+
+<p>From its beginnings, the Center for Ignatian Spirituality-Philippines
+ saw as its mission the formation and training of ministers and agents 
+of Ignatian sprituality. We also desire to help animate and network 
+Ignatian-inspired institutions and ministries in the Philippines and the
+ Asia-Paciic, always seeking to promote the better practice of Ignatian 
+Spirituality in their personal, community, and institutional life.</p>
+
+
+
+<h2>CORE VALUES</h2>
+
+
+
+<ol><li><strong>God is Foundation and Ministry.</strong> We constantly center our life and work on Jesus Christ. We align ourselves and work to the teaching of the Catholic Church.</li><li><strong>Ignatian Way of Proceeding.</strong> Ignatian spirituality 
+is the privileged way we have encountered God through our experience of 
+the Spiritual Exercises of St Ignatius. Through the Ignatian tradition, 
+we constantly seek the Sacred in human experience and focus on these 
+human experiences as our points of encounter for a formation that aims 
+at greater spiritual and intellectual depth as welll as sensitivity and 
+responsiveness to the world, creation, and the people around us, 
+especially the poor.</li><li><strong>Contemplative Disposition and Reverent Accompaniment.</strong>
+ &nbsp;We give primacy and attentiveness to iner disposition that looks 
+lovingly at the people sent and entrusted to us for companioning. 
+&nbsp;Following how God has accompanied us in our healing and maturing into 
+discipleship, we practice and promote a kind of accompaniment that is 
+reverent, honest, gentle, contemplative, and compassionate.</li><li><strong>Collaborative Ministry within Jesuit Mission.</strong> In 
+generous response to God&#8217;s call, we offer our services in collaboration 
+with Jesuit mission in the Philippines as articulated by the Philippine 
+Province of the Society of Jesus as well as the Jesuit Conference of 
+Asia Pacific, and as a response to the needs of the Church and society.</li><li><strong>Integrity in Ministry.</strong> &nbsp;We are governed by high 
+ethical standards in our ministries. &nbsp;Out of deep regard for people 
+entrusted to our care, we take serious responsibility for our ongoing 
+formation and for nurturing the spiritual depth, psychological maturity,
+ and personal wellness required for smooth, competent, and profound 
+professional service as spiritual directors and spiritual guides.</li></ol>
+
+
+
+<p class="has-background has-yellow-background-color">       Visit our Facebook page: <a href="https://www.facebook.com/cisphil/">https://www.facebook.com/cisphil/ </a></p>
+		</div><!-- .entry-content -->
+
+				</div> <!-- .entry-container -->
+</article><!-- #post-2 -->
+				</div> <!-- singular-content-wrap -->
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+				</div><!-- .wrapper -->
+		</div><!-- #content -->
+
+		
+		<footer id="colophon" class="site-footer">
+			
+
+	<aside id="tertiary" class="widget-area footer-widget-area one" role="complementary">
+		<div class="wrapper">
+							<div class="widget-column footer-widget-1">
+					<section id="text-3" class="widget widget_text"><div class="widget-wrap"><h2 class="widget-title">Contact Us</h2>			<div class="textwidget"><div dir="ltr"><strong>CENTER FOR IGNATIAN SPIRITUALITY (PHIL)</strong></div>
+<div dir="ltr">Spiritual Pastoral Center, Seminary Road<br />
+Ateneo de Manila University<br />
+Loyola Heights, 1108 Quezon City<br />
+Telephone Numbers:  8426-4250 to 51<br />
+Fax: 8426-4250<br />
+Email: <a href="mailto:cisphil@gmail.com">cisphil@gmail.com</a></div>
+<p><strong>Hours</strong><br />
+Monday—Saturday: 8:00AM–5:00PM</p>
+</div>
+		</div></section>				</div>
+					</div>
+	</aside><!-- .widget-area -->
+
+
+			<div id="site-generator">
+	<div class="wrapper">
+
+		
+		<div class="site-info">
+			Copyright &copy; 2020 <a href="https://cisphil.org/website/?page_id=2/">Center For Ignatian Spirituality &#8211; Philippines</a>. All Rights Reserved.  &#124; Catch Sketch&nbsp;by&nbsp;<a target="_blank" href="https://catchthemes.com/">Catch Themes</a>		</div> <!-- .site-info -->
+	</div> <!-- .wrapper -->
+</div><!-- .site-info -->
+		</footer><!-- #colophon -->
+	</div> <!-- below-site-header -->
+</div><!-- #page -->
+
+
+		<div class="scrollup">
+			<a href="#masthead" id="scrollup" class="fa fa-sort-asc" aria-hidden="true"><span class="screen-reader-text">Scroll Up</span></a>
+		</div><script type='text/javascript' src='https://cisphil.org/website/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20191001'></script>
+<script type='text/javascript' src='https://cisphil.org/website/wp-content/themes/catch-sketch/assets/js/jquery.matchHeight.min.js?ver=20171226'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var catchSketchScreenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cisphil.org/website/wp-content/themes/catch-sketch/assets/js/custom-scripts.min.js?ver=20171226'></script>
+<script type='text/javascript' src='https://cisphil.org/website/wp-content/themes/catch-sketch/assets/js/navigation.min.js?ver=20171226'></script>
+<script type='text/javascript' src='https://cisphil.org/website/wp-content/themes/catch-sketch/assets/js/skip-link-focus-fix.min.js?ver=20171226'></script>
+<script type='text/javascript' src='https://cisphil.org/website/wp-includes/js/wp-embed.min.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-202008.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.2.1',blog:'172130892',post:'2',tz:'0',srv:'cisphil.org'} ]);
+	_stq.push([ 'clickTrackerInit', '172130892', '2' ]);
+</script>
+</body>
+</html>
